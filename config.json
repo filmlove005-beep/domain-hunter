@@ -1,11 +1,25 @@
 {
-  "source_feed": "auctions_ending_tomorrow",
+  "source_feed": "expiring_auctions_non_adult",
   "min_age_years": 5,
   "prefilter": {
+    "auction_types": ["Bid", "BuyNow"],
+    "tlds": ["com", "org"],
+    "no_digits": true,
+    "no_hyphens": false,
+    "min_length": 0,
+    "max_length": 0,
+    "max_age_years": 20,
     "min_majestic_tf": 10,
-    "min_majestic_rd": 30,
+    "max_majestic_tf": 0,
+    "min_majestic_cf": 15,
+    "max_majestic_cf": 40,
+    "min_majestic_backlinks": 50,
+    "max_majestic_backlinks": 0,
+    "min_majestic_rd": 10,
+    "max_majestic_rd": 0,
+    "min_semrush_as": 13,
+    "max_semrush_as": 15,
     "max_price": 0,
-    "tlds": [],
     "max_candidates": 40
   },
   "dr_min": 30,
@@ -14,5 +28,6 @@
   "quality_min": 20,
   "quality_min_relaxed": 3,
   "active_within_months": 12,
+  "max_deep_without_ahrefs": 15,
   "gambling_words": ["casino", "slot", "poker", "baccarat", "betting", "sportsbook", "togel", "judi", "gacor", "toto", "ufabet", "pgslot", "บาคาร่า", "สล็อต", "คาสิโน", "แทงบอล", "หวย"]
 }

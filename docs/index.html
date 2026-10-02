@@ -190,13 +190,20 @@ function closeD(){$('#dw').className=''}
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeD()});
 
 const FIELDS=[
- ['source_feed','ฟีดจาก GoDaddy','select',['auctions_ending_today','auctions_ending_tomorrow','all_expiring_auctions','closeout_listings','all_biddable_auctions']],
- ['min_age_years','อายุโดเมนขั้นต่ำ (ปี)'],['prefilter.min_majestic_tf','Majestic TF ขั้นต่ำ (กรองรอบแรก)'],
- ['prefilter.min_majestic_rd','Majestic Ref. Domains ขั้นต่ำ'],['prefilter.max_price','ราคาสูงสุด USD (0 = ไม่จำกัด)'],
- ['prefilter.max_candidates','จำนวนที่ส่งไปเช็กลึกสูงสุด'],['dr_min','DR ขั้นต่ำ'],['dr_min_relaxed','DR ขั้นต่ำ (เกณฑ์ผ่อน)'],
+ ['source_feed','ฟีดจาก GoDaddy','select',['expiring_auctions_non_adult','auctions_ending_today','auctions_ending_tomorrow','all_expiring_auctions','closeout_listings','all_biddable_auctions']],
+ ['prefilter.auction_types','ประเภท (Bid = ประมูล, BuyNow = ซื้อเลย)','list'],
+ ['prefilter.tlds','นามสกุลที่ต้องการ (คั่นด้วย , ว่าง = ทั้งหมด)','list'],
+ ['prefilter.no_digits','ไม่มีตัวเลข','bool'],['prefilter.no_hyphens','ไม่มียัติภังค์ (-)','bool'],
+ ['prefilter.min_length','ความยาวชื่อต่ำสุด (0 = ไม่จำกัด)'],['prefilter.max_length','ความยาวชื่อสูงสุด (0 = ไม่จำกัด)'],
+ ['min_age_years','อายุโดเมนต่ำสุด (ปี)'],['prefilter.max_age_years','อายุโดเมนสูงสุด (ปี)'],
+ ['prefilter.min_majestic_tf','Majestic TF ต่ำสุด'],['prefilter.max_majestic_tf','Majestic TF สูงสุด'],
+ ['prefilter.min_majestic_cf','Majestic CF ต่ำสุด'],['prefilter.max_majestic_cf','Majestic CF สูงสุด'],
+ ['prefilter.min_majestic_backlinks','ลิงก์ย้อนกลับ Majestic ต่ำสุด'],['prefilter.max_majestic_backlinks','ลิงก์ย้อนกลับ Majestic สูงสุด'],
+ ['prefilter.min_majestic_rd','โดเมนอ้างอิง Majestic ต่ำสุด'],['prefilter.max_majestic_rd','โดเมนอ้างอิง Majestic สูงสุด'],
+ ['prefilter.min_semrush_as','Semrush AS ต่ำสุด'],['prefilter.max_semrush_as','Semrush AS สูงสุด'],
+ ['prefilter.max_price','ราคาสูงสุด USD'],['prefilter.max_candidates','จำนวนที่ส่งไปเช็กลึกสูงสุด'],['dr_min','DR ขั้นต่ำ'],['dr_min_relaxed','DR ขั้นต่ำ (เกณฑ์ผ่อน)'],
  ['quality_traffic_min','"เว็บใหญ่" = ทราฟฟิกอย่างน้อย'],['quality_min','จำนวน Backlink คุณภาพขั้นต่ำ'],
- ['quality_min_relaxed','Backlink คุณภาพ (เกณฑ์ผ่อน)'],['active_within_months','ใช้งานล่าสุดไม่เกิน (เดือน)'],
- ['prefilter.tlds','นามสกุลที่ต้องการ (คั่นด้วย , ว่าง = ทั้งหมด)','list'],['gambling_words','คำที่ถือว่าเป็นพนัน','list',null,'wide'],
+ ['quality_min_relaxed','Backlink คุณภาพ (เกณฑ์ผ่อน)'],['active_within_months','ใช้งานล่าสุดไม่เกิน (เดือน)'],['gambling_words','คำที่ถือว่าเป็นพนัน','list',null,'wide'],
 ];
 const getP=(o,p)=>p.split('.').reduce((a,k)=>a?.[k],o);
 const setP=(o,p,v)=>{const ks=p.split('.');ks.slice(0,-1).reduce((a,k)=>a[k],o)[ks.at(-1)]=v};
@@ -204,14 +211,15 @@ function renderCfg(){
   $('#cfg').innerHTML=FIELDS.map(([p,l,t,opts,cls])=>{
     const v=getP(CFG,p);
     const inp=t==='select'?`<select name="${p}">${opts.map(o=>`<option ${o===v?'selected':''}>${o}</option>`).join('')}</select>`
+      :t==='bool'?`<input name="${p}" type="checkbox" ${v?'checked':''} style="width:20px;height:20px">`
       :t==='list'?`<input name="${p}" value="${esc((v||[]).join(', '))}">`:`<input name="${p}" type="number" step="any" value="${v}">`;
     return `<label class="${cls||''}">${l}${inp}</label>`;
   }).join('')+`<div class="row wide"><button class="primary">บันทึกเกณฑ์</button><span class="sub" id="saved"></span></div>`;
 }
 async function saveCfg(e){
   e.preventDefault();
-  for(const [p,,t] of FIELDS){const v=e.target.elements[p].value;
-    setP(CFG,p,t==='list'?v.split(',').map(s=>s.trim()).filter(Boolean):t==='select'?v:Number(v));}
+  for(const [p,,t] of FIELDS){const el=e.target.elements[p],v=el.value;
+    setP(CFG,p,t==='bool'?el.checked:t==='list'?v.split(',').map(s=>s.trim()).filter(Boolean):t==='select'?v:Number(v));}
   await fetch('/api/config',{method:'POST',body:JSON.stringify(CFG)});
   $('#saved').textContent='บันทึกแล้ว · มีผลในการสแกนครั้งถัดไป';render();
 }

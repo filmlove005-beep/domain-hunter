@@ -78,15 +78,31 @@ def download_feed(name, log):
 def prefilter(items, cfg):
     p = cfg["prefilter"]
     tlds = [t.lower().lstrip(".") for t in p.get("tlds", []) if t]
+    types = set(p.get("auction_types") or [])
+    # feed field -> (min config key, max config key); a max of 0 means "no limit"
+    ranges = {
+        "domainAge": ("min_age_years", "max_age_years"),
+        "majesticTf": ("min_majestic_tf", "max_majestic_tf"),
+        "majesticCf": ("min_majestic_cf", "max_majestic_cf"),
+        "majesticBacklinks": ("min_majestic_backlinks", "max_majestic_backlinks"),
+        "majesticReferringDomains": ("min_majestic_rd", "max_majestic_rd"),
+        "semrushAs": ("min_semrush_as", "max_semrush_as"),
+    }
     out = []
     for i in items:
         g = lambda k: i.get(k) or 0
         name = i["domainName"].lower()
-        if g("domainAge") < cfg["min_age_years"] or i.get("isAdult"):
+        sld, tld = name.rsplit(".", 1)
+        if i.get("isAdult") or (types and i.get("auctionType") not in types):
             continue
-        if tlds and name.rsplit(".", 1)[-1] not in tlds:
+        if tlds and tld not in tlds:
             continue
-        if g("majesticTf") < p["min_majestic_tf"] or g("majesticReferringDomains") < p["min_majestic_rd"]:
+        if (p.get("no_digits") and re.search(r"\d", sld)) or (p.get("no_hyphens") and "-" in sld):
+            continue
+        if len(sld) < (p.get("min_length") or 0) or (p.get("max_length") and len(sld) > p["max_length"]):
+            continue
+        if any(g(f) < (cfg.get(lo) if lo == "min_age_years" else p.get(lo) or 0) or
+               ((p.get(hi) or 0) and g(f) > p[hi]) for f, (lo, hi) in ranges.items()):
             continue
         if p.get("max_price") and money(i.get("price")) > p["max_price"]:
             continue
@@ -148,7 +164,7 @@ class Ahrefs:
 # ---------- step 3: Wayback ----------
 
 PARKED = re.compile(r"for sale|zum verkauf|domain.*(parked|expired)|apache2 .*default page|"
-                    r"one moment, please|index of /|coming soon|hugedomains|dan\.com|afternic", re.I)
+                    r"one moment, please|index of /|coming soon|hugedomains|dan\.com|afternic|make a free website", re.I)
 
 
 def wayback(domain, gamble_re):
@@ -163,12 +179,13 @@ def wayback(domain, gamble_re):
     sample = sorted(set(map(tuple, ok[::max(1, len(ok) // 4)] + ok[-2:])), reverse=True)
     for ts, _ in sample:
         try:
-            html = http(f"http://web.archive.org/web/{ts}id_/http://{domain}/", timeout=25, retries=1).decode("utf-8", "ignore")
+            html = http(f"http://web.archive.org/web/{ts}id_/http://{domain}/", timeout=30, retries=2).decode("utf-8", "ignore")
         except Exception:
             continue
         m = re.search(r"<title[^>]*>(.*?)</title>", html, re.I | re.S)
         title = re.sub(r"\s+", " ", m.group(1)).strip()[:90] if m else ""
         res["titles"].append([ts[:8], title])
+        time.sleep(1)
         words = sorted({w.lower() for w in gamble_re.findall(html)})
         if words:
             res["gambling"].append([ts[:8], words[:6]])
@@ -231,6 +248,8 @@ def judge(r, cfg):
             months = (date.today() - datetime.strptime(la, "%Y%m%d").date()).days / 30.4
             if months > cfg["active_within_months"]:
                 fails.append(f"เว็บหยุดใช้งานมา {months:.0f} เดือน")
+    if r.get("stage") == "wayback_failed":
+        warns.append("ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)")
     if r.get("brand_checked") and not r.get("brand_keywords"):
         warns.append("ไม่พบ Brand Search ในอดีต")
 
@@ -269,16 +288,24 @@ def deep_check(r, ah, cfg, gamble_re):
             r["brand_checked"] = True
 
     wb = wayback(d, gamble_re)
+    # no snapshot page could be fetched although snapshots exist -> Wayback throttled us; don't judge on it
+    fetched = bool(wb["titles"]) or wb["snapshots"] == 0
     r.update(first_seen=wb["first_seen"], last_active=wb["last_active"], titles=wb["titles"],
-             gambling_wayback=wb["gambling"], ext_redirects=wb["ext_redirects"], wayback_checked=True)
-    r["stage"] = "done"
+             gambling_wayback=wb["gambling"], ext_redirects=wb["ext_redirects"], wayback_checked=fetched)
+    r["stage"] = "done" if fetched else "wayback_failed"
     return r
+
+
+def gambling_regex(cfg):
+    # whole words for Latin terms (so "toto" doesn't hit "totoro"); Thai has no word spaces
+    parts = [rf"\b{re.escape(w)}(?:s|\d+)?\b" if w.isascii() else re.escape(w) for w in cfg["gambling_words"]]
+    return re.compile("|".join(parts), re.I)
 
 
 def run_scan(log=print):
     load_env()
     cfg = load_config()
-    gamble_re = re.compile("|".join(cfg["gambling_words"]), re.I)
+    gamble_re = gambling_regex(cfg)
     key = os.environ.get("AHREFS_API_KEY", "").strip()
     ah = Ahrefs(key) if key else None
     if not ah:
@@ -323,7 +350,7 @@ def run_scan(log=print):
             log(f"  {r['domain']}: error {e}")
         return r
 
-    with ThreadPoolExecutor(3) as ex:
+    with ThreadPoolExecutor(2) as ex:
         list(ex.map(work, deep))
     for r in results:
         if r not in deep:

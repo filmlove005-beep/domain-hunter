@@ -1,813 +1,351 @@
 {
- "scanned_at": "2026-10-02T03:00:00+00:00",
- "feed": "auctions_ending_tomorrow",
- "feed_total": 80135,
+ "scanned_at": "2026-10-02T10:26:19+00:00",
+ "feed": "expiring_auctions_non_adult",
+ "feed_total": 981071,
  "results": [
   {
-   "domain": "fiberia.com",
-   "link": "https://www.godaddy.com/domain-auctions/fiberia-com-728164705?isc=json_ending_tomorrow",
+   "domain": "stopspanking.org",
+   "link": "https://www.godaddy.com/domain-auctions/stopspanking-org-728280418?isc=json_expiring",
    "price": 1.0,
-   "bids": 1,
-   "end_time": "2026-10-02T21:25:00Z",
-   "age": 11,
-   "majestic_tf": 16,
-   "majestic_rd": 359,
+   "bids": 0,
+   "end_time": "2026-10-04T21:11:00Z",
+   "age": 16,
+   "majestic_tf": 13,
+   "majestic_rd": 47,
    "dr": 25,
-   "stage": "pending",
-   "fails": [],
-   "warns": [
-    "DR 25 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "pending"
-  },
-  {
-   "domain": "tamaradelempickaestate.com",
-   "link": "https://www.godaddy.com/domain-auctions/tamaradelempickaestate-com-728166364?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 1,
-   "end_time": "2026-10-02T19:13:00Z",
-   "age": 8,
-   "majestic_tf": 16,
-   "majestic_rd": 241,
-   "dr": 25,
-   "stage": "pending",
-   "fails": [],
-   "warns": [
-    "DR 25 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "pending"
-  },
-  {
-   "domain": "antheanthesis.org",
-   "link": "https://www.godaddy.com/domain-auctions/antheanthesis-org-728012539?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T19:20:00Z",
-   "age": 5,
-   "majestic_tf": 22,
-   "majestic_rd": 158,
-   "dr": 24,
-   "stage": "pending",
-   "fails": [],
-   "warns": [
-    "DR 24 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "pending"
-  },
-  {
-   "domain": "granthamnh.net",
-   "link": "https://www.godaddy.com/domain-auctions/granthamnh-net-728145135?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 1,
-   "end_time": "2026-10-02T18:08:00Z",
-   "age": 24,
-   "majestic_tf": 23,
-   "majestic_rd": 218,
-   "dr": 23,
-   "stage": "pending",
-   "fails": [],
-   "warns": [
-    "DR 23 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "pending"
-  },
-  {
-   "domain": "jeffosretromusic.com",
-   "link": "https://www.godaddy.com/domain-auctions/jeffosretromusic-com-728166552?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T20:48:00Z",
-   "age": 10,
-   "majestic_tf": 25,
-   "majestic_rd": 23178,
-   "dr": 21,
-   "stage": "pending",
-   "fails": [],
-   "warns": [
-    "DR 21 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "pending"
-  },
-  {
-   "domain": "nautilos.net",
-   "link": "https://www.godaddy.com/domain-auctions/nautilos-net-728123600?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 1,
-   "end_time": "2026-10-02T18:39:00Z",
-   "age": 25,
-   "majestic_tf": 20,
-   "majestic_rd": 39,
-   "dr": 21,
-   "stage": "pending",
-   "fails": [],
-   "warns": [
-    "DR 21 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "pending"
-  },
-  {
-   "domain": "cherryvalleylodge.com",
-   "link": "https://www.godaddy.com/domain-auctions/cherryvalleylodge-com-728178993?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T16:53:00Z",
-   "age": 29,
-   "majestic_tf": 32,
-   "majestic_rd": 90,
-   "dr": 17,
-   "stage": "pending",
-   "fails": [],
-   "warns": [
-    "DR 17 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "pending"
-  },
-  {
-   "domain": "keepitfunohio.com",
-   "link": "https://www.godaddy.com/domain-auctions/keepitfunohio-com-728168463?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 1,
-   "end_time": "2026-10-02T19:34:00Z",
-   "age": 7,
-   "majestic_tf": 16,
-   "majestic_rd": 34,
-   "dr": 16,
-   "stage": "pending",
-   "fails": [],
-   "warns": [
-    "DR 16 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "pending"
-  },
-  {
-   "domain": "atlantiscuracao.com",
-   "link": "https://www.godaddy.com/domain-auctions/atlantiscuracao-com-728150240?isc=json_ending_tomorrow",
-   "price": 11.0,
-   "bids": 3,
-   "end_time": "2026-10-02T18:23:00Z",
-   "age": 7,
-   "majestic_tf": 30,
-   "majestic_rd": 62,
-   "dr": 15,
-   "stage": "pending",
-   "fails": [],
-   "warns": [
-    "DR 15 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "pending"
-  },
-  {
-   "domain": "styledthemes.com",
-   "link": "https://www.godaddy.com/domain-auctions/styledthemes-com-728173848?isc=json_ending_tomorrow",
-   "price": 55.0,
-   "bids": 12,
-   "end_time": "2026-10-02T16:47:00Z",
-   "age": 14,
-   "majestic_tf": 31,
-   "majestic_rd": 897,
-   "dr": 73,
    "stage": "done",
-   "quality_count": 23,
+   "auction_type": "Bid",
+   "quality_count": 11,
    "edu_wiki": [
-    "ugm.ac.id",
-    "washington.edu",
-    "mtu.edu",
-    "untad.ac.id"
+    "tulane.edu"
    ],
    "quality_top": [
     [
-     "blogspot.com",
-     95,
-     24722400
+     "substack.com",
+     94,
+     8681703
     ],
     [
-     "crunchbase.com",
+     "tulane.edu",
+     84,
+     283353
+    ],
+    [
+     "patheos.com",
+     80,
+     171096
+    ],
+    [
+     "buzzsprout.com",
      91,
-     4141034
+     153555
     ],
     [
-     "wordpress.org",
-     97,
-     2263944
+     "archspm.org",
+     61,
+     63509
     ],
     [
-     "washington.edu",
-     91,
-     706349
-    ],
-    [
-     "mtu.edu",
+     "scoop.it",
      82,
-     539272
+     31445
     ],
     [
-     "themeisle.com",
-     88,
-     71429
-    ]
-   ],
-   "first_seen": "20121201",
-   "last_active": "20240113",
-   "gambling_wayback": [],
-   "ext_redirects": {
-    "mtweek.com": [
-     "202502:301",
-     "202512:301",
-     "202608:301"
-    ]
-   },
-   "titles": [
-    [
-     "20240113",
-     "Home | Styled Themes"
+     "salto-youth.net",
+     73,
+     23613
     ],
     [
-     "20221017",
-     "Styled Themes - Simple & Stylish Premium Wordpress Themes"
+     "kuow.org",
+     78,
+     18989
     ],
     [
-     "20140208",
-     "Premium WordPress Themes - Over 190,000 Downloads"
-    ]
-   ],
-   "wayback_checked": true,
-   "fails": [
-    "เคย Redirect ไป mtweek.com",
-    "เว็บหยุดใช้งานมา 33 เดือน"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "iheartmob.org",
-   "link": "https://www.godaddy.com/domain-auctions/iheartmob-org-728030643?isc=json_ending_tomorrow",
-   "price": 26.0,
-   "bids": 6,
-   "end_time": "2026-10-02T17:31:00Z",
-   "age": 12,
-   "majestic_tf": 15,
-   "majestic_rd": 380,
-   "dr": 61,
-   "stage": "done",
-   "quality_count": 100,
-   "edu_wiki": [
-    "wikipedia.org",
-    "columbia.edu",
-    "umich.edu",
-    "cuny.edu",
-    "washington.edu",
-    "gwu.edu",
-    "emory.edu",
-    "umass.edu",
-    "lacity.gov"
-   ],
-   "quality_top": [
-    [
-     "wikipedia.org",
-     97,
-     2601322496
-    ],
-    [
-     "x.com",
-     97,
-     506758432
-    ],
-    [
-     "mashable.com",
-     91,
-     175327760
-    ],
-    [
-     "nytimes.com",
-     94,
-     96661528
-    ],
-    [
-     "github.com",
-     97,
-     42817224
-    ],
-    [
-     "nbcnews.com",
-     91,
-     6114500
-    ],
-    [
-     "wired.com",
-     92,
-     3986700
-    ]
-   ],
-   "first_seen": "20160101",
-   "last_active": "20221107",
-   "gambling_wayback": [],
-   "ext_redirects": {
-    "hateandhope.righttobe.org": [
-     "202502:301",
-     "202601:301",
-     "202608:301"
-    ]
-   },
-   "titles": [
-    [
-     "20221107",
-     "HeartMob"
-    ],
-    [
-     "20190608",
-     "HeartMob"
-    ],
-    [
-     "20170214",
-     "HeartMob"
-    ]
-   ],
-   "wayback_checked": true,
-   "fails": [
-    "เคย Redirect ไป hateandhope.righttobe.org",
-    "เว็บหยุดใช้งานมา 47 เดือน"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "yesterdaygirlblog.com",
-   "link": "https://www.godaddy.com/domain-auctions/yesterdaygirlblog-com-728143952?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T20:29:00Z",
-   "age": 11,
-   "majestic_tf": 26,
-   "majestic_rd": 446,
-   "dr": 44,
-   "stage": "done",
-   "quality_count": 26,
-   "edu_wiki": [],
-   "quality_top": [
-    [
-     "forbes.com",
-     94,
-     13321603
-    ],
-    [
-     "pixnet.net",
-     87,
-     5299138
-    ],
-    [
-     "dpreview.com",
-     83,
-     1079063
-    ]
-   ],
-   "first_seen": "20160101",
-   "last_active": null,
-   "gambling_wayback": [
-    [
-     "20240614",
-     [
-      "baccarat",
-      "casino",
-      "gacor",
-      "poker",
-      "slot"
-     ]
-    ],
-    [
-     "20250212",
-     [
-      "gacor",
-      "judi",
-      "slot"
-     ]
-    ]
-   ],
-   "ext_redirects": {},
-   "titles": [
-    [
-     "20250212",
-     "CATUR777 - Slot Gacor Hari Ini"
-    ],
-    [
-     "20240113",
-     "CATUR777 # Official Link Website"
-    ]
-   ],
-   "wayback_checked": true,
-   "fails": [
-    "เคยเป็นเว็บพนัน (Wayback)",
-    "ไม่พบช่วงที่เว็บใช้งานจริง"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "melanomainternational.org",
-   "link": "https://www.godaddy.com/domain-auctions/melanomainternational-org-728029496?isc=json_ending_tomorrow",
-   "price": 71.0,
-   "bids": 3,
-   "end_time": "2026-10-02T16:39:00Z",
-   "age": 23,
-   "majestic_tf": 29,
-   "majestic_rd": 240,
-   "dr": 38,
-   "stage": "done",
-   "quality_count": 38,
-   "edu_wiki": [
-    "swarthmore.edu",
-    "science.gov"
-   ],
-   "quality_top": [
-    [
-     "healthline.com",
-     92,
-     32596166
-    ],
-    [
-     "yellowpages.com",
-     89,
-     2905062
-    ],
-    [
-     "prnewswire.com",
-     92,
-     1353026
-    ],
-    [
-     "skincancer.org",
-     85,
-     631817
-    ]
-   ],
-   "first_seen": "20031001",
-   "last_active": "20140815",
-   "gambling_wayback": [
-    [
-     "20211204",
-     [
-      "baccarat",
-      "gacor",
-      "judi",
-      "poker",
-      "slot"
-     ]
-    ]
-   ],
-   "ext_redirects": {
-    "www.makeitbright.com": [
-     "202209:301",
-     "202212:301"
-    ],
-    "thepillarlife.com": [
-     "202206:301"
-    ]
-   },
-   "titles": [
-    [
-     "20260409",
-     "Apache2 Debian Default Page: It works"
-    ],
-    [
-     "20211204",
-     "Daftar Situs Judi Pkv Games Agen Poker Online"
-    ],
-    [
-     "20140815",
-     "Melanoma International Foundation"
-    ]
-   ],
-   "wayback_checked": true,
-   "fails": [
-    "เคยเป็นเว็บพนัน (Wayback)",
-    "เคย Redirect ไป www.makeitbright.com, thepillarlife.com",
-    "เว็บหยุดใช้งานมา 146 เดือน"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "iic-offp.org",
-   "link": "https://www.godaddy.com/domain-auctions/iic-offp-org-728012522?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T16:40:00Z",
-   "age": 11,
-   "majestic_tf": 15,
-   "majestic_rd": 1584,
-   "dr": 36,
-   "stage": "done",
-   "quality_count": 89,
-   "edu_wiki": [
-    "wikipedia.org",
-    "wikibooks.org",
-    "unimelb.edu.au",
-    "wustl.edu",
-    "lse.ac.uk",
-    "tulane.edu",
-    "syr.edu",
-    "www.gov.za",
-    "unilibre.edu.co"
-   ],
-   "quality_top": [
-    [
-     "wikipedia.org",
-     97,
-     2601322496
-    ],
-    [
-     "bbc.co.uk",
-     93,
-     125238192
-    ],
-    [
-     "foxnews.com",
-     91,
-     27373242
-    ],
-    [
-     "cnn.com",
-     93,
-     24610300
-    ],
-    [
-     "npr.org",
-     92,
-     3566363
-    ],
-    [
-     "imf.org",
-     91,
-     444314
-    ]
-   ],
-   "first_seen": "20040601",
-   "last_active": "20110806",
-   "gambling_wayback": [],
-   "ext_redirects": {},
-   "titles": [
-    [
-     "20210927",
-     ""
-    ],
-    [
-     "20151220",
-     "iic-offp.org - Diese Website steht zum Verkauf!"
-    ],
-    [
-     "20110806",
-     "Independent Inquiry Committee"
+     "socialpsychology.org",
+     73,
+     11740
     ]
    ],
    "brand_checked": true,
-   "brand_keywords": [],
    "gambling_keywords": [],
+   "brand_keywords": [
+    "stop spanking",
+    "how to stop spanking"
+   ],
+   "peak_date": "2022-09-01",
+   "peak_traffic": 1967,
+   "top_keywords": [
+    [
+     "jeffrey dahmer mom",
+     7,
+     1030
+    ],
+    [
+     "jeffrey dahmer mother",
+     8,
+     961
+    ],
+    [
+     "joyce dahmer",
+     30,
+     155
+    ],
+    [
+     "school paddling",
+     10,
+     19
+    ],
+    [
+     "school spanking",
+     7,
+     14
+    ],
+    [
+     "stop spanking",
+     1,
+     6
+    ]
+   ],
    "traffic_history": [
     [
+     "2021-10",
+     38
+    ],
+    [
+     "2022-03",
+     43
+    ],
+    [
+     "2022-09",
+     1967
+    ],
+    [
+     "2023-01",
+     34
+    ],
+    [
      "2023-09",
-     0
+     64
     ],
     [
      "2024-01",
-     0
-    ],
-    [
-     "2024-03",
-     2
-    ],
-    [
-     "2024-04",
-     3
+     43
     ],
     [
      "2024-06",
-     1
+     23
     ],
     [
-     "2024-09",
+     "2024-07",
+     2
+    ],
+    [
+     "2024-08",
      0
+    ],
+    [
+     "2025-06",
+     0
+    ],
+    [
+     "2026-01",
+     0
+    ],
+    [
+     "2026-09",
+     1
     ]
    ],
-   "peak_date": "2024-04-01",
+   "first_seen": "20110905",
+   "last_active": "20210805",
+   "titles": [
+    [
+     "20250925",
+     "Whatcom Web Site &#8211; Make a free website"
+    ],
+    [
+     "20250607",
+     "Whatcom Web Site &#8211; Make a free website"
+    ],
+    [
+     "20210805",
+     "StopSpanking.org | Hands are for Holding"
+    ],
+    [
+     "20180421",
+     "StopSpanking.org | Hands are for Holding"
+    ],
+    [
+     "20150917",
+     "StopSpanking.org | Hands are for Holding"
+    ],
+    [
+     "20120426",
+     "StopSpanking.org"
+    ]
+   ],
+   "gambling_wayback": [],
+   "ext_redirects": {},
    "wayback_checked": true,
    "fails": [
-    "เว็บหยุดใช้งานมา 182 เดือน"
+    "เว็บหยุดใช้งานมา 62 เดือน"
    ],
    "warns": [
-    "ไม่พบ Brand Search ในอดีต"
+    "DR 25 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 11 (เกณฑ์ผ่อน)"
    ],
    "verdict": "fail"
   },
   {
-   "domain": "parkgrillchicago.com",
-   "link": "https://www.godaddy.com/domain-auctions/parkgrillchicago-com-728153124?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 1,
-   "end_time": "2026-10-02T17:51:00Z",
-   "age": 23,
-   "majestic_tf": 28,
-   "majestic_rd": 345,
-   "dr": 35,
+   "domain": "factio.org",
+   "link": "https://www.godaddy.com/domain-auctions/factio-org-727546288?isc=json_expiring",
+   "price": 30.0,
+   "bids": 0,
+   "end_time": "2026-10-01T16:09:00Z",
+   "age": 9,
+   "majestic_tf": 10,
+   "majestic_rd": 153,
+   "dr": 17,
    "stage": "done",
-   "quality_count": 63,
-   "edu_wiki": [
-    "depaul.edu",
-    "colum.edu"
-   ],
-   "quality_top": [
-    [
-     "forbes.com",
-     94,
-     13321603
-    ],
-    [
-     "cbsnews.com",
-     92,
-     11426850
-    ],
-    [
-     "telegraph.co.uk",
-     91,
-     4766523
-    ],
-    [
-     "timeout.com",
-     90,
-     1541734
-    ],
-    [
-     "chicagotribune.com",
-     90,
-     849625
-    ]
-   ],
-   "first_seen": "20061001",
-   "last_active": "20160906",
-   "gambling_wayback": [],
-   "ext_redirects": {
-    "pafimadura.org": [
-     "202404:301",
-     "202511:301"
-    ],
-    "justinsutherland.com": [
-     "202305:301"
-    ],
-    "theoandstacys.com": [
-     "202308:301"
-    ]
-   },
+   "auction_type": "BuyNow",
+   "first_seen": "20110705",
+   "last_active": "20210304",
    "titles": [
     [
-     "20230320",
-     "One moment, please..."
+     "20251102",
+     ""
     ],
     [
-     "20160906",
-     "Park Grill Chicago"
+     "20250915",
+     ""
     ],
     [
-     "20090117",
-     "Official site for Park Grill: Millennium Park, Chicago"
+     "20210304",
+     "Factio.org"
+    ],
+    [
+     "20200601",
+     "Factio.org"
+    ],
+    [
+     "20180809",
+     "factio.org"
     ]
    ],
+   "gambling_wayback": [],
+   "ext_redirects": {
+    "www.eastcoastshows.com": [
+     "202309:301",
+     "202311:301",
+     "202312:301",
+     "202402:301",
+     "202403:301",
+     "202406:301",
+     "202408:301"
+    ]
+   },
    "wayback_checked": true,
    "fails": [
-    "เคย Redirect ไป pafimadura.org, justinsutherland.com",
-    "เว็บหยุดใช้งานมา 121 เดือน"
+    "เคย Redirect ไป www.eastcoastshows.com",
+    "เว็บหยุดใช้งานมา 67 เดือน"
+   ],
+   "warns": [
+    "DR 17 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "fail"
+  },
+  {
+   "domain": "northfieldpubliclibrary.org",
+   "link": "https://www.godaddy.com/domain-auctions/northfieldpubliclibrary-org-728277494?isc=json_expiring",
+   "price": 15.0,
+   "bids": 4,
+   "end_time": "2026-10-04T18:28:00Z",
+   "age": 20,
+   "majestic_tf": 11,
+   "majestic_rd": 59,
+   "dr": 14,
+   "stage": "done",
+   "auction_type": "Bid",
+   "first_seen": "20071012",
+   "last_active": "20260201",
+   "titles": [
+    [
+     "20260201",
+     "Northfield Public Library &#8211; Northfield Public Library Your Place"
+    ],
+    [
+     "20260101",
+     "Northfield Public Library &#8211; Northfield Public Library Your Place"
+    ],
+    [
+     "20181228",
+     "Northfield Public Library - HOME"
+    ],
+    [
+     "20160404",
+     "Northfield Public Library - HOME"
+    ],
+    [
+     "20130620",
+     "Dickinson Memorial Library: Northfield's Public Library"
+    ],
+    [
+     "20071012",
+     "Home"
+    ]
+   ],
+   "gambling_wayback": [],
+   "ext_redirects": {},
+   "wayback_checked": true,
+   "fails": [
+    "DR 14 (< 15)"
    ],
    "warns": [],
    "verdict": "fail"
   },
   {
-   "domain": "thecontrolcentre.com",
-   "link": "https://www.godaddy.com/domain-auctions/thecontrolcentre-com-728164941?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T20:28:00Z",
-   "age": 24,
-   "majestic_tf": 23,
-   "majestic_rd": 253,
-   "dr": 30,
+   "domain": "firstadventistchurch.org",
+   "link": "https://www.godaddy.com/domain-auctions/firstadventistchurch-org-727875053?isc=json_expiring",
+   "price": 110.0,
+   "bids": 5,
+   "end_time": "2026-10-01T16:44:00Z",
+   "age": 12,
+   "majestic_tf": 17,
+   "majestic_rd": 60,
+   "dr": 11,
    "stage": "done",
-   "quality_count": 9,
-   "edu_wiki": [],
-   "quality_top": [
-    [
-     "biglobe.ne.jp",
-     90,
-     1129557
-    ],
-    [
-     "kvraudio.com",
-     75,
-     57289
-    ],
-    [
-     "bedroomproducersblog.com",
-     65,
-     36338
-    ]
-   ],
-   "first_seen": "20021001",
-   "last_active": "20260518",
-   "gambling_wayback": [],
-   "ext_redirects": {},
+   "auction_type": "Bid",
+   "first_seen": "20150925",
+   "last_active": "20260608",
    "titles": [
     [
-     "20260518",
-     "The Control Centre - Virtual Instruments for Ableton Live"
+     "20260608",
+     "Washington NH Church"
     ],
     [
-     "20170605",
-     "The Control Centre - Sample Packs For Musicians"
+     "20260512",
+     "Washington NH Church"
     ],
     [
-     "20060502",
-     "The Control Centre Website - MP3 tracks and Samplepacks"
+     "20240524",
+     "Home : Washington NH Seventh-day Adventist® Church Washington NH"
+    ],
+    [
+     "20220316",
+     "Home : Washington NH Seventh-day Adventist® Church Washington NH"
+    ],
+    [
+     "20190719",
+     "Home : Washington NH Seventh-day Adventist® Church Washington NH"
+    ],
+    [
+     "20151116",
+     "Washington, New Hampshire : Washington Seventh-day Adventist Church Washington NH"
     ]
    ],
-   "brand_checked": true,
-   "brand_keywords": [],
-   "gambling_keywords": [
-    "bento slot",
-    "sahabat slot88",
-    "pusat game slot",
-    "slot server thailand no 1",
-    "gas slot 123"
-   ],
-   "peak_date": "2025-10-01",
-   "top_keywords": [
-    [
-     "bento 123",
-     1,
-     6781
-    ],
-    [
-     "bento123 login",
-     1,
-     5193
-    ],
-    [
-     "bento slot",
-     1,
-     787
-    ],
-    [
-     "sahabat slot88",
-     5,
-     107
-    ]
-   ],
-   "traffic_history": [
-    [
-     "2025-06",
-     1
-    ],
-    [
-     "2025-07",
-     0
-    ],
-    [
-     "2025-08",
-     0
-    ],
-    [
-     "2025-09",
-     0
-    ],
-    [
-     "2025-10",
-     514987
-    ],
-    [
-     "2025-11",
-     401208
-    ],
-    [
-     "2025-12",
-     399
-    ]
-   ],
+   "gambling_wayback": [],
+   "ext_redirects": {},
    "wayback_checked": true,
-   "fails": [
-    "เคยติดคีย์เวิร์ดพนัน: bento slot, sahabat slot88, pusat game slot"
-   ],
-   "warns": [
-    "Backlink คุณภาพ 9 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "fail"
-  },
-  {
-   "domain": "laughinglibrarian.com",
-   "link": "https://www.godaddy.com/domain-auctions/laughinglibrarian-com-728173445?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T20:08:00Z",
-   "age": 26,
-   "majestic_tf": 26,
-   "majestic_rd": 86,
-   "dr": 11,
-   "stage": "dr",
    "fails": [
     "DR 11 (< 15)"
    ],
@@ -815,392 +353,54 @@
    "verdict": "fail"
   },
   {
-   "domain": "newlifeshasta.com",
-   "link": "https://www.godaddy.com/domain-auctions/newlifeshasta-com-728166052?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T16:20:00Z",
-   "age": 7,
-   "majestic_tf": 24,
-   "majestic_rd": 135,
-   "dr": 10,
-   "stage": "dr",
-   "fails": [
-    "DR 10 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "tableandhome.com",
-   "link": "https://www.godaddy.com/domain-auctions/tableandhome-com-728168170?isc=json_ending_tomorrow",
-   "price": 6.0,
-   "bids": 2,
-   "end_time": "2026-10-02T19:29:00Z",
-   "age": 23,
-   "majestic_tf": 21,
-   "majestic_rd": 96,
-   "dr": 9,
-   "stage": "dr",
-   "fails": [
-    "DR 9 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "bajingloncat.com",
-   "link": "https://www.godaddy.com/domain-auctions/bajingloncat-com-727730615?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T17:54:00Z",
-   "age": 6,
-   "majestic_tf": 17,
-   "majestic_rd": 89,
-   "dr": 9,
-   "stage": "dr",
-   "fails": [
-    "DR 9 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "watergaptrolley.com",
-   "link": "https://www.godaddy.com/domain-auctions/watergaptrolley-com-728166107?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T20:33:00Z",
-   "age": 5,
-   "majestic_tf": 15,
-   "majestic_rd": 162,
-   "dr": 8,
-   "stage": "dr",
-   "fails": [
-    "DR 8 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "springhurstpines.org",
-   "link": "https://www.godaddy.com/domain-auctions/springhurstpines-org-728012962?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T21:14:00Z",
-   "age": 18,
-   "majestic_tf": 17,
-   "majestic_rd": 163,
-   "dr": 7,
-   "stage": "dr",
-   "fails": [
-    "DR 7 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "web2000.net",
-   "link": "https://www.godaddy.com/domain-auctions/web2000-net-726988360?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T20:30:00Z",
-   "age": 24,
-   "majestic_tf": 17,
-   "majestic_rd": 32,
-   "dr": 7,
-   "stage": "dr",
-   "fails": [
-    "DR 7 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "sk-reisen.com",
-   "link": "https://www.godaddy.com/domain-auctions/sk-reisen-com-728148356?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T19:44:00Z",
-   "age": 24,
-   "majestic_tf": 24,
-   "majestic_rd": 54,
-   "dr": 6,
-   "stage": "dr",
-   "fails": [
-    "DR 6 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "filemare.com",
-   "link": "https://www.godaddy.com/domain-auctions/filemare-com-727730202?isc=json_ending_tomorrow",
+   "domain": "maineoralhealthcoalition.org",
+   "link": "https://www.godaddy.com/domain-auctions/maineoralhealthcoalition-org-728171481?isc=json_expiring",
    "price": 1.0,
    "bids": 1,
-   "end_time": "2026-10-02T18:14:00Z",
-   "age": 14,
-   "majestic_tf": 23,
-   "majestic_rd": 236,
-   "dr": 6,
-   "stage": "dr",
-   "fails": [
-    "DR 6 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "hveus.com",
-   "link": "https://www.godaddy.com/domain-auctions/hveus-com-728165497?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T18:27:00Z",
-   "age": 9,
-   "majestic_tf": 17,
-   "majestic_rd": 155,
-   "dr": 5,
-   "stage": "dr",
-   "fails": [
-    "DR 5 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "thecadeleigharms.com",
-   "link": "https://www.godaddy.com/domain-auctions/thecadeleigharms-com-728123034?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 1,
-   "end_time": "2026-10-02T16:42:00Z",
-   "age": 10,
-   "majestic_tf": 16,
-   "majestic_rd": 31,
-   "dr": 5,
-   "stage": "dr",
-   "fails": [
-    "DR 5 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "jestpic.com",
-   "link": "https://www.godaddy.com/domain-auctions/jestpic-com-728133493?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T17:20:00Z",
-   "age": 8,
-   "majestic_tf": 21,
-   "majestic_rd": 60,
-   "dr": 4.9,
-   "stage": "dr",
-   "fails": [
-    "DR 4.9 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "stmaryoftheangels.org",
-   "link": "https://www.godaddy.com/domain-auctions/stmaryoftheangels-org-727971309?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T21:24:00Z",
-   "age": 27,
-   "majestic_tf": 24,
-   "majestic_rd": 43,
-   "dr": 3,
-   "stage": "dr",
-   "fails": [
-    "DR 3 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "ottosbrauhauspa.com",
-   "link": "https://www.godaddy.com/domain-auctions/ottosbrauhauspa-com-728170321?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 1,
-   "end_time": "2026-10-02T18:45:00Z",
-   "age": 19,
-   "majestic_tf": 22,
-   "majestic_rd": 36,
-   "dr": 2.1,
-   "stage": "dr",
-   "fails": [
-    "DR 2.1 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "ocularis.org",
-   "link": "https://www.godaddy.com/domain-auctions/ocularis-org-728013218?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T19:09:00Z",
-   "age": 24,
-   "majestic_tf": 16,
-   "majestic_rd": 32,
-   "dr": 1.6,
-   "stage": "dr",
-   "fails": [
-    "DR 1.6 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "thefroggpond.com",
-   "link": "https://www.godaddy.com/domain-auctions/thefroggpond-com-728143749?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T17:12:00Z",
-   "age": 25,
-   "majestic_tf": 24,
-   "majestic_rd": 63,
-   "dr": 1.5,
-   "stage": "dr",
-   "fails": [
-    "DR 1.5 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "lacucinaeoliana.com",
-   "link": "https://www.godaddy.com/domain-auctions/lacucinaeoliana-com-728170202?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T21:10:00Z",
-   "age": 24,
-   "majestic_tf": 23,
-   "majestic_rd": 42,
-   "dr": 1.1,
-   "stage": "dr",
-   "fails": [
-    "DR 1.1 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "trinityalbany.org",
-   "link": "https://www.godaddy.com/domain-auctions/trinityalbany-org-727971496?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T17:24:00Z",
+   "end_time": "2026-10-03T19:40:00Z",
    "age": 13,
-   "majestic_tf": 20,
-   "majestic_rd": 157,
-   "dr": 0.8,
-   "stage": "dr",
-   "fails": [
-    "DR 0.8 (< 15)"
+   "majestic_tf": 14,
+   "majestic_rd": 43,
+   "dr": 4.5,
+   "stage": "done",
+   "auction_type": "Bid",
+   "first_seen": "20131104",
+   "last_active": "20260614",
+   "titles": [
+    [
+     "20260614",
+     "- Maine Oral Health Coalition"
+    ],
+    [
+     "20260514",
+     "- Maine Oral Health Coalition"
+    ],
+    [
+     "20260411",
+     "- Maine Oral Health Coalition"
+    ],
+    [
+     "20240617",
+     "- Maine Oral Health Coalition"
+    ],
+    [
+     "20210613",
+     "Maine Oral Health Coalition"
+    ],
+    [
+     "20170717",
+     "Maine Oral Health Coalition - Home"
+    ],
+    [
+     "20131104",
+     "Maine Oral Health Coalition - Home"
+    ]
    ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "dubaitop10.com",
-   "link": "https://www.godaddy.com/domain-auctions/dubaitop10-com-728168216?isc=json_ending_tomorrow",
-   "price": 6.0,
-   "bids": 2,
-   "end_time": "2026-10-02T20:29:00Z",
-   "age": 26,
-   "majestic_tf": 17,
-   "majestic_rd": 38,
-   "dr": 0.7,
-   "stage": "dr",
+   "gambling_wayback": [],
+   "ext_redirects": {},
+   "wayback_checked": true,
    "fails": [
-    "DR 0.7 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "mediterraneangenweb.net",
-   "link": "https://www.godaddy.com/domain-auctions/mediterraneangenweb-net-728149693?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T16:07:00Z",
-   "age": 12,
-   "majestic_tf": 16,
-   "majestic_rd": 174,
-   "dr": 0.5,
-   "stage": "dr",
-   "fails": [
-    "DR 0.5 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "silverspurboutique.com",
-   "link": "https://www.godaddy.com/domain-auctions/silverspurboutique-com-728164462?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T20:00:00Z",
-   "age": 16,
-   "majestic_tf": 20,
-   "majestic_rd": 52,
-   "dr": 0.4,
-   "stage": "dr",
-   "fails": [
-    "DR 0.4 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "hebesolar.com",
-   "link": "https://www.godaddy.com/domain-auctions/hebesolar-com-728119724?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T18:11:00Z",
-   "age": 18,
-   "majestic_tf": 20,
-   "majestic_rd": 138,
-   "dr": 0.3,
-   "stage": "dr",
-   "fails": [
-    "DR 0.3 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "shutupweirdo.com",
-   "link": "https://www.godaddy.com/domain-auctions/shutupweirdo-com-728178830?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T16:58:00Z",
-   "age": 18,
-   "majestic_tf": 16,
-   "majestic_rd": 57,
-   "dr": 0.3,
-   "stage": "dr",
-   "fails": [
-    "DR 0.3 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "cevretek.com",
-   "link": "https://www.godaddy.com/domain-auctions/cevretek-com-728166813?isc=json_ending_tomorrow",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-02T16:32:00Z",
-   "age": 26,
-   "majestic_tf": 21,
-   "majestic_rd": 33,
-   "dr": 0.2,
-   "stage": "dr",
-   "fails": [
-    "DR 0.2 (< 15)"
+    "DR 4.5 (< 15)"
    ],
    "warns": [],
    "verdict": "fail"
