@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-02T10:39:37+00:00",
+ "scanned_at": "2026-10-02T10:49:11+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 981071,
  "results": [
@@ -12,7 +12,7 @@
    "age": 16,
    "majestic_tf": 13,
    "majestic_rd": 47,
-   "stage": "wayback_failed",
+   "stage": "done",
    "dr": 25.0,
    "refdomains": 749,
    "quality_count": 11,
@@ -425,44 +425,46 @@
    "gambling_keywords": [],
    "brand_keywords": [
     "stop spanking",
-    "how to stop spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking",
-    "spanking"
+    "how to stop spanking"
    ],
    "brand_checked": true,
-   "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+   "first_seen": "20110905",
+   "last_active": "20210805",
+   "titles": [
+    [
+     "20250925",
+     "Whatcom Web Site &#8211; Make a free website"
+    ],
+    [
+     "20250607",
+     "Whatcom Web Site &#8211; Make a free website"
+    ],
+    [
+     "20210805",
+     "StopSpanking.org | Hands are for Holding"
+    ],
+    [
+     "20180421",
+     "StopSpanking.org | Hands are for Holding"
+    ],
+    [
+     "20150917",
+     "StopSpanking.org | Hands are for Holding"
+    ],
+    [
+     "20120426",
+     "StopSpanking.org"
+    ]
+   ],
+   "gambling_wayback": [],
+   "ext_redirects": {},
+   "wayback_checked": true,
    "fails": [],
    "warns": [
     "DR 25 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 11 (เกณฑ์ผ่อน)",
-    "ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)"
+    "Backlink คุณภาพ 11 (เกณฑ์ผ่อน)"
    ],
-   "verdict": "pending"
+   "verdict": "relaxed"
   },
   {
    "domain": "factio.org",
@@ -841,8 +843,7 @@
    },
    "wayback_checked": true,
    "fails": [
-    "เคย Redirect ไป www.eastcoastshows.com",
-    "เว็บหยุดใช้งานมา 67 เดือน"
+    "เคย Redirect ไป www.eastcoastshows.com"
    ],
    "warns": [
     "DR 17 (เกณฑ์ผ่อน)",

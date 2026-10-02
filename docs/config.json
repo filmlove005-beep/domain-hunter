@@ -33,7 +33,7 @@
   "quality_traffic_min": 10000,
   "quality_min": 20,
   "quality_min_relaxed": 3,
-  "active_within_months": 12,
+  "active_within_months": 0,
   "max_deep_without_ahrefs": 16,
   "gambling_words": [
     "casino",
