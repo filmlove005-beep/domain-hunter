@@ -51,7 +51,7 @@ def http(url, data=None, headers=None, timeout=60, retries=3):
             err = e
         except Exception as e:
             err = e
-        time.sleep(3 * (i + 1))
+        time.sleep(15 * (i + 1))  # Wayback refuses connections for a while when throttled
     raise err
 
 
