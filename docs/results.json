@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-02T10:26:19+00:00",
+ "scanned_at": "2026-10-02T10:36:41+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 981071,
  "results": [
@@ -12,189 +12,16 @@
    "age": 16,
    "majestic_tf": 13,
    "majestic_rd": 47,
-   "dr": 25,
-   "stage": "done",
-   "auction_type": "Bid",
-   "quality_count": 11,
-   "edu_wiki": [
-    "tulane.edu"
-   ],
-   "quality_top": [
-    [
-     "substack.com",
-     94,
-     8681703
-    ],
-    [
-     "tulane.edu",
-     84,
-     283353
-    ],
-    [
-     "patheos.com",
-     80,
-     171096
-    ],
-    [
-     "buzzsprout.com",
-     91,
-     153555
-    ],
-    [
-     "archspm.org",
-     61,
-     63509
-    ],
-    [
-     "scoop.it",
-     82,
-     31445
-    ],
-    [
-     "salto-youth.net",
-     73,
-     23613
-    ],
-    [
-     "kuow.org",
-     78,
-     18989
-    ],
-    [
-     "socialpsychology.org",
-     73,
-     11740
-    ]
-   ],
-   "brand_checked": true,
-   "gambling_keywords": [],
-   "brand_keywords": [
-    "stop spanking",
-    "how to stop spanking"
-   ],
-   "peak_date": "2022-09-01",
-   "peak_traffic": 1967,
-   "top_keywords": [
-    [
-     "jeffrey dahmer mom",
-     7,
-     1030
-    ],
-    [
-     "jeffrey dahmer mother",
-     8,
-     961
-    ],
-    [
-     "joyce dahmer",
-     30,
-     155
-    ],
-    [
-     "school paddling",
-     10,
-     19
-    ],
-    [
-     "school spanking",
-     7,
-     14
-    ],
-    [
-     "stop spanking",
-     1,
-     6
-    ]
-   ],
-   "traffic_history": [
-    [
-     "2021-10",
-     38
-    ],
-    [
-     "2022-03",
-     43
-    ],
-    [
-     "2022-09",
-     1967
-    ],
-    [
-     "2023-01",
-     34
-    ],
-    [
-     "2023-09",
-     64
-    ],
-    [
-     "2024-01",
-     43
-    ],
-    [
-     "2024-06",
-     23
-    ],
-    [
-     "2024-07",
-     2
-    ],
-    [
-     "2024-08",
-     0
-    ],
-    [
-     "2025-06",
-     0
-    ],
-    [
-     "2026-01",
-     0
-    ],
-    [
-     "2026-09",
-     1
-    ]
-   ],
-   "first_seen": "20110905",
-   "last_active": "20210805",
-   "titles": [
-    [
-     "20250925",
-     "Whatcom Web Site &#8211; Make a free website"
-    ],
-    [
-     "20250607",
-     "Whatcom Web Site &#8211; Make a free website"
-    ],
-    [
-     "20210805",
-     "StopSpanking.org | Hands are for Holding"
-    ],
-    [
-     "20180421",
-     "StopSpanking.org | Hands are for Holding"
-    ],
-    [
-     "20150917",
-     "StopSpanking.org | Hands are for Holding"
-    ],
-    [
-     "20120426",
-     "StopSpanking.org"
-    ]
-   ],
-   "gambling_wayback": [],
-   "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [
-    "เว็บหยุดใช้งานมา 62 เดือน"
-   ],
+   "stage": "wayback_failed",
+   "dr": 25.0,
+   "refdomains": 749,
+   "error": "HTTP 404 Not found",
+   "fails": [],
    "warns": [
     "DR 25 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 11 (เกณฑ์ผ่อน)"
+    "ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)"
    ],
-   "verdict": "fail"
+   "verdict": "pending"
   },
   {
    "domain": "factio.org",
@@ -205,54 +32,16 @@
    "age": 9,
    "majestic_tf": 10,
    "majestic_rd": 153,
-   "dr": 17,
-   "stage": "done",
-   "auction_type": "BuyNow",
-   "first_seen": "20110705",
-   "last_active": "20210304",
-   "titles": [
-    [
-     "20251102",
-     ""
-    ],
-    [
-     "20250915",
-     ""
-    ],
-    [
-     "20210304",
-     "Factio.org"
-    ],
-    [
-     "20200601",
-     "Factio.org"
-    ],
-    [
-     "20180809",
-     "factio.org"
-    ]
-   ],
-   "gambling_wayback": [],
-   "ext_redirects": {
-    "www.eastcoastshows.com": [
-     "202309:301",
-     "202311:301",
-     "202312:301",
-     "202402:301",
-     "202403:301",
-     "202406:301",
-     "202408:301"
-    ]
-   },
-   "wayback_checked": true,
-   "fails": [
-    "เคย Redirect ไป www.eastcoastshows.com",
-    "เว็บหยุดใช้งานมา 67 เดือน"
-   ],
+   "stage": "wayback_failed",
+   "dr": 17.0,
+   "refdomains": 1124,
+   "error": "HTTP 404 Not found",
+   "fails": [],
    "warns": [
-    "DR 17 (เกณฑ์ผ่อน)"
+    "DR 17 (เกณฑ์ผ่อน)",
+    "ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)"
    ],
-   "verdict": "fail"
+   "verdict": "pending"
   },
   {
    "domain": "northfieldpubliclibrary.org",
@@ -263,42 +52,11 @@
    "age": 20,
    "majestic_tf": 11,
    "majestic_rd": 59,
-   "dr": 14,
-   "stage": "done",
-   "auction_type": "Bid",
-   "first_seen": "20071012",
-   "last_active": "20260201",
-   "titles": [
-    [
-     "20260201",
-     "Northfield Public Library &#8211; Northfield Public Library Your Place"
-    ],
-    [
-     "20260101",
-     "Northfield Public Library &#8211; Northfield Public Library Your Place"
-    ],
-    [
-     "20181228",
-     "Northfield Public Library - HOME"
-    ],
-    [
-     "20160404",
-     "Northfield Public Library - HOME"
-    ],
-    [
-     "20130620",
-     "Dickinson Memorial Library: Northfield's Public Library"
-    ],
-    [
-     "20071012",
-     "Home"
-    ]
-   ],
-   "gambling_wayback": [],
-   "ext_redirects": {},
-   "wayback_checked": true,
+   "stage": "dr",
+   "dr": 13.0,
+   "refdomains": 743,
    "fails": [
-    "DR 14 (< 15)"
+    "DR 13 (< 15)"
    ],
    "warns": [],
    "verdict": "fail"
@@ -312,40 +70,9 @@
    "age": 12,
    "majestic_tf": 17,
    "majestic_rd": 60,
-   "dr": 11,
-   "stage": "done",
-   "auction_type": "Bid",
-   "first_seen": "20150925",
-   "last_active": "20260608",
-   "titles": [
-    [
-     "20260608",
-     "Washington NH Church"
-    ],
-    [
-     "20260512",
-     "Washington NH Church"
-    ],
-    [
-     "20240524",
-     "Home : Washington NH Seventh-day Adventist® Church Washington NH"
-    ],
-    [
-     "20220316",
-     "Home : Washington NH Seventh-day Adventist® Church Washington NH"
-    ],
-    [
-     "20190719",
-     "Home : Washington NH Seventh-day Adventist® Church Washington NH"
-    ],
-    [
-     "20151116",
-     "Washington, New Hampshire : Washington Seventh-day Adventist Church Washington NH"
-    ]
-   ],
-   "gambling_wayback": [],
-   "ext_redirects": {},
-   "wayback_checked": true,
+   "stage": "dr",
+   "dr": 11.0,
+   "refdomains": 701,
    "fails": [
     "DR 11 (< 15)"
    ],
@@ -361,44 +88,9 @@
    "age": 13,
    "majestic_tf": 14,
    "majestic_rd": 43,
+   "stage": "dr",
    "dr": 4.5,
-   "stage": "done",
-   "auction_type": "Bid",
-   "first_seen": "20131104",
-   "last_active": "20260614",
-   "titles": [
-    [
-     "20260614",
-     "- Maine Oral Health Coalition"
-    ],
-    [
-     "20260514",
-     "- Maine Oral Health Coalition"
-    ],
-    [
-     "20260411",
-     "- Maine Oral Health Coalition"
-    ],
-    [
-     "20240617",
-     "- Maine Oral Health Coalition"
-    ],
-    [
-     "20210613",
-     "Maine Oral Health Coalition"
-    ],
-    [
-     "20170717",
-     "Maine Oral Health Coalition - Home"
-    ],
-    [
-     "20131104",
-     "Maine Oral Health Coalition - Home"
-    ]
-   ],
-   "gambling_wayback": [],
-   "ext_redirects": {},
-   "wayback_checked": true,
+   "refdomains": 722,
    "fails": [
     "DR 4.5 (< 15)"
    ],
