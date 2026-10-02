@@ -162,7 +162,7 @@ function openD(dom){
   const rd=r.wayback_checked?(Object.keys(r.ext_redirects||{}).length?'bad':'ok'):'na';
   const br=r.brand_checked?(r.brand_keywords?.length?'ok':'mid'):'na';
   let act='na',actTxt='';
-  if(r.wayback_checked){const m=r.last_active?(Date.now()-new Date(d8(r.last_active)))/2.63e9:null;
+  if(r.wayback_checked&&C.active_within_months){const m=r.last_active?(Date.now()-new Date(d8(r.last_active)))/2.63e9:null;
     act=m==null?'bad':m<=C.active_within_months?'ok':'bad';actTxt=r.last_active?`ใช้งานล่าสุด ${d8(r.last_active)} (${m.toFixed(0)} เดือนก่อน)`:'ไม่พบช่วงที่ใช้งานจริง';}
   $('#drawer').innerHTML=`
     <div class="row" style="justify-content:space-between"><span class="badge b-${r.verdict}">${LABEL[r.verdict]}</span><button onclick="closeD()">ปิด</button></div>
@@ -203,7 +203,7 @@ const FIELDS=[
  ['prefilter.min_semrush_as','Semrush AS ต่ำสุด'],['prefilter.max_semrush_as','Semrush AS สูงสุด'],
  ['prefilter.max_price','ราคาสูงสุด USD'],['prefilter.max_candidates','จำนวนที่ส่งไปเช็กลึกสูงสุด'],['dr_min','DR ขั้นต่ำ'],['dr_min_relaxed','DR ขั้นต่ำ (เกณฑ์ผ่อน)'],
  ['quality_traffic_min','"เว็บใหญ่" = ทราฟฟิกอย่างน้อย'],['quality_min','จำนวน Backlink คุณภาพขั้นต่ำ'],
- ['quality_min_relaxed','Backlink คุณภาพ (เกณฑ์ผ่อน)'],['active_within_months','ใช้งานล่าสุดไม่เกิน (เดือน)'],['gambling_words','คำที่ถือว่าเป็นพนัน','list',null,'wide'],
+ ['quality_min_relaxed','Backlink คุณภาพ (เกณฑ์ผ่อน)'],['active_within_months','ใช้งานล่าสุดไม่เกิน (เดือน, 0 = ไม่เช็ก)'],['gambling_words','คำที่ถือว่าเป็นพนัน','list',null,'wide'],
 ];
 const getP=(o,p)=>p.split('.').reduce((a,k)=>a?.[k],o);
 const setP=(o,p,v)=>{const ks=p.split('.');ks.slice(0,-1).reduce((a,k)=>a[k],o)[ks.at(-1)]=v};

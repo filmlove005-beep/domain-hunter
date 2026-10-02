@@ -241,7 +241,7 @@ def judge(r, cfg):
             warns.append(f"Backlink คุณภาพ {q} (เกณฑ์ผ่อน)")
 
     la = r.get("last_active")
-    if r.get("wayback_checked"):
+    if r.get("wayback_checked") and cfg.get("active_within_months"):  # 0 = don't check activity
         if not la:
             fails.append("ไม่พบช่วงที่เว็บใช้งานจริง")
         else:
