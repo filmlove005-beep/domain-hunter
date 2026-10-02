@@ -1,0 +1,11 @@
+2026-10-02 10:30:43 ⚠ ไม่มี AHREFS_API_KEY ใน .env — ข้ามขั้น DR/Backlink/Keyword (เช็กแค่ Wayback)
+2026-10-02 10:30:43 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-02 10:30:53 ได้รายการทั้งหมด 981,071 โดเมน
+2026-10-02 10:30:55 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 5 โดเมน
+2026-10-02 10:30:55 เช็กเชิงลึก 5 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-02 10:31:40   firstadventistchurch.org: pass 
+2026-10-02 10:32:40   maineoralhealthcoalition.org: pass 
+2026-10-02 10:32:59   stopspanking.org: fail เว็บหยุดใช้งานมา 102 เดือน
+2026-10-02 10:33:14   factio.org: error URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+2026-10-02 10:33:41   northfieldpubliclibrary.org: pass 
+2026-10-02 10:33:41 เสร็จแล้ว: ผ่าน 3 โดเมน จาก 5 ที่เช็ก

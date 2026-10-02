@@ -127,9 +127,9 @@ async function load(){
 function render(){
   const R=DATA.results||[];
   const c=k=>R.filter(r=>r.verdict===k).length;
-  $('#meta').textContent=DATA.scanned_at
-    ?`สแกนล่าสุด ${new Date(DATA.scanned_at).toLocaleString('th-TH')} · ฟีด ${DATA.feed} (${fmt(DATA.feed_total)} โดเมน) · ผ่านกรองรอบแรก ${R.length}`
-    :'ยังไม่มีผลสแกน กด "สแกนใหม่"';
+  $('#meta').innerHTML=(DATA.scanned_at
+    ?`สแกนล่าสุด ${new Date(DATA.scanned_at).toLocaleString('th-TH')} · ฟีด ${esc(DATA.feed)} (${fmt(DATA.feed_total)} โดเมน) · ผ่านกรองรอบแรก ${R.length}`
+    :'ยังไม่มีผลสแกน กด "สแกนใหม่"')+(LIVE?'':' · <a href="scan_log.txt" target="_blank">ดู log การสแกน</a>');
   const S=[['all','ทั้งหมด',R.length],['pass','ผ่าน',c('pass')],['relaxed','ผ่าน (เกณฑ์ผ่อน)',c('relaxed')],['fail','ไม่ผ่าน',c('fail')],['pending','ยังไม่เช็กครบ',c('pending')]];
   $('#stats').innerHTML=S.map(([k,l,n])=>`<div class="stat ${FILTER===k?'on':''}" onclick="FILTER='${k}';render()"><b>${n}</b><span>${l}</span></div>`).join('');
   const rows=R.filter(r=>FILTER==='all'||r.verdict===FILTER);

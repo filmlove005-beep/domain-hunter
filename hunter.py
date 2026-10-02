@@ -253,8 +253,10 @@ def judge(r, cfg):
     if r.get("brand_checked") and not r.get("brand_keywords"):
         warns.append("ไม่พบ Brand Search ในอดีต")
 
+    if dr is None:
+        warns.append("ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)")
     r["fails"], r["warns"] = fails, warns
-    pending = r.get("stage") != "done"
+    pending = r.get("stage") != "done" or dr is None
     r["verdict"] = "fail" if fails else ("pending" if pending else ("relaxed" if warns else "pass"))
     return r
 
@@ -326,7 +328,13 @@ def run_scan(log=print):
 
     if ah:
         log("ดึง DR จาก Ahrefs ...")
-        drs = ah.domain_ratings([r["domain"] for r in results])
+        try:
+            drs = ah.domain_ratings([r["domain"] for r in results])
+            log(f"Ahrefs ใช้งานได้ ได้ DR {len(drs)} โดเมน")
+        except Exception as e:
+            log(f"❌ เรียก Ahrefs ไม่สำเร็จ: {describe(e)} — สแกนต่อแบบไม่มี Ahrefs")
+            ah = None
+    if ah:
         for r in results:
             t = drs.get(r["domain"], {})
             r["dr"], r["refdomains"] = t.get("domain_rating"), t.get("refdomains")
@@ -346,8 +354,10 @@ def run_scan(log=print):
             judge(r, cfg)
             log(f"  {r['domain']}: {r['verdict']} {'; '.join(r['fails'] or r['warns'])}")
         except Exception as e:
-            r["error"] = str(e)
-            log(f"  {r['domain']}: error {e}")
+            r["error"] = describe(e)
+            r["stage"] = "wayback_failed"
+            judge(r, cfg)
+            log(f"  {r['domain']}: error {r['error']}")
         return r
 
     with ThreadPoolExecutor(2) as ex:
@@ -367,5 +377,30 @@ def run_scan(log=print):
     return out
 
 
+def describe(e):
+    if isinstance(e, urllib.error.HTTPError):
+        try:
+            body = e.read().decode("utf-8", "ignore")[:300]
+        except Exception:
+            body = ""
+        return f"HTTP {e.code} {body}"
+    return f"{type(e).__name__}: {e}"
+
+
 if __name__ == "__main__":
-    run_scan()
+    # CLI / GitHub Actions: also keep the log in docs/scan_log.txt so it is visible on the website
+    import traceback
+    lines = []
+
+    def file_log(msg):
+        line = f"{datetime.now(timezone.utc):%Y-%m-%d %H:%M:%S} {msg}"
+        print(line, flush=True)
+        lines.append(line)
+        open(os.path.join(ROOT, "docs", "scan_log.txt"), "w", encoding="utf-8").write("\n".join(lines))
+
+    try:
+        run_scan(file_log)
+    except Exception as e:
+        file_log(f"❌ สแกนล้มเหลว: {describe(e)}")
+        file_log(traceback.format_exc())
+        raise SystemExit(1)
