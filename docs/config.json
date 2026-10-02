@@ -1,0 +1,18 @@
+{
+  "source_feed": "auctions_ending_tomorrow",
+  "min_age_years": 5,
+  "prefilter": {
+    "min_majestic_tf": 10,
+    "min_majestic_rd": 30,
+    "max_price": 0,
+    "tlds": [],
+    "max_candidates": 40
+  },
+  "dr_min": 30,
+  "dr_min_relaxed": 15,
+  "quality_traffic_min": 10000,
+  "quality_min": 20,
+  "quality_min_relaxed": 3,
+  "active_within_months": 12,
+  "gambling_words": ["casino", "slot", "poker", "baccarat", "betting", "sportsbook", "togel", "judi", "gacor", "toto", "ufabet", "pgslot", "บาคาร่า", "สล็อต", "คาสิโน", "แทงบอล", "หวย"]
+}

@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Domain Hunter</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f5f1;--panel:#fff;--ink:#1c1b18;--muted:#6f6c64;--line:#e4e1d8;
+  --pass:#1f7a4d;--pass-bg:#e3f2e9;--warn:#9a6a00;--warn-bg:#fbf0d4;--fail:#b3372b;--fail-bg:#f9e4e1;
+  --pend:#5a6270;--pend-bg:#eceef1;--accent:#0d5f73;--accent-ink:#fff;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){
+  --bg:#141412;--panel:#1d1c19;--ink:#ecebe6;--muted:#9c998f;--line:#2f2d28;
+  --pass:#5fcf95;--pass-bg:#173326;--warn:#e6b74a;--warn-bg:#3a2e12;--fail:#f08a7e;--fail-bg:#3d1d19;
+  --pend:#a9b0bb;--pend-bg:#262a30;--accent:#4fb3c9;--accent-ink:#0b1d22;}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 "IBM Plex Sans Thai",system-ui,sans-serif}
+.mono{font-family:"IBM Plex Mono",ui-monospace,monospace}
+header{display:flex;flex-wrap:wrap;gap:16px;align-items:end;justify-content:space-between;padding:28px 32px 12px;max-width:1400px;margin:auto}
+h1{margin:0;font-size:26px;font-weight:600;letter-spacing:-.01em}
+.sub{color:var(--muted);font-size:13px}
+main{max-width:1400px;margin:auto;padding:0 32px 60px}
+button{font:inherit;cursor:pointer;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:8px 14px}
+button.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:500}
+button:disabled{opacity:.5;cursor:wait}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:12px 0 20px}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;cursor:pointer}
+.stat.on{outline:2px solid var(--accent)}
+.stat b{display:block;font-size:28px;font-weight:600;font-family:"IBM Plex Mono",monospace}
+.stat span{color:var(--muted);font-size:13px}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:12px}
+details.panel{margin-bottom:16px}
+details.panel summary{padding:12px 16px;cursor:pointer;font-weight:500}
+.cfg{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px 20px;padding:4px 16px 16px}
+.cfg label{display:flex;flex-direction:column;font-size:13px;color:var(--muted);gap:4px}
+.cfg input,.cfg select{font:inherit;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:6px 8px}
+.cfg .wide{grid-column:1/-1}
+.tablewrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th{text-align:left;font-weight:500;color:var(--muted);font-size:12px;padding:10px 12px;border-bottom:1px solid var(--line);white-space:nowrap}
+td{padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+tbody tr{cursor:pointer}
+tbody tr:hover{background:var(--bg)}
+td.num{text-align:right;font-family:"IBM Plex Mono",monospace;white-space:nowrap}
+.badge{display:inline-block;font-size:12px;font-weight:500;padding:2px 8px;border-radius:99px;white-space:nowrap}
+.b-pass{color:var(--pass);background:var(--pass-bg)}.b-relaxed{color:var(--warn);background:var(--warn-bg)}
+.b-fail{color:var(--fail);background:var(--fail-bg)}.b-pending{color:var(--pend);background:var(--pend-bg)}
+.reason{font-size:12.5px;color:var(--muted);max-width:380px}
+.reason .f{color:var(--fail)}.reason .w{color:var(--warn)}
+.dom{font-weight:500}
+.log{font:12px/1.6 "IBM Plex Mono",monospace;max-height:220px;overflow:auto;padding:12px 16px;white-space:pre-wrap;margin-bottom:16px}
+/* drawer */
+.scrim{position:fixed;inset:0;background:#0006;display:none}
+.drawer{position:fixed;top:0;right:0;height:100%;width:min(640px,100%);background:var(--panel);border-left:1px solid var(--line);overflow:auto;transform:translateX(100%);transition:transform .2s;padding:24px}
+.open .scrim{display:block}.open .drawer{transform:none}
+.drawer h2{margin:0 0 4px;font-size:22px}
+.checks{list-style:none;padding:0;margin:16px 0}
+.checks li{display:flex;gap:10px;padding:8px 0;border-bottom:1px solid var(--line)}
+.checks .ic{width:22px;flex:none;font-weight:600}
+.ok{color:var(--pass)}.bad{color:var(--fail)}.mid{color:var(--warn)}.na{color:var(--muted)}
+h3{font-size:14px;margin:20px 0 8px;color:var(--muted);font-weight:500}
+.mini td{padding:5px 8px;font-size:13px}
+.chips span{display:inline-block;background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:1px 7px;margin:2px;font-size:12.5px}
+svg.spark{width:100%;height:70px}
+.empty{padding:40px;text-align:center;color:var(--muted)}
+@media(max-width:700px){header,main{padding-left:16px;padding-right:16px}.hide-sm{display:none}}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Domain Hunter</h1>
+    <div class="sub" id="meta">กำลังโหลด…</div>
+  </div>
+  <div class="row">
+    <button id="scanBtn" class="primary" onclick="startScan()">สแกนใหม่</button>
+  </div>
+</header>
+<main>
+  <div class="stats" id="stats"></div>
+  <pre class="panel log" id="log" hidden></pre>
+
+  <details class="panel" id="cfgPanel">
+    <summary>เกณฑ์การคัดโดเมน</summary>
+    <form class="cfg" id="cfg" onsubmit="saveCfg(event)"></form>
+  </details>
+
+  <div class="panel tablewrap">
+    <table>
+      <thead><tr>
+        <th>ผล</th><th>โดเมน</th><th style="text-align:right">อายุ</th><th style="text-align:right">DR</th>
+        <th style="text-align:right">BL คุณภาพ</th><th class="hide-sm" style="text-align:right">ราคา</th>
+        <th class="hide-sm" style="text-align:right">บิด</th><th>เหตุผล</th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+</main>
+<div id="dw"><div class="scrim" onclick="closeD()"></div><aside class="drawer" id="drawer"></aside></div>
+
+<script>
+const LABEL={pass:'ผ่าน',relaxed:'ผ่าน (เกณฑ์ผ่อน)',fail:'ไม่ผ่าน',pending:'ยังไม่เช็กครบ'};
+let DATA={results:[]},FILTER='all',CFG=null;
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fmt=n=>n==null?'–':Number(n).toLocaleString('en-US',{maximumFractionDigits:1});
+const d8=s=>s?`${s.slice(0,4)}-${s.slice(4,6)}-${s.slice(6,8)}`:'–';
+
+// LIVE = running via server.py (can scan + save criteria); otherwise static hosting (GitHub Pages)
+let LIVE=false;
+async function getJSON(api,file){
+  try{const r=await fetch(api);if(r.ok&&r.headers.get('content-type')?.includes('json')){LIVE=true;return r.json();}}catch(e){}
+  return (await fetch(file+'?t='+Date.now())).json();
+}
+async function load(){
+  DATA=await getJSON('/api/results','results.json');
+  CFG=await getJSON('/api/config','config.json');
+  renderCfg();render();
+  if(!LIVE){$('#scanBtn').hidden=true;
+    $('#saved').textContent='โหมดเว็บ: แก้เกณฑ์ได้ที่ config.json ใน GitHub (สแกนอัตโนมัติทุกวัน)';
+    $('#cfg button').hidden=true;}
+}
+function render(){
+  const R=DATA.results||[];
+  const c=k=>R.filter(r=>r.verdict===k).length;
+  $('#meta').textContent=DATA.scanned_at
+    ?`สแกนล่าสุด ${new Date(DATA.scanned_at).toLocaleString('th-TH')} · ฟีด ${DATA.feed} (${fmt(DATA.feed_total)} โดเมน) · ผ่านกรองรอบแรก ${R.length}`
+    :'ยังไม่มีผลสแกน กด "สแกนใหม่"';
+  const S=[['all','ทั้งหมด',R.length],['pass','ผ่าน',c('pass')],['relaxed','ผ่าน (เกณฑ์ผ่อน)',c('relaxed')],['fail','ไม่ผ่าน',c('fail')],['pending','ยังไม่เช็กครบ',c('pending')]];
+  $('#stats').innerHTML=S.map(([k,l,n])=>`<div class="stat ${FILTER===k?'on':''}" onclick="FILTER='${k}';render()"><b>${n}</b><span>${l}</span></div>`).join('');
+  const rows=R.filter(r=>FILTER==='all'||r.verdict===FILTER);
+  $('#rows').innerHTML=rows.length?rows.map((r,i)=>`<tr onclick="openD('${r.domain}')">
+    <td><span class="badge b-${r.verdict}">${LABEL[r.verdict]}</span></td>
+    <td class="dom">${esc(r.domain)}</td>
+    <td class="num">${r.age}</td><td class="num">${fmt(r.dr)}</td>
+    <td class="num">${r.quality_count==null?'–':r.quality_count>=100?'100+':r.quality_count}</td>
+    <td class="num hide-sm">$${fmt(r.price)}</td><td class="num hide-sm">${r.bids}</td>
+    <td class="reason">${(r.fails||[]).map(x=>`<div class="f">${esc(x)}</div>`).join('')}${(r.warns||[]).map(x=>`<div class="w">${esc(x)}</div>`).join('')}</td>
+  </tr>`).join(''):`<tr><td colspan="8" class="empty">ไม่มีรายการ</td></tr>`;
+}
+function check(state,label,detail){
+  const ic={ok:'✓',bad:'✕',mid:'!',na:'–'}[state];
+  return `<li><span class="ic ${state}">${ic}</span><div><div>${label}</div><div class="sub">${detail||''}</div></div></li>`;
+}
+function spark(h){
+  if(!h||!h.length)return '';
+  const max=Math.max(1,...h.map(x=>x[1])),W=600,H=60,step=W/Math.max(1,h.length-1);
+  const pts=h.map((x,i)=>`${(i*step).toFixed(1)},${(H-x[1]/max*H).toFixed(1)}`).join(' ');
+  return `<svg class="spark" viewBox="0 -4 ${W} ${H+8}" preserveAspectRatio="none"><polyline points="${pts}" fill="none" stroke="var(--accent)" stroke-width="2" vector-effect="non-scaling-stroke"/></svg>
+  <div class="sub row" style="justify-content:space-between"><span>${h[0][0]}</span><span>สูงสุด ${fmt(max)}/เดือน</span><span>${h[h.length-1][0]}</span></div>`;
+}
+function openD(dom){
+  const r=DATA.results.find(x=>x.domain===dom),C=CFG;
+  const dr=r.dr==null?'na':r.dr>=C.dr_min?'ok':r.dr>=C.dr_min_relaxed?'mid':'bad';
+  const q=r.quality_count==null?'na':r.quality_count>=C.quality_min?'ok':r.quality_count>=C.quality_min_relaxed?'mid':'bad';
+  const gw=r.wayback_checked?(r.gambling_wayback?.length?'bad':'ok'):'na';
+  const gk=r.brand_checked?(r.gambling_keywords?.length?'bad':'ok'):'na';
+  const rd=r.wayback_checked?(Object.keys(r.ext_redirects||{}).length?'bad':'ok'):'na';
+  const br=r.brand_checked?(r.brand_keywords?.length?'ok':'mid'):'na';
+  let act='na',actTxt='';
+  if(r.wayback_checked){const m=r.last_active?(Date.now()-new Date(d8(r.last_active)))/2.63e9:null;
+    act=m==null?'bad':m<=C.active_within_months?'ok':'bad';actTxt=r.last_active?`ใช้งานล่าสุด ${d8(r.last_active)} (${m.toFixed(0)} เดือนก่อน)`:'ไม่พบช่วงที่ใช้งานจริง';}
+  $('#drawer').innerHTML=`
+    <div class="row" style="justify-content:space-between"><span class="badge b-${r.verdict}">${LABEL[r.verdict]}</span><button onclick="closeD()">ปิด</button></div>
+    <h2>${esc(r.domain)}</h2>
+    <div class="sub">ราคา $${fmt(r.price)} · ${r.bids} บิด · จบ ${r.end_time?new Date(r.end_time).toLocaleString('th-TH'):'–'} ${r.link?`· <a href="${esc(r.link)}" target="_blank" rel="noopener">เปิดใน GoDaddy</a>`:''}</div>
+    <ul class="checks">
+      ${check(r.age>=C.min_age_years?'ok':'bad','อายุโดเมน',`${r.age} ปี · Wayback ครั้งแรก ${d8(r.first_seen)}`)}
+      ${check(act,'การเคลื่อนไหว / เพิ่งหมดอายุ',actTxt)}
+      ${check(gw,'ไม่เคยเป็นเว็บพนัน (หน้าแรกใน Wayback)',(r.gambling_wayback||[]).map(g=>`${d8(g[0])}: ${g[1].join(', ')}`).join(' · '))}
+      ${check(gk,'ไม่เคยติดคีย์เวิร์ดพนัน (Ahrefs)',(r.gambling_keywords||[]).slice(0,6).join(', '))}
+      ${check(rd,'ไม่เคย Redirect 301 ไปโดเมนอื่น',Object.entries(r.ext_redirects||{}).map(([h,m])=>`${h} (${m.length} ครั้ง ล่าสุด ${m[m.length-1]})`).join(' · '))}
+      ${check(br,'มี Brand Search ในอดีต',r.brand_checked?((r.brand_keywords||[]).slice(0,5).join(', ')||'ไม่พบ'):'')}
+      ${check(dr,'Domain Rating',`DR ${fmt(r.dr)} · Majestic TF ${r.majestic_tf}`)}
+      ${check(q,'Backlink คุณภาพ',`เว็บที่มีทราฟฟิก ≥ ${fmt(C.quality_traffic_min)}: ${r.quality_count==null?'–':r.quality_count>=100?'100+':r.quality_count} เว็บ${r.edu_wiki?.length?` · Wiki/edu/gov: ${r.edu_wiki.length}`:''}`)}
+    </ul>
+    ${r.traffic_history?`<h3>ทราฟฟิก Organic ย้อนหลัง (Ahrefs)</h3>${spark(r.traffic_history)}`:''}
+    ${r.edu_wiki?.length?`<h3>Wikipedia / .edu / .gov</h3><div class="chips">${r.edu_wiki.map(x=>`<span>${esc(x)}</span>`).join('')}</div>`:''}
+    ${r.quality_top?.length?`<h3>Backlink จากเว็บทราฟฟิกสูง</h3><table class="mini">${r.quality_top.map(x=>`<tr><td>${esc(x[0])}</td><td class="num">DR ${x[1]}</td><td class="num">${fmt(x[2])}</td></tr>`).join('')}</table>`:''}
+    ${r.top_keywords?.length?`<h3>คีย์เวิร์ดช่วงพีค ${r.peak_date||''}</h3><table class="mini">${r.top_keywords.map(k=>`<tr><td>${esc(k[0])}</td><td class="num">#${k[1]}</td><td class="num">${fmt(k[2])}</td></tr>`).join('')}</table>`:''}
+    ${r.titles?.length?`<h3>หน้าแรกใน Wayback</h3><table class="mini">${r.titles.map(t=>`<tr><td class="mono">${d8(t[0])}</td><td><a href="https://web.archive.org/web/${t[0]}/${esc(r.domain)}" target="_blank" rel="noopener">${esc(t[1]||'(ไม่มี title)')}</a></td></tr>`).join('')}</table>`:''}
+  `;
+  $('#dw').className='open';
+}
+function closeD(){$('#dw').className=''}
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeD()});
+
+const FIELDS=[
+ ['source_feed','ฟีดจาก GoDaddy','select',['auctions_ending_today','auctions_ending_tomorrow','all_expiring_auctions','closeout_listings','all_biddable_auctions']],
+ ['min_age_years','อายุโดเมนขั้นต่ำ (ปี)'],['prefilter.min_majestic_tf','Majestic TF ขั้นต่ำ (กรองรอบแรก)'],
+ ['prefilter.min_majestic_rd','Majestic Ref. Domains ขั้นต่ำ'],['prefilter.max_price','ราคาสูงสุด USD (0 = ไม่จำกัด)'],
+ ['prefilter.max_candidates','จำนวนที่ส่งไปเช็กลึกสูงสุด'],['dr_min','DR ขั้นต่ำ'],['dr_min_relaxed','DR ขั้นต่ำ (เกณฑ์ผ่อน)'],
+ ['quality_traffic_min','"เว็บใหญ่" = ทราฟฟิกอย่างน้อย'],['quality_min','จำนวน Backlink คุณภาพขั้นต่ำ'],
+ ['quality_min_relaxed','Backlink คุณภาพ (เกณฑ์ผ่อน)'],['active_within_months','ใช้งานล่าสุดไม่เกิน (เดือน)'],
+ ['prefilter.tlds','นามสกุลที่ต้องการ (คั่นด้วย , ว่าง = ทั้งหมด)','list'],['gambling_words','คำที่ถือว่าเป็นพนัน','list',null,'wide'],
+];
+const getP=(o,p)=>p.split('.').reduce((a,k)=>a?.[k],o);
+const setP=(o,p,v)=>{const ks=p.split('.');ks.slice(0,-1).reduce((a,k)=>a[k],o)[ks.at(-1)]=v};
+function renderCfg(){
+  $('#cfg').innerHTML=FIELDS.map(([p,l,t,opts,cls])=>{
+    const v=getP(CFG,p);
+    const inp=t==='select'?`<select name="${p}">${opts.map(o=>`<option ${o===v?'selected':''}>${o}</option>`).join('')}</select>`
+      :t==='list'?`<input name="${p}" value="${esc((v||[]).join(', '))}">`:`<input name="${p}" type="number" step="any" value="${v}">`;
+    return `<label class="${cls||''}">${l}${inp}</label>`;
+  }).join('')+`<div class="row wide"><button class="primary">บันทึกเกณฑ์</button><span class="sub" id="saved"></span></div>`;
+}
+async function saveCfg(e){
+  e.preventDefault();
+  for(const [p,,t] of FIELDS){const v=e.target.elements[p].value;
+    setP(CFG,p,t==='list'?v.split(',').map(s=>s.trim()).filter(Boolean):t==='select'?v:Number(v));}
+  await fetch('/api/config',{method:'POST',body:JSON.stringify(CFG)});
+  $('#saved').textContent='บันทึกแล้ว · มีผลในการสแกนครั้งถัดไป';render();
+}
+async function startScan(){
+  await fetch('/api/scan',{method:'POST'});poll();
+}
+async function poll(){
+  const s=await (await fetch('/api/status')).json();
+  $('#scanBtn').disabled=s.running;$('#scanBtn').textContent=s.running?'กำลังสแกน…':'สแกนใหม่';
+  if(s.log.length){$('#log').hidden=false;$('#log').textContent=s.log.join('\n');$('#log').scrollTop=1e9;}
+  if(s.running)setTimeout(poll,2000);else if(s.log.length)load();
+}
+load().then(()=>{if(LIVE)poll()});
+</script>
+</body>
+</html>

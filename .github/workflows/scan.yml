@@ -1,0 +1,36 @@
+name: Daily domain scan
+
+on:
+  schedule:
+    - cron: "0 15 * * *"   # 22:00 Thailand time (after GoDaddy refreshes its feed ~14:45 UTC)
+  workflow_dispatch:        # "Run workflow" button for a manual scan
+  push:
+    paths: ["config.json"]  # rescan when the criteria change
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Scan
+        env:
+          AHREFS_API_KEY: ${{ secrets.AHREFS_API_KEY }}
+        run: python hunter.py
+      - name: Publish results
+        run: |
+          git config user.name "domain-hunter-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/results.json docs/config.json
+          git diff --cached --quiet || git commit -m "scan results $(date -u +%F)"
+          git push
