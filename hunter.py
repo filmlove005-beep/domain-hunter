@@ -154,16 +154,16 @@ PARKED = re.compile(r"for sale|zum verkauf|domain.*(parked|expired)|apache2 .*de
 def wayback(domain, gamble_re):
     rows = json.loads(http(
         f"http://web.archive.org/cdx/search/cdx?url={domain}&output=json&fl=timestamp,statuscode"
-        f"&collapse=timestamp:6&filter=!statuscode:-", timeout=90) or b"[]")[1:]
+        f"&collapse=timestamp:6&filter=!statuscode:-", timeout=60, retries=2) or b"[]")[1:]
     ok = [r for r in rows if r[1] == "200"]
     res = {"snapshots": len(rows), "first_seen": rows[0][0][:8] if rows else None,
            "last_active": None, "gambling": [], "titles": [], "ext_redirects": {}}
 
     # sample homepage snapshots evenly + the newest ones, newest first
-    sample = sorted(set(map(tuple, ok[::max(1, len(ok) // 6)] + ok[-3:])), reverse=True)
+    sample = sorted(set(map(tuple, ok[::max(1, len(ok) // 4)] + ok[-2:])), reverse=True)
     for ts, _ in sample:
         try:
-            html = http(f"http://web.archive.org/web/{ts}id_/http://{domain}/", timeout=40).decode("utf-8", "ignore")
+            html = http(f"http://web.archive.org/web/{ts}id_/http://{domain}/", timeout=25, retries=1).decode("utf-8", "ignore")
         except Exception:
             continue
         m = re.search(r"<title[^>]*>(.*?)</title>", html, re.I | re.S)
@@ -180,9 +180,9 @@ def wayback(domain, gamble_re):
         def redirect_request(self, *a, **k):
             return None
     opener = urllib.request.build_opener(NoRedirect)
-    for ts, sc in [r for r in rows if r[1].startswith("3")][-15:]:
+    for ts, sc in [r for r in rows if r[1].startswith("3")][-8:]:
         try:
-            opener.open(urllib.request.Request(f"http://web.archive.org/web/{ts}id_/http://{domain}/", headers=UA), timeout=30)
+            opener.open(urllib.request.Request(f"http://web.archive.org/web/{ts}id_/http://{domain}/", headers=UA), timeout=20)
             continue
         except urllib.error.HTTPError as e:
             loc = e.headers.get("Location", "")
@@ -308,7 +308,9 @@ def run_scan(log=print):
             if r not in deep:
                 r["stage"] = "dr"
     else:
-        deep = results
+        deep = results[: cfg.get("max_deep_without_ahrefs", 15)]
+        for r in results[len(deep):]:
+            r["stage"] = "prefilter"
     log(f"เช็กเชิงลึก {len(deep)} โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...")
 
     def work(r):
