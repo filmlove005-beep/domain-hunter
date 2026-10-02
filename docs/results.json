@@ -1,7 +1,7 @@
 {
- "scanned_at": "2026-10-02T10:49:11+00:00",
+ "scanned_at": "2026-10-02T19:47:35+00:00",
  "feed": "expiring_auctions_non_adult",
- "feed_total": 981071,
+ "feed_total": 968416,
  "results": [
   {
    "domain": "stopspanking.org",
@@ -15,62 +15,67 @@
    "stage": "done",
    "dr": 25.0,
    "refdomains": 749,
-   "quality_count": 11,
+   "quality_count": 12,
    "quality_top": [
     [
      "substack.com",
      94.0,
-     8681703
+     8953238
     ],
     [
      "tulane.edu",
      84.0,
-     283353
+     271878
     ],
     [
      "patheos.com",
      80.0,
-     171096
+     172058
     ],
     [
      "buzzsprout.com",
      91.0,
-     153555
+     156496
     ],
     [
      "sitelike.org",
      63.0,
-     99801
+     101897
     ],
     [
      "siteprice.org",
      72.0,
-     67074
+     69248
     ],
     [
      "archspm.org",
      61.0,
-     63509
+     65393
     ],
     [
      "scoop.it",
      82.0,
-     31445
-    ],
-    [
-     "salto-youth.net",
-     73.0,
-     23613
+     30622
     ],
     [
      "kuow.org",
      78.0,
-     18989
+     18853
+    ],
+    [
+     "salto-youth.net",
+     73.0,
+     18191
+    ],
+    [
+     "madinamerica.com",
+     74.0,
+     11732
     ],
     [
      "socialpsychology.org",
      73.0,
-     11740
+     11575
     ]
    ],
    "edu_wiki": [
@@ -432,10 +437,6 @@
    "last_active": "20210805",
    "titles": [
     [
-     "20250925",
-     "Whatcom Web Site &#8211; Make a free website"
-    ],
-    [
      "20250607",
      "Whatcom Web Site &#8211; Make a free website"
     ],
@@ -462,98 +463,103 @@
    "fails": [],
    "warns": [
     "DR 25 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 11 (เกณฑ์ผ่อน)"
+    "Backlink คุณภาพ 12 (เกณฑ์ผ่อน)"
    ],
    "verdict": "relaxed"
   },
   {
    "domain": "factio.org",
    "link": "https://www.godaddy.com/domain-auctions/factio-org-727546288?isc=json_expiring",
-   "price": 30.0,
+   "price": 11.0,
    "bids": 0,
-   "end_time": "2026-10-01T16:09:00Z",
+   "end_time": "2026-10-02T16:09:00Z",
    "age": 9,
    "majestic_tf": 10,
    "majestic_rd": 153,
    "stage": "done",
    "dr": 17.0,
    "refdomains": 1124,
-   "quality_count": 15,
+   "quality_count": 16,
    "quality_top": [
     [
      "wikipedia.org",
      97.0,
-     2601322496
+     2555167232
     ],
     [
      "crunchbase.com",
      91.0,
-     4141034
+     4051214
     ],
     [
      "contactout.com",
      74.0,
-     207861
+     211384
     ],
     [
      "geocities.ws",
      77.0,
-     132894
+     131597
     ],
     [
      "sitelike.org",
      63.0,
-     99801
+     101897
     ],
     [
      "royalcaribbeanblog.com",
      63.0,
-     92100
+     94438
     ],
     [
      "siteprice.org",
      72.0,
-     67074
+     69248
     ],
     [
      "cdn-website.com",
      92.0,
-     66002
+     69228
     ],
     [
      "host.io",
      58.0,
-     51451
+     51456
     ],
     [
      "crowdspring.com",
      79.0,
-     43774
+     43431
     ],
     [
      "positivr.fr",
      71.0,
-     24656
+     24895
     ],
     [
      "acacamps.org",
      78.0,
-     22651
+     22607
     ],
     [
      "ewha.ac.kr",
      73.0,
-     22267
+     22138
     ],
     [
      "fiv.fr",
      49.0,
-     15531
+     15882
     ],
     [
      "animal-cross.org",
      39.0,
-     12555
+     12990
+    ],
+    [
+     "depecheveterinaire.com",
+     55.0,
+     10405
     ]
    ],
    "edu_wiki": [
@@ -847,7 +853,7 @@
    ],
    "warns": [
     "DR 17 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 15 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 16 (เกณฑ์ผ่อน)",
     "ไม่พบ Brand Search ในอดีต"
    ],
    "verdict": "fail"
@@ -866,24 +872,6 @@
    "refdomains": 743,
    "fails": [
     "DR 13 (< 15)"
-   ],
-   "warns": [],
-   "verdict": "fail"
-  },
-  {
-   "domain": "firstadventistchurch.org",
-   "link": "https://www.godaddy.com/domain-auctions/firstadventistchurch-org-727875053?isc=json_expiring",
-   "price": 110.0,
-   "bids": 5,
-   "end_time": "2026-10-01T16:44:00Z",
-   "age": 12,
-   "majestic_tf": 17,
-   "majestic_rd": 60,
-   "stage": "dr",
-   "dr": 11.0,
-   "refdomains": 701,
-   "fails": [
-    "DR 11 (< 15)"
    ],
    "warns": [],
    "verdict": "fail"
