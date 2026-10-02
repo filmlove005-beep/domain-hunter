@@ -284,9 +284,9 @@ def deep_check(r, ah, cfg, gamble_re):
             r["top_keywords"] = [[k["keyword"], k["best_position"], k.get("sum_traffic") or 0] for k in kws[:20]]
             r["gambling_keywords"] = [k["keyword"] for k in kws if gamble_re.search(k["keyword"])]
             b = brand_of(d)
-            r["brand_keywords"] = [k["keyword"] for k in kws
-                                   if len(b) >= 4 and (b in k["keyword"].replace(" ", "") or
-                                                       (len(k["keyword"]) >= 4 and k["keyword"].replace(" ", "") in b))]
+            # a brand search contains the whole name, e.g. "park grill chicago" or "stop spanking"
+            r["brand_keywords"] = list(dict.fromkeys(
+                k["keyword"] for k in kws if len(b) >= 4 and b in re.sub(r"[^a-z0-9]", "", k["keyword"].lower())))
             r["brand_checked"] = True
 
     wb = wayback(d, gamble_re)
