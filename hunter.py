@@ -144,7 +144,7 @@ class Ahrefs:
     def quality_refdomains(self, domain, min_traffic):
         where = {"and": [{"field": "traffic_domain", "is": ["gte", min_traffic]},
                          {"field": "is_spam", "is": ["eq", False]}]}
-        r = self.get("site-explorer/referring-domains", target=domain, mode="subdomains",
+        r = self.get("site-explorer/refdomains", target=domain, mode="subdomains",
                      history="live", select="domain,domain_rating,traffic_domain",
                      where=json.dumps(where), order_by="traffic_domain:desc", limit=100)
         return r.get("refdomains", [])
