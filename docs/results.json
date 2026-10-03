@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-02T19:47:35+00:00",
+ "scanned_at": "2026-10-03T11:25:01+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 968416,
  "results": [
@@ -14,7 +14,7 @@
    "majestic_rd": 47,
    "stage": "done",
    "dr": 25.0,
-   "refdomains": 749,
+   "refdomains": 746,
    "quality_count": 12,
    "quality_top": [
     [
@@ -436,6 +436,10 @@
    "first_seen": "20110905",
    "last_active": "20210805",
    "titles": [
+    [
+     "20250925",
+     "Whatcom Web Site &#8211; Make a free website"
+    ],
     [
      "20250607",
      "Whatcom Web Site &#8211; Make a free website"
