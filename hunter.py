@@ -365,12 +365,15 @@ def notify_webhook(r, mins_left, cfg=None):
             print(f"Discord webhook error: {e}")
 
     if tg_token and tg_chat:
-        try:
-            tg_url = f"https://api.telegram.org/bot{tg_token}/sendMessage"
-            payload = {"chat_id": tg_chat, "text": msg}
-            http(tg_url, data=json.dumps(payload).encode("utf-8"), headers={"Content-Type": "application/json"}, timeout=10)
-        except Exception as e:
-            print(f"Telegram notify error: {e}")
+        for attempt in range(3):
+            try:
+                tg_url = f"https://api.telegram.org/bot{tg_token}/sendMessage"
+                payload = {"chat_id": tg_chat, "text": msg}
+                http(tg_url, data=json.dumps(payload).encode("utf-8"), headers={"Content-Type": "application/json"}, timeout=25)
+                break
+            except Exception as e:
+                if attempt == 2:
+                    print(f"Telegram notify error: {e}")
 
     if line_token:
         try:
