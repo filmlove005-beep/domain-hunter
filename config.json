@@ -53,5 +53,12 @@
     "คาสิโน",
     "แทงบอล",
     "หวย"
-  ]
+  ],
+  "notify": {
+    "before_minutes": 20,
+    "discord_webhook_url": "",
+    "telegram_bot_token": "",
+    "telegram_chat_id": "",
+    "line_token": ""
+  }
 }

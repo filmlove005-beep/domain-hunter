@@ -64,6 +64,52 @@ class Handler(SimpleHTTPRequestHandler):
         pass
 
 
+
+def monitor_loop():
+    """คอยตรวจสอบทุก 30 วินาที: คัดโดเมนที่หมดเวลาออก และส่งแจ้งเตือนก่อน 20 นาที"""
+    import time
+    from datetime import timezone
+    notified = set()
+    while True:
+        time.sleep(30)
+        try:
+            p = hunter.RESULTS_PATH
+            if not os.path.exists(p):
+                continue
+            data = json.load(open(p, encoding="utf-8"))
+            results = data.get("results", [])
+            now = datetime.now(timezone.utc)
+            modified = False
+            active = []
+
+            for r in results:
+                end = r.get("end_time")
+                if end:
+                    try:
+                        end_dt = datetime.fromisoformat(end.replace("Z", "+00:00"))
+                        # 1. คัดรายการที่หมดเวลาประมูลแล้วออกไป
+                        if end_dt <= now:
+                            log(f"⌛ หมดเวลาประมูล: นำ {r['domain']} ออกจากตารางเรียบร้อย")
+                            modified = True
+                            continue
+                        # 2. แจ้งเตือนเมื่อเหลือเวลา 0-20 นาที
+                        diff_mins = (end_dt - now).total_seconds() / 60
+                        if 0 < diff_mins <= 20 and r["domain"] not in notified:
+                            notified.add(r["domain"])
+                            log(f"⏰ [เตือนประมูล] โดเมน {r['domain']} เหลือเวลาอีกประมาณ {int(diff_mins)} นาที!")
+                            hunter.notify_webhook(r, int(diff_mins))
+                    except Exception:
+                        pass
+                active.append(r)
+
+            if modified:
+                data["results"] = active
+                json.dump(data, open(p, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+        except Exception:
+            pass
+
+
 if __name__ == "__main__":
+    threading.Thread(target=monitor_loop, daemon=True).start()
     print(f"Dashboard: http://localhost:{PORT}")
     ThreadingHTTPServer(("127.0.0.1", PORT), Handler).serve_forever()

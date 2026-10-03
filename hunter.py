@@ -328,6 +328,59 @@ def gambling_regex(cfg):
     return re.compile("|".join(parts), re.I)
 
 
+
+def notify_webhook(r, mins_left, cfg=None):
+    """ส่งแจ้งเตือนผ่าน Discord Webhook / Telegram / LINE เมื่อใกล้หมดเวลาประมูล"""
+    cfg = cfg or load_config()
+    notify_cfg = cfg.get("notify") or {}
+    discord_url = os.environ.get("DISCORD_WEBHOOK_URL") or notify_cfg.get("discord_webhook_url")
+    tg_token = os.environ.get("TELEGRAM_BOT_TOKEN") or notify_cfg.get("telegram_bot_token")
+    tg_chat = os.environ.get("TELEGRAM_CHAT_ID") or notify_cfg.get("telegram_chat_id")
+    line_token = os.environ.get("LINE_NOTIFY_TOKEN") or notify_cfg.get("line_token")
+
+    domain = r.get("domain", "")
+    price = r.get("price", 0)
+    bids = r.get("bids", 0)
+    dr = r.get("dr", "–")
+    link = r.get("link") or f"https://www.godaddy.com/domain-auctions"
+    msg = f"⏰ [เตือนใกล้หมดเวลาประมูล] {domain}\nเหลือเวลาอีกประมาณ {mins_left} นาที!\nราคา: ${price:g} ({bids} บิด) · DR: {dr}\nลิงก์: {link}"
+
+    if discord_url:
+        try:
+            payload = {
+                "content": f"⏰ **แจ้งเตือนโดเมนใกล้หมดเวลาประมูล!**",
+                "embeds": [{
+                    "title": f"🔔 {domain}",
+                    "url": link,
+                    "color": 15105570,
+                    "fields": [
+                        {"name": "เวลาที่เหลือ", "value": f"⚡ อีก {mins_left} นาที", "inline": True},
+                        {"name": "ราคาปัจจุบัน", "value": f"${price:g} ({bids} บิด)", "inline": True},
+                        {"name": "DR", "value": str(dr), "inline": True}
+                    ]
+                }]
+            }
+            http(discord_url, data=json.dumps(payload).encode("utf-8"), headers={"Content-Type": "application/json"}, timeout=10)
+        except Exception as e:
+            print(f"Discord webhook error: {e}")
+
+    if tg_token and tg_chat:
+        try:
+            tg_url = f"https://api.telegram.org/bot{tg_token}/sendMessage"
+            payload = {"chat_id": tg_chat, "text": msg}
+            http(tg_url, data=json.dumps(payload).encode("utf-8"), headers={"Content-Type": "application/json"}, timeout=10)
+        except Exception as e:
+            print(f"Telegram notify error: {e}")
+
+    if line_token:
+        try:
+            line_url = "https://notify-api.line.me/api/notify"
+            body = urllib.parse.urlencode({"message": "\n" + msg}).encode("utf-8")
+            http(line_url, data=body, headers={"Authorization": f"Bearer {line_token}"}, timeout=10)
+        except Exception as e:
+            print(f"LINE notify error: {e}")
+
+
 def run_scan(log=print):
     load_env()
     cfg = load_config()
@@ -418,10 +471,34 @@ def run_scan(log=print):
     for r in this_passed:
         accumulated[r["domain"].lower()] = r
 
-    # บันทึกเฉพาะโดเมนที่ผ่านเกณฑ์เท่านั้น (ไม่บันทึกและไม่แสดงรายการที่ไม่ผ่าน)
-    final_results = list(accumulated.values())
+    # คัดเฉพาะโดเมนที่ผ่านเกณฑ์และยังไม่หมดเวลาประมูลเท่านั้น
+    final_results = []
+    for r in accumulated.values():
+        end = r.get("end_time")
+        if end:
+            try:
+                end_dt = datetime.fromisoformat(end.replace("Z", "+00:00"))
+                if end_dt <= now:
+                    continue  # หมดเวลาประมูลแล้ว คัดทิ้งทันที
+            except Exception:
+                pass
+        final_results.append(r)
+
     order = {"pass": 0, "relaxed": 1}
     final_results.sort(key=lambda r: (order.get(r.get("verdict"), 9), -(r.get("dr") or 0), -(r.get("majestic_tf") or 0)))
+
+    # ตรวจสอบรายการที่ใกล้หมดเวลาประมูลภายใน 20 นาที เพื่อส่งแจ้งเตือน
+    for r in final_results:
+        end = r.get("end_time")
+        if end:
+            try:
+                end_dt = datetime.fromisoformat(end.replace("Z", "+00:00"))
+                diff_mins = (end_dt - now).total_seconds() / 60
+                if 0 < diff_mins <= 20:
+                    log(f"⏰ [ใกล้หมดเวลา] {r['domain']} เหลืออีก {int(diff_mins)} นาที!")
+                    notify_webhook(r, int(diff_mins), cfg)
+            except Exception:
+                pass
 
     feed_val = cfg.get("source_feed", "expiring_auctions_non_adult")
     feed_label = feed_val if isinstance(feed_val, str) else ", ".join(feed_val)

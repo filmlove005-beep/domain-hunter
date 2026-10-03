@@ -49,6 +49,12 @@ td.num{text-align:right;font-family:"IBM Plex Mono",monospace;white-space:nowrap
 .badge{display:inline-block;font-size:12px;font-weight:500;padding:2px 8px;border-radius:99px;white-space:nowrap}
 .b-pass{color:var(--pass);background:var(--pass-bg)}.b-relaxed{color:var(--warn);background:var(--warn-bg)}
 .b-fail{color:var(--fail);background:var(--fail-bg)}.b-pending{color:var(--pend);background:var(--pend-bg)}
+.t-critical{color:#fff;background:#d93829;font-weight:600;animation:pulse 1.2s infinite;padding:3px 9px}
+.t-urgent{color:var(--warn);background:var(--warn-bg);font-weight:600;padding:2px 8px}
+.t-today{color:var(--accent);background:var(--panel);border:1px solid var(--line);font-weight:500;padding:2px 8px}
+.t-normal{color:var(--muted);background:var(--panel);border:1px solid var(--line);padding:2px 8px}
+@keyframes pulse{0%{opacity:1;transform:scale(1)}50%{opacity:.6;transform:scale(0.98)}100%{opacity:1;transform:scale(1)}}
+button.notif-on{background:var(--pass);border-color:var(--pass);color:#fff;font-weight:500}
 .reason{font-size:12.5px;color:var(--muted);max-width:380px}
 .reason .f{color:var(--fail)}.reason .w{color:var(--warn)}
 .dom{font-weight:500}
@@ -77,6 +83,7 @@ svg.spark{width:100%;height:70px}
     <div class="sub" id="meta">กำลังโหลด…</div>
   </div>
   <div class="row">
+    <button id="notifBtn" onclick="toggleNotifications()">🔕 เปิดแจ้งเตือน (เตือนก่อน 20 นาที)</button>
     <button id="scanBtn" class="primary" onclick="startScan()">สแกนใหม่</button>
   </div>
 </header>
@@ -94,7 +101,7 @@ svg.spark{width:100%;height:70px}
       <thead><tr>
         <th>ผล</th><th>โดเมน</th><th style="text-align:right">อายุ</th><th style="text-align:right">DR</th>
         <th style="text-align:right">BL คุณภาพ</th><th class="hide-sm" style="text-align:right">ราคา</th>
-        <th class="hide-sm" style="text-align:right">บิด</th><th>เหตุผล</th>
+        <th class="hide-sm" style="text-align:right">บิด</th><th>เวลาที่เหลือ</th><th>เหตุผล</th>
       </tr></thead>
       <tbody id="rows"></tbody>
     </table>
@@ -105,10 +112,143 @@ svg.spark{width:100%;height:70px}
 <script>
 const LABEL={pass:'ผ่าน',relaxed:'ผ่าน (เกณฑ์ผ่อน)',fail:'ไม่ผ่าน',pending:'ยังไม่เช็กครบ'};
 let DATA={results:[]},FILTER='all',CFG=null;
+let notifEnabled = localStorage.getItem('dh_notif') === 'true';
+let notifiedDomains = JSON.parse(localStorage.getItem('dh_notified') || '{}');
+
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const fmt=n=>n==null?'–':Number(n).toLocaleString('en-US',{maximumFractionDigits:1});
 const d8=s=>s?`${s.slice(0,4)}-${s.slice(4,6)}-${s.slice(6,8)}`:'–';
+
+// ตรวจสอบว่าหมดเวลาประมูลแล้วหรือยัง
+function isExpired(r){
+  if(!r.end_time) return false;
+  return new Date(r.end_time).getTime() <= Date.now();
+}
+
+// คำนวณเวลาที่เหลือจนจบการประมูล
+function timeRemaining(endIso){
+  if(!endIso) return {text:'–', status:'normal', mins:null};
+  const diffMs = new Date(endIso).getTime() - Date.now();
+  if(diffMs <= 0) return {text:'หมดเวลาแล้ว', status:'critical', mins:0};
+  const mins = Math.floor(diffMs / 60000);
+  const hours = Math.floor(mins / 60);
+  const days = Math.floor(hours / 24);
+
+  if(mins <= 20){
+    return {text:`⚡ อีก ${mins} นาที!`, status:'critical', mins};
+  }
+  if(mins < 60){
+    return {text:`อีก ${mins} นาที`, status:'urgent', mins};
+  }
+  if(hours < 24){
+    return {text:`อีก ${hours} ชม. ${mins%60} น.`, status:'today', mins};
+  }
+  return {text:`อีก ${days} วัน ${hours%24} ชม.`, status:'normal', mins};
+}
+
+// ระบบเสียงแจ้งเตือน Web Audio API (ไม่ต้องพึ่งไฟล์ภายนอก)
+function playSound(){
+  try{
+    const ctx = new (window.AudioContext || window.webkitAudioContext)();
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    osc.connect(gain);
+    gain.connect(ctx.destination);
+    osc.type = 'sine';
+    osc.frequency.setValueAtTime(587.33, ctx.currentTime);
+    osc.frequency.setValueAtTime(880, ctx.currentTime + 0.15);
+    gain.gain.setValueAtTime(0.25, ctx.currentTime);
+    gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.45);
+    osc.start(ctx.currentTime);
+    osc.stop(ctx.currentTime + 0.45);
+  }catch(e){}
+}
+
+function updateNotifBtn(){
+  const btn = $('#notifBtn');
+  if(!btn) return;
+  if(!('Notification' in window)){
+    btn.hidden = true;
+    return;
+  }
+  if(Notification.permission === 'granted' && notifEnabled){
+    btn.textContent = '🔔 เปิดแจ้งเตือนอยู่ (เตือนก่อน 20 นาที)';
+    btn.className = 'notif-on';
+  } else {
+    btn.textContent = '🔕 เปิดแจ้งเตือน (เตือนก่อน 20 นาที)';
+    btn.className = '';
+  }
+}
+
+async function toggleNotifications(){
+  if(!('Notification' in window)){
+    alert('เบราว์เซอร์นี้ไม่รองรับ Notifications API');
+    return;
+  }
+  if(Notification.permission !== 'granted'){
+    const perm = await Notification.requestPermission();
+    if(perm !== 'granted'){
+      alert('กรุณากดอนุญาตการแจ้งเตือน (Allow Notification) ในเบราว์เซอร์');
+      return;
+    }
+  }
+  notifEnabled = !notifEnabled;
+  localStorage.setItem('dh_notif', notifEnabled);
+  updateNotifBtn();
+  if(notifEnabled){
+    playSound();
+    new Notification('Domain Hunter: เปิดระบบแจ้งเตือนแล้ว', {
+      body: 'ระบบจะส่งเสียงและแจ้งเตือนก่อนถึงเวลาจบประมูล 20 นาที',
+      icon: 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">🔔</text></svg>'
+    });
+    checkExpiringAlerts();
+  }
+}
+
+// ตรวจสอบโดเมนที่ใกล้หมดเวลาภายใน 20 นาที
+function checkExpiringAlerts(){
+  const R = DATA.results || [];
+  const now = Date.now();
+  let urgentCount = 0;
+
+  for(const r of R){
+    if(!r.end_time || r.verdict === 'fail') continue;
+    const diffMs = new Date(r.end_time).getTime() - now;
+    const diffMins = diffMs / 60000;
+
+    // แจ้งเตือนเมื่อเหลือเวลา 0 ถึง 20 นาที
+    if(diffMins > 0 && diffMins <= 20){
+      urgentCount++;
+      const last = notifiedDomains[r.domain];
+      // เตือน 1 ครั้งต่อโดเมน
+      if(!last || now - last > 30 * 60 * 1000){
+        notifiedDomains[r.domain] = now;
+        localStorage.setItem('dh_notified', JSON.stringify(notifiedDomains));
+
+        if(notifEnabled && 'Notification' in window && Notification.permission === 'granted'){
+          playSound();
+          const n = new Notification(`⏰ อีก ${Math.ceil(diffMins)} นาทีหมดเวลา! ${r.domain}`, {
+            body: `ราคา: $${fmt(r.price)} · ${r.bids||0} บิด · DR ${fmt(r.dr)}
+คลิกเพื่อเปิดหน้า GoDaddy ทันที!`,
+            requireInteraction: true,
+            icon: 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">⚡</text></svg>'
+          });
+          n.onclick = () => {
+            window.focus();
+            if(r.link) window.open(r.link, '_blank');
+          };
+        }
+      }
+    }
+  }
+
+  if(urgentCount > 0){
+    document.title = `(${urgentCount}) ⏰ ใกล้หมดเวลา! - Domain Hunter`;
+  } else {
+    document.title = 'Domain Hunter';
+  }
+}
 
 // LIVE = running via server.py (can scan + save criteria); otherwise static hosting (GitHub Pages)
 let LIVE=false;
@@ -119,28 +259,35 @@ async function getJSON(api,file){
 async function load(){
   DATA=await getJSON('/api/results','results.json');
   CFG=await getJSON('/api/config','config.json');
+  updateNotifBtn();
   renderCfg();render();
+  checkExpiringAlerts();
   if(!LIVE){$('#scanBtn').hidden=true;
-    $('#saved').textContent='โหมดเว็บ: แก้เกณฑ์ได้ที่ config.json ใน GitHub (สแกนอัตโนมัติทุกวัน)';
+    $('#saved').textContent='โหมดเว็บ: แก้เกณฑ์ได้ที่ config.json ใน GitHub (สแกนอัตโนมัติทุก 6 ชม.)';
     $('#cfg button').hidden=true;}
 }
 function render(){
-  const R=(DATA.results||[]).filter(r=>r.verdict!=='fail');
+  // กรองรายการที่ไม่ผ่าน และ รายการที่หมดเวลาประมูลแล้วออกไปทั้งหมด
+  const R=(DATA.results||[]).filter(r=>r.verdict!=='fail' && !isExpired(r));
   const c=k=>R.filter(r=>r.verdict===k).length;
   $('#meta').innerHTML=(DATA.scanned_at
-    ?`สแกนล่าสุด ${new Date(DATA.scanned_at).toLocaleString('th-TH')} · ฟีด ${esc(DATA.feed)} (${fmt(DATA.feed_total)} โดเมน) · โดเมนที่ผ่านเกณฑ์ ${R.length} รายการ`
+    ?`สแกนล่าสุด ${new Date(DATA.scanned_at).toLocaleString('th-TH')} · ฟีด ${esc(DATA.feed)} (${fmt(DATA.feed_total)} โดเมน) · โดเมนที่กำลังประมูล ${R.length} รายการ`
     :'ยังไม่มีผลสแกน กด "สแกนใหม่"')+(LIVE?'':' · <a href="scan_log.txt" target="_blank">ดู log การสแกน</a>');
   const S=[['all','ทั้งหมดที่ผ่าน',R.length],['pass','ผ่านเกณฑ์มาตรฐาน',c('pass')],['relaxed','ผ่าน (เกณฑ์ผ่อน)',c('relaxed')]];
   $('#stats').innerHTML=S.map(([k,l,n])=>`<div class="stat ${FILTER===k?'on':''}" onclick="FILTER='${k}';render()"><b>${n}</b><span>${l}</span></div>`).join('');
   const rows=R.filter(r=>FILTER==='all'||r.verdict===FILTER);
-  $('#rows').innerHTML=rows.length?rows.map((r,i)=>`<tr onclick="openD('${r.domain}')">
-    <td><span class="badge b-${r.verdict}">${LABEL[r.verdict]}</span></td>
-    <td class="dom">${esc(r.domain)}</td>
-    <td class="num">${r.age}</td><td class="num">${fmt(r.dr)}</td>
-    <td class="num">${r.quality_count==null?'–':r.quality_count>=100?'100+':r.quality_count}</td>
-    <td class="num hide-sm">$${fmt(r.price)}</td><td class="num hide-sm">${r.bids}</td>
-    <td class="reason">${(r.warns||[]).map(x=>`<div class="w">${esc(x)}</div>`).join('')}</td>
-  </tr>`).join(''):`<tr><td colspan="8" class="empty">ยังไม่มีโดเมนที่ผ่านเกณฑ์ในระบบ (ระบบจะสแกนและสะสมอัตโนมัติ)</td></tr>`;
+  $('#rows').innerHTML=rows.length?rows.map((r,i)=>{
+    const tr = timeRemaining(r.end_time);
+    return `<tr onclick="openD('${r.domain}')">
+      <td><span class="badge b-${r.verdict}">${LABEL[r.verdict]}</span></td>
+      <td class="dom">${esc(r.domain)}</td>
+      <td class="num">${r.age}</td><td class="num">${fmt(r.dr)}</td>
+      <td class="num">${r.quality_count==null?'–':r.quality_count>=100?'100+':r.quality_count}</td>
+      <td class="num hide-sm">$${fmt(r.price)}</td><td class="num hide-sm">${r.bids}</td>
+      <td><span class="badge t-${tr.status}" title="${r.end_time?new Date(r.end_time).toLocaleString('th-TH'):''}">${tr.text}</span></td>
+      <td class="reason">${(r.warns||[]).map(x=>`<div class="w">${esc(x)}</div>`).join('')}</td>
+    </tr>`;
+  }).join(''):`<tr><td colspan="9" class="empty">ไม่มีโดเมนที่ผ่านเกณฑ์ที่กำลังประมูลอยู่ในขณะนี้ (ระบบจะสแกนและสะสมอัตโนมัติ)</td></tr>`;
 }
 function check(state,label,detail){
   const ic={ok:'✓',bad:'✕',mid:'!',na:'–'}[state];
@@ -153,6 +300,25 @@ function spark(h){
   return `<svg class="spark" viewBox="0 -4 ${W} ${H+8}" preserveAspectRatio="none"><polyline points="${pts}" fill="none" stroke="var(--accent)" stroke-width="2" vector-effect="non-scaling-stroke"/></svg>
   <div class="sub row" style="justify-content:space-between"><span>${h[0][0]}</span><span>สูงสุด ${fmt(max)}/เดือน</span><span>${h[h.length-1][0]}</span></div>`;
 }
+
+// อัปเดตเวลานับถอยหลังและตรวจเช็คการแจ้งเตือนทุก 10 วินาที
+setInterval(()=>{
+  render();
+  checkExpiringAlerts();
+}, 10000);
+
+// ดึงผลลัพธ์ใหม่จากเซิร์ฟเวอร์/GitHub Pages ทุก 60 วินาที
+setInterval(async ()=>{
+  try{
+    const fresh = await getJSON('/api/results','results.json');
+    if(fresh && fresh.scanned_at !== DATA.scanned_at){
+      DATA = fresh;
+      render();
+      checkExpiringAlerts();
+    }
+  }catch(e){}
+}, 60000);
+
 function openD(dom){
   const r=DATA.results.find(x=>x.domain===dom),C=CFG;
   const dr=r.dr==null?'na':r.dr>=C.dr_min?'ok':r.dr>=C.dr_min_relaxed?'mid':'bad';
