@@ -125,12 +125,12 @@ async function load(){
     $('#cfg button').hidden=true;}
 }
 function render(){
-  const R=DATA.results||[];
+  const R=(DATA.results||[]).filter(r=>r.verdict!=='fail');
   const c=k=>R.filter(r=>r.verdict===k).length;
   $('#meta').innerHTML=(DATA.scanned_at
-    ?`สแกนล่าสุด ${new Date(DATA.scanned_at).toLocaleString('th-TH')} · ฟีด ${esc(DATA.feed)} (${fmt(DATA.feed_total)} โดเมน) · ผ่านกรองรอบแรก ${R.length}`
+    ?`สแกนล่าสุด ${new Date(DATA.scanned_at).toLocaleString('th-TH')} · ฟีด ${esc(DATA.feed)} (${fmt(DATA.feed_total)} โดเมน) · โดเมนที่ผ่านเกณฑ์ ${R.length} รายการ`
     :'ยังไม่มีผลสแกน กด "สแกนใหม่"')+(LIVE?'':' · <a href="scan_log.txt" target="_blank">ดู log การสแกน</a>');
-  const S=[['all','ทั้งหมด',R.length],['pass','ผ่าน',c('pass')],['relaxed','ผ่าน (เกณฑ์ผ่อน)',c('relaxed')],['fail','ไม่ผ่าน',c('fail')],['pending','ยังไม่เช็กครบ',c('pending')]];
+  const S=[['all','ทั้งหมดที่ผ่าน',R.length],['pass','ผ่านเกณฑ์มาตรฐาน',c('pass')],['relaxed','ผ่าน (เกณฑ์ผ่อน)',c('relaxed')]];
   $('#stats').innerHTML=S.map(([k,l,n])=>`<div class="stat ${FILTER===k?'on':''}" onclick="FILTER='${k}';render()"><b>${n}</b><span>${l}</span></div>`).join('');
   const rows=R.filter(r=>FILTER==='all'||r.verdict===FILTER);
   $('#rows').innerHTML=rows.length?rows.map((r,i)=>`<tr onclick="openD('${r.domain}')">
@@ -139,8 +139,8 @@ function render(){
     <td class="num">${r.age}</td><td class="num">${fmt(r.dr)}</td>
     <td class="num">${r.quality_count==null?'–':r.quality_count>=100?'100+':r.quality_count}</td>
     <td class="num hide-sm">$${fmt(r.price)}</td><td class="num hide-sm">${r.bids}</td>
-    <td class="reason">${(r.fails||[]).map(x=>`<div class="f">${esc(x)}</div>`).join('')}${(r.warns||[]).map(x=>`<div class="w">${esc(x)}</div>`).join('')}</td>
-  </tr>`).join(''):`<tr><td colspan="8" class="empty">ไม่มีรายการ</td></tr>`;
+    <td class="reason">${(r.warns||[]).map(x=>`<div class="w">${esc(x)}</div>`).join('')}</td>
+  </tr>`).join(''):`<tr><td colspan="8" class="empty">ยังไม่มีโดเมนที่ผ่านเกณฑ์ในระบบ (ระบบจะสแกนและสะสมอัตโนมัติ)</td></tr>`;
 }
 function check(state,label,detail){
   const ic={ok:'✓',bad:'✕',mid:'!',na:'–'}[state];
@@ -190,7 +190,7 @@ function closeD(){$('#dw').className=''}
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeD()});
 
 const FIELDS=[
- ['source_feed','ฟีดจาก GoDaddy','select',['expiring_auctions_non_adult','auctions_ending_today','auctions_ending_tomorrow','all_expiring_auctions','closeout_listings','all_biddable_auctions']],
+ ['source_feed','ฟีดจาก GoDaddy','select',['all_feeds','expiring_auctions_non_adult','auctions_ending_today','auctions_ending_tomorrow','all_expiring_auctions','closeout_listings','all_biddable_auctions']],
  ['prefilter.auction_types','ประเภท (Bid = ประมูล, BuyNow = ซื้อเลย)','list'],
  ['prefilter.tlds','นามสกุลที่ต้องการ (คั่นด้วย , ว่าง = ทั้งหมด)','list'],
  ['prefilter.no_digits','ไม่มีตัวเลข','bool'],['prefilter.no_hyphens','ไม่มียัติภังค์ (-)','bool'],

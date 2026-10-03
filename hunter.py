@@ -71,8 +71,32 @@ def download_feed(name, log):
     with zipfile.ZipFile(io.BytesIO(raw)) as z:
         doc = json.loads(z.read(z.namelist()[0]).decode("utf-8-sig"))
     items = doc["data"] if isinstance(doc, dict) else doc
-    log(f"ได้รายการทั้งหมด {len(items):,} โดเมน")
+    log(f"ได้รายการ {name}: {len(items):,} โดเมน")
     return items
+
+
+def fetch_all_items(feed_config, log):
+    if feed_config in ("all_feeds", "all"):
+        feeds = ["expiring_auctions_non_adult", "closeout_listings", "all_biddable_auctions"]
+    elif isinstance(feed_config, str):
+        feeds = [feed_config]
+    else:
+        feeds = list(feed_config)
+
+    all_items = []
+    seen = set()
+    for feed_name in feeds:
+        try:
+            items = download_feed(feed_name, log)
+            for it in items:
+                name = (it.get("domainName") or "").strip().lower()
+                if name and name not in seen:
+                    seen.add(name)
+                    all_items.append(it)
+        except Exception as e:
+            log(f"⚠ โหลดฟีด {feed_name} ไม่สำเร็จ: {e}")
+    log(f"รวมโดเมนจากทุกฟีด: {len(all_items):,} โดเมน (ไม่ซ้ำ)")
+    return all_items
 
 
 def prefilter(items, cfg):
@@ -313,7 +337,7 @@ def run_scan(log=print):
     if not ah:
         log("⚠ ไม่มี AHREFS_API_KEY ใน .env — ข้ามขั้น DR/Backlink/Keyword (เช็กแค่ Wayback)")
 
-    items = download_feed(cfg["source_feed"], log)
+    items = fetch_all_items(cfg.get("source_feed", "expiring_auctions_non_adult"), log)
     cands = prefilter(items, cfg)
     log(f"กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ {len(cands)} โดเมน")
 
@@ -366,14 +390,46 @@ def run_scan(log=print):
         if r not in deep:
             judge(r, cfg)
 
-    order = {"pass": 0, "relaxed": 1, "pending": 2, "fail": 3}
-    results.sort(key=lambda r: (order[r["verdict"]], -(r.get("dr") or 0)))
-    out = {"scanned_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-           "feed": cfg["source_feed"], "feed_total": len(items), "results": results}
+    # กรองเฉพาะโดเมนที่ผ่านเกณฑ์ (pass หรือ relaxed) ในรอบนี้
+    this_passed = [r for r in results if r.get("verdict") in ("pass", "relaxed")]
+
+    # สะสมผลลัพธ์จากรอบก่อนหน้าที่ยังไม่หมดเวลาประมูล
+    accumulated = {}
+    now = datetime.now(timezone.utc)
+    if os.path.exists(RESULTS_PATH):
+        try:
+            old_data = json.load(open(RESULTS_PATH, "r", encoding="utf-8"))
+            for old_r in old_data.get("results", []):
+                if old_r.get("verdict") in ("pass", "relaxed"):
+                    # ตรวจสอบว่าหมดเวลาประมูลหรือยัง (ถ้ามี end_time)
+                    end = old_r.get("end_time")
+                    if end:
+                        try:
+                            end_dt = datetime.fromisoformat(end.replace("Z", "+00:00"))
+                            if end_dt < now:
+                                continue  # ประมูลจบแล้ว คัดออก
+                        except Exception:
+                            pass
+                    accumulated[old_r["domain"].lower()] = old_r
+        except Exception as e:
+            log(f"⚠ อ่านผลสแกนเดิมไม่สำเร็จ: {e}")
+
+    # รวมผลลัพธ์รอบล่าสุดเข้ากับที่สะสมไว้
+    for r in this_passed:
+        accumulated[r["domain"].lower()] = r
+
+    # บันทึกเฉพาะโดเมนที่ผ่านเกณฑ์เท่านั้น (ไม่บันทึกและไม่แสดงรายการที่ไม่ผ่าน)
+    final_results = list(accumulated.values())
+    order = {"pass": 0, "relaxed": 1}
+    final_results.sort(key=lambda r: (order.get(r.get("verdict"), 9), -(r.get("dr") or 0), -(r.get("majestic_tf") or 0)))
+
+    feed_val = cfg.get("source_feed", "expiring_auctions_non_adult")
+    feed_label = feed_val if isinstance(feed_val, str) else ", ".join(feed_val)
+    out = {"scanned_at": now.isoformat(timespec="seconds"),
+           "feed": feed_label, "feed_total": len(items), "results": final_results}
     json.dump(out, open(RESULTS_PATH, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     json.dump(cfg, open(os.path.join(ROOT, "docs", "config.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
-    n = sum(r["verdict"] in ("pass", "relaxed") for r in results)
-    log(f"เสร็จแล้ว: ผ่าน {n} โดเมน จาก {len(results)} ที่เช็ก")
+    log(f"เสร็จแล้ว: ผ่านสะสม {len(final_results)} โดเมน (รอบนี้พบใหม่ {len(this_passed)} โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน")
     return out
 
 
