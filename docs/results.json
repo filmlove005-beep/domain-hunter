@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-03T11:25:01+00:00",
+ "scanned_at": "2026-10-03T14:05:37+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 968416,
  "results": [
@@ -20,22 +20,22 @@
     [
      "substack.com",
      94.0,
-     8953238
+     9037331
     ],
     [
      "tulane.edu",
      84.0,
-     271878
-    ],
-    [
-     "patheos.com",
-     80.0,
-     172058
+     270869
     ],
     [
      "buzzsprout.com",
      91.0,
-     156496
+     176766
+    ],
+    [
+     "patheos.com",
+     80.0,
+     167897
     ],
     [
      "sitelike.org",
@@ -43,39 +43,39 @@
      101897
     ],
     [
-     "siteprice.org",
-     72.0,
-     69248
-    ],
-    [
      "archspm.org",
      61.0,
-     65393
+     66758
+    ],
+    [
+     "siteprice.org",
+     72.0,
+     66239
     ],
     [
      "scoop.it",
      82.0,
-     30622
+     32376
     ],
     [
      "kuow.org",
      78.0,
-     18853
+     22191
     ],
     [
      "salto-youth.net",
      73.0,
-     18191
-    ],
-    [
-     "madinamerica.com",
-     74.0,
-     11732
+     16768
     ],
     [
      "socialpsychology.org",
      73.0,
-     11575
+     11730
+    ],
+    [
+     "madinamerica.com",
+     74.0,
+     11526
     ]
    ],
    "edu_wiki": [
@@ -436,10 +436,6 @@
    "first_seen": "20110905",
    "last_active": "20210805",
    "titles": [
-    [
-     "20250925",
-     "Whatcom Web Site &#8211; Make a free website"
-    ],
     [
      "20250607",
      "Whatcom Web Site &#8211; Make a free website"
