@@ -12,7 +12,6 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import zipfile
-from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -315,7 +314,19 @@ def deep_check(r, ah, cfg, gamble_re):
                 k["keyword"] for k in kws if len(b) >= 4 and b in re.sub(r"[^a-z0-9]", "", k["keyword"].lower())))
             r["brand_checked"] = True
 
-    wb = wayback(d, gamble_re)
+    return wayback_check(r, gamble_re)
+
+
+def wayback_check(r, gamble_re):
+    """แยกออกมาเพื่อให้ลองใหม่ได้โดยไม่ต้องเรียก Ahrefs ซ้ำ (เสียโควต้า)"""
+    d = r["domain"]
+    try:
+        wb = wayback(d, gamble_re)
+    except Exception as e:
+        r["error"] = describe(e)
+        r["stage"] = "wayback_failed"
+        return r
+    r.pop("error", None)
     # no snapshot page could be fetched although snapshots exist -> Wayback throttled us; don't judge on it
     fetched = bool(wb["titles"]) or wb["snapshots"] == 0
     r.update(first_seen=wb["first_seen"], last_active=wb["last_active"], titles=wb["titles"],
@@ -386,6 +397,26 @@ def notify_webhook(r, mins_left, cfg=None):
             print(f"LINE notify error: {e}")
 
 
+def auction_ended(r, now):
+    end = r.get("end_time")
+    if not end:
+        return False
+    try:
+        return datetime.fromisoformat(end.replace("Z", "+00:00")) <= now
+    except ValueError:
+        return False
+
+
+def load_wayback_retry():
+    """โดเมนที่ Wayback ไม่ตอบในรอบก่อน (เก็บไว้ใน results.json พร้อมข้อมูล Ahrefs ที่ดึงแล้ว)"""
+    if not os.path.exists(RESULTS_PATH):
+        return []
+    try:
+        return json.load(open(RESULTS_PATH, encoding="utf-8")).get("wayback_retry", [])
+    except Exception:
+        return []
+
+
 def run_scan(log=print):
     load_env()
     cfg = load_config()
@@ -428,25 +459,53 @@ def run_scan(log=print):
         deep = results[: cfg.get("max_deep_without_ahrefs", 15)]
         for r in results[len(deep):]:
             r["stage"] = "prefilter"
-    log(f"เช็กเชิงลึก {len(deep)} โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...")
+    def report(r):
+        if r.get("stage") == "wayback_failed":
+            log(f"  {r['domain']}: Wayback ไม่ตอบ {r.get('error', '')}")
+        else:
+            log(f"  {r['domain']}: {r['verdict']} {'; '.join(r['fails'] or r['warns'])}")
 
-    def work(r):
+    # โดเมนที่ Wayback ล้มเหลวจากรอบก่อน: ข้อมูล Ahrefs มีแล้ว เช็กแค่ Wayback ใหม่
+    now = datetime.now(timezone.utc)
+    this_round = {r["domain"] for r in deep}
+    carried = [r for r in load_wayback_retry() if r["domain"] not in this_round and not auction_ended(r, now)]
+    if carried:
+        log(f"ลอง Wayback ใหม่ {len(carried)} โดเมนที่ค้างจากรอบก่อน ...")
+        for r in carried:
+            wayback_check(r, gamble_re)
+            judge(r, cfg)
+            report(r)
+            time.sleep(5)
+
+    log(f"เช็กเชิงลึก {len(deep)} โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...")
+    # ทีละโดเมน: Wayback ปฏิเสธการเชื่อมต่อ (Connection refused) เมื่อยิงพร้อมกันหลายตัว
+    for r in deep:
         try:
             deep_check(r, ah, cfg, gamble_re)
-            judge(r, cfg)
-            log(f"  {r['domain']}: {r['verdict']} {'; '.join(r['fails'] or r['warns'])}")
-        except Exception as e:
+        except Exception as e:  # Ahrefs ล้มเหลว
             r["error"] = describe(e)
-            r["stage"] = "wayback_failed"
-            judge(r, cfg)
-            log(f"  {r['domain']}: error {r['error']}")
-        return r
+            r["stage"] = "ahrefs_failed"
+        judge(r, cfg)
+        report(r)
+        time.sleep(5)
 
-    with ThreadPoolExecutor(2) as ex:
-        list(ex.map(work, deep))
+    failed = [r for r in deep + carried if r.get("stage") == "wayback_failed"]
+    if failed:
+        log(f"รอ Wayback 2 นาที แล้วลองใหม่ {len(failed)} โดเมน ...")
+        time.sleep(120)
+        for r in failed:
+            wayback_check(r, gamble_re)
+            judge(r, cfg)
+            report(r)
+            time.sleep(10)
+    still_failed = [r for r in deep + carried if r.get("stage") == "wayback_failed"]
+    if still_failed:
+        log(f"⚠ Wayback ยังไม่ตอบ {len(still_failed)} โดเมน — จะลองใหม่รอบสแกนถัดไป")
+
     for r in results:
         if r not in deep:
             judge(r, cfg)
+    results += carried
 
     # กรองเฉพาะโดเมนที่ผ่านเกณฑ์ (pass หรือ relaxed) ในรอบนี้
     this_passed = [r for r in results if r.get("verdict") in ("pass", "relaxed")]
@@ -508,7 +567,8 @@ def run_scan(log=print):
     feed_val = cfg.get("source_feed", "expiring_auctions_non_adult")
     feed_label = feed_val if isinstance(feed_val, str) else ", ".join(feed_val)
     out = {"scanned_at": now.isoformat(timespec="seconds"),
-           "feed": feed_label, "feed_total": len(items), "results": final_results}
+           "feed": feed_label, "feed_total": len(items), "results": final_results,
+           "wayback_retry": still_failed}
     json.dump(out, open(RESULTS_PATH, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     # สำเนานี้ถูกเผยแพร่บน GitHub Pages: ห้ามมีข้อมูลแจ้งเตือน/token
     public_cfg = {k: v for k, v in cfg.items() if k != "notify"}
