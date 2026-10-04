@@ -508,7 +508,9 @@ def run_scan(log=print):
     out = {"scanned_at": now.isoformat(timespec="seconds"),
            "feed": feed_label, "feed_total": len(items), "results": final_results}
     json.dump(out, open(RESULTS_PATH, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    json.dump(cfg, open(os.path.join(ROOT, "docs", "config.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+    # สำเนานี้ถูกเผยแพร่บน GitHub Pages: ห้ามมีข้อมูลแจ้งเตือน/token
+    public_cfg = {k: v for k, v in cfg.items() if k != "notify"}
+    json.dump(public_cfg, open(os.path.join(ROOT, "docs", "config.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     log(f"เสร็จแล้ว: ผ่านสะสม {len(final_results)} โดเมน (รอบนี้พบใหม่ {len(this_passed)} โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน")
     return out
 

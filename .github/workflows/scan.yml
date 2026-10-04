@@ -27,6 +27,9 @@ jobs:
         env:
           PYTHONUNBUFFERED: "1"
           AHREFS_API_KEY: ${{ secrets.AHREFS_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          LINE_NOTIFY_TOKEN: ${{ secrets.LINE_NOTIFY_TOKEN }}
         run: python hunter.py
       - name: Publish results
         if: always()

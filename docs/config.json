@@ -53,12 +53,5 @@
     "คาสิโน",
     "แทงบอล",
     "หวย"
-  ],
-  "notify": {
-    "before_minutes": 20,
-    "discord_webhook_url": "",
-    "telegram_bot_token": "8691630532:AAEtcKx7pSQZPc4_AIrq-5YiIkkppJ7XhbQ",
-    "telegram_chat_id": "-5584220096",
-    "line_token": ""
-  }
+  ]
 }

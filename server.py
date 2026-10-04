@@ -110,6 +110,7 @@ def monitor_loop():
 
 
 if __name__ == "__main__":
+    hunter.load_env()  # ให้ monitor_loop อ่าน TELEGRAM_BOT_TOKEN จาก .env ได้
     threading.Thread(target=monitor_loop, daemon=True).start()
     print(f"Dashboard: http://localhost:{PORT}")
     ThreadingHTTPServer(("127.0.0.1", PORT), Handler).serve_forever()
