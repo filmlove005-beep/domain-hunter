@@ -1,10 +1,21 @@
-2026-10-04 11:29:42 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-04 11:29:51 ได้รายการ expiring_auctions_non_adult: 966,624 โดเมน
-2026-10-04 11:29:52 รวมโดเมนจากทุกฟีด: 966,624 โดเมน (ไม่ซ้ำ)
-2026-10-04 11:29:53 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 4 โดเมน
-2026-10-04 11:29:53 ดึง DR จาก Ahrefs ...
-2026-10-04 11:29:54 Ahrefs ใช้งานได้ ได้ DR 4 โดเมน
-2026-10-04 11:29:54 เช็กเชิงลึก 2 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-04 11:30:18   factio.org: fail เคย Redirect ไป www.eastcoastshows.com
-2026-10-04 11:30:23   stopspanking.org: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 12 (เกณฑ์ผ่อน)
-2026-10-04 11:30:23 เสร็จแล้ว: ผ่านสะสม 1 โดเมน (รอบนี้พบใหม่ 1 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-04 14:50:09 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-04 14:50:17 ได้รายการ expiring_auctions_non_adult: 929,841 โดเมน
+2026-10-04 14:50:17 รวมโดเมนจากทุกฟีด: 929,841 โดเมน (ไม่ซ้ำ)
+2026-10-04 14:50:18 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-04 14:50:18 ดึง DR จาก Ahrefs ...
+2026-10-04 14:50:19 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-10-04 14:50:19 เช็กเชิงลึก 13 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-04 14:50:42   stopspanking.org: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 12 (เกณฑ์ผ่อน)
+2026-10-04 14:51:07   male-love-finder.com: fail เคย Redirect ไป malelove-finder.com
+2026-10-04 14:51:08   theexchangepreston.com: fail เคย Redirect ไป www.sinyalkarir.com
+2026-10-04 14:52:24   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
+2026-10-04 14:54:24   crazy-net.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-04 14:54:42   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 18 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-04 14:55:19   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
+2026-10-04 14:55:19   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-04 14:56:20   homemadegin.com: relaxed DR 23 (เกณฑ์ผ่อน)
+2026-10-04 14:56:36   gynobmedgroup.com: error URLError: <urlopen error [Errno 111] Connection refused>
+2026-10-04 14:57:12   stackplan.com: fail เคย Redirect ไป www.stackplanner.com, afternic.com
+2026-10-04 14:58:22   genki-o-chan.com: error URLError: <urlopen error [Errno 111] Connection refused>
+2026-10-04 14:59:14   bowersconsulting.com: error URLError: <urlopen error [Errno 111] Connection refused>
+2026-10-04 14:59:14 เสร็จแล้ว: ผ่านสะสม 5 โดเมน (รอบนี้พบใหม่ 5 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
