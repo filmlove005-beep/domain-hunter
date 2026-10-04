@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-04T16:28:42+00:00",
+ "scanned_at": "2026-10-04T20:58:30+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 929841,
  "results": [
@@ -510,13 +510,14 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
+   "fails": [],
+   "warns": [
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed",
    "first_seen": "19991128",
    "last_active": "20260513",
    "titles": [
-    [
-     "20260611",
-     ""
-    ],
     [
      "20260513",
      "High Qualiy Free Images To Use Anywhere at Pixy.org"
@@ -540,12 +541,7 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed"
+   "wayback_checked": true
   },
   {
    "domain": "vedicthemes.com",
@@ -927,7 +923,7 @@
    "majestic_rd": 47,
    "stage": "done",
    "dr": 25.0,
-   "refdomains": 746,
+   "refdomains": 747,
    "quality_count": 12,
    "quality_top": [
     [
@@ -1901,10 +1897,6 @@
      "The Homemade Gin Kit"
     ],
     [
-     "20221005",
-     "The Homemade Gin Kit"
-    ],
-    [
      "20191213",
      "The Homemade Gin Kit"
     ],
@@ -1947,7 +1939,7 @@
     ],
     [
      "listen.style",
-     65.0,
+     64.0,
      2654963
     ],
     [
@@ -2859,16 +2851,8 @@
    "brand_keywords": [],
    "brand_checked": true,
    "first_seen": "20060512",
-   "last_active": "20260407",
+   "last_active": "20231225",
    "titles": [
-    [
-     "20260407",
-     "BOWERS*"
-    ],
-    [
-     "20260103",
-     "BOWERS*"
-    ],
     [
      "20231225",
      "BOWERS*"

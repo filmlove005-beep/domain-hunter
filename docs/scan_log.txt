@@ -1,21 +1,25 @@
-2026-10-04 16:08:22 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-04 16:08:30 ได้รายการ expiring_auctions_non_adult: 929,841 โดเมน
-2026-10-04 16:08:31 รวมโดเมนจากทุกฟีด: 929,841 โดเมน (ไม่ซ้ำ)
-2026-10-04 16:08:32 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-04 16:08:32 ดึง DR จาก Ahrefs ...
-2026-10-04 16:08:33 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-10-04 16:08:33 เช็กเชิงลึก 13 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-04 16:09:48   stopspanking.org: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 12 (เกณฑ์ผ่อน)
-2026-10-04 16:10:34   male-love-finder.com: fail เคย Redirect ไป malelove-finder.com
-2026-10-04 16:13:50   theexchangepreston.com: fail เคย Redirect ไป www.sinyalkarir.com
-2026-10-04 16:14:37   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
-2026-10-04 16:16:59   crazy-net.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-04 16:18:26   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 18 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-04 16:19:42   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-04 16:20:07   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
-2026-10-04 16:22:47   homemadegin.com: relaxed DR 23 (เกณฑ์ผ่อน)
-2026-10-04 16:23:38   gynobmedgroup.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-04 16:24:10   genki-o-chan.com: fail Backlink คุณภาพ 2 (< 3)
-2026-10-04 16:25:49   stackplan.com: fail เคย Redirect ไป www.stackplanner.com, afternic.com
-2026-10-04 16:28:37   bowersconsulting.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-04 16:28:42 เสร็จแล้ว: ผ่านสะสม 6 โดเมน (รอบนี้พบใหม่ 6 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-04 20:38:06 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-04 20:38:14 ได้รายการ expiring_auctions_non_adult: 929,841 โดเมน
+2026-10-04 20:38:14 รวมโดเมนจากทุกฟีด: 929,841 โดเมน (ไม่ซ้ำ)
+2026-10-04 20:38:16 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-04 20:38:16 ดึง DR จาก Ahrefs ...
+2026-10-04 20:38:17 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-10-04 20:38:17 เช็กเชิงลึก 13 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-04 20:38:59   stopspanking.org: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 12 (เกณฑ์ผ่อน)
+2026-10-04 20:39:45   male-love-finder.com: fail เคย Redirect ไป malelove-finder.com
+2026-10-04 20:40:57   theexchangepreston.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-10-04 20:43:07   pixy.org: Wayback ไม่ตอบ TimeoutError: timed out
+2026-10-04 20:43:54   crazy-net.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-04 20:44:47   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 18 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-04 20:45:20   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-04 20:46:21   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
+2026-10-04 20:48:40   homemadegin.com: relaxed DR 23 (เกณฑ์ผ่อน)
+2026-10-04 20:49:26   gynobmedgroup.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-04 20:49:57   genki-o-chan.com: fail Backlink คุณภาพ 2 (< 3)
+2026-10-04 20:50:24   stackplan.com: fail เคย Redirect ไป www.stackplanner.com, afternic.com
+2026-10-04 20:53:46   bowersconsulting.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-04 20:53:51 รอ Wayback 2 นาที แล้วลองใหม่ 2 โดเมน ...
+2026-10-04 20:56:15   theexchangepreston.com: fail เคย Redirect ไป www.sinyalkarir.com
+2026-10-04 20:58:20   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
+2026-10-04 20:58:30 ⏰ [ใกล้หมดเวลา] stopspanking.org เหลืออีก 12 นาที!
+2026-10-04 20:58:30 เสร็จแล้ว: ผ่านสะสม 6 โดเมน (รอบนี้พบใหม่ 6 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
