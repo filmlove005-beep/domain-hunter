@@ -131,7 +131,9 @@ def prefilter(items, cfg):
         if p.get("max_price") and money(i.get("price")) > p["max_price"]:
             continue
         out.append(i)
-    out.sort(key=lambda i: (-(i.get("majesticTf") or 0), -(i.get("majesticReferringDomains") or 0)))
+    # Majestic ก่อน (ถ้ามี) แล้วตามด้วย Semrush: โดเมนที่ AS สูงส่วนใหญ่มี Majestic TF = 0
+    out.sort(key=lambda i: (-(i.get("majesticTf") or 0), -(i.get("semrushAs") or 0),
+                            -(i.get("semrushReferringDomains") or 0), -(i.get("majesticReferringDomains") or 0)))
     return out[: p["max_candidates"]]
 
 
