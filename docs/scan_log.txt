@@ -1,21 +1,21 @@
-2026-10-04 14:50:09 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-04 14:50:17 ได้รายการ expiring_auctions_non_adult: 929,841 โดเมน
-2026-10-04 14:50:17 รวมโดเมนจากทุกฟีด: 929,841 โดเมน (ไม่ซ้ำ)
-2026-10-04 14:50:18 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-04 14:50:18 ดึง DR จาก Ahrefs ...
-2026-10-04 14:50:19 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-10-04 14:50:19 เช็กเชิงลึก 13 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-04 14:50:42   stopspanking.org: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 12 (เกณฑ์ผ่อน)
-2026-10-04 14:51:07   male-love-finder.com: fail เคย Redirect ไป malelove-finder.com
-2026-10-04 14:51:08   theexchangepreston.com: fail เคย Redirect ไป www.sinyalkarir.com
-2026-10-04 14:52:24   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
-2026-10-04 14:54:24   crazy-net.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-04 14:54:42   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 18 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-04 14:55:19   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
-2026-10-04 14:55:19   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-04 14:56:20   homemadegin.com: relaxed DR 23 (เกณฑ์ผ่อน)
-2026-10-04 14:56:36   gynobmedgroup.com: error URLError: <urlopen error [Errno 111] Connection refused>
-2026-10-04 14:57:12   stackplan.com: fail เคย Redirect ไป www.stackplanner.com, afternic.com
-2026-10-04 14:58:22   genki-o-chan.com: error URLError: <urlopen error [Errno 111] Connection refused>
-2026-10-04 14:59:14   bowersconsulting.com: error URLError: <urlopen error [Errno 111] Connection refused>
-2026-10-04 14:59:14 เสร็จแล้ว: ผ่านสะสม 5 โดเมน (รอบนี้พบใหม่ 5 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-04 16:08:22 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-04 16:08:30 ได้รายการ expiring_auctions_non_adult: 929,841 โดเมน
+2026-10-04 16:08:31 รวมโดเมนจากทุกฟีด: 929,841 โดเมน (ไม่ซ้ำ)
+2026-10-04 16:08:32 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-04 16:08:32 ดึง DR จาก Ahrefs ...
+2026-10-04 16:08:33 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-10-04 16:08:33 เช็กเชิงลึก 13 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-04 16:09:48   stopspanking.org: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 12 (เกณฑ์ผ่อน)
+2026-10-04 16:10:34   male-love-finder.com: fail เคย Redirect ไป malelove-finder.com
+2026-10-04 16:13:50   theexchangepreston.com: fail เคย Redirect ไป www.sinyalkarir.com
+2026-10-04 16:14:37   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
+2026-10-04 16:16:59   crazy-net.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-04 16:18:26   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 18 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-04 16:19:42   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-04 16:20:07   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
+2026-10-04 16:22:47   homemadegin.com: relaxed DR 23 (เกณฑ์ผ่อน)
+2026-10-04 16:23:38   gynobmedgroup.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-04 16:24:10   genki-o-chan.com: fail Backlink คุณภาพ 2 (< 3)
+2026-10-04 16:25:49   stackplan.com: fail เคย Redirect ไป www.stackplanner.com, afternic.com
+2026-10-04 16:28:37   bowersconsulting.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-04 16:28:42 เสร็จแล้ว: ผ่านสะสม 6 โดเมน (รอบนี้พบใหม่ 6 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน

@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-04T14:59:14+00:00",
+ "scanned_at": "2026-10-04T16:28:42+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 929841,
  "results": [
@@ -2391,6 +2391,10 @@
      "dddjapan"
     ],
     [
+     "20251202",
+     "金属から樹脂まで、3Dプリンター購入ならDDDJapan &ndash; DDDJapan.com"
+    ],
+    [
      "20240617",
      "金属から樹脂まで、3Dプリンター購入ならDDDJapan &ndash; DDDJapan.com"
     ],
@@ -2417,6 +2421,482 @@
     "ไม่พบ Brand Search ในอดีต"
    ],
    "verdict": "relaxed"
+  },
+  {
+   "domain": "bowersconsulting.com",
+   "link": "https://www.godaddy.com/domain-auctions/bowersconsulting-com-730035411?isc=json_expiring",
+   "price": 1.0,
+   "bids": 0,
+   "end_time": "2026-10-11T18:04:00Z",
+   "age": 11,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "done",
+   "dr": 17.0,
+   "refdomains": 1270,
+   "quality_count": 15,
+   "quality_top": [
+    [
+     "cnn.com",
+     93.0,
+     25446048
+    ],
+    [
+     "nbcnews.com",
+     91.0,
+     7202322
+    ],
+    [
+     "contactout.com",
+     74.0,
+     201940
+    ],
+    [
+     "dailycaller.com",
+     81.0,
+     141568
+    ],
+    [
+     "local3news.com",
+     73.0,
+     105100
+    ],
+    [
+     "kvia.com",
+     72.0,
+     91832
+    ],
+    [
+     "whdh.com",
+     75.0,
+     75120
+    ],
+    [
+     "charitywatch.org",
+     80.0,
+     58408
+    ],
+    [
+     "ktvz.com",
+     74.0,
+     57605
+    ],
+    [
+     "abc17news.com",
+     71.0,
+     42481
+    ],
+    [
+     "influencewatch.org",
+     68.0,
+     37008
+    ],
+    [
+     "komu.com",
+     71.0,
+     32360
+    ],
+    [
+     "localnews8.com",
+     71.0,
+     22335
+    ],
+    [
+     "partnerbase.com",
+     48.0,
+     20362
+    ],
+    [
+     "kyma.com",
+     64.0,
+     16274
+    ]
+   ],
+   "edu_wiki": [],
+   "peak_traffic": 1731,
+   "peak_date": "2022-09-01",
+   "traffic_history": [
+    [
+     "2021-11",
+     2
+    ],
+    [
+     "2021-12",
+     2
+    ],
+    [
+     "2022-01",
+     3
+    ],
+    [
+     "2022-02",
+     2
+    ],
+    [
+     "2022-03",
+     1
+    ],
+    [
+     "2022-04",
+     1
+    ],
+    [
+     "2022-05",
+     88
+    ],
+    [
+     "2022-06",
+     32
+    ],
+    [
+     "2022-07",
+     5
+    ],
+    [
+     "2022-08",
+     5
+    ],
+    [
+     "2022-09",
+     1731
+    ],
+    [
+     "2022-10",
+     700
+    ],
+    [
+     "2022-11",
+     51
+    ],
+    [
+     "2022-12",
+     15
+    ],
+    [
+     "2023-01",
+     2
+    ],
+    [
+     "2023-02",
+     1
+    ],
+    [
+     "2023-03",
+     2
+    ],
+    [
+     "2023-04",
+     17
+    ],
+    [
+     "2023-05",
+     46
+    ],
+    [
+     "2023-06",
+     46
+    ],
+    [
+     "2023-07",
+     35
+    ],
+    [
+     "2023-08",
+     29
+    ],
+    [
+     "2023-09",
+     40
+    ],
+    [
+     "2023-10",
+     41
+    ],
+    [
+     "2023-11",
+     29
+    ],
+    [
+     "2023-12",
+     16
+    ],
+    [
+     "2024-01",
+     24
+    ],
+    [
+     "2024-02",
+     42
+    ],
+    [
+     "2024-03",
+     33
+    ],
+    [
+     "2024-04",
+     30
+    ],
+    [
+     "2024-05",
+     32
+    ],
+    [
+     "2024-06",
+     30
+    ],
+    [
+     "2024-07",
+     152
+    ],
+    [
+     "2024-08",
+     146
+    ],
+    [
+     "2024-09",
+     33
+    ],
+    [
+     "2024-10",
+     18
+    ],
+    [
+     "2024-11",
+     11
+    ],
+    [
+     "2024-12",
+     11
+    ],
+    [
+     "2025-01",
+     7
+    ],
+    [
+     "2025-02",
+     9
+    ],
+    [
+     "2025-03",
+     14
+    ],
+    [
+     "2025-04",
+     7
+    ],
+    [
+     "2025-05",
+     9
+    ],
+    [
+     "2025-06",
+     10
+    ],
+    [
+     "2025-07",
+     10
+    ],
+    [
+     "2025-08",
+     6
+    ],
+    [
+     "2025-09",
+     3
+    ],
+    [
+     "2025-10",
+     16
+    ],
+    [
+     "2025-11",
+     16
+    ],
+    [
+     "2025-12",
+     11
+    ],
+    [
+     "2026-01",
+     4
+    ],
+    [
+     "2026-02",
+     1
+    ],
+    [
+     "2026-03",
+     2
+    ],
+    [
+     "2026-04",
+     1
+    ],
+    [
+     "2026-05",
+     1
+    ],
+    [
+     "2026-06",
+     2
+    ],
+    [
+     "2026-07",
+     2
+    ],
+    [
+     "2026-08",
+     2
+    ],
+    [
+     "2026-09",
+     1
+    ]
+   ],
+   "top_keywords": [
+    [
+     "shalomyah bowers",
+     3,
+     3
+    ],
+    [
+     "upskill america",
+     12,
+     1
+    ],
+    [
+     "www bowers",
+     20,
+     0
+    ],
+    [
+     "baeo challenge",
+     19,
+     0
+    ],
+    [
+     "bowers",
+     20,
+     0
+    ],
+    [
+     "political consulting firms",
+     51,
+     0
+    ],
+    [
+     "political consulting firm",
+     45,
+     0
+    ],
+    [
+     "political consulting firms los angeles",
+     35,
+     0
+    ],
+    [
+     "political consulting firm",
+     47,
+     0
+    ],
+    [
+     "political consulting firms dc",
+     66,
+     0
+    ],
+    [
+     "political consultancy firms",
+     65,
+     0
+    ],
+    [
+     "political consultant firm",
+     65,
+     0
+    ],
+    [
+     "political consulting firms",
+     76,
+     0
+    ],
+    [
+     "we bowers",
+     80,
+     0
+    ],
+    [
+     "international political consulting firms",
+     80,
+     0
+    ],
+    [
+     "international political consulting firm",
+     72,
+     0
+    ],
+    [
+     "political consulting firms in dc",
+     87,
+     0
+    ],
+    [
+     "w.e. bowers",
+     81,
+     0
+    ],
+    [
+     "political consulting firms washington dc",
+     90,
+     0
+    ],
+    [
+     "dc political consulting firms",
+     94,
+     0
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [],
+   "brand_checked": true,
+   "first_seen": "20060512",
+   "last_active": "20260407",
+   "titles": [
+    [
+     "20260407",
+     "BOWERS*"
+    ],
+    [
+     "20260103",
+     "BOWERS*"
+    ],
+    [
+     "20231225",
+     "BOWERS*"
+    ],
+    [
+     "20220206",
+     "BOWERS*"
+    ],
+    [
+     "20170912",
+     ""
+    ],
+    [
+     "20110207",
+     ""
+    ]
+   ],
+   "gambling_wayback": [],
+   "ext_redirects": {},
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 17 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 15 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
   }
- ]
+ ],
+ "wayback_retry": []
 }
