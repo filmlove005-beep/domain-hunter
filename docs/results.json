@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-04T20:58:30+00:00",
+ "scanned_at": "2026-10-05T03:19:59+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 929841,
  "results": [
@@ -14,7 +14,7 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 65.0,
-   "refdomains": 2022,
+   "refdomains": 2011,
    "quality_count": 100,
    "quality_top": [
     [
@@ -519,6 +519,10 @@
    "last_active": "20260513",
    "titles": [
     [
+     "20260611",
+     ""
+    ],
+    [
      "20260513",
      "High Qualiy Free Images To Use Anywhere at Pixy.org"
     ],
@@ -554,7 +558,7 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 63.0,
-   "refdomains": 1694,
+   "refdomains": 1684,
    "quality_count": 13,
    "quality_top": [
     [
@@ -913,474 +917,6 @@
    "verdict": "relaxed"
   },
   {
-   "domain": "stopspanking.org",
-   "link": "https://www.godaddy.com/domain-auctions/stopspanking-org-728280418?isc=json_expiring",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-04T21:11:00Z",
-   "age": 16,
-   "majestic_tf": 13,
-   "majestic_rd": 47,
-   "stage": "done",
-   "dr": 25.0,
-   "refdomains": 747,
-   "quality_count": 12,
-   "quality_top": [
-    [
-     "substack.com",
-     94.0,
-     9037331
-    ],
-    [
-     "tulane.edu",
-     84.0,
-     270869
-    ],
-    [
-     "buzzsprout.com",
-     91.0,
-     176766
-    ],
-    [
-     "patheos.com",
-     80.0,
-     167897
-    ],
-    [
-     "sitelike.org",
-     63.0,
-     93319
-    ],
-    [
-     "archspm.org",
-     61.0,
-     66758
-    ],
-    [
-     "siteprice.org",
-     72.0,
-     66239
-    ],
-    [
-     "scoop.it",
-     82.0,
-     32376
-    ],
-    [
-     "kuow.org",
-     78.0,
-     22191
-    ],
-    [
-     "salto-youth.net",
-     73.0,
-     16768
-    ],
-    [
-     "socialpsychology.org",
-     73.0,
-     11730
-    ],
-    [
-     "madinamerica.com",
-     74.0,
-     11526
-    ]
-   ],
-   "edu_wiki": [
-    "tulane.edu"
-   ],
-   "peak_traffic": 1967,
-   "peak_date": "2022-09-01",
-   "traffic_history": [
-    [
-     "2021-11",
-     35
-    ],
-    [
-     "2021-12",
-     32
-    ],
-    [
-     "2022-01",
-     31
-    ],
-    [
-     "2022-02",
-     30
-    ],
-    [
-     "2022-03",
-     43
-    ],
-    [
-     "2022-04",
-     59
-    ],
-    [
-     "2022-05",
-     39
-    ],
-    [
-     "2022-06",
-     44
-    ],
-    [
-     "2022-07",
-     36
-    ],
-    [
-     "2022-08",
-     41
-    ],
-    [
-     "2022-09",
-     1967
-    ],
-    [
-     "2022-10",
-     49
-    ],
-    [
-     "2022-11",
-     35
-    ],
-    [
-     "2022-12",
-     29
-    ],
-    [
-     "2023-01",
-     34
-    ],
-    [
-     "2023-02",
-     27
-    ],
-    [
-     "2023-03",
-     17
-    ],
-    [
-     "2023-04",
-     25
-    ],
-    [
-     "2023-05",
-     45
-    ],
-    [
-     "2023-06",
-     35
-    ],
-    [
-     "2023-07",
-     33
-    ],
-    [
-     "2023-08",
-     46
-    ],
-    [
-     "2023-09",
-     64
-    ],
-    [
-     "2023-10",
-     63
-    ],
-    [
-     "2023-11",
-     48
-    ],
-    [
-     "2023-12",
-     30
-    ],
-    [
-     "2024-01",
-     43
-    ],
-    [
-     "2024-02",
-     17
-    ],
-    [
-     "2024-03",
-     23
-    ],
-    [
-     "2024-04",
-     21
-    ],
-    [
-     "2024-05",
-     42
-    ],
-    [
-     "2024-06",
-     23
-    ],
-    [
-     "2024-07",
-     2
-    ],
-    [
-     "2024-08",
-     0
-    ],
-    [
-     "2024-09",
-     0
-    ],
-    [
-     "2024-10",
-     0
-    ],
-    [
-     "2024-11",
-     0
-    ],
-    [
-     "2024-12",
-     0
-    ],
-    [
-     "2025-01",
-     0
-    ],
-    [
-     "2025-02",
-     0
-    ],
-    [
-     "2025-03",
-     0
-    ],
-    [
-     "2025-04",
-     0
-    ],
-    [
-     "2025-05",
-     0
-    ],
-    [
-     "2025-06",
-     0
-    ],
-    [
-     "2025-07",
-     0
-    ],
-    [
-     "2025-08",
-     1
-    ],
-    [
-     "2025-09",
-     1
-    ],
-    [
-     "2025-10",
-     1
-    ],
-    [
-     "2025-11",
-     0
-    ],
-    [
-     "2025-12",
-     0
-    ],
-    [
-     "2026-01",
-     0
-    ],
-    [
-     "2026-02",
-     0
-    ],
-    [
-     "2026-03",
-     0
-    ],
-    [
-     "2026-04",
-     0
-    ],
-    [
-     "2026-05",
-     0
-    ],
-    [
-     "2026-06",
-     0
-    ],
-    [
-     "2026-07",
-     3
-    ],
-    [
-     "2026-08",
-     3
-    ],
-    [
-     "2026-09",
-     1
-    ],
-    [
-     "2026-10",
-     1
-    ]
-   ],
-   "top_keywords": [
-    [
-     "jeffrey dahmer mom",
-     7,
-     1030
-    ],
-    [
-     "joyce dahmer",
-     29,
-     193
-    ],
-    [
-     "school paddling",
-     10,
-     19
-    ],
-    [
-     "school spanking",
-     7,
-     14
-    ],
-    [
-     "stop spanking",
-     1,
-     7
-    ],
-    [
-     "school paddling",
-     4,
-     2
-    ],
-    [
-     "paddling in schools",
-     21,
-     2
-    ],
-    [
-     "how to stop spanking",
-     7,
-     2
-    ],
-    [
-     "paddling school",
-     14,
-     1
-    ],
-    [
-     "alternatives to spanking",
-     12,
-     1
-    ],
-    [
-     "paddling in school",
-     15,
-     1
-    ],
-    [
-     "no spanking",
-     8,
-     1
-    ],
-    [
-     "jeffrey dahmer mother",
-     9,
-     1
-    ],
-    [
-     "spanking vs hitting",
-     5,
-     1
-    ],
-    [
-     "school paddling procedure",
-     9,
-     0
-    ],
-    [
-     "paddling at school",
-     13,
-     0
-    ],
-    [
-     "george davis md",
-     17,
-     0
-    ],
-    [
-     "school paddlings",
-     17,
-     0
-    ],
-    [
-     "alternative to spanking",
-     13,
-     0
-    ],
-    [
-     "spanking website",
-     20,
-     0
-    ]
-   ],
-   "gambling_keywords": [],
-   "brand_keywords": [
-    "stop spanking",
-    "how to stop spanking"
-   ],
-   "brand_checked": true,
-   "first_seen": "20110905",
-   "last_active": "20210805",
-   "titles": [
-    [
-     "20250925",
-     "Whatcom Web Site &#8211; Make a free website"
-    ],
-    [
-     "20250607",
-     "Whatcom Web Site &#8211; Make a free website"
-    ],
-    [
-     "20210805",
-     "StopSpanking.org | Hands are for Holding"
-    ],
-    [
-     "20180421",
-     "StopSpanking.org | Hands are for Holding"
-    ],
-    [
-     "20150917",
-     "StopSpanking.org | Hands are for Holding"
-    ],
-    [
-     "20120426",
-     "StopSpanking.org"
-    ]
-   ],
-   "gambling_wayback": [],
-   "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 25 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 12 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "relaxed"
-  },
-  {
    "domain": "homemadegin.com",
    "link": "https://www.godaddy.com/domain-auctions/homemadegin-com-730027497?isc=json_expiring",
    "price": 25.0,
@@ -1391,8 +927,8 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 23.0,
-   "refdomains": 1246,
-   "quality_count": 80,
+   "refdomains": 1240,
+   "quality_count": 81,
    "quality_top": [
     [
      "thekitchn.com",
@@ -1889,11 +1425,11 @@
      "The Homemade Gin Kit"
     ],
     [
-     "20241108",
+     "20241006",
      "The Homemade Gin Kit"
     ],
     [
-     "20241006",
+     "20221005",
      "The Homemade Gin Kit"
     ],
     [
@@ -1929,7 +1465,7 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 18.0,
-   "refdomains": 929,
+   "refdomains": 925,
    "quality_count": 18,
    "quality_top": [
     [
@@ -1939,7 +1475,7 @@
     ],
     [
      "listen.style",
-     64.0,
+     65.0,
      2654963
     ],
     [
@@ -2425,7 +1961,7 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 17.0,
-   "refdomains": 1270,
+   "refdomains": 1268,
    "quality_count": 15,
    "quality_top": [
     [
@@ -2851,8 +2387,16 @@
    "brand_keywords": [],
    "brand_checked": true,
    "first_seen": "20060512",
-   "last_active": "20231225",
+   "last_active": "20260407",
    "titles": [
+    [
+     "20260407",
+     "BOWERS*"
+    ],
+    [
+     "20260103",
+     "BOWERS*"
+    ],
     [
      "20231225",
      "BOWERS*"
