@@ -1,28 +1,26 @@
-2026-10-05 02:58:25 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-05 02:58:32 ได้รายการ expiring_auctions_non_adult: 929,841 โดเมน
-2026-10-05 02:58:33 รวมโดเมนจากทุกฟีด: 929,841 โดเมน (ไม่ซ้ำ)
-2026-10-05 02:58:34 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-05 02:58:34 ดึง DR จาก Ahrefs ...
-2026-10-05 02:58:35 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-10-05 02:58:35 เช็กเชิงลึก 13 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-05 02:59:22   stopspanking.org: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 12 (เกณฑ์ผ่อน)
-2026-10-05 03:01:18   male-love-finder.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
+2026-10-05 12:59:09 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-05 12:59:18 ได้รายการ expiring_auctions_non_adult: 929,841 โดเมน
+2026-10-05 12:59:18 รวมโดเมนจากทุกฟีด: 929,841 โดเมน (ไม่ซ้ำ)
+2026-10-05 12:59:20 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-05 12:59:20 ดึง DR จาก Ahrefs ...
+2026-10-05 12:59:21 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-10-05 12:59:21 เช็กเชิงลึก 13 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-05 12:59:48   stopspanking.org: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 12 (เกณฑ์ผ่อน)
+2026-10-05 13:00:13   male-love-finder.com: fail เคย Redirect ไป malelove-finder.com
+2026-10-05 13:03:31   theexchangepreston.com: fail เคย Redirect ไป www.sinyalkarir.com
+2026-10-05 13:04:33   pixy.org: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
 <body style="padding:30px 0;">
 <div style="float:left;width:260px;text-align:center;">
 <img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
-2026-10-05 03:02:09   theexchangepreston.com: fail เคย Redirect ไป www.sinyalkarir.com
-2026-10-05 03:03:21   pixy.org: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-10-05 03:04:26   crazy-net.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-05 03:05:33   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 18 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-05 03:07:45   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-05 03:08:14   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
-2026-10-05 03:10:10   homemadegin.com: relaxed DR 23 (เกณฑ์ผ่อน)
-2026-10-05 03:11:02   gynobmedgroup.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-05 03:11:28   genki-o-chan.com: fail Backlink คุณภาพ 2 (< 3)
-2026-10-05 03:12:40   stackplan.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-10-05 03:13:36   bowersconsulting.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-05 03:13:41 รอ Wayback 2 นาที แล้วลองใหม่ 3 โดเมน ...
-2026-10-05 03:16:15   male-love-finder.com: fail เคย Redirect ไป malelove-finder.com
-2026-10-05 03:17:34   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
-2026-10-05 03:19:49   stackplan.com: fail เคย Redirect ไป www.stackplanner.com, afternic.com
-2026-10-05 03:19:59 เสร็จแล้ว: ผ่านสะสม 5 โดเมน (รอบนี้พบใหม่ 6 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-05 13:05:23   crazy-net.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-05 13:07:38   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 18 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-05 13:08:13   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-05 13:08:50   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
+2026-10-05 13:11:28   homemadegin.com: relaxed DR 23 (เกณฑ์ผ่อน)
+2026-10-05 13:12:21   gynobmedgroup.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-05 13:12:51   genki-o-chan.com: fail Backlink คุณภาพ 2 (< 3)
+2026-10-05 13:14:28   stackplan.com: fail เคย Redirect ไป www.stackplanner.com, afternic.com
+2026-10-05 13:15:34   bowersconsulting.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-05 13:15:39 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
+2026-10-05 13:18:22   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
+2026-10-05 13:18:32 เสร็จแล้ว: ผ่านสะสม 5 โดเมน (รอบนี้พบใหม่ 6 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
