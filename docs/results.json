@@ -1,7 +1,7 @@
 {
- "scanned_at": "2026-10-06T12:50:49+00:00",
+ "scanned_at": "2026-10-06T22:23:54+00:00",
  "feed": "expiring_auctions_non_adult",
- "feed_total": 922680,
+ "feed_total": 909354,
  "results": [
   {
    "domain": "pixy.org",
@@ -14,7 +14,7 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 65.0,
-   "refdomains": 2011,
+   "refdomains": 2007,
    "quality_count": 100,
    "quality_top": [
     [
@@ -25,12 +25,12 @@
     [
      "wikipedia.org",
      97.0,
-     2800668672
+     2898392576
     ],
     [
      "fandom.com",
      92.0,
-     130810392
+     133500624
     ],
     [
      "medium.com",
@@ -40,107 +40,107 @@
     [
      "bing.com",
      93.0,
-     12469082
+     12971781
     ],
     [
      "verizon.com",
      91.0,
-     12186657
-    ],
-    [
-     "trueid.net",
-     75.0,
-     9932156
-    ],
-    [
-     "github.io",
-     94.0,
-     9141283
+     12743603
     ],
     [
      "substack.com",
      94.0,
-     8724023
+     9870936
+    ],
+    [
+     "trueid.net",
+     75.0,
+     9828122
+    ],
+    [
+     "github.io",
+     94.0,
+     9030217
     ],
     [
      "cornell.edu",
      92.0,
-     5780393
+     5794850
     ],
     [
      "idokep.hu",
      73.0,
-     5523362
+     5538484
     ],
     [
      "lazada.com.ph",
      91.0,
-     3797772
+     3539042
     ],
     [
      "vocal.media",
      82.0,
-     3340035
-    ],
-    [
-     "libretexts.org",
-     82.0,
-     3299022
-    ],
-    [
-     "teacherspayteachers.com",
-     88.0,
-     3270577
+     3305289
     ],
     [
      "forexfactory.com",
      77.0,
-     3236286
+     3253097
     ],
     [
-     "snl.no",
-     84.0,
-     2794853
-    ],
-    [
-     "juntadeandalucia.es",
+     "teacherspayteachers.com",
      88.0,
-     2617492
+     3199698
     ],
     [
-     "seekingalpha.com",
-     87.0,
-     2593159
-    ],
-    [
-     "lichess.org",
-     84.0,
-     2255972
-    ],
-    [
-     "vercel.app",
-     93.0,
-     2210768
+     "libretexts.org",
+     82.0,
+     3168395
     ],
     [
      "timesofisrael.com",
      87.0,
-     2122555
+     2831278
+    ],
+    [
+     "snl.no",
+     84.0,
+     2773442
+    ],
+    [
+     "juntadeandalucia.es",
+     88.0,
+     2622647
+    ],
+    [
+     "seekingalpha.com",
+     87.0,
+     2541487
+    ],
+    [
+     "lichess.org",
+     84.0,
+     2317483
+    ],
+    [
+     "vercel.app",
+     93.0,
+     2002373
     ],
     [
      "netlify.app",
      93.0,
-     1833145
+     1768466
+    ],
+    [
+     "gitlab.io",
+     89.0,
+     1623437
     ],
     [
      "psu.edu",
      91.0,
-     1636550
-    ],
-    [
-     "scamadviser.com",
-     80.0,
-     1616758
+     1603323
     ]
    ],
    "edu_wiki": [
@@ -153,11 +153,11 @@
     "zpe.gov.pl",
     "uitm.edu.my",
     "northwestern.edu",
-    "imperial.ac.uk",
     "curitiba.pr.gov.br",
-    "ou.edu",
-    "ntpc.edu.tw",
+    "imperial.ac.uk",
     "edb.gov.hk",
+    "ntpc.edu.tw",
+    "ou.edu",
     "gsa.gov",
     "mountaintopuniversity.edu.ng"
    ],
@@ -511,15 +511,11 @@
    "brand_keywords": [],
    "brand_checked": true,
    "first_seen": "19991128",
-   "last_active": "20260513",
+   "last_active": "20230501",
    "titles": [
     [
      "20260611",
      ""
-    ],
-    [
-     "20260513",
-     "High Qualiy Free Images To Use Anywhere at Pixy.org"
     ],
     [
      "20230501",
@@ -558,73 +554,73 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 63.0,
-   "refdomains": 1684,
+   "refdomains": 1679,
    "quality_count": 13,
    "quality_top": [
     [
-     "github.io",
-     94.0,
-     9141283
-    ],
-    [
      "free.fr",
      91.0,
-     8949611
+     9045398
+    ],
+    [
+     "github.io",
+     94.0,
+     9030217
     ],
     [
      "envato.com",
      93.0,
-     3015573
-    ],
-    [
-     "webflow.io",
-     92.0,
-     804151
+     3094913
     ],
     [
      "cinfa.com",
      68.0,
-     785237
+     810344
+    ],
+    [
+     "webflow.io",
+     92.0,
+     806806
     ],
     [
      "fu-berlin.de",
      86.0,
-     193464
+     193046
     ],
     [
      "sitelike.org",
      63.0,
-     70895
+     64129
     ],
     [
      "siteprice.org",
      72.0,
-     58681
+     51503
     ],
     [
      "telegra.ph",
      88.0,
-     45935
+     45327
     ],
     [
      "pucv.cl",
      72.0,
-     41339
+     43528
     ],
     [
      "hulkapps.com",
      70.0,
-     39977
+     36307
     ],
     [
      "ufcg.edu.br",
      71.0,
-     31982
+     29262
     ],
     [
      "zogrodemnaty.pl",
      32.0,
-     18327
+     18242
     ]
    ],
    "edu_wiki": [
@@ -928,132 +924,132 @@
    "stage": "done",
    "dr": 23.0,
    "refdomains": 1240,
-   "quality_count": 79,
+   "quality_count": 81,
    "quality_top": [
     [
      "thekitchn.com",
      86.0,
-     14308140
+     14909944
     ],
     [
      "nbcnews.com",
      91.0,
-     8489146
+     8682073
     ],
     [
      "businessinsider.com",
      92.0,
-     5006894
+     4919573
     ],
     [
      "buzzfeed.com",
      91.0,
-     4626027
+     4724075
     ],
     [
      "thebump.com",
      80.0,
-     4165505
+     4230020
     ],
     [
      "stern.de",
      86.0,
-     3516393
+     3619404
     ],
     [
      "latimes.com",
      92.0,
-     3278938
+     3544363
     ],
     [
      "parade.com",
      85.0,
-     3189792
+     3017986
     ],
     [
      "tastingtable.com",
      82.0,
-     1726609
+     1720453
     ],
     [
      "lifehacker.com",
      90.0,
-     1223562
+     1217963
     ],
     [
      "entrepreneur.com",
      91.0,
-     1050080
+     882648
     ],
     [
      "refinery29.com",
      88.0,
-     826146
+     820299
     ],
     [
      "nationalpost.com",
      86.0,
-     684193
-    ],
-    [
-     "inquirer.com",
-     88.0,
-     576534
-    ],
-    [
-     "trendencias.com",
-     72.0,
-     550453
+     678316
     ],
     [
      "oregonlive.com",
      86.0,
-     545762
+     564789
+    ],
+    [
+     "trendencias.com",
+     72.0,
+     553188
     ],
     [
      "sfgate.com",
      90.0,
-     510257
+     504307
+    ],
+    [
+     "inquirer.com",
+     88.0,
+     458784
     ],
     [
      "inc.com",
      91.0,
-     429878
-    ],
-    [
-     "temple.edu",
-     85.0,
-     368027
+     423544
     ],
     [
      "wework.com",
      82.0,
-     366917
+     361893
     ],
     [
-     "ctinsider.com",
-     80.0,
-     343964
+     "temple.edu",
+     85.0,
+     353032
     ],
     [
      "deadspin.com",
      79.0,
-     318955
+     315921
+    ],
+    [
+     "ctinsider.com",
+     80.0,
+     292751
     ],
     [
      "deliciousmagazine.co.uk",
      72.0,
-     289458
+     283678
     ],
     [
-     "silive.com",
+     "artofmanliness.com",
      79.0,
-     285779
+     281914
     ],
     [
      "thedailymeal.com",
      79.0,
-     273193
+     278002
     ]
    ],
    "edu_wiki": [
@@ -1475,77 +1471,77 @@
     [
      "wikipedia.org",
      97.0,
-     2800668672
+     2898392576
     ],
     [
      "substack.com",
      94.0,
-     8724023
+     9870936
     ],
     [
      "ucdavis.edu",
      90.0,
-     1750422
+     1922225
     ],
     [
      "nyu.edu",
      91.0,
-     934730
+     930120
     ],
     [
      "kcl.ac.uk",
      87.0,
-     532020
+     535086
     ],
     [
      "bankofengland.co.uk",
      88.0,
-     467156
+     532146
     ],
     [
      "lse.ac.uk",
      90.0,
-     444573
+     431399
     ],
     [
      "brookings.edu",
      90.0,
-     401411
+     399186
     ],
     [
      "bancaditalia.it",
      83.0,
-     363142
+     369348
     ],
     [
      "warwick.ac.uk",
      86.0,
-     218647
+     198006
     ],
     [
      "grokipedia.com",
      78.0,
-     157217
+     125540
     ],
     [
      "unica.it",
      75.0,
-     92438
+     92339
     ],
     [
      "bis.org",
      88.0,
-     70127
-    ],
-    [
-     "ainvest.com",
-     78.0,
-     22830
+     71138
     ],
     [
      "italia-informa.com",
      51.0,
-     12060
+     53658
+    ],
+    [
+     "ainvest.com",
+     78.0,
+     23063
     ]
    ],
    "edu_wiki": [
@@ -1846,20 +1842,9 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 21 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 15 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20210930",
-   "last_active": "20251027",
+   "last_active": "20250720",
    "titles": [
-    [
-     "20251027",
-     "Latest Articles - Macroprudential Matters"
-    ],
     [
      "20250720",
      "Latest Articles - Macroprudential Matters"
@@ -1883,7 +1868,14 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 21 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 15 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "dddjapan.com",
@@ -1896,88 +1888,103 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 18.0,
-   "refdomains": 925,
-   "quality_count": 16,
+   "refdomains": 923,
+   "quality_count": 19,
    "quality_top": [
     [
      "prtimes.jp",
      92.0,
-     3024952
+     3250788
     ],
     [
      "mapion.co.jp",
      86.0,
-     1586134
+     1530208
     ],
     [
      "zdnet.com",
      91.0,
-     1070936
+     845052
     ],
     [
      "ascii.jp",
      81.0,
-     522397
+     478704
     ],
     [
      "k24.net",
      69.0,
-     282091
+     279076
     ],
     [
-     "listen.style",
-     65.0,
-     140279
+     "seositecheckup.com",
+     77.0,
+     211745
     ],
     [
      "hiroshima-u.ac.jp",
      81.0,
-     115419
+     113703
+    ],
+    [
+     "listen.style",
+     65.0,
+     103645
     ],
     [
      "sitelike.org",
      63.0,
-     70895
+     64129
     ],
     [
      "voix.jp",
      71.0,
-     61398
-    ],
-    [
-     "siteprice.org",
-     72.0,
-     58681
+     64125
     ],
     [
      "cad-kenkyujo.com",
      41.0,
-     57925
+     60776
+    ],
+    [
+     "siteprice.org",
+     72.0,
+     51503
     ],
     [
      "kingsoft.jp",
      71.0,
-     30874
-    ],
-    [
-     "3rd-in.co.jp",
-     68.0,
-     26194
+     28548
     ],
     [
      "uniview.com",
      75.0,
-     20648
+     20536
     ],
     [
      "straightpress.jp",
      66.0,
-     15101
+     13783
+    ],
+    [
+     "predge.jp",
+     58.0,
+     11971
     ],
     [
      "jsae.or.jp",
      77.0,
-     11470
+     11555
+    ],
+    [
+     "fashiontrend.jp",
+     30.0,
+     11174
+    ],
+    [
+     "3rd-in.co.jp",
+     68.0,
+     10771
     ]
    ],
    "edu_wiki": [
@@ -2366,7 +2373,7 @@
    "fails": [],
    "warns": [
     "DR 18 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 16 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 19 (เกณฑ์ผ่อน)",
     "ไม่พบ Brand Search ในอดีต"
    ],
    "verdict": "relaxed"
@@ -2388,72 +2395,72 @@
     [
      "cnn.com",
      93.0,
-     27871954
+     27531506
     ],
     [
      "nbcnews.com",
      91.0,
-     8489146
+     8682073
     ],
     [
      "contactout.com",
      74.0,
-     208359
+     209384
     ],
     [
      "dailycaller.com",
      81.0,
-     140022
-    ],
-    [
-     "local3news.com",
-     73.0,
-     72961
+     142284
     ],
     [
      "whdh.com",
      75.0,
-     72042
+     81898
     ],
     [
      "kvia.com",
      72.0,
-     66760
+     60798
     ],
     [
      "charitywatch.org",
      80.0,
-     57497
+     57785
     ],
     [
      "influencewatch.org",
      68.0,
-     54885
+     55864
+    ],
+    [
+     "local3news.com",
+     73.0,
+     55744
     ],
     [
      "komu.com",
      71.0,
-     36052
+     36306
     ],
     [
      "ktvz.com",
      74.0,
-     35529
+     35468
     ],
     [
      "abc17news.com",
      71.0,
-     26298
+     22280
     ],
     [
      "localnews8.com",
      71.0,
-     17223
+     17331
     ],
     [
      "kyma.com",
      64.0,
-     12462
+     11657
     ]
    ],
    "edu_wiki": [],
