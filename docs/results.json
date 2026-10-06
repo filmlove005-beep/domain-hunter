@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-06T04:12:00+00:00",
+ "scanned_at": "2026-10-06T12:50:49+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 922680,
  "results": [
@@ -1469,7 +1469,7 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 21.0,
-   "refdomains": 1080,
+   "refdomains": 1081,
    "quality_count": 15,
    "quality_top": [
     [
@@ -2382,7 +2382,7 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 17.0,
-   "refdomains": 1268,
+   "refdomains": 1267,
    "quality_count": 14,
    "quality_top": [
     [
