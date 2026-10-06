@@ -1,32 +1,27 @@
-2026-10-05 23:27:59 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-05 23:28:09 ได้รายการ expiring_auctions_non_adult: 922,680 โดเมน
-2026-10-05 23:28:09 รวมโดเมนจากทุกฟีด: 922,680 โดเมน (ไม่ซ้ำ)
-2026-10-05 23:28:11 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-05 23:28:11 ดึง DR จาก Ahrefs ...
-2026-10-05 23:28:12 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-10-05 23:28:12 เช็กเชิงลึก 14 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-05 23:28:56   male-love-finder.com: fail เคย Redirect ไป malelove-finder.com
-2026-10-05 23:31:06   theexchangepreston.com: fail เคย Redirect ไป www.sinyalkarir.com
-2026-10-05 23:32:00   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
-2026-10-05 23:34:15   crazy-net.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-05 23:35:17   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-05 23:38:08   dddjapan.com: Wayback ไม่ตอบ TimeoutError: timed out
-2026-10-05 23:38:30   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-05 23:39:05   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
-2026-10-05 23:42:06   homemadegin.com: Wayback ไม่ตอบ HTTP 504 <html>
-<head><title>504 Gateway Time-out</title></head>
-<body>
-<center><h1>504 Gateway Time-out</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
-
-2026-10-05 23:42:46   gynobmedgroup.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-05 23:43:14   genki-o-chan.com: fail Backlink คุณภาพ 2 (< 3)
-2026-10-05 23:45:16   stackplan.com: fail เคย Redirect ไป www.stackplanner.com, afternic.com
-2026-10-05 23:47:48   macroprudentialmatters.com: relaxed DR 21 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-05 23:48:53   bowersconsulting.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 14 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-05 23:48:58 รอ Wayback 2 นาที แล้วลองใหม่ 2 โดเมน ...
-2026-10-05 23:51:25   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-05 23:52:16   homemadegin.com: relaxed DR 23 (เกณฑ์ผ่อน)
-2026-10-05 23:52:26 เสร็จแล้ว: ผ่านสะสม 6 โดเมน (รอบนี้พบใหม่ 6 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-06 03:47:42 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-06 03:47:49 ได้รายการ expiring_auctions_non_adult: 922,680 โดเมน
+2026-10-06 03:47:50 รวมโดเมนจากทุกฟีด: 922,680 โดเมน (ไม่ซ้ำ)
+2026-10-06 03:47:51 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-06 03:47:51 ดึง DR จาก Ahrefs ...
+2026-10-06 03:47:52 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-10-06 03:47:52 เช็กเชิงลึก 14 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-06 03:48:30   male-love-finder.com: fail เคย Redirect ไป malelove-finder.com
+2026-10-06 03:50:43   theexchangepreston.com: fail เคย Redirect ไป www.sinyalkarir.com
+2026-10-06 03:51:48   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
+2026-10-06 03:56:27   crazy-net.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-06 03:58:03   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-06 03:58:56   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-06 03:59:17   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-06 04:00:13   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
+2026-10-06 04:02:04   homemadegin.com: relaxed DR 23 (เกณฑ์ผ่อน)
+2026-10-06 04:02:45   gynobmedgroup.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-06 04:04:08   genki-o-chan.com: fail Backlink คุณภาพ 2 (< 3)
+2026-10-06 04:06:03   stackplan.com: fail เคย Redirect ไป www.stackplanner.com
+2026-10-06 04:07:59   macroprudentialmatters.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
+<body style="padding:30px 0;">
+<div style="float:left;width:260px;text-align:center;">
+<img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
+2026-10-06 04:09:20   bowersconsulting.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 14 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-06 04:09:25 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
+2026-10-06 04:11:50   macroprudentialmatters.com: relaxed DR 21 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-06 04:12:00 เสร็จแล้ว: ผ่านสะสม 6 โดเมน (รอบนี้พบใหม่ 6 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน

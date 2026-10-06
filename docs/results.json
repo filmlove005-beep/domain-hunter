@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-05T23:52:26+00:00",
+ "scanned_at": "2026-10-06T04:12:00+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 922680,
  "results": [
@@ -35,7 +35,7 @@
     [
      "medium.com",
      94.0,
-     33419214
+     26326178
     ],
     [
      "bing.com",
@@ -158,8 +158,8 @@
     "ou.edu",
     "ntpc.edu.tw",
     "edb.gov.hk",
-    "mountaintopuniversity.edu.ng",
-    "gsa.gov"
+    "gsa.gov",
+    "mountaintopuniversity.edu.ng"
    ],
    "peak_traffic": 20833,
    "peak_date": "2021-11-01",
@@ -1417,11 +1417,6 @@
     "bottles for homemade gin"
    ],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 23 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20121209",
    "last_active": "20241205",
    "titles": [
@@ -1456,7 +1451,12 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 23 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "macroprudentialmatters.com",
@@ -1514,7 +1514,7 @@
     ],
     [
      "bancaditalia.it",
-     82.0,
+     83.0,
      363142
     ],
     [
@@ -1524,7 +1524,7 @@
     ],
     [
      "grokipedia.com",
-     79.0,
+     78.0,
      157217
     ],
     [
@@ -1846,6 +1846,13 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 21 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 15 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed",
    "first_seen": "20210930",
    "last_active": "20251027",
    "titles": [
@@ -1876,14 +1883,7 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 21 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 15 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed"
+   "wayback_checked": true
   },
   {
    "domain": "dddjapan.com",
@@ -2332,13 +2332,6 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 18 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 16 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20141217",
    "last_active": "20260305",
    "titles": [
@@ -2369,7 +2362,14 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 18 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 16 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "bowersconsulting.com",
