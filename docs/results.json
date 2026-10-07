@@ -1,7 +1,7 @@
 {
- "scanned_at": "2026-10-07T12:42:59+00:00",
+ "scanned_at": "2026-10-07T22:54:07+00:00",
  "feed": "expiring_auctions_non_adult",
- "feed_total": 909354,
+ "feed_total": 917115,
  "results": [
   {
    "domain": "pixy.org",
@@ -54,7 +54,7 @@
     ],
     [
      "trueid.net",
-     75.0,
+     76.0,
      9828122
     ],
     [
@@ -557,7 +557,7 @@
    "majestic_tf": 0,
    "majestic_rd": 0,
    "stage": "done",
-   "dr": 63.0,
+   "dr": 61.0,
    "refdomains": 1679,
    "quality_count": 13,
    "quality_top": [
@@ -613,7 +613,7 @@
     ],
     [
      "hulkapps.com",
-     70.0,
+     71.0,
      36307
     ],
     [
@@ -919,14 +919,14 @@
   {
    "domain": "homemadegin.com",
    "link": "https://www.godaddy.com/domain-auctions/homemadegin-com-730027497?isc=json_expiring",
-   "price": 25.0,
-   "bids": 3,
+   "price": 305.0,
+   "bids": 5,
    "end_time": "2026-10-11T16:57:00Z",
    "age": 14,
    "majestic_tf": 0,
    "majestic_rd": 0,
    "stage": "done",
-   "dr": 23.0,
+   "dr": 22.0,
    "refdomains": 1240,
    "quality_count": 81,
    "quality_top": [
@@ -1454,7 +1454,7 @@
    "wayback_checked": true,
    "fails": [],
    "warns": [
-    "DR 23 (เกณฑ์ผ่อน)"
+    "DR 22 (เกณฑ์ผ่อน)"
    ],
    "verdict": "relaxed"
   },
@@ -1494,7 +1494,7 @@
     ],
     [
      "kcl.ac.uk",
-     87.0,
+     88.0,
      535086
     ],
     [
@@ -1524,12 +1524,12 @@
     ],
     [
      "grokipedia.com",
-     78.0,
+     79.0,
      125540
     ],
     [
      "unica.it",
-     75.0,
+     76.0,
      92339
     ],
     [
@@ -1539,7 +1539,7 @@
     ],
     [
      "italia-informa.com",
-     51.0,
+     50.0,
      53658
     ],
     [
@@ -1847,12 +1847,8 @@
    "brand_keywords": [],
    "brand_checked": true,
    "first_seen": "20210930",
-   "last_active": "20251027",
+   "last_active": "20250720",
    "titles": [
-    [
-     "20251027",
-     "Latest Articles - Macroprudential Matters"
-    ],
     [
      "20250720",
      "Latest Articles - Macroprudential Matters"
@@ -1976,7 +1972,7 @@
     ],
     [
      "predge.jp",
-     58.0,
+     57.0,
      11971
     ],
     [
@@ -1986,7 +1982,7 @@
     ],
     [
      "fashiontrend.jp",
-     30.0,
+     31.0,
      11174
     ],
     [
