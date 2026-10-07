@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-07T04:00:36+00:00",
+ "scanned_at": "2026-10-07T12:42:59+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 909354,
  "results": [
@@ -510,16 +510,19 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed",
    "first_seen": "19991128",
    "last_active": "20260513",
    "titles": [
     [
+     "20260611",
+     ""
+    ],
+    [
      "20260513",
+     "High Qualiy Free Images To Use Anywhere at Pixy.org"
+    ],
+    [
+     "20230501",
      "High Qualiy Free Images To Use Anywhere at Pixy.org"
     ],
     [
@@ -537,7 +540,12 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "vedicthemes.com",
@@ -1839,8 +1847,12 @@
    "brand_keywords": [],
    "brand_checked": true,
    "first_seen": "20210930",
-   "last_active": "20250720",
+   "last_active": "20251027",
    "titles": [
+    [
+     "20251027",
+     "Latest Articles - Macroprudential Matters"
+    ],
     [
      "20250720",
      "Latest Articles - Macroprudential Matters"
