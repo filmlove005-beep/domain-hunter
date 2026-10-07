@@ -1,23 +1,30 @@
-2026-10-06 21:59:54 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-06 22:00:01 ได้รายการ expiring_auctions_non_adult: 909,354 โดเมน
-2026-10-06 22:00:02 รวมโดเมนจากทุกฟีด: 909,354 โดเมน (ไม่ซ้ำ)
-2026-10-06 22:00:03 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-06 22:00:03 ดึง DR จาก Ahrefs ...
-2026-10-06 22:00:04 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-10-06 22:00:04 เช็กเชิงลึก 15 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-06 22:00:33   male-love-finder.com: fail เคย Redirect ไป malelove-finder.com
-2026-10-06 22:02:50   theexchangepreston.com: fail เคย Redirect ไป www.sinyalkarir.com
-2026-10-06 22:05:00   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
-2026-10-06 22:08:09   crazy-net.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-06 22:10:41   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-06 22:11:14   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-06 22:11:52   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-06 22:12:30   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
-2026-10-06 22:14:47   homemadegin.com: relaxed DR 23 (เกณฑ์ผ่อน)
-2026-10-06 22:15:52   gynobmedgroup.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-06 22:16:33   genki-o-chan.com: fail Backlink คุณภาพ 2 (< 3)
-2026-10-06 22:18:20   community-table.com: fail เคย Redirect ไป yaskworld.com; Backlink คุณภาพ 1 (< 3)
-2026-10-06 22:21:13   stackplan.com: fail เคย Redirect ไป www.stackplanner.com, afternic.com
-2026-10-06 22:23:21   macroprudentialmatters.com: relaxed DR 21 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-06 22:23:49   bowersconsulting.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 14 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-06 22:23:54 เสร็จแล้ว: ผ่านสะสม 6 โดเมน (รอบนี้พบใหม่ 6 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-07 03:15:26 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-07 03:15:32 ได้รายการ expiring_auctions_non_adult: 909,354 โดเมน
+2026-10-07 03:15:32 รวมโดเมนจากทุกฟีด: 909,354 โดเมน (ไม่ซ้ำ)
+2026-10-07 03:15:34 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-07 03:15:34 ดึง DR จาก Ahrefs ...
+2026-10-07 03:15:34 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-10-07 03:15:34 เช็กเชิงลึก 15 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-07 03:17:54   male-love-finder.com: fail เคย Redirect ไป malelove-finder.com
+2026-10-07 03:19:26   theexchangepreston.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-10-07 03:20:38   pixy.org: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
+<body style="padding:30px 0;">
+<div style="float:left;width:260px;text-align:center;">
+<img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
+2026-10-07 03:23:43   crazy-net.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-07 03:29:03   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-07 03:32:14   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-07 03:34:11   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-07 03:38:00   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
+2026-10-07 03:39:48   homemadegin.com: relaxed DR 23 (เกณฑ์ผ่อน)
+2026-10-07 03:42:01   gynobmedgroup.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-10-07 03:44:29   genki-o-chan.com: fail Backlink คุณภาพ 2 (< 3)
+2026-10-07 03:45:30   community-table.com: fail เคย Redirect ไป yaskworld.com; Backlink คุณภาพ 1 (< 3)
+2026-10-07 03:48:26   stackplan.com: fail เคย Redirect ไป www.stackplanner.com, afternic.com
+2026-10-07 03:50:14   macroprudentialmatters.com: relaxed DR 21 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-07 03:50:54   bowersconsulting.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 14 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-07 03:50:59 รอ Wayback 2 นาที แล้วลองใหม่ 3 โดเมน ...
+2026-10-07 03:53:19   theexchangepreston.com: fail เคย Redirect ไป www.sinyalkarir.com
+2026-10-07 03:56:27   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
+2026-10-07 04:00:26   gynobmedgroup.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-07 04:00:36 เสร็จแล้ว: ผ่านสะสม 6 โดเมน (รอบนี้พบใหม่ 6 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
