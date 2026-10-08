@@ -1,7 +1,7 @@
 {
- "scanned_at": "2026-10-08T12:49:51+00:00",
+ "scanned_at": "2026-10-08T23:13:30+00:00",
  "feed": "expiring_auctions_non_adult",
- "feed_total": 917115,
+ "feed_total": 934231,
  "results": [
   {
    "domain": "pixy.org",
@@ -928,132 +928,132 @@
    "stage": "done",
    "dr": 22.0,
    "refdomains": 1238,
-   "quality_count": 80,
+   "quality_count": 78,
    "quality_top": [
     [
      "thekitchn.com",
      86.0,
-     13593530
+     13397763
     ],
     [
      "nbcnews.com",
      91.0,
-     7626552
-    ],
-    [
-     "businessinsider.com",
-     92.0,
-     4635368
+     8020640
     ],
     [
      "buzzfeed.com",
      91.0,
-     4626922
+     4573712
+    ],
+    [
+     "businessinsider.com",
+     92.0,
+     4557282
     ],
     [
      "thebump.com",
      80.0,
-     4055673
-    ],
-    [
-     "stern.de",
-     86.0,
-     3522270
+     4043384
     ],
     [
      "latimes.com",
      92.0,
-     3495261
+     3519829
+    ],
+    [
+     "stern.de",
+     86.0,
+     3485269
     ],
     [
      "parade.com",
      85.0,
-     2527148
+     2410576
     ],
     [
      "tastingtable.com",
      82.0,
-     1632534
+     1488946
     ],
     [
      "lifehacker.com",
      90.0,
-     1238518
+     1239953
     ],
     [
      "sfgate.com",
      90.0,
-     812832
-    ],
-    [
-     "entrepreneur.com",
-     91.0,
-     782769
+     791819
     ],
     [
      "refinery29.com",
      88.0,
-     779876
+     764529
+    ],
+    [
+     "entrepreneur.com",
+     91.0,
+     652107
     ],
     [
      "nationalpost.com",
      86.0,
-     655166
+     627776
     ],
     [
      "oregonlive.com",
      86.0,
-     538754
+     555815
     ],
     [
      "mercurynews.com",
      87.0,
-     538052
+     521963
     ],
     [
      "trendencias.com",
      72.0,
-     521685
-    ],
-    [
-     "temple.edu",
-     85.0,
-     467654
+     504921
     ],
     [
      "inquirer.com",
      88.0,
-     435846
+     435295
     ],
     [
-     "inc.com",
-     91.0,
-     389625
+     "temple.edu",
+     85.0,
+     379118
     ],
     [
      "wework.com",
      82.0,
-     339161
+     363982
     ],
     [
-     "deliciousmagazine.co.uk",
-     72.0,
-     279889
+     "inc.com",
+     91.0,
+     345022
     ],
     [
      "deadspin.com",
      79.0,
-     273540
+     275174
     ],
     [
-     "silive.com",
+     "deliciousmagazine.co.uk",
+     72.0,
+     269780
+    ],
+    [
+     "thedailymeal.com",
      79.0,
-     269206
+     238754
     ],
     [
-     "ctinsider.com",
-     80.0,
-     257786
+     "scarymommy.com",
+     79.0,
+     237326
     ]
    ],
    "edu_wiki": [
@@ -1475,77 +1475,77 @@
     [
      "wikipedia.org",
      97.0,
-     2844324608
+     2851399680
     ],
     [
      "substack.com",
      94.0,
-     9312177
+     9141706
     ],
     [
      "ucdavis.edu",
      90.0,
-     1817261
+     1815242
     ],
     [
      "nyu.edu",
      91.0,
-     934215
-    ],
-    [
-     "kcl.ac.uk",
-     88.0,
-     510537
+     931225
     ],
     [
      "bankofengland.co.uk",
      88.0,
-     499716
+     492526
+    ],
+    [
+     "kcl.ac.uk",
+     88.0,
+     487347
     ],
     [
      "lse.ac.uk",
      90.0,
-     410073
+     383262
     ],
     [
      "bancaditalia.it",
      83.0,
-     351803
+     344786
     ],
     [
      "brookings.edu",
      90.0,
-     326901
+     308366
     ],
     [
      "warwick.ac.uk",
      86.0,
-     187797
+     205317
     ],
     [
      "grokipedia.com",
-     79.0,
-     107845
+     78.0,
+     102869
     ],
     [
      "unica.it",
      76.0,
-     92147
-    ],
-    [
-     "bis.org",
-     88.0,
-     63819
+     94639
     ],
     [
      "italia-informa.com",
      50.0,
-     50520
+     59848
+    ],
+    [
+     "bis.org",
+     88.0,
+     55252
     ],
     [
      "ainvest.com",
      78.0,
-     20919
+     15935
     ]
    ],
    "edu_wiki": [
@@ -1897,57 +1897,47 @@
    "stage": "done",
    "dr": 18.0,
    "refdomains": 917,
-   "quality_count": 17,
+   "quality_count": 16,
    "quality_top": [
     [
      "prtimes.jp",
      92.0,
-     2883094
+     2850394
     ],
     [
      "mapion.co.jp",
      86.0,
-     1143223
+     1126167
     ],
     [
      "zdnet.com",
      91.0,
-     717022
+     728241
     ],
     [
      "ascii.jp",
      81.0,
-     356724
+     359389
     ],
     [
      "k24.net",
      69.0,
-     285165
-    ],
-    [
-     "seositecheckup.com",
-     77.0,
-     205632
+     290481
     ],
     [
      "hiroshima-u.ac.jp",
      81.0,
-     109741
+     107029
     ],
     [
      "listen.style",
      65.0,
-     83062
+     78526
     ],
     [
      "voix.jp",
      71.0,
-     68521
-    ],
-    [
-     "cad-kenkyujo.com",
-     41.0,
-     57092
+     71193
     ],
     [
      "sitelike.org",
@@ -1955,34 +1945,39 @@
      56295
     ],
     [
-     "siteprice.org",
-     72.0,
-     43764
+     "cad-kenkyujo.com",
+     41.0,
+     55903
     ],
     [
-     "kingsoft.jp",
-     71.0,
-     30503
+     "siteprice.org",
+     72.0,
+     33250
     ],
     [
      "uniview.com",
      75.0,
-     29119
+     28496
+    ],
+    [
+     "kingsoft.jp",
+     71.0,
+     23899
     ],
     [
      "straightpress.jp",
      66.0,
-     13262
+     12429
     ],
     [
      "jsae.or.jp",
      77.0,
-     10639
+     11509
     ],
     [
      "predge.jp",
      57.0,
-     10588
+     10615
     ]
    ],
    "edu_wiki": [
@@ -2371,7 +2366,7 @@
    "fails": [],
    "warns": [
     "DR 18 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 17 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 16 (เกณฑ์ผ่อน)",
     "ไม่พบ Brand Search ในอดีต"
    ],
    "verdict": "relaxed"
@@ -2387,82 +2382,82 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 17.0,
-   "refdomains": 1267,
+   "refdomains": 1266,
    "quality_count": 14,
    "quality_top": [
     [
      "cnn.com",
      93.0,
-     27531506
+     27110024
     ],
     [
      "nbcnews.com",
      91.0,
-     8682073
+     8020640
     ],
     [
      "contactout.com",
      74.0,
-     209384
+     181050
     ],
     [
      "dailycaller.com",
      81.0,
-     142284
+     141173
     ],
     [
      "whdh.com",
      75.0,
-     81898
-    ],
-    [
-     "kvia.com",
-     72.0,
-     60798
+     80694
     ],
     [
      "charitywatch.org",
      80.0,
-     57785
+     53862
     ],
     [
      "influencewatch.org",
      68.0,
-     55864
-    ],
-    [
-     "local3news.com",
-     73.0,
-     55744
+     53767
     ],
     [
      "komu.com",
      71.0,
-     36306
+     47946
+    ],
+    [
+     "local3news.com",
+     73.0,
+     41620
+    ],
+    [
+     "kvia.com",
+     72.0,
+     34986
     ],
     [
      "ktvz.com",
      74.0,
-     35468
+     27701
     ],
     [
      "abc17news.com",
      71.0,
-     22280
+     17701
     ],
     [
      "localnews8.com",
      71.0,
-     17331
+     15823
     ],
     [
      "kyma.com",
-     64.0,
-     11657
+     65.0,
+     10827
     ]
    ],
    "edu_wiki": [],
-   "peak_traffic": 1731,
+   "peak_traffic": 1361,
    "peak_date": "2022-09-01",
    "traffic_history": [
     [
@@ -2491,103 +2486,103 @@
     ],
     [
      "2022-05",
-     88
+     491
     ],
     [
      "2022-06",
-     32
+     178
     ],
     [
      "2022-07",
-     5
-    ],
-    [
-     "2022-08",
-     5
-    ],
-    [
-     "2022-09",
-     1731
-    ],
-    [
-     "2022-10",
-     700
-    ],
-    [
-     "2022-11",
-     51
-    ],
-    [
-     "2022-12",
-     15
-    ],
-    [
-     "2023-01",
-     2
-    ],
-    [
-     "2023-02",
-     1
-    ],
-    [
-     "2023-03",
-     2
-    ],
-    [
-     "2023-04",
-     17
-    ],
-    [
-     "2023-05",
-     46
-    ],
-    [
-     "2023-06",
-     46
-    ],
-    [
-     "2023-07",
-     35
-    ],
-    [
-     "2023-08",
-     29
-    ],
-    [
-     "2023-09",
-     40
-    ],
-    [
-     "2023-10",
-     41
-    ],
-    [
-     "2023-11",
-     29
-    ],
-    [
-     "2023-12",
-     16
-    ],
-    [
-     "2024-01",
      24
     ],
     [
+     "2022-08",
+     20
+    ],
+    [
+     "2022-09",
+     1361
+    ],
+    [
+     "2022-10",
+     596
+    ],
+    [
+     "2022-11",
+     54
+    ],
+    [
+     "2022-12",
+     16
+    ],
+    [
+     "2023-01",
+     9
+    ],
+    [
+     "2023-02",
+     5
+    ],
+    [
+     "2023-03",
+     7
+    ],
+    [
+     "2023-04",
+     23
+    ],
+    [
+     "2023-05",
+     47
+    ],
+    [
+     "2023-06",
+     55
+    ],
+    [
+     "2023-07",
+     43
+    ],
+    [
+     "2023-08",
+     36
+    ],
+    [
+     "2023-09",
+     47
+    ],
+    [
+     "2023-10",
+     57
+    ],
+    [
+     "2023-11",
+     39
+    ],
+    [
+     "2023-12",
+     18
+    ],
+    [
+     "2024-01",
+     29
+    ],
+    [
      "2024-02",
-     42
+     50
     ],
     [
      "2024-03",
-     33
+     43
     ],
     [
      "2024-04",
-     30
+     29
     ],
     [
      "2024-05",
-     32
+     28
     ],
     [
      "2024-06",
@@ -2595,15 +2590,15 @@
     ],
     [
      "2024-07",
-     152
+     166
     ],
     [
      "2024-08",
-     146
+     160
     ],
     [
      "2024-09",
-     33
+     32
     ],
     [
      "2024-10",
@@ -2611,11 +2606,11 @@
     ],
     [
      "2024-11",
-     11
+     10
     ],
     [
      "2024-12",
-     11
+     10
     ],
     [
      "2025-01",
@@ -2655,15 +2650,15 @@
     ],
     [
      "2025-10",
-     16
+     15
     ],
     [
      "2025-11",
-     16
+     19
     ],
     [
      "2025-12",
-     11
+     10
     ],
     [
      "2026-01",
@@ -2706,7 +2701,7 @@
     [
      "shalomyah bowers",
      3,
-     3
+     14
     ],
     [
      "upskill america",
@@ -2847,5 +2842,1495 @@
    "verdict": "relaxed"
   }
  ],
- "wayback_retry": []
+ "wayback_retry": [
+  {
+   "domain": "pixy.org",
+   "link": "https://www.godaddy.com/domain-auctions/pixy-org-729719004?isc=json_expiring",
+   "price": 205.0,
+   "bids": 26,
+   "end_time": "2026-10-09T18:13:00Z",
+   "age": 15,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "wayback_failed",
+   "dr": 65.0,
+   "refdomains": 2002,
+   "quality_count": 100,
+   "quality_top": [
+    [
+     "youtube.com",
+     99.0,
+     3018932736
+    ],
+    [
+     "wikipedia.org",
+     97.0,
+     2851399680
+    ],
+    [
+     "fandom.com",
+     92.0,
+     127989504
+    ],
+    [
+     "medium.com",
+     94.0,
+     21324440
+    ],
+    [
+     "bing.com",
+     93.0,
+     13239856
+    ],
+    [
+     "verizon.com",
+     91.0,
+     12180093
+    ],
+    [
+     "trueid.net",
+     76.0,
+     9900868
+    ],
+    [
+     "substack.com",
+     94.0,
+     9141706
+    ],
+    [
+     "github.io",
+     94.0,
+     8386361
+    ],
+    [
+     "cornell.edu",
+     92.0,
+     5567962
+    ],
+    [
+     "idokep.hu",
+     73.0,
+     5337712
+    ],
+    [
+     "forexfactory.com",
+     77.0,
+     3180560
+    ],
+    [
+     "libretexts.org",
+     82.0,
+     3023926
+    ],
+    [
+     "teacherspayteachers.com",
+     88.0,
+     3013866
+    ],
+    [
+     "lazada.com.ph",
+     91.0,
+     2999778
+    ],
+    [
+     "timesofisrael.com",
+     87.0,
+     2768764
+    ],
+    [
+     "snl.no",
+     84.0,
+     2728634
+    ],
+    [
+     "juntadeandalucia.es",
+     88.0,
+     2595136
+    ],
+    [
+     "vocal.media",
+     82.0,
+     2403567
+    ],
+    [
+     "lichess.org",
+     84.0,
+     2370650
+    ],
+    [
+     "seekingalpha.com",
+     87.0,
+     2226517
+    ],
+    [
+     "scamadviser.com",
+     80.0,
+     1811305
+    ],
+    [
+     "netlify.app",
+     93.0,
+     1746479
+    ],
+    [
+     "arcgis.com",
+     92.0,
+     1745100
+    ],
+    [
+     "vercel.app",
+     93.0,
+     1606564
+    ]
+   ],
+   "edu_wiki": [
+    "wikipedia.org",
+    "cornell.edu",
+    "psu.edu",
+    "msu.edu",
+    "cuny.edu",
+    "oregon.gov",
+    "zpe.gov.pl",
+    "uitm.edu.my",
+    "curitiba.pr.gov.br",
+    "northwestern.edu",
+    "imperial.ac.uk",
+    "edb.gov.hk",
+    "ntpc.edu.tw",
+    "ou.edu",
+    "gsa.gov"
+   ],
+   "peak_traffic": 20772,
+   "peak_date": "2021-11-01",
+   "traffic_history": [
+    [
+     "2021-11",
+     20772
+    ],
+    [
+     "2021-12",
+     12481
+    ],
+    [
+     "2022-01",
+     19927
+    ],
+    [
+     "2022-02",
+     19115
+    ],
+    [
+     "2022-03",
+     14657
+    ],
+    [
+     "2022-04",
+     13421
+    ],
+    [
+     "2022-05",
+     12224
+    ],
+    [
+     "2022-06",
+     10727
+    ],
+    [
+     "2022-07",
+     9332
+    ],
+    [
+     "2022-08",
+     11813
+    ],
+    [
+     "2022-09",
+     15837
+    ],
+    [
+     "2022-10",
+     17032
+    ],
+    [
+     "2022-11",
+     16848
+    ],
+    [
+     "2022-12",
+     13828
+    ],
+    [
+     "2023-01",
+     15250
+    ],
+    [
+     "2023-02",
+     16651
+    ],
+    [
+     "2023-03",
+     16396
+    ],
+    [
+     "2023-04",
+     13656
+    ],
+    [
+     "2023-05",
+     11638
+    ],
+    [
+     "2023-06",
+     12033
+    ],
+    [
+     "2023-07",
+     11196
+    ],
+    [
+     "2023-08",
+     13105
+    ],
+    [
+     "2023-09",
+     12253
+    ],
+    [
+     "2023-10",
+     4634
+    ],
+    [
+     "2023-11",
+     3231
+    ],
+    [
+     "2023-12",
+     1862
+    ],
+    [
+     "2024-01",
+     836
+    ],
+    [
+     "2024-02",
+     655
+    ],
+    [
+     "2024-03",
+     464
+    ],
+    [
+     "2024-04",
+     281
+    ],
+    [
+     "2024-05",
+     138
+    ],
+    [
+     "2024-06",
+     61
+    ],
+    [
+     "2024-07",
+     32
+    ],
+    [
+     "2024-08",
+     80
+    ],
+    [
+     "2024-09",
+     229
+    ],
+    [
+     "2024-10",
+     164
+    ],
+    [
+     "2024-11",
+     136
+    ],
+    [
+     "2024-12",
+     91
+    ],
+    [
+     "2025-01",
+     142
+    ],
+    [
+     "2025-02",
+     313
+    ],
+    [
+     "2025-03",
+     367
+    ],
+    [
+     "2025-04",
+     248
+    ],
+    [
+     "2025-05",
+     269
+    ],
+    [
+     "2025-06",
+     266
+    ],
+    [
+     "2025-07",
+     503
+    ],
+    [
+     "2025-08",
+     1419
+    ],
+    [
+     "2025-09",
+     1340
+    ],
+    [
+     "2025-10",
+     627
+    ],
+    [
+     "2025-11",
+     524
+    ],
+    [
+     "2025-12",
+     268
+    ],
+    [
+     "2026-01",
+     62
+    ],
+    [
+     "2026-02",
+     43
+    ],
+    [
+     "2026-03",
+     66
+    ],
+    [
+     "2026-04",
+     52
+    ],
+    [
+     "2026-05",
+     62
+    ],
+    [
+     "2026-06",
+     70
+    ],
+    [
+     "2026-07",
+     86
+    ],
+    [
+     "2026-08",
+     35
+    ],
+    [
+     "2026-09",
+     5
+    ],
+    [
+     "2026-10",
+     2
+    ]
+   ],
+   "top_keywords": [
+    [
+     "india map drawing",
+     1,
+     346
+    ],
+    [
+     "dolce modz",
+     4,
+     311
+    ],
+    [
+     "totoro pumpkin stencil",
+     1,
+     227
+    ],
+    [
+     "honesty is the best policy drawing",
+     3,
+     132
+    ],
+    [
+     "honesty poster drawing",
+     7,
+     108
+    ],
+    [
+     "legend of zelda pumpkin stencil",
+     7,
+     86
+    ],
+    [
+     "flames drawing",
+     1,
+     83
+    ],
+    [
+     "crazy sock day clipart",
+     3,
+     80
+    ],
+    [
+     "ghost costume drawing",
+     2,
+     80
+    ],
+    [
+     "gizmo pumpkin stencil",
+     6,
+     74
+    ],
+    [
+     "max and ruby rule 34",
+     4,
+     73
+    ],
+    [
+     "orum rohn r50",
+     7,
+     72
+    ],
+    [
+     "home depot logo",
+     1,
+     61
+    ],
+    [
+     "lunch bunch clipart",
+     1,
+     59
+    ],
+    [
+     "red ribbon drawing",
+     8,
+     58
+    ],
+    [
+     "ghost face drawing",
+     20,
+     58
+    ],
+    [
+     "honesty poster drawing",
+     6,
+     56
+    ],
+    [
+     "gallery walk clipart",
+     1,
+     53
+    ],
+    [
+     "girly monkeys",
+     1,
+     48
+    ],
+    [
+     "thing 2 logo",
+     2,
+     47
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [],
+   "brand_checked": true,
+   "error": "HTTP 503 <html><head><meta charset=\"UTF-8\"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>\n<body style=\"padding:30px 0;\">\n<div style=\"float:left;width:260px;text-align:center;\">\n<img xsrc=\"logo_ia.jpg\" src=\"data:image/jpeg;base64,iVBORw0KGg",
+   "fails": [],
+   "warns": [
+    "ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "pending"
+  },
+  {
+   "domain": "vedicthemes.com",
+   "link": "https://www.godaddy.com/domain-auctions/vedicthemes-com-730156919?isc=json_expiring",
+   "price": 1.0,
+   "bids": 0,
+   "end_time": "2026-10-12T16:22:00Z",
+   "age": 11,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "wayback_failed",
+   "dr": 61.0,
+   "refdomains": 1664,
+   "quality_count": 13,
+   "quality_top": [
+    [
+     "free.fr",
+     91.0,
+     9201320
+    ],
+    [
+     "github.io",
+     94.0,
+     8386361
+    ],
+    [
+     "envato.com",
+     93.0,
+     3355649
+    ],
+    [
+     "cinfa.com",
+     68.0,
+     800394
+    ],
+    [
+     "webflow.io",
+     92.0,
+     773930
+    ],
+    [
+     "fu-berlin.de",
+     86.0,
+     178112
+    ],
+    [
+     "sitelike.org",
+     63.0,
+     56295
+    ],
+    [
+     "pucv.cl",
+     72.0,
+     44298
+    ],
+    [
+     "hulkapps.com",
+     71.0,
+     39753
+    ],
+    [
+     "telegra.ph",
+     88.0,
+     34040
+    ],
+    [
+     "siteprice.org",
+     72.0,
+     33250
+    ],
+    [
+     "ufcg.edu.br",
+     71.0,
+     27751
+    ],
+    [
+     "zogrodemnaty.pl",
+     32.0,
+     15851
+    ]
+   ],
+   "edu_wiki": [
+    "ufcg.edu.br"
+   ],
+   "peak_traffic": 24,
+   "peak_date": "2026-09-01",
+   "traffic_history": [
+    [
+     "2021-11",
+     3
+    ],
+    [
+     "2021-12",
+     2
+    ],
+    [
+     "2022-01",
+     3
+    ],
+    [
+     "2022-02",
+     4
+    ],
+    [
+     "2022-03",
+     4
+    ],
+    [
+     "2022-04",
+     2
+    ],
+    [
+     "2022-05",
+     3
+    ],
+    [
+     "2022-06",
+     3
+    ],
+    [
+     "2022-07",
+     2
+    ],
+    [
+     "2022-08",
+     1
+    ],
+    [
+     "2022-09",
+     0
+    ],
+    [
+     "2022-10",
+     0
+    ],
+    [
+     "2022-11",
+     0
+    ],
+    [
+     "2022-12",
+     0
+    ],
+    [
+     "2023-01",
+     0
+    ],
+    [
+     "2023-02",
+     0
+    ],
+    [
+     "2023-03",
+     0
+    ],
+    [
+     "2023-04",
+     0
+    ],
+    [
+     "2023-05",
+     0
+    ],
+    [
+     "2023-06",
+     0
+    ],
+    [
+     "2023-07",
+     0
+    ],
+    [
+     "2023-08",
+     0
+    ],
+    [
+     "2023-09",
+     0
+    ],
+    [
+     "2023-10",
+     1
+    ],
+    [
+     "2023-11",
+     2
+    ],
+    [
+     "2023-12",
+     0
+    ],
+    [
+     "2024-01",
+     0
+    ],
+    [
+     "2024-02",
+     0
+    ],
+    [
+     "2024-03",
+     0
+    ],
+    [
+     "2024-04",
+     0
+    ],
+    [
+     "2024-05",
+     0
+    ],
+    [
+     "2024-06",
+     0
+    ],
+    [
+     "2024-07",
+     0
+    ],
+    [
+     "2024-08",
+     0
+    ],
+    [
+     "2024-09",
+     3
+    ],
+    [
+     "2024-10",
+     6
+    ],
+    [
+     "2024-11",
+     2
+    ],
+    [
+     "2024-12",
+     0
+    ],
+    [
+     "2025-01",
+     0
+    ],
+    [
+     "2025-02",
+     4
+    ],
+    [
+     "2025-03",
+     2
+    ],
+    [
+     "2025-04",
+     1
+    ],
+    [
+     "2025-05",
+     1
+    ],
+    [
+     "2025-06",
+     1
+    ],
+    [
+     "2025-07",
+     1
+    ],
+    [
+     "2025-08",
+     2
+    ],
+    [
+     "2025-09",
+     5
+    ],
+    [
+     "2025-10",
+     0
+    ],
+    [
+     "2025-11",
+     0
+    ],
+    [
+     "2025-12",
+     1
+    ],
+    [
+     "2026-01",
+     2
+    ],
+    [
+     "2026-02",
+     9
+    ],
+    [
+     "2026-03",
+     4
+    ],
+    [
+     "2026-04",
+     2
+    ],
+    [
+     "2026-05",
+     0
+    ],
+    [
+     "2026-06",
+     0
+    ],
+    [
+     "2026-07",
+     0
+    ],
+    [
+     "2026-08",
+     0
+    ],
+    [
+     "2026-09",
+     24
+    ],
+    [
+     "2026-10",
+     3
+    ]
+   ],
+   "top_keywords": [],
+   "gambling_keywords": [],
+   "brand_keywords": [],
+   "brand_checked": true,
+   "error": "HTTP 503 <html><head><meta charset=\"UTF-8\"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>\n<body style=\"padding:30px 0;\">\n<div style=\"float:left;width:260px;text-align:center;\">\n<img xsrc=\"logo_ia.jpg\" src=\"data:image/jpeg;base64,iVBORw0KGg",
+   "fails": [],
+   "warns": [
+    "Backlink คุณภาพ 13 (เกณฑ์ผ่อน)",
+    "ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "pending"
+  },
+  {
+   "domain": "mattstobbs.com",
+   "link": "https://www.godaddy.com/domain-auctions/mattstobbs-com-730103019?isc=json_expiring",
+   "price": 1.0,
+   "bids": 0,
+   "end_time": "2026-10-16T16:21:00Z",
+   "age": 5,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "wayback_failed",
+   "dr": 24.0,
+   "refdomains": 751,
+   "quality_count": 3,
+   "quality_top": [
+    [
+     "wikimedia.org",
+     93.0,
+     5470821
+    ],
+    [
+     "vercel.app",
+     93.0,
+     1606564
+    ],
+    [
+     "zenn.dev",
+     84.0,
+     818935
+    ]
+   ],
+   "edu_wiki": [],
+   "peak_traffic": 149,
+   "peak_date": "2024-04-01",
+   "traffic_history": [
+    [
+     "2022-02",
+     0
+    ],
+    [
+     "2022-03",
+     0
+    ],
+    [
+     "2022-04",
+     0
+    ],
+    [
+     "2022-05",
+     0
+    ],
+    [
+     "2022-06",
+     0
+    ],
+    [
+     "2022-07",
+     0
+    ],
+    [
+     "2022-08",
+     0
+    ],
+    [
+     "2022-09",
+     0
+    ],
+    [
+     "2022-10",
+     1
+    ],
+    [
+     "2022-11",
+     1
+    ],
+    [
+     "2022-12",
+     3
+    ],
+    [
+     "2023-01",
+     6
+    ],
+    [
+     "2023-02",
+     14
+    ],
+    [
+     "2023-03",
+     18
+    ],
+    [
+     "2023-04",
+     16
+    ],
+    [
+     "2023-05",
+     24
+    ],
+    [
+     "2023-06",
+     54
+    ],
+    [
+     "2023-07",
+     110
+    ],
+    [
+     "2023-08",
+     147
+    ],
+    [
+     "2023-09",
+     143
+    ],
+    [
+     "2023-10",
+     134
+    ],
+    [
+     "2023-11",
+     136
+    ],
+    [
+     "2023-12",
+     107
+    ],
+    [
+     "2024-01",
+     93
+    ],
+    [
+     "2024-02",
+     90
+    ],
+    [
+     "2024-03",
+     98
+    ],
+    [
+     "2024-04",
+     149
+    ],
+    [
+     "2024-05",
+     141
+    ],
+    [
+     "2024-06",
+     138
+    ],
+    [
+     "2024-07",
+     125
+    ],
+    [
+     "2024-08",
+     117
+    ],
+    [
+     "2024-09",
+     126
+    ],
+    [
+     "2024-10",
+     111
+    ],
+    [
+     "2024-11",
+     111
+    ],
+    [
+     "2024-12",
+     92
+    ],
+    [
+     "2025-01",
+     107
+    ],
+    [
+     "2025-02",
+     91
+    ],
+    [
+     "2025-03",
+     72
+    ],
+    [
+     "2025-04",
+     59
+    ],
+    [
+     "2025-05",
+     51
+    ],
+    [
+     "2025-06",
+     45
+    ],
+    [
+     "2025-07",
+     37
+    ],
+    [
+     "2025-08",
+     39
+    ],
+    [
+     "2025-09",
+     25
+    ],
+    [
+     "2025-10",
+     13
+    ],
+    [
+     "2025-11",
+     13
+    ],
+    [
+     "2025-12",
+     14
+    ],
+    [
+     "2026-01",
+     9
+    ],
+    [
+     "2026-02",
+     13
+    ],
+    [
+     "2026-03",
+     8
+    ],
+    [
+     "2026-04",
+     24
+    ],
+    [
+     "2026-05",
+     30
+    ],
+    [
+     "2026-06",
+     15
+    ],
+    [
+     "2026-07",
+     11
+    ],
+    [
+     "2026-08",
+     15
+    ],
+    [
+     "2026-09",
+     12
+    ],
+    [
+     "2026-10",
+     1
+    ]
+   ],
+   "top_keywords": [
+    [
+     "remix authentication",
+     2,
+     10
+    ],
+    [
+     "typescript object with string keys",
+     8,
+     8
+    ],
+    [
+     "zod transform",
+     9,
+     7
+    ],
+    [
+     "typescript object.keys",
+     5,
+     7
+    ],
+    [
+     "remix auth",
+     6,
+     6
+    ],
+    [
+     "typescript object keys",
+     5,
+     6
+    ],
+    [
+     "object.keys typescript",
+     6,
+     6
+    ],
+    [
+     "typescript object with string keys",
+     5,
+     5
+    ],
+    [
+     "object.keys typescript",
+     4,
+     5
+    ],
+    [
+     "object keys typescript",
+     6,
+     3
+    ],
+    [
+     "zod default",
+     10,
+     3
+    ],
+    [
+     "object.keys typescript",
+     4,
+     3
+    ],
+    [
+     "remix login",
+     4,
+     3
+    ],
+    [
+     "typescript get keys of object",
+     9,
+     3
+    ],
+    [
+     "object.keys typescript",
+     4,
+     2
+    ],
+    [
+     "remix nested routes",
+     9,
+     2
+    ],
+    [
+     "typescript keys of object",
+     8,
+     2
+    ],
+    [
+     "typescript type object keys",
+     4,
+     2
+    ],
+    [
+     "typescript object with any keys",
+     7,
+     2
+    ],
+    [
+     "object keys typescript",
+     4,
+     2
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [],
+   "brand_checked": true,
+   "error": "HTTP 503 <html><head><meta charset=\"UTF-8\"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>\n<body style=\"padding:30px 0;\">\n<div style=\"float:left;width:260px;text-align:center;\">\n<img xsrc=\"logo_ia.jpg\" src=\"data:image/jpeg;base64,iVBORw0KGg",
+   "fails": [],
+   "warns": [
+    "DR 24 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
+    "ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "pending"
+  },
+  {
+   "domain": "stackplan.com",
+   "link": "https://www.godaddy.com/domain-auctions/stackplan-com-730045360?isc=json_expiring",
+   "price": 1.0,
+   "bids": 1,
+   "end_time": "2026-10-11T16:31:00Z",
+   "age": 16,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "wayback_failed",
+   "dr": 15.0,
+   "refdomains": 892,
+   "quality_count": 5,
+   "quality_top": [
+    [
+     "bing.com",
+     93.0,
+     13239856
+    ],
+    [
+     "free.fr",
+     91.0,
+     9201320
+    ],
+    [
+     "accio.com",
+     76.0,
+     359095
+    ],
+    [
+     "accountingweb.co.uk",
+     76.0,
+     59902
+    ],
+    [
+     "piceapp.com",
+     32.0,
+     24308
+    ]
+   ],
+   "edu_wiki": [],
+   "peak_traffic": 399,
+   "peak_date": "2025-09-01",
+   "traffic_history": [
+    [
+     "2024-11",
+     2
+    ],
+    [
+     "2024-12",
+     65
+    ],
+    [
+     "2025-01",
+     69
+    ],
+    [
+     "2025-02",
+     78
+    ],
+    [
+     "2025-03",
+     108
+    ],
+    [
+     "2025-04",
+     163
+    ],
+    [
+     "2025-05",
+     238
+    ],
+    [
+     "2025-06",
+     261
+    ],
+    [
+     "2025-07",
+     271
+    ],
+    [
+     "2025-08",
+     351
+    ],
+    [
+     "2025-09",
+     399
+    ],
+    [
+     "2025-10",
+     235
+    ],
+    [
+     "2025-11",
+     217
+    ],
+    [
+     "2025-12",
+     206
+    ],
+    [
+     "2026-01",
+     210
+    ],
+    [
+     "2026-02",
+     178
+    ],
+    [
+     "2026-03",
+     92
+    ],
+    [
+     "2026-04",
+     44
+    ],
+    [
+     "2026-05",
+     71
+    ],
+    [
+     "2026-06",
+     122
+    ],
+    [
+     "2026-07",
+     68
+    ],
+    [
+     "2026-08",
+     54
+    ],
+    [
+     "2026-09",
+     45
+    ],
+    [
+     "2026-10",
+     22
+    ]
+   ],
+   "top_keywords": [
+    [
+     "ecommerce software",
+     11,
+     91
+    ],
+    [
+     "ecommerce management software",
+     5,
+     21
+    ],
+    [
+     "profit tree",
+     4,
+     15
+    ],
+    [
+     "ecommerce software",
+     12,
+     15
+    ],
+    [
+     "profit tree",
+     6,
+     12
+    ],
+    [
+     "e business software",
+     1,
+     11
+    ],
+    [
+     "e commerce softwares",
+     10,
+     10
+    ],
+    [
+     "it roadmap",
+     5,
+     9
+    ],
+    [
+     "software ecommerce",
+     13,
+     8
+    ],
+    [
+     "software for ecommerce website",
+     6,
+     8
+    ],
+    [
+     "it roadmap",
+     4,
+     7
+    ],
+    [
+     "software for ecommerce",
+     14,
+     7
+    ],
+    [
+     "it roadmap",
+     1,
+     6
+    ],
+    [
+     "it roadmap",
+     5,
+     6
+    ],
+    [
+     "ecommerce management software",
+     9,
+     6
+    ],
+    [
+     "it roadmap",
+     5,
+     5
+    ],
+    [
+     "ecommerce management system",
+     8,
+     5
+    ],
+    [
+     "technology roadmap",
+     9,
+     5
+    ],
+    [
+     "stack plan",
+     2,
+     4
+    ],
+    [
+     "it roadmap",
+     8,
+     4
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [
+    "stack plan"
+   ],
+   "brand_checked": true,
+   "error": "HTTP 503 <html><head><meta charset=\"UTF-8\"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>\n<body style=\"padding:30px 0;\">\n<div style=\"float:left;width:260px;text-align:center;\">\n<img xsrc=\"logo_ia.jpg\" src=\"data:image/jpeg;base64,iVBORw0KGg",
+   "fails": [],
+   "warns": [
+    "DR 15 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 5 (เกณฑ์ผ่อน)",
+    "ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)"
+   ],
+   "verdict": "pending"
+  }
+ ]
 }
