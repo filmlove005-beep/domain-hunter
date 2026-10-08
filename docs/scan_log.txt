@@ -1,22 +1,22 @@
-2026-10-08 03:31:00 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-08 03:31:07 ได้รายการ expiring_auctions_non_adult: 917,115 โดเมน
-2026-10-08 03:31:07 รวมโดเมนจากทุกฟีด: 917,115 โดเมน (ไม่ซ้ำ)
-2026-10-08 03:31:08 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-08 03:31:08 ดึง DR จาก Ahrefs ...
-2026-10-08 03:31:09 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-10-08 03:31:09 เช็กเชิงลึก 14 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-08 03:31:37   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
-2026-10-08 03:34:16   crazy-net.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-08 03:36:51   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-08 03:37:28   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-08 03:38:09   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
-2026-10-08 03:38:31   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-08 03:39:03   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
-2026-10-08 03:41:21   pickupwp.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-08 03:45:07   homemadegin.com: relaxed DR 22 (เกณฑ์ผ่อน)
-2026-10-08 03:46:06   gynobmedgroup.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-08 03:47:19   genki-o-chan.com: fail Backlink คุณภาพ 2 (< 3)
-2026-10-08 03:50:05   community-table.com: fail เคย Redirect ไป yaskworld.com; Backlink คุณภาพ 1 (< 3)
-2026-10-08 03:51:52   stackplan.com: fail เคย Redirect ไป www.stackplanner.com, afternic.com
-2026-10-08 03:52:20   macroprudentialmatters.com: relaxed DR 21 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-08 03:52:25 เสร็จแล้ว: ผ่านสะสม 6 โดเมน (รอบนี้พบใหม่ 5 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-08 12:26:57 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-08 12:27:03 ได้รายการ expiring_auctions_non_adult: 917,115 โดเมน
+2026-10-08 12:27:04 รวมโดเมนจากทุกฟีด: 917,115 โดเมน (ไม่ซ้ำ)
+2026-10-08 12:27:05 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-08 12:27:05 ดึง DR จาก Ahrefs ...
+2026-10-08 12:27:06 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-10-08 12:27:06 เช็กเชิงลึก 14 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-08 12:27:47   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
+2026-10-08 12:30:54   crazy-net.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-08 12:33:16   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-08 12:34:17   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 17 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-08 12:35:01   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
+2026-10-08 12:35:31   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-08 12:36:29   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
+2026-10-08 12:37:40   pickupwp.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-08 12:41:40   homemadegin.com: relaxed DR 22 (เกณฑ์ผ่อน)
+2026-10-08 12:43:39   gynobmedgroup.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-08 12:44:18   genki-o-chan.com: fail Backlink คุณภาพ 2 (< 3)
+2026-10-08 12:46:39   community-table.com: fail เคย Redirect ไป yaskworld.com; Backlink คุณภาพ 1 (< 3)
+2026-10-08 12:48:52   stackplan.com: fail เคย Redirect ไป www.stackplanner.com, afternic.com
+2026-10-08 12:49:46   macroprudentialmatters.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-08 12:49:51 เสร็จแล้ว: ผ่านสะสม 6 โดเมน (รอบนี้พบใหม่ 5 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
