@@ -1,24 +1,24 @@
-2026-10-09 12:16:03 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-09 12:16:09 ได้รายการ expiring_auctions_non_adult: 934,231 โดเมน
-2026-10-09 12:16:09 รวมโดเมนจากทุกฟีด: 934,231 โดเมน (ไม่ซ้ำ)
-2026-10-09 12:16:11 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-09 12:16:11 ดึง DR จาก Ahrefs ...
-2026-10-09 12:16:13 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-10-09 12:16:13 เช็กเชิงลึก 14 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-09 12:19:04   pixy.org: Wayback ไม่ตอบ URLError: <urlopen error timed out>
-2026-10-09 12:20:14   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-09 12:20:59   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-09 12:21:37   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
-2026-10-09 12:24:52   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-09 12:25:36   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
-2026-10-09 12:27:23   mattstobbs.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-09 12:27:59   pickupwp.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-09 12:31:12   homemadegin.com: relaxed DR 22 (เกณฑ์ผ่อน)
-2026-10-09 12:34:33   gynobmedgroup.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-09 12:35:42   community-table.com: fail เคย Redirect ไป yaskworld.com; Backlink คุณภาพ 1 (< 3)
-2026-10-09 12:38:53   stackplan.com: fail เคย Redirect ไป www.stackplanner.com, afternic.com
-2026-10-09 12:40:58   macroprudentialmatters.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-09 12:41:50   bowersconsulting.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 14 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-09 12:41:55 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
-2026-10-09 12:44:30   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
-2026-10-09 12:44:40 เสร็จแล้ว: ผ่านสะสม 6 โดเมน (รอบนี้พบใหม่ 6 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-09 21:59:38 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-09 21:59:45 ได้รายการ expiring_auctions_non_adult: 917,217 โดเมน
+2026-10-09 21:59:45 รวมโดเมนจากทุกฟีด: 917,217 โดเมน (ไม่ซ้ำ)
+2026-10-09 21:59:47 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-09 21:59:47 ดึง DR จาก Ahrefs ...
+2026-10-09 21:59:48 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-10-09 21:59:48 เช็กเชิงลึก 14 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-09 22:00:12   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
+2026-10-09 22:02:50   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-09 22:03:19   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-09 22:04:02   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
+2026-10-09 22:05:58   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-09 22:06:34   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
+2026-10-09 22:08:43   mattstobbs.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-09 22:09:59   pickupwp.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-09 22:12:25   homemadegin.com: relaxed DR 22 (เกณฑ์ผ่อน)
+2026-10-09 22:13:12   gynobmedgroup.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-09 22:13:44   community-table.com: fail เคย Redirect ไป yaskworld.com; Backlink คุณภาพ 1 (< 3)
+2026-10-09 22:15:40   stackplan.com: Wayback ไม่ตอบ URLError: <urlopen error timed out>
+2026-10-09 22:16:13   macroprudentialmatters.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-09 22:16:55   bowersconsulting.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 14 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-09 22:17:00 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
+2026-10-09 22:20:50   stackplan.com: fail เคย Redirect ไป www.stackplanner.com, afternic.com
+2026-10-09 22:21:00 เสร็จแล้ว: ผ่านสะสม 5 โดเมน (รอบนี้พบใหม่ 6 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
