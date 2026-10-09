@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-09T03:59:25+00:00",
+ "scanned_at": "2026-10-09T12:44:40+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 934231,
  "results": [
@@ -222,7 +222,7 @@
     ],
     [
      "2023-01",
-     15250
+     15251
     ],
     [
      "2023-02",
@@ -510,6 +510,11 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
+   "fails": [],
+   "warns": [
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed",
    "first_seen": "19991128",
    "last_active": "20260513",
    "titles": [
@@ -540,12 +545,7 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed"
+   "wayback_checked": true
   },
   {
    "domain": "vedicthemes.com",
@@ -879,12 +879,8 @@
    "brand_keywords": [],
    "brand_checked": true,
    "first_seen": "20180218",
-   "last_active": "20260608",
+   "last_active": "20240919",
    "titles": [
-    [
-     "20260608",
-     "Vedicthemes.com"
-    ],
     [
      "20260512",
      "One moment, please..."
@@ -1433,10 +1429,6 @@
      "The Homemade Gin Kit"
     ],
     [
-     "20221005",
-     "The Homemade Gin Kit"
-    ],
-    [
      "20191213",
      "The Homemade Gin Kit"
     ],
@@ -1867,6 +1859,10 @@
     ],
     [
      "20220405",
+     "Latest Articles - Macroprudential Matters"
+    ],
+    [
+     "20210930",
      "Latest Articles - Macroprudential Matters"
     ]
    ],
