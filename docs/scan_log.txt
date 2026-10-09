@@ -1,60 +1,24 @@
-2026-10-08 22:38:30 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-08 22:38:38 ได้รายการ expiring_auctions_non_adult: 934,231 โดเมน
-2026-10-08 22:38:38 รวมโดเมนจากทุกฟีด: 934,231 โดเมน (ไม่ซ้ำ)
-2026-10-08 22:38:40 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-08 22:38:40 ดึง DR จาก Ahrefs ...
-2026-10-08 22:38:41 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-10-08 22:38:41 เช็กเชิงลึก 14 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-08 22:39:41   pixy.org: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
-<body style="padding:30px 0;">
-<div style="float:left;width:260px;text-align:center;">
-<img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
-2026-10-08 22:41:43   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-08 22:43:51   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-08 22:44:56   sdcoffeetea.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
-<body style="padding:30px 0;">
-<div style="float:left;width:260px;text-align:center;">
-<img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
-2026-10-08 22:46:01   vedicthemes.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
-<body style="padding:30px 0;">
-<div style="float:left;width:260px;text-align:center;">
-<img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
-2026-10-08 22:50:08   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
-2026-10-08 22:51:13   mattstobbs.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
-<body style="padding:30px 0;">
-<div style="float:left;width:260px;text-align:center;">
-<img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
-2026-10-08 22:52:29   pickupwp.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
-<body style="padding:30px 0;">
-<div style="float:left;width:260px;text-align:center;">
-<img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
-2026-10-08 22:54:47   homemadegin.com: relaxed DR 22 (เกณฑ์ผ่อน)
-2026-10-08 22:56:47   gynobmedgroup.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-08 22:59:02   community-table.com: fail เคย Redirect ไป yaskworld.com; Backlink คุณภาพ 1 (< 3)
-2026-10-08 23:00:04   stackplan.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
-<body style="padding:30px 0;">
-<div style="float:left;width:260px;text-align:center;">
-<img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
-2026-10-08 23:01:03   macroprudentialmatters.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-08 23:02:55   bowersconsulting.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 14 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-08 23:03:00 รอ Wayback 2 นาที แล้วลองใหม่ 6 โดเมน ...
-2026-10-08 23:05:56   pixy.org: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
-<body style="padding:30px 0;">
-<div style="float:left;width:260px;text-align:center;">
-<img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
-2026-10-08 23:08:59   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
-2026-10-08 23:10:04   vedicthemes.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
-<body style="padding:30px 0;">
-<div style="float:left;width:260px;text-align:center;">
-<img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
-2026-10-08 23:11:10   mattstobbs.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
-<body style="padding:30px 0;">
-<div style="float:left;width:260px;text-align:center;">
-<img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
-2026-10-08 23:12:15   pickupwp.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-08 23:13:20   stackplan.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
-<body style="padding:30px 0;">
-<div style="float:left;width:260px;text-align:center;">
-<img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
-2026-10-08 23:13:30 ⚠ Wayback ยังไม่ตอบ 4 โดเมน — จะลองใหม่รอบสแกนถัดไป
-2026-10-08 23:13:30 เสร็จแล้ว: ผ่านสะสม 6 โดเมน (รอบนี้พบใหม่ 4 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-09 03:36:32 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-09 03:36:37 ได้รายการ expiring_auctions_non_adult: 934,231 โดเมน
+2026-10-09 03:36:37 รวมโดเมนจากทุกฟีด: 934,231 โดเมน (ไม่ซ้ำ)
+2026-10-09 03:36:38 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-09 03:36:38 ดึง DR จาก Ahrefs ...
+2026-10-09 03:36:40 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-10-09 03:36:40 เช็กเชิงลึก 14 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-09 03:37:47   pixy.org: relaxed ไม่พบ Brand Search ในอดีต
+2026-10-09 03:39:09   yourbodyforgod.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-10-09 03:40:25   dddjapan.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-09 03:41:47   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
+2026-10-09 03:42:22   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-09 03:43:24   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
+2026-10-09 03:45:53   mattstobbs.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-09 03:46:28   pickupwp.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-09 03:48:07   homemadegin.com: relaxed DR 22 (เกณฑ์ผ่อน)
+2026-10-09 03:49:20   gynobmedgroup.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-09 03:51:32   community-table.com: fail เคย Redirect ไป yaskworld.com; Backlink คุณภาพ 1 (< 3)
+2026-10-09 03:53:52   stackplan.com: fail เคย Redirect ไป www.stackplanner.com, afternic.com
+2026-10-09 03:56:16   macroprudentialmatters.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-09 03:56:50   bowersconsulting.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 14 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-09 03:56:55 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
+2026-10-09 03:59:15   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-09 03:59:25 เสร็จแล้ว: ผ่านสะสม 6 โดเมน (รอบนี้พบใหม่ 6 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน

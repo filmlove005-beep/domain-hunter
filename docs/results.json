@@ -1,13 +1,13 @@
 {
- "scanned_at": "2026-10-08T23:13:30+00:00",
+ "scanned_at": "2026-10-09T03:59:25+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 934231,
  "results": [
   {
    "domain": "pixy.org",
    "link": "https://www.godaddy.com/domain-auctions/pixy-org-729719004?isc=json_expiring",
-   "price": 155.0,
-   "bids": 15,
+   "price": 205.0,
+   "bids": 26,
    "end_time": "2026-10-09T18:13:00Z",
    "age": 15,
    "majestic_tf": 0,
@@ -20,127 +20,127 @@
     [
      "youtube.com",
      99.0,
-     3035163392
+     3018932736
     ],
     [
      "wikipedia.org",
      97.0,
-     2844324608
+     2851399680
     ],
     [
      "fandom.com",
      92.0,
-     128979112
+     127989504
     ],
     [
      "medium.com",
      94.0,
-     21324440
+     20145004
     ],
     [
      "bing.com",
      93.0,
-     13266811
+     13239856
     ],
     [
      "verizon.com",
      91.0,
-     12481276
+     12180093
     ],
     [
      "trueid.net",
      76.0,
-     9888546
+     9900868
     ],
     [
      "substack.com",
      94.0,
-     9312177
+     9141706
     ],
     [
      "github.io",
      94.0,
-     8563604
+     8386361
     ],
     [
      "cornell.edu",
      92.0,
-     5608131
+     5567962
     ],
     [
      "idokep.hu",
      73.0,
-     5405502
+     5337712
     ],
     [
      "forexfactory.com",
      77.0,
-     3234679
-    ],
-    [
-     "lazada.com.ph",
-     91.0,
-     3070832
+     3180560
     ],
     [
      "libretexts.org",
      82.0,
-     3069562
+     3023926
     ],
     [
      "teacherspayteachers.com",
      88.0,
-     3057061
+     3013866
     ],
     [
-     "vocal.media",
-     82.0,
-     2879852
-    ],
-    [
-     "snl.no",
-     84.0,
-     2765222
-    ],
-    [
-     "juntadeandalucia.es",
-     88.0,
-     2525734
+     "lazada.com.ph",
+     91.0,
+     2999778
     ],
     [
      "timesofisrael.com",
      87.0,
-     2486001
+     2768764
+    ],
+    [
+     "snl.no",
+     84.0,
+     2728634
+    ],
+    [
+     "juntadeandalucia.es",
+     88.0,
+     2595136
+    ],
+    [
+     "vocal.media",
+     82.0,
+     2403567
     ],
     [
      "lichess.org",
      84.0,
-     2301837
+     2370650
     ],
     [
      "seekingalpha.com",
      87.0,
-     2293843
+     2226517
+    ],
+    [
+     "scamadviser.com",
+     80.0,
+     1811305
     ],
     [
      "netlify.app",
      93.0,
-     1908852
+     1746479
     ],
     [
      "arcgis.com",
      92.0,
-     1765549
+     1745100
     ],
     [
      "vercel.app",
      93.0,
-     1695764
-    ],
-    [
-     "gitlab.io",
-     89.0,
-     1571942
+     1606564
     ]
    ],
    "edu_wiki": [
@@ -153,8 +153,8 @@
     "zpe.gov.pl",
     "uitm.edu.my",
     "curitiba.pr.gov.br",
-    "imperial.ac.uk",
     "northwestern.edu",
+    "imperial.ac.uk",
     "edb.gov.hk",
     "ntpc.edu.tw",
     "ou.edu",
@@ -218,11 +218,11 @@
     ],
     [
      "2022-12",
-     13829
+     13828
     ],
     [
      "2023-01",
-     15251
+     15250
     ],
     [
      "2023-02",
@@ -564,67 +564,67 @@
     [
      "free.fr",
      91.0,
-     10007462
+     9201320
     ],
     [
      "github.io",
      94.0,
-     8563604
+     8386361
     ],
     [
      "envato.com",
      93.0,
-     3088614
+     3355649
     ],
     [
      "cinfa.com",
      68.0,
-     801615
+     800394
     ],
     [
      "webflow.io",
      92.0,
-     782479
+     773930
     ],
     [
      "fu-berlin.de",
      86.0,
-     180662
+     178112
     ],
     [
      "sitelike.org",
      63.0,
-     56295
+     54493
     ],
     [
      "pucv.cl",
      72.0,
-     45027
-    ],
-    [
-     "telegra.ph",
-     88.0,
-     44527
-    ],
-    [
-     "siteprice.org",
-     72.0,
-     43764
+     44298
     ],
     [
      "hulkapps.com",
      71.0,
-     28861
+     39753
+    ],
+    [
+     "telegra.ph",
+     88.0,
+     34040
+    ],
+    [
+     "siteprice.org",
+     72.0,
+     33250
     ],
     [
      "ufcg.edu.br",
      71.0,
-     28365
+     27751
     ],
     [
      "zogrodemnaty.pl",
-     33.0,
-     16337
+     32.0,
+     15851
     ]
    ],
    "edu_wiki": [
@@ -1798,7 +1798,7 @@
     ],
     [
      "2026-10",
-     3
+     4
     ]
    ],
    "top_keywords": [
@@ -1868,10 +1868,6 @@
     [
      "20220405",
      "Latest Articles - Macroprudential Matters"
-    ],
-    [
-     "20210930",
-     "Latest Articles - Macroprudential Matters"
     ]
    ],
    "gambling_wayback": [],
@@ -1940,14 +1936,14 @@
      71193
     ],
     [
-     "sitelike.org",
-     63.0,
-     56295
-    ],
-    [
      "cad-kenkyujo.com",
      41.0,
      55903
+    ],
+    [
+     "sitelike.org",
+     63.0,
+     54493
     ],
     [
      "siteprice.org",
@@ -2842,1495 +2838,5 @@
    "verdict": "relaxed"
   }
  ],
- "wayback_retry": [
-  {
-   "domain": "pixy.org",
-   "link": "https://www.godaddy.com/domain-auctions/pixy-org-729719004?isc=json_expiring",
-   "price": 205.0,
-   "bids": 26,
-   "end_time": "2026-10-09T18:13:00Z",
-   "age": 15,
-   "majestic_tf": 0,
-   "majestic_rd": 0,
-   "stage": "wayback_failed",
-   "dr": 65.0,
-   "refdomains": 2002,
-   "quality_count": 100,
-   "quality_top": [
-    [
-     "youtube.com",
-     99.0,
-     3018932736
-    ],
-    [
-     "wikipedia.org",
-     97.0,
-     2851399680
-    ],
-    [
-     "fandom.com",
-     92.0,
-     127989504
-    ],
-    [
-     "medium.com",
-     94.0,
-     21324440
-    ],
-    [
-     "bing.com",
-     93.0,
-     13239856
-    ],
-    [
-     "verizon.com",
-     91.0,
-     12180093
-    ],
-    [
-     "trueid.net",
-     76.0,
-     9900868
-    ],
-    [
-     "substack.com",
-     94.0,
-     9141706
-    ],
-    [
-     "github.io",
-     94.0,
-     8386361
-    ],
-    [
-     "cornell.edu",
-     92.0,
-     5567962
-    ],
-    [
-     "idokep.hu",
-     73.0,
-     5337712
-    ],
-    [
-     "forexfactory.com",
-     77.0,
-     3180560
-    ],
-    [
-     "libretexts.org",
-     82.0,
-     3023926
-    ],
-    [
-     "teacherspayteachers.com",
-     88.0,
-     3013866
-    ],
-    [
-     "lazada.com.ph",
-     91.0,
-     2999778
-    ],
-    [
-     "timesofisrael.com",
-     87.0,
-     2768764
-    ],
-    [
-     "snl.no",
-     84.0,
-     2728634
-    ],
-    [
-     "juntadeandalucia.es",
-     88.0,
-     2595136
-    ],
-    [
-     "vocal.media",
-     82.0,
-     2403567
-    ],
-    [
-     "lichess.org",
-     84.0,
-     2370650
-    ],
-    [
-     "seekingalpha.com",
-     87.0,
-     2226517
-    ],
-    [
-     "scamadviser.com",
-     80.0,
-     1811305
-    ],
-    [
-     "netlify.app",
-     93.0,
-     1746479
-    ],
-    [
-     "arcgis.com",
-     92.0,
-     1745100
-    ],
-    [
-     "vercel.app",
-     93.0,
-     1606564
-    ]
-   ],
-   "edu_wiki": [
-    "wikipedia.org",
-    "cornell.edu",
-    "psu.edu",
-    "msu.edu",
-    "cuny.edu",
-    "oregon.gov",
-    "zpe.gov.pl",
-    "uitm.edu.my",
-    "curitiba.pr.gov.br",
-    "northwestern.edu",
-    "imperial.ac.uk",
-    "edb.gov.hk",
-    "ntpc.edu.tw",
-    "ou.edu",
-    "gsa.gov"
-   ],
-   "peak_traffic": 20772,
-   "peak_date": "2021-11-01",
-   "traffic_history": [
-    [
-     "2021-11",
-     20772
-    ],
-    [
-     "2021-12",
-     12481
-    ],
-    [
-     "2022-01",
-     19927
-    ],
-    [
-     "2022-02",
-     19115
-    ],
-    [
-     "2022-03",
-     14657
-    ],
-    [
-     "2022-04",
-     13421
-    ],
-    [
-     "2022-05",
-     12224
-    ],
-    [
-     "2022-06",
-     10727
-    ],
-    [
-     "2022-07",
-     9332
-    ],
-    [
-     "2022-08",
-     11813
-    ],
-    [
-     "2022-09",
-     15837
-    ],
-    [
-     "2022-10",
-     17032
-    ],
-    [
-     "2022-11",
-     16848
-    ],
-    [
-     "2022-12",
-     13828
-    ],
-    [
-     "2023-01",
-     15250
-    ],
-    [
-     "2023-02",
-     16651
-    ],
-    [
-     "2023-03",
-     16396
-    ],
-    [
-     "2023-04",
-     13656
-    ],
-    [
-     "2023-05",
-     11638
-    ],
-    [
-     "2023-06",
-     12033
-    ],
-    [
-     "2023-07",
-     11196
-    ],
-    [
-     "2023-08",
-     13105
-    ],
-    [
-     "2023-09",
-     12253
-    ],
-    [
-     "2023-10",
-     4634
-    ],
-    [
-     "2023-11",
-     3231
-    ],
-    [
-     "2023-12",
-     1862
-    ],
-    [
-     "2024-01",
-     836
-    ],
-    [
-     "2024-02",
-     655
-    ],
-    [
-     "2024-03",
-     464
-    ],
-    [
-     "2024-04",
-     281
-    ],
-    [
-     "2024-05",
-     138
-    ],
-    [
-     "2024-06",
-     61
-    ],
-    [
-     "2024-07",
-     32
-    ],
-    [
-     "2024-08",
-     80
-    ],
-    [
-     "2024-09",
-     229
-    ],
-    [
-     "2024-10",
-     164
-    ],
-    [
-     "2024-11",
-     136
-    ],
-    [
-     "2024-12",
-     91
-    ],
-    [
-     "2025-01",
-     142
-    ],
-    [
-     "2025-02",
-     313
-    ],
-    [
-     "2025-03",
-     367
-    ],
-    [
-     "2025-04",
-     248
-    ],
-    [
-     "2025-05",
-     269
-    ],
-    [
-     "2025-06",
-     266
-    ],
-    [
-     "2025-07",
-     503
-    ],
-    [
-     "2025-08",
-     1419
-    ],
-    [
-     "2025-09",
-     1340
-    ],
-    [
-     "2025-10",
-     627
-    ],
-    [
-     "2025-11",
-     524
-    ],
-    [
-     "2025-12",
-     268
-    ],
-    [
-     "2026-01",
-     62
-    ],
-    [
-     "2026-02",
-     43
-    ],
-    [
-     "2026-03",
-     66
-    ],
-    [
-     "2026-04",
-     52
-    ],
-    [
-     "2026-05",
-     62
-    ],
-    [
-     "2026-06",
-     70
-    ],
-    [
-     "2026-07",
-     86
-    ],
-    [
-     "2026-08",
-     35
-    ],
-    [
-     "2026-09",
-     5
-    ],
-    [
-     "2026-10",
-     2
-    ]
-   ],
-   "top_keywords": [
-    [
-     "india map drawing",
-     1,
-     346
-    ],
-    [
-     "dolce modz",
-     4,
-     311
-    ],
-    [
-     "totoro pumpkin stencil",
-     1,
-     227
-    ],
-    [
-     "honesty is the best policy drawing",
-     3,
-     132
-    ],
-    [
-     "honesty poster drawing",
-     7,
-     108
-    ],
-    [
-     "legend of zelda pumpkin stencil",
-     7,
-     86
-    ],
-    [
-     "flames drawing",
-     1,
-     83
-    ],
-    [
-     "crazy sock day clipart",
-     3,
-     80
-    ],
-    [
-     "ghost costume drawing",
-     2,
-     80
-    ],
-    [
-     "gizmo pumpkin stencil",
-     6,
-     74
-    ],
-    [
-     "max and ruby rule 34",
-     4,
-     73
-    ],
-    [
-     "orum rohn r50",
-     7,
-     72
-    ],
-    [
-     "home depot logo",
-     1,
-     61
-    ],
-    [
-     "lunch bunch clipart",
-     1,
-     59
-    ],
-    [
-     "red ribbon drawing",
-     8,
-     58
-    ],
-    [
-     "ghost face drawing",
-     20,
-     58
-    ],
-    [
-     "honesty poster drawing",
-     6,
-     56
-    ],
-    [
-     "gallery walk clipart",
-     1,
-     53
-    ],
-    [
-     "girly monkeys",
-     1,
-     48
-    ],
-    [
-     "thing 2 logo",
-     2,
-     47
-    ]
-   ],
-   "gambling_keywords": [],
-   "brand_keywords": [],
-   "brand_checked": true,
-   "error": "HTTP 503 <html><head><meta charset=\"UTF-8\"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>\n<body style=\"padding:30px 0;\">\n<div style=\"float:left;width:260px;text-align:center;\">\n<img xsrc=\"logo_ia.jpg\" src=\"data:image/jpeg;base64,iVBORw0KGg",
-   "fails": [],
-   "warns": [
-    "ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "pending"
-  },
-  {
-   "domain": "vedicthemes.com",
-   "link": "https://www.godaddy.com/domain-auctions/vedicthemes-com-730156919?isc=json_expiring",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-12T16:22:00Z",
-   "age": 11,
-   "majestic_tf": 0,
-   "majestic_rd": 0,
-   "stage": "wayback_failed",
-   "dr": 61.0,
-   "refdomains": 1664,
-   "quality_count": 13,
-   "quality_top": [
-    [
-     "free.fr",
-     91.0,
-     9201320
-    ],
-    [
-     "github.io",
-     94.0,
-     8386361
-    ],
-    [
-     "envato.com",
-     93.0,
-     3355649
-    ],
-    [
-     "cinfa.com",
-     68.0,
-     800394
-    ],
-    [
-     "webflow.io",
-     92.0,
-     773930
-    ],
-    [
-     "fu-berlin.de",
-     86.0,
-     178112
-    ],
-    [
-     "sitelike.org",
-     63.0,
-     56295
-    ],
-    [
-     "pucv.cl",
-     72.0,
-     44298
-    ],
-    [
-     "hulkapps.com",
-     71.0,
-     39753
-    ],
-    [
-     "telegra.ph",
-     88.0,
-     34040
-    ],
-    [
-     "siteprice.org",
-     72.0,
-     33250
-    ],
-    [
-     "ufcg.edu.br",
-     71.0,
-     27751
-    ],
-    [
-     "zogrodemnaty.pl",
-     32.0,
-     15851
-    ]
-   ],
-   "edu_wiki": [
-    "ufcg.edu.br"
-   ],
-   "peak_traffic": 24,
-   "peak_date": "2026-09-01",
-   "traffic_history": [
-    [
-     "2021-11",
-     3
-    ],
-    [
-     "2021-12",
-     2
-    ],
-    [
-     "2022-01",
-     3
-    ],
-    [
-     "2022-02",
-     4
-    ],
-    [
-     "2022-03",
-     4
-    ],
-    [
-     "2022-04",
-     2
-    ],
-    [
-     "2022-05",
-     3
-    ],
-    [
-     "2022-06",
-     3
-    ],
-    [
-     "2022-07",
-     2
-    ],
-    [
-     "2022-08",
-     1
-    ],
-    [
-     "2022-09",
-     0
-    ],
-    [
-     "2022-10",
-     0
-    ],
-    [
-     "2022-11",
-     0
-    ],
-    [
-     "2022-12",
-     0
-    ],
-    [
-     "2023-01",
-     0
-    ],
-    [
-     "2023-02",
-     0
-    ],
-    [
-     "2023-03",
-     0
-    ],
-    [
-     "2023-04",
-     0
-    ],
-    [
-     "2023-05",
-     0
-    ],
-    [
-     "2023-06",
-     0
-    ],
-    [
-     "2023-07",
-     0
-    ],
-    [
-     "2023-08",
-     0
-    ],
-    [
-     "2023-09",
-     0
-    ],
-    [
-     "2023-10",
-     1
-    ],
-    [
-     "2023-11",
-     2
-    ],
-    [
-     "2023-12",
-     0
-    ],
-    [
-     "2024-01",
-     0
-    ],
-    [
-     "2024-02",
-     0
-    ],
-    [
-     "2024-03",
-     0
-    ],
-    [
-     "2024-04",
-     0
-    ],
-    [
-     "2024-05",
-     0
-    ],
-    [
-     "2024-06",
-     0
-    ],
-    [
-     "2024-07",
-     0
-    ],
-    [
-     "2024-08",
-     0
-    ],
-    [
-     "2024-09",
-     3
-    ],
-    [
-     "2024-10",
-     6
-    ],
-    [
-     "2024-11",
-     2
-    ],
-    [
-     "2024-12",
-     0
-    ],
-    [
-     "2025-01",
-     0
-    ],
-    [
-     "2025-02",
-     4
-    ],
-    [
-     "2025-03",
-     2
-    ],
-    [
-     "2025-04",
-     1
-    ],
-    [
-     "2025-05",
-     1
-    ],
-    [
-     "2025-06",
-     1
-    ],
-    [
-     "2025-07",
-     1
-    ],
-    [
-     "2025-08",
-     2
-    ],
-    [
-     "2025-09",
-     5
-    ],
-    [
-     "2025-10",
-     0
-    ],
-    [
-     "2025-11",
-     0
-    ],
-    [
-     "2025-12",
-     1
-    ],
-    [
-     "2026-01",
-     2
-    ],
-    [
-     "2026-02",
-     9
-    ],
-    [
-     "2026-03",
-     4
-    ],
-    [
-     "2026-04",
-     2
-    ],
-    [
-     "2026-05",
-     0
-    ],
-    [
-     "2026-06",
-     0
-    ],
-    [
-     "2026-07",
-     0
-    ],
-    [
-     "2026-08",
-     0
-    ],
-    [
-     "2026-09",
-     24
-    ],
-    [
-     "2026-10",
-     3
-    ]
-   ],
-   "top_keywords": [],
-   "gambling_keywords": [],
-   "brand_keywords": [],
-   "brand_checked": true,
-   "error": "HTTP 503 <html><head><meta charset=\"UTF-8\"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>\n<body style=\"padding:30px 0;\">\n<div style=\"float:left;width:260px;text-align:center;\">\n<img xsrc=\"logo_ia.jpg\" src=\"data:image/jpeg;base64,iVBORw0KGg",
-   "fails": [],
-   "warns": [
-    "Backlink คุณภาพ 13 (เกณฑ์ผ่อน)",
-    "ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "pending"
-  },
-  {
-   "domain": "mattstobbs.com",
-   "link": "https://www.godaddy.com/domain-auctions/mattstobbs-com-730103019?isc=json_expiring",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-16T16:21:00Z",
-   "age": 5,
-   "majestic_tf": 0,
-   "majestic_rd": 0,
-   "stage": "wayback_failed",
-   "dr": 24.0,
-   "refdomains": 751,
-   "quality_count": 3,
-   "quality_top": [
-    [
-     "wikimedia.org",
-     93.0,
-     5470821
-    ],
-    [
-     "vercel.app",
-     93.0,
-     1606564
-    ],
-    [
-     "zenn.dev",
-     84.0,
-     818935
-    ]
-   ],
-   "edu_wiki": [],
-   "peak_traffic": 149,
-   "peak_date": "2024-04-01",
-   "traffic_history": [
-    [
-     "2022-02",
-     0
-    ],
-    [
-     "2022-03",
-     0
-    ],
-    [
-     "2022-04",
-     0
-    ],
-    [
-     "2022-05",
-     0
-    ],
-    [
-     "2022-06",
-     0
-    ],
-    [
-     "2022-07",
-     0
-    ],
-    [
-     "2022-08",
-     0
-    ],
-    [
-     "2022-09",
-     0
-    ],
-    [
-     "2022-10",
-     1
-    ],
-    [
-     "2022-11",
-     1
-    ],
-    [
-     "2022-12",
-     3
-    ],
-    [
-     "2023-01",
-     6
-    ],
-    [
-     "2023-02",
-     14
-    ],
-    [
-     "2023-03",
-     18
-    ],
-    [
-     "2023-04",
-     16
-    ],
-    [
-     "2023-05",
-     24
-    ],
-    [
-     "2023-06",
-     54
-    ],
-    [
-     "2023-07",
-     110
-    ],
-    [
-     "2023-08",
-     147
-    ],
-    [
-     "2023-09",
-     143
-    ],
-    [
-     "2023-10",
-     134
-    ],
-    [
-     "2023-11",
-     136
-    ],
-    [
-     "2023-12",
-     107
-    ],
-    [
-     "2024-01",
-     93
-    ],
-    [
-     "2024-02",
-     90
-    ],
-    [
-     "2024-03",
-     98
-    ],
-    [
-     "2024-04",
-     149
-    ],
-    [
-     "2024-05",
-     141
-    ],
-    [
-     "2024-06",
-     138
-    ],
-    [
-     "2024-07",
-     125
-    ],
-    [
-     "2024-08",
-     117
-    ],
-    [
-     "2024-09",
-     126
-    ],
-    [
-     "2024-10",
-     111
-    ],
-    [
-     "2024-11",
-     111
-    ],
-    [
-     "2024-12",
-     92
-    ],
-    [
-     "2025-01",
-     107
-    ],
-    [
-     "2025-02",
-     91
-    ],
-    [
-     "2025-03",
-     72
-    ],
-    [
-     "2025-04",
-     59
-    ],
-    [
-     "2025-05",
-     51
-    ],
-    [
-     "2025-06",
-     45
-    ],
-    [
-     "2025-07",
-     37
-    ],
-    [
-     "2025-08",
-     39
-    ],
-    [
-     "2025-09",
-     25
-    ],
-    [
-     "2025-10",
-     13
-    ],
-    [
-     "2025-11",
-     13
-    ],
-    [
-     "2025-12",
-     14
-    ],
-    [
-     "2026-01",
-     9
-    ],
-    [
-     "2026-02",
-     13
-    ],
-    [
-     "2026-03",
-     8
-    ],
-    [
-     "2026-04",
-     24
-    ],
-    [
-     "2026-05",
-     30
-    ],
-    [
-     "2026-06",
-     15
-    ],
-    [
-     "2026-07",
-     11
-    ],
-    [
-     "2026-08",
-     15
-    ],
-    [
-     "2026-09",
-     12
-    ],
-    [
-     "2026-10",
-     1
-    ]
-   ],
-   "top_keywords": [
-    [
-     "remix authentication",
-     2,
-     10
-    ],
-    [
-     "typescript object with string keys",
-     8,
-     8
-    ],
-    [
-     "zod transform",
-     9,
-     7
-    ],
-    [
-     "typescript object.keys",
-     5,
-     7
-    ],
-    [
-     "remix auth",
-     6,
-     6
-    ],
-    [
-     "typescript object keys",
-     5,
-     6
-    ],
-    [
-     "object.keys typescript",
-     6,
-     6
-    ],
-    [
-     "typescript object with string keys",
-     5,
-     5
-    ],
-    [
-     "object.keys typescript",
-     4,
-     5
-    ],
-    [
-     "object keys typescript",
-     6,
-     3
-    ],
-    [
-     "zod default",
-     10,
-     3
-    ],
-    [
-     "object.keys typescript",
-     4,
-     3
-    ],
-    [
-     "remix login",
-     4,
-     3
-    ],
-    [
-     "typescript get keys of object",
-     9,
-     3
-    ],
-    [
-     "object.keys typescript",
-     4,
-     2
-    ],
-    [
-     "remix nested routes",
-     9,
-     2
-    ],
-    [
-     "typescript keys of object",
-     8,
-     2
-    ],
-    [
-     "typescript type object keys",
-     4,
-     2
-    ],
-    [
-     "typescript object with any keys",
-     7,
-     2
-    ],
-    [
-     "object keys typescript",
-     4,
-     2
-    ]
-   ],
-   "gambling_keywords": [],
-   "brand_keywords": [],
-   "brand_checked": true,
-   "error": "HTTP 503 <html><head><meta charset=\"UTF-8\"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>\n<body style=\"padding:30px 0;\">\n<div style=\"float:left;width:260px;text-align:center;\">\n<img xsrc=\"logo_ia.jpg\" src=\"data:image/jpeg;base64,iVBORw0KGg",
-   "fails": [],
-   "warns": [
-    "DR 24 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
-    "ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "pending"
-  },
-  {
-   "domain": "stackplan.com",
-   "link": "https://www.godaddy.com/domain-auctions/stackplan-com-730045360?isc=json_expiring",
-   "price": 1.0,
-   "bids": 1,
-   "end_time": "2026-10-11T16:31:00Z",
-   "age": 16,
-   "majestic_tf": 0,
-   "majestic_rd": 0,
-   "stage": "wayback_failed",
-   "dr": 15.0,
-   "refdomains": 892,
-   "quality_count": 5,
-   "quality_top": [
-    [
-     "bing.com",
-     93.0,
-     13239856
-    ],
-    [
-     "free.fr",
-     91.0,
-     9201320
-    ],
-    [
-     "accio.com",
-     76.0,
-     359095
-    ],
-    [
-     "accountingweb.co.uk",
-     76.0,
-     59902
-    ],
-    [
-     "piceapp.com",
-     32.0,
-     24308
-    ]
-   ],
-   "edu_wiki": [],
-   "peak_traffic": 399,
-   "peak_date": "2025-09-01",
-   "traffic_history": [
-    [
-     "2024-11",
-     2
-    ],
-    [
-     "2024-12",
-     65
-    ],
-    [
-     "2025-01",
-     69
-    ],
-    [
-     "2025-02",
-     78
-    ],
-    [
-     "2025-03",
-     108
-    ],
-    [
-     "2025-04",
-     163
-    ],
-    [
-     "2025-05",
-     238
-    ],
-    [
-     "2025-06",
-     261
-    ],
-    [
-     "2025-07",
-     271
-    ],
-    [
-     "2025-08",
-     351
-    ],
-    [
-     "2025-09",
-     399
-    ],
-    [
-     "2025-10",
-     235
-    ],
-    [
-     "2025-11",
-     217
-    ],
-    [
-     "2025-12",
-     206
-    ],
-    [
-     "2026-01",
-     210
-    ],
-    [
-     "2026-02",
-     178
-    ],
-    [
-     "2026-03",
-     92
-    ],
-    [
-     "2026-04",
-     44
-    ],
-    [
-     "2026-05",
-     71
-    ],
-    [
-     "2026-06",
-     122
-    ],
-    [
-     "2026-07",
-     68
-    ],
-    [
-     "2026-08",
-     54
-    ],
-    [
-     "2026-09",
-     45
-    ],
-    [
-     "2026-10",
-     22
-    ]
-   ],
-   "top_keywords": [
-    [
-     "ecommerce software",
-     11,
-     91
-    ],
-    [
-     "ecommerce management software",
-     5,
-     21
-    ],
-    [
-     "profit tree",
-     4,
-     15
-    ],
-    [
-     "ecommerce software",
-     12,
-     15
-    ],
-    [
-     "profit tree",
-     6,
-     12
-    ],
-    [
-     "e business software",
-     1,
-     11
-    ],
-    [
-     "e commerce softwares",
-     10,
-     10
-    ],
-    [
-     "it roadmap",
-     5,
-     9
-    ],
-    [
-     "software ecommerce",
-     13,
-     8
-    ],
-    [
-     "software for ecommerce website",
-     6,
-     8
-    ],
-    [
-     "it roadmap",
-     4,
-     7
-    ],
-    [
-     "software for ecommerce",
-     14,
-     7
-    ],
-    [
-     "it roadmap",
-     1,
-     6
-    ],
-    [
-     "it roadmap",
-     5,
-     6
-    ],
-    [
-     "ecommerce management software",
-     9,
-     6
-    ],
-    [
-     "it roadmap",
-     5,
-     5
-    ],
-    [
-     "ecommerce management system",
-     8,
-     5
-    ],
-    [
-     "technology roadmap",
-     9,
-     5
-    ],
-    [
-     "stack plan",
-     2,
-     4
-    ],
-    [
-     "it roadmap",
-     8,
-     4
-    ]
-   ],
-   "gambling_keywords": [],
-   "brand_keywords": [
-    "stack plan"
-   ],
-   "brand_checked": true,
-   "error": "HTTP 503 <html><head><meta charset=\"UTF-8\"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>\n<body style=\"padding:30px 0;\">\n<div style=\"float:left;width:260px;text-align:center;\">\n<img xsrc=\"logo_ia.jpg\" src=\"data:image/jpeg;base64,iVBORw0KGg",
-   "fails": [],
-   "warns": [
-    "DR 15 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 5 (เกณฑ์ผ่อน)",
-    "ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)"
-   ],
-   "verdict": "pending"
-  }
- ]
+ "wayback_retry": []
 }
