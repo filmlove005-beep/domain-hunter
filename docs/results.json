@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-10T03:44:01+00:00",
+ "scanned_at": "2026-10-10T11:57:18+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 917217,
  "results": [
@@ -20,67 +20,67 @@
     [
      "free.fr",
      91.0,
-     9201320
+     9210958
     ],
     [
      "github.io",
      94.0,
-     8386361
+     8415212
     ],
     [
      "envato.com",
      93.0,
-     3355649
+     3361843
     ],
     [
      "cinfa.com",
      68.0,
-     800394
+     804074
     ],
     [
      "webflow.io",
      92.0,
-     773930
+     796995
     ],
     [
      "fu-berlin.de",
      86.0,
-     178112
+     181020
     ],
     [
      "sitelike.org",
      63.0,
-     54493
+     55944
     ],
     [
      "pucv.cl",
      72.0,
-     44298
+     43728
     ],
     [
      "hulkapps.com",
      71.0,
-     39753
+     39183
     ],
     [
      "telegra.ph",
      88.0,
-     34040
+     34403
     ],
     [
      "siteprice.org",
      72.0,
-     33250
+     33488
     ],
     [
      "ufcg.edu.br",
      71.0,
-     27751
+     27496
     ],
     [
      "zogrodemnaty.pl",
      33.0,
-     15851
+     15536
     ]
    ],
    "edu_wiki": [
@@ -356,10 +356,6 @@
     [
      "20191205",
      "Wedesignthemes.com | Buy High Quality WordPress Themes and HTML Templates"
-    ],
-    [
-     "20180218",
-     "Wedesignthemes.com | Buy High Quality WordPress Themes and HTML Templates"
     ]
    ],
    "gambling_wayback": [],
@@ -389,127 +385,127 @@
     [
      "thekitchn.com",
      86.0,
-     13397763
+     13317724
     ],
     [
      "nbcnews.com",
      91.0,
-     8020640
+     7958950
     ],
     [
      "buzzfeed.com",
      91.0,
-     4573712
+     4571668
     ],
     [
      "businessinsider.com",
      92.0,
-     4557282
+     4550561
     ],
     [
      "thebump.com",
      80.0,
-     4043384
+     4023806
     ],
     [
      "latimes.com",
      92.0,
-     3519829
+     3566063
     ],
     [
      "stern.de",
      86.0,
-     3485269
+     3471204
     ],
     [
      "parade.com",
      85.0,
-     2410576
+     2268191
     ],
     [
      "tastingtable.com",
      82.0,
-     1488946
+     1477945
     ],
     [
      "lifehacker.com",
      90.0,
-     1239953
+     1207385
     ],
     [
      "sfgate.com",
      90.0,
-     791819
+     766474
     ],
     [
      "refinery29.com",
      88.0,
-     764529
+     762745
     ],
     [
      "entrepreneur.com",
      91.0,
-     652107
+     648820
     ],
     [
      "nationalpost.com",
      86.0,
-     627776
+     631087
     ],
     [
      "oregonlive.com",
      86.0,
-     555815
+     582314
     ],
     [
      "mercurynews.com",
      87.0,
-     521963
+     528063
     ],
     [
      "trendencias.com",
      72.0,
-     504921
+     506234
     ],
     [
      "inquirer.com",
      88.0,
-     435295
+     443075
     ],
     [
      "temple.edu",
      85.0,
-     379118
+     383946
     ],
     [
      "wework.com",
      82.0,
-     363982
+     375372
     ],
     [
      "inc.com",
      91.0,
-     345022
+     353608
     ],
     [
      "deadspin.com",
      79.0,
-     275174
+     270928
     ],
     [
      "deliciousmagazine.co.uk",
      72.0,
-     269780
-    ],
-    [
-     "thedailymeal.com",
-     79.0,
-     238754
+     247496
     ],
     [
      "scarymommy.com",
      79.0,
-     237326
+     240431
+    ],
+    [
+     "thedailymeal.com",
+     79.0,
+     234046
     ]
    ],
    "edu_wiki": [
@@ -881,10 +877,6 @@
      "The Homemade Gin Kit"
     ],
     [
-     "20241108",
-     "The Homemade Gin Kit"
-    ],
-    [
      "20241006",
      "The Homemade Gin Kit"
     ],
@@ -931,77 +923,77 @@
     [
      "wikipedia.org",
      97.0,
-     2851399680
+     2865024512
     ],
     [
      "substack.com",
      94.0,
-     9141706
+     9173773
     ],
     [
      "ucdavis.edu",
      90.0,
-     1815242
+     1798095
     ],
     [
      "nyu.edu",
      91.0,
-     931225
+     872678
     ],
     [
      "bankofengland.co.uk",
      88.0,
-     492526
+     494795
     ],
     [
      "kcl.ac.uk",
      88.0,
-     487347
+     487634
     ],
     [
      "lse.ac.uk",
      90.0,
-     383262
+     388654
     ],
     [
      "bancaditalia.it",
      83.0,
-     344786
+     359385
     ],
     [
      "brookings.edu",
      90.0,
-     308366
+     354724
     ],
     [
      "warwick.ac.uk",
      86.0,
-     205317
+     205519
     ],
     [
      "grokipedia.com",
      78.0,
-     102869
+     97882
     ],
     [
      "unica.it",
      76.0,
-     94639
+     95182
     ],
     [
      "italia-informa.com",
      50.0,
-     59848
+     59342
     ],
     [
      "bis.org",
      88.0,
-     55252
+     56880
     ],
     [
      "ainvest.com",
      78.0,
-     15935
+     16092
     ]
    ],
    "edu_wiki": [
@@ -1358,82 +1350,82 @@
     [
      "prtimes.jp",
      92.0,
-     2850394
+     2818056
     ],
     [
      "mapion.co.jp",
      86.0,
-     1126167
+     1038548
     ],
     [
      "zdnet.com",
      91.0,
-     728241
+     768691
     ],
     [
      "ascii.jp",
      81.0,
-     359389
+     382205
     ],
     [
      "k24.net",
      69.0,
-     290481
+     294028
     ],
     [
      "hiroshima-u.ac.jp",
      81.0,
-     107029
+     111573
     ],
     [
      "listen.style",
      65.0,
-     78526
-    ],
-    [
-     "voix.jp",
-     71.0,
-     71193
+     78130
     ],
     [
      "cad-kenkyujo.com",
      41.0,
-     55903
+     56018
     ],
     [
      "sitelike.org",
      63.0,
-     54493
+     55944
+    ],
+    [
+     "voix.jp",
+     71.0,
+     54482
     ],
     [
      "siteprice.org",
      72.0,
-     33250
+     33488
     ],
     [
      "uniview.com",
      75.0,
-     28496
+     28145
     ],
     [
      "kingsoft.jp",
      71.0,
-     23899
-    ],
-    [
-     "straightpress.jp",
-     66.0,
-     12429
-    ],
-    [
-     "jsae.or.jp",
-     77.0,
-     11509
+     24070
     ],
     [
      "predge.jp",
      57.0,
-     10615
+     14408
+    ],
+    [
+     "straightpress.jp",
+     66.0,
+     12698
+    ],
+    [
+     "jsae.or.jp",
+     77.0,
+     11470
     ]
    ],
    "edu_wiki": [
@@ -1844,72 +1836,72 @@
     [
      "cnn.com",
      93.0,
-     27110024
+     26311018
     ],
     [
      "nbcnews.com",
      91.0,
-     8020640
+     7958950
     ],
     [
      "contactout.com",
      74.0,
-     181050
+     179022
     ],
     [
      "dailycaller.com",
      81.0,
-     141173
+     145986
     ],
     [
      "whdh.com",
      75.0,
-     80694
+     79581
     ],
     [
      "charitywatch.org",
      80.0,
-     53862
+     54156
     ],
     [
      "influencewatch.org",
      68.0,
-     53767
+     53783
     ],
     [
      "komu.com",
      71.0,
-     47946
+     48499
     ],
     [
      "local3news.com",
      73.0,
-     41620
+     39714
     ],
     [
      "kvia.com",
      72.0,
-     34986
+     34808
     ],
     [
      "ktvz.com",
      74.0,
-     27701
+     29188
     ],
     [
      "abc17news.com",
      71.0,
-     17701
+     16603
     ],
     [
      "localnews8.com",
      71.0,
-     15823
+     15824
     ],
     [
      "kyma.com",
      64.0,
-     10827
+     10872
     ]
    ],
    "edu_wiki": [],
@@ -2298,463 +2290,5 @@
    "verdict": "relaxed"
   }
  ],
- "wayback_retry": [
-  {
-   "domain": "dddjapan.com",
-   "link": "https://www.godaddy.com/domain-auctions/dddjapan-com-729368853?isc=json_expiring",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-11T18:32:00Z",
-   "age": 12,
-   "majestic_tf": 0,
-   "majestic_rd": 0,
-   "stage": "wayback_failed",
-   "dr": 18.0,
-   "refdomains": 917,
-   "quality_count": 16,
-   "quality_top": [
-    [
-     "prtimes.jp",
-     92.0,
-     2850394
-    ],
-    [
-     "mapion.co.jp",
-     86.0,
-     1126167
-    ],
-    [
-     "zdnet.com",
-     91.0,
-     728241
-    ],
-    [
-     "ascii.jp",
-     81.0,
-     359389
-    ],
-    [
-     "k24.net",
-     69.0,
-     290481
-    ],
-    [
-     "hiroshima-u.ac.jp",
-     81.0,
-     107029
-    ],
-    [
-     "listen.style",
-     65.0,
-     78526
-    ],
-    [
-     "voix.jp",
-     71.0,
-     71193
-    ],
-    [
-     "cad-kenkyujo.com",
-     41.0,
-     55903
-    ],
-    [
-     "sitelike.org",
-     63.0,
-     54493
-    ],
-    [
-     "siteprice.org",
-     72.0,
-     33250
-    ],
-    [
-     "uniview.com",
-     75.0,
-     28496
-    ],
-    [
-     "kingsoft.jp",
-     71.0,
-     23899
-    ],
-    [
-     "straightpress.jp",
-     66.0,
-     12429
-    ],
-    [
-     "jsae.or.jp",
-     77.0,
-     11509
-    ],
-    [
-     "predge.jp",
-     57.0,
-     10615
-    ]
-   ],
-   "edu_wiki": [
-    "hiroshima-u.ac.jp"
-   ],
-   "peak_traffic": 11633,
-   "peak_date": "2026-03-01",
-   "traffic_history": [
-    [
-     "2021-11",
-     422
-    ],
-    [
-     "2021-12",
-     429
-    ],
-    [
-     "2022-01",
-     510
-    ],
-    [
-     "2022-02",
-     462
-    ],
-    [
-     "2022-03",
-     564
-    ],
-    [
-     "2022-04",
-     675
-    ],
-    [
-     "2022-05",
-     725
-    ],
-    [
-     "2022-06",
-     776
-    ],
-    [
-     "2022-07",
-     854
-    ],
-    [
-     "2022-08",
-     621
-    ],
-    [
-     "2022-09",
-     583
-    ],
-    [
-     "2022-10",
-     580
-    ],
-    [
-     "2022-11",
-     710
-    ],
-    [
-     "2022-12",
-     598
-    ],
-    [
-     "2023-01",
-     565
-    ],
-    [
-     "2023-02",
-     465
-    ],
-    [
-     "2023-03",
-     363
-    ],
-    [
-     "2023-04",
-     393
-    ],
-    [
-     "2023-05",
-     326
-    ],
-    [
-     "2023-06",
-     381
-    ],
-    [
-     "2023-07",
-     407
-    ],
-    [
-     "2023-08",
-     254
-    ],
-    [
-     "2023-09",
-     67
-    ],
-    [
-     "2023-10",
-     61
-    ],
-    [
-     "2023-11",
-     189
-    ],
-    [
-     "2023-12",
-     173
-    ],
-    [
-     "2024-01",
-     158
-    ],
-    [
-     "2024-02",
-     233
-    ],
-    [
-     "2024-03",
-     269
-    ],
-    [
-     "2024-04",
-     183
-    ],
-    [
-     "2024-05",
-     215
-    ],
-    [
-     "2024-06",
-     207
-    ],
-    [
-     "2024-07",
-     175
-    ],
-    [
-     "2024-08",
-     215
-    ],
-    [
-     "2024-09",
-     282
-    ],
-    [
-     "2024-10",
-     224
-    ],
-    [
-     "2024-11",
-     172
-    ],
-    [
-     "2024-12",
-     208
-    ],
-    [
-     "2025-01",
-     130
-    ],
-    [
-     "2025-02",
-     80
-    ],
-    [
-     "2025-03",
-     72
-    ],
-    [
-     "2025-04",
-     80
-    ],
-    [
-     "2025-05",
-     93
-    ],
-    [
-     "2025-06",
-     112
-    ],
-    [
-     "2025-07",
-     93
-    ],
-    [
-     "2025-08",
-     71
-    ],
-    [
-     "2025-09",
-     57
-    ],
-    [
-     "2025-10",
-     48
-    ],
-    [
-     "2025-11",
-     86
-    ],
-    [
-     "2025-12",
-     34
-    ],
-    [
-     "2026-01",
-     28
-    ],
-    [
-     "2026-02",
-     12
-    ],
-    [
-     "2026-03",
-     11633
-    ],
-    [
-     "2026-04",
-     3345
-    ],
-    [
-     "2026-05",
-     826
-    ],
-    [
-     "2026-06",
-     911
-    ],
-    [
-     "2026-07",
-     1330
-    ],
-    [
-     "2026-08",
-     1463
-    ],
-    [
-     "2026-09",
-     179
-    ],
-    [
-     "2026-10",
-     44
-    ]
-   ],
-   "top_keywords": [
-    [
-     "free gift card",
-     1,
-     39
-    ],
-    [
-     "public iptv playlist",
-     24,
-     28
-    ],
-    [
-     "sandblaster",
-     3,
-     4
-    ],
-    [
-     "iptv",
-     32,
-     4
-    ],
-    [
-     "steam gift card",
-     27,
-     2
-    ],
-    [
-     "3dプリンター 液体",
-     6,
-     2
-    ],
-    [
-     "metal x",
-     10,
-     2
-    ],
-    [
-     "free iphone",
-     7,
-     2
-    ],
-    [
-     "tool steel",
-     9,
-     1
-    ],
-    [
-     "iptv smart",
-     12,
-     1
-    ],
-    [
-     "shein gift card code",
-     18,
-     1
-    ],
-    [
-     "ebay gift card",
-     10,
-     1
-    ],
-    [
-     "win an iphone",
-     10,
-     0
-    ],
-    [
-     "japan ebay",
-     23,
-     0
-    ],
-    [
-     "aizen power",
-     5,
-     0
-    ],
-    [
-     "iptv link",
-     32,
-     0
-    ],
-    [
-     "iptv smarters",
-     38,
-     0
-    ],
-    [
-     "iptv smarters pro",
-     46,
-     0
-    ],
-    [
-     "how to apply globe plan with device",
-     39,
-     0
-    ],
-    [
-     "iptv smarters player",
-     37,
-     0
-    ]
-   ],
-   "gambling_keywords": [],
-   "brand_keywords": [],
-   "brand_checked": true,
-   "error": "HTTP 503 <html><head><meta charset=\"UTF-8\"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>\n<body style=\"padding:30px 0;\">\n<div style=\"float:left;width:260px;text-align:center;\">\n<img xsrc=\"logo_ia.jpg\" src=\"data:image/jpeg;base64,iVBORw0KGg",
-   "fails": [],
-   "warns": [
-    "DR 18 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 16 (เกณฑ์ผ่อน)",
-    "ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "pending"
-  }
- ]
+ "wayback_retry": []
 }
