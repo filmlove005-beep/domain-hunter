@@ -1,7 +1,7 @@
 {
- "scanned_at": "2026-10-10T11:57:18+00:00",
+ "scanned_at": "2026-10-10T17:05:45+00:00",
  "feed": "expiring_auctions_non_adult",
- "feed_total": 917217,
+ "feed_total": 896989,
  "results": [
   {
    "domain": "vedicthemes.com",
@@ -59,7 +59,7 @@
     ],
     [
      "hulkapps.com",
-     71.0,
+     70.0,
      39183
     ],
     [
@@ -355,6 +355,10 @@
     ],
     [
      "20191205",
+     "Wedesignthemes.com | Buy High Quality WordPress Themes and HTML Templates"
+    ],
+    [
+     "20180218",
      "Wedesignthemes.com | Buy High Quality WordPress Themes and HTML Templates"
     ]
    ],
@@ -877,6 +881,10 @@
      "The Homemade Gin Kit"
     ],
     [
+     "20241108",
+     "The Homemade Gin Kit"
+    ],
+    [
      "20241006",
      "The Homemade Gin Kit"
     ],
@@ -982,7 +990,7 @@
     ],
     [
      "italia-informa.com",
-     50.0,
+     51.0,
      59342
     ],
     [
@@ -1343,7 +1351,7 @@
    "majestic_tf": 0,
    "majestic_rd": 0,
    "stage": "done",
-   "dr": 18.0,
+   "dr": 16.0,
    "refdomains": 917,
    "quality_count": 16,
    "quality_top": [
@@ -1813,7 +1821,7 @@
    "wayback_checked": true,
    "fails": [],
    "warns": [
-    "DR 18 (เกณฑ์ผ่อน)",
+    "DR 16 (เกณฑ์ผ่อน)",
     "Backlink คุณภาพ 16 (เกณฑ์ผ่อน)",
     "ไม่พบ Brand Search ในอดีต"
    ],
@@ -1823,13 +1831,13 @@
    "domain": "bowersconsulting.com",
    "link": "https://www.godaddy.com/domain-auctions/bowersconsulting-com-730035411?isc=json_expiring",
    "price": 1.0,
-   "bids": 0,
+   "bids": 1,
    "end_time": "2026-10-11T18:04:00Z",
    "age": 11,
    "majestic_tf": 0,
    "majestic_rd": 0,
    "stage": "done",
-   "dr": 17.0,
+   "dr": 16.0,
    "refdomains": 1266,
    "quality_count": 14,
    "quality_top": [
@@ -1890,7 +1898,7 @@
     ],
     [
      "abc17news.com",
-     71.0,
+     72.0,
      16603
     ],
     [
@@ -1900,7 +1908,7 @@
     ],
     [
      "kyma.com",
-     64.0,
+     65.0,
      10872
     ]
    ],
@@ -2283,7 +2291,7 @@
    "wayback_checked": true,
    "fails": [],
    "warns": [
-    "DR 17 (เกณฑ์ผ่อน)",
+    "DR 16 (เกณฑ์ผ่อน)",
     "Backlink คุณภาพ 14 (เกณฑ์ผ่อน)",
     "ไม่พบ Brand Search ในอดีต"
    ],
