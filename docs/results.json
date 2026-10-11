@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-11T03:10:17+00:00",
+ "scanned_at": "2026-10-11T12:09:02+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 896989,
  "results": [
@@ -1353,7 +1353,7 @@
    "stage": "done",
    "dr": 16.0,
    "refdomains": 910,
-   "quality_count": 16,
+   "quality_count": 15,
    "quality_top": [
     [
      "zdnet.com",
@@ -1409,11 +1409,6 @@
      "siteprice.org",
      72.0,
      33319
-    ],
-    [
-     "uniview.com",
-     75.0,
-     27958
     ],
     [
      "kingsoft.jp",
@@ -1822,7 +1817,7 @@
    "fails": [],
    "warns": [
     "DR 16 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 16 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 15 (เกณฑ์ผ่อน)",
     "ไม่พบ Brand Search ในอดีต"
    ],
    "verdict": "relaxed"
