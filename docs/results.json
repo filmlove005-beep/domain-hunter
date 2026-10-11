@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-10T21:23:13+00:00",
+ "scanned_at": "2026-10-11T03:10:17+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 896989,
  "results": [
@@ -20,67 +20,67 @@
     [
      "free.fr",
      91.0,
-     9210958
+     9297348
     ],
     [
      "github.io",
      94.0,
-     8415212
+     8463014
     ],
     [
      "envato.com",
      93.0,
-     3361843
+     3304631
     ],
     [
      "cinfa.com",
      68.0,
-     804074
+     830464
     ],
     [
      "webflow.io",
      92.0,
-     796995
+     802840
     ],
     [
      "fu-berlin.de",
      86.0,
-     181020
+     180829
     ],
     [
      "sitelike.org",
      63.0,
-     55944
+     55166
     ],
     [
      "pucv.cl",
      72.0,
-     43728
+     43474
     ],
     [
      "hulkapps.com",
      70.0,
-     39183
+     40239
     ],
     [
      "telegra.ph",
      88.0,
-     34403
+     34350
     ],
     [
      "siteprice.org",
      72.0,
-     33488
+     33319
     ],
     [
      "ufcg.edu.br",
      71.0,
-     27496
+     26124
     ],
     [
      "zogrodemnaty.pl",
      33.0,
-     15536
+     15309
     ]
    ],
    "edu_wiki": [
@@ -384,132 +384,132 @@
    "stage": "done",
    "dr": 22.0,
    "refdomains": 1238,
-   "quality_count": 78,
+   "quality_count": 76,
    "quality_top": [
     [
      "thekitchn.com",
      86.0,
-     13317724
+     13220209
     ],
     [
      "nbcnews.com",
      91.0,
-     7958950
-    ],
-    [
-     "buzzfeed.com",
-     91.0,
-     4571668
+     7160376
     ],
     [
      "businessinsider.com",
      92.0,
-     4550561
+     4703578
+    ],
+    [
+     "buzzfeed.com",
+     91.0,
+     4470574
     ],
     [
      "thebump.com",
      80.0,
-     4023806
-    ],
-    [
-     "latimes.com",
-     92.0,
-     3566063
+     4141362
     ],
     [
      "stern.de",
      86.0,
-     3471204
+     3413096
+    ],
+    [
+     "latimes.com",
+     92.0,
+     2692296
     ],
     [
      "parade.com",
      85.0,
-     2268191
+     2337096
     ],
     [
      "tastingtable.com",
      82.0,
-     1477945
+     1486859
     ],
     [
      "lifehacker.com",
      90.0,
-     1207385
-    ],
-    [
-     "sfgate.com",
-     90.0,
-     766474
+     1398168
     ],
     [
      "refinery29.com",
      88.0,
-     762745
+     851709
+    ],
+    [
+     "sfgate.com",
+     90.0,
+     783443
     ],
     [
      "entrepreneur.com",
      91.0,
-     648820
+     625600
     ],
     [
      "nationalpost.com",
      86.0,
-     631087
+     608607
     ],
     [
      "oregonlive.com",
      86.0,
-     582314
+     571996
     ],
     [
      "mercurynews.com",
      87.0,
-     528063
+     531118
     ],
     [
      "trendencias.com",
      72.0,
-     506234
+     481971
     ],
     [
      "inquirer.com",
      88.0,
-     443075
-    ],
-    [
-     "temple.edu",
-     85.0,
-     383946
+     443981
     ],
     [
      "wework.com",
      82.0,
-     375372
+     392661
+    ],
+    [
+     "temple.edu",
+     85.0,
+     362747
     ],
     [
      "inc.com",
      91.0,
-     353608
+     330210
     ],
     [
      "deadspin.com",
      79.0,
-     270928
+     254090
     ],
     [
      "deliciousmagazine.co.uk",
      72.0,
-     247496
-    ],
-    [
-     "scarymommy.com",
-     79.0,
-     240431
+     242361
     ],
     [
      "thedailymeal.com",
      79.0,
-     234046
+     240877
+    ],
+    [
+     "scarymommy.com",
+     79.0,
+     236580
     ]
    ],
    "edu_wiki": [
@@ -931,77 +931,77 @@
     [
      "wikipedia.org",
      97.0,
-     2865024512
+     2877180672
     ],
     [
      "substack.com",
      94.0,
-     9173773
+     9206423
     ],
     [
      "ucdavis.edu",
      90.0,
-     1798095
+     1763558
     ],
     [
      "nyu.edu",
      91.0,
-     872678
-    ],
-    [
-     "bankofengland.co.uk",
-     88.0,
-     494795
+     898197
     ],
     [
      "kcl.ac.uk",
      88.0,
-     487634
+     508682
+    ],
+    [
+     "bankofengland.co.uk",
+     88.0,
+     491087
     ],
     [
      "lse.ac.uk",
      90.0,
-     388654
-    ],
-    [
-     "bancaditalia.it",
-     83.0,
-     359385
+     383695
     ],
     [
      "brookings.edu",
      90.0,
-     354724
+     378298
+    ],
+    [
+     "bancaditalia.it",
+     83.0,
+     324426
     ],
     [
      "warwick.ac.uk",
      86.0,
-     205519
+     206304
     ],
     [
      "grokipedia.com",
      78.0,
-     97882
+     91903
     ],
     [
      "unica.it",
      76.0,
-     95182
+     80374
     ],
     [
      "italia-informa.com",
      51.0,
-     59342
+     58096
     ],
     [
      "bis.org",
      88.0,
-     56880
+     53898
     ],
     [
      "ainvest.com",
      78.0,
-     16092
+     15830
     ]
    ],
    "edu_wiki": [
@@ -1356,84 +1356,84 @@
    "quality_count": 16,
    "quality_top": [
     [
+     "zdnet.com",
+     91.0,
+     5637326
+    ],
+    [
      "prtimes.jp",
      92.0,
-     2818056
+     2779157
     ],
     [
      "mapion.co.jp",
      86.0,
-     1038548
-    ],
-    [
-     "zdnet.com",
-     91.0,
-     768691
+     950850
     ],
     [
      "ascii.jp",
      81.0,
-     382205
+     526183
     ],
     [
      "k24.net",
      69.0,
-     294028
+     288698
     ],
     [
      "hiroshima-u.ac.jp",
      81.0,
-     111573
+     111052
     ],
     [
      "listen.style",
      65.0,
-     78130
+     72687
     ],
     [
      "cad-kenkyujo.com",
      41.0,
-     56018
+     58553
     ],
     [
      "sitelike.org",
      63.0,
-     55944
+     55166
     ],
     [
      "voix.jp",
      71.0,
-     54482
+     53949
     ],
     [
      "siteprice.org",
      72.0,
-     33488
+     33319
     ],
     [
      "uniview.com",
      75.0,
-     28145
+     27958
     ],
     [
      "kingsoft.jp",
      71.0,
-     24070
+     23492
     ],
     [
      "predge.jp",
      57.0,
-     14408
-    ],
-    [
-     "straightpress.jp",
-     66.0,
-     12698
+     14539
     ],
     [
      "jsae.or.jp",
      77.0,
-     11470
+     11645
+    ],
+    [
+     "straightpress.jp",
+     66.0,
+     11087
     ]
    ],
    "edu_wiki": [
@@ -1680,7 +1680,7 @@
     ],
     [
      "2026-10",
-     44
+     41
     ]
    ],
    "top_keywords": [
@@ -1844,72 +1844,72 @@
     [
      "cnn.com",
      93.0,
-     26311018
+     26903846
     ],
     [
      "nbcnews.com",
      91.0,
-     7958950
+     7160376
     ],
     [
      "contactout.com",
      74.0,
-     179022
+     172124
     ],
     [
      "dailycaller.com",
      81.0,
-     145986
+     146806
     ],
     [
      "whdh.com",
      75.0,
-     79581
+     79763
     ],
     [
      "charitywatch.org",
      80.0,
-     54156
+     62404
     ],
     [
      "influencewatch.org",
      68.0,
-     53783
+     53468
     ],
     [
      "komu.com",
      71.0,
-     48499
+     43023
     ],
     [
      "local3news.com",
      73.0,
-     39714
-    ],
-    [
-     "kvia.com",
-     72.0,
-     34808
+     40866
     ],
     [
      "ktvz.com",
      74.0,
-     29188
+     28729
+    ],
+    [
+     "kvia.com",
+     72.0,
+     19807
     ],
     [
      "abc17news.com",
      72.0,
-     16603
+     16206
     ],
     [
      "localnews8.com",
      71.0,
-     15824
+     16115
     ],
     [
      "kyma.com",
      65.0,
-     10872
+     10809
     ]
    ],
    "edu_wiki": [],
