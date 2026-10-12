@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-11T21:36:59+00:00",
+ "scanned_at": "2026-10-12T03:36:06+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 896416,
  "results": [
@@ -761,14 +761,18 @@
    "brand_keywords": [],
    "brand_checked": true,
    "first_seen": "20210930",
-   "last_active": "20251027",
+   "last_active": "20250720",
    "titles": [
     [
-     "20251027",
+     "20250720",
      "Latest Articles - Macroprudential Matters"
     ],
     [
-     "20250720",
+     "20240705",
+     "Latest Articles - Macroprudential Matters"
+    ],
+    [
+     "20230404",
      "Latest Articles - Macroprudential Matters"
     ],
     [
