@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-12T03:36:06+00:00",
+ "scanned_at": "2026-10-12T14:22:51+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 896416,
  "results": [
@@ -20,32 +20,32 @@
     [
      "free.fr",
      91.0,
-     9297348
+     9290986
     ],
     [
      "github.io",
      94.0,
-     8463014
+     8563763
     ],
     [
      "envato.com",
      93.0,
-     3304631
-    ],
-    [
-     "cinfa.com",
-     68.0,
-     830464
+     3325338
     ],
     [
      "webflow.io",
      92.0,
-     802840
+     874814
+    ],
+    [
+     "cinfa.com",
+     68.0,
+     835150
     ],
     [
      "fu-berlin.de",
      86.0,
-     180829
+     181345
     ],
     [
      "sitelike.org",
@@ -55,32 +55,32 @@
     [
      "pucv.cl",
      72.0,
-     43474
+     42845
     ],
     [
      "hulkapps.com",
      70.0,
-     40239
-    ],
-    [
-     "telegra.ph",
-     88.0,
-     34350
+     41171
     ],
     [
      "siteprice.org",
      72.0,
-     33319
+     32450
+    ],
+    [
+     "telegra.ph",
+     88.0,
+     27023
     ],
     [
      "ufcg.edu.br",
      71.0,
-     26124
+     25829
     ],
     [
      "zogrodemnaty.pl",
      33.0,
-     15309
+     15014
     ]
    ],
    "edu_wiki": [
@@ -796,5 +796,746 @@
    "verdict": "relaxed"
   }
  ],
- "wayback_retry": []
+ "wayback_retry": [
+  {
+   "domain": "digimarconatlanta.com",
+   "link": "https://www.godaddy.com/domain-auctions/digimarconatlanta-com-730462547?isc=json_expiring",
+   "price": 1.0,
+   "bids": 0,
+   "end_time": "2026-10-18T18:53:00Z",
+   "age": 9,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "wayback_failed",
+   "dr": 21.0,
+   "refdomains": 1057,
+   "quality_count": 3,
+   "quality_top": [
+    [
+     "grokipedia.com",
+     78.0,
+     86406
+    ],
+    [
+     "martech.zone",
+     76.0,
+     20836
+    ],
+    [
+     "croclub.com",
+     65.0,
+     13216
+    ]
+   ],
+   "edu_wiki": [],
+   "peak_traffic": 55,
+   "peak_date": "2026-02-01",
+   "traffic_history": [
+    [
+     "2022-11",
+     0
+    ],
+    [
+     "2022-12",
+     0
+    ],
+    [
+     "2023-01",
+     0
+    ],
+    [
+     "2023-02",
+     0
+    ],
+    [
+     "2023-03",
+     0
+    ],
+    [
+     "2023-04",
+     0
+    ],
+    [
+     "2023-05",
+     0
+    ],
+    [
+     "2023-06",
+     0
+    ],
+    [
+     "2023-07",
+     0
+    ],
+    [
+     "2023-08",
+     0
+    ],
+    [
+     "2023-09",
+     0
+    ],
+    [
+     "2023-10",
+     0
+    ],
+    [
+     "2023-11",
+     0
+    ],
+    [
+     "2023-12",
+     0
+    ],
+    [
+     "2024-01",
+     0
+    ],
+    [
+     "2024-02",
+     0
+    ],
+    [
+     "2024-03",
+     1
+    ],
+    [
+     "2024-04",
+     1
+    ],
+    [
+     "2024-05",
+     3
+    ],
+    [
+     "2024-06",
+     3
+    ],
+    [
+     "2024-07",
+     2
+    ],
+    [
+     "2024-08",
+     2
+    ],
+    [
+     "2024-09",
+     1
+    ],
+    [
+     "2024-10",
+     1
+    ],
+    [
+     "2024-11",
+     2
+    ],
+    [
+     "2024-12",
+     1
+    ],
+    [
+     "2025-01",
+     1
+    ],
+    [
+     "2025-02",
+     7
+    ],
+    [
+     "2025-03",
+     4
+    ],
+    [
+     "2025-04",
+     16
+    ],
+    [
+     "2025-05",
+     6
+    ],
+    [
+     "2025-06",
+     6
+    ],
+    [
+     "2025-07",
+     13
+    ],
+    [
+     "2025-08",
+     5
+    ],
+    [
+     "2025-09",
+     1
+    ],
+    [
+     "2025-10",
+     0
+    ],
+    [
+     "2025-11",
+     0
+    ],
+    [
+     "2025-12",
+     13
+    ],
+    [
+     "2026-01",
+     29
+    ],
+    [
+     "2026-02",
+     55
+    ],
+    [
+     "2026-03",
+     54
+    ],
+    [
+     "2026-04",
+     38
+    ],
+    [
+     "2026-05",
+     24
+    ],
+    [
+     "2026-06",
+     30
+    ],
+    [
+     "2026-07",
+     31
+    ],
+    [
+     "2026-08",
+     31
+    ],
+    [
+     "2026-09",
+     18
+    ],
+    [
+     "2026-10",
+     15
+    ]
+   ],
+   "top_keywords": [
+    [
+     "search marketing events",
+     2,
+     26
+    ],
+    [
+     "sports marketing conference",
+     8,
+     1
+    ],
+    [
+     "mlm convention",
+     7,
+     1
+    ],
+    [
+     "digital marketing atlanta",
+     27,
+     0
+    ],
+    [
+     "digital marketing atlanta",
+     8,
+     0
+    ],
+    [
+     "atlanta digital marketing",
+     10,
+     0
+    ],
+    [
+     "digital marketing atlanta",
+     10,
+     0
+    ],
+    [
+     "atlanta digital marketing",
+     47,
+     0
+    ],
+    [
+     "digital marketing event",
+     45,
+     0
+    ],
+    [
+     "marketing events",
+     51,
+     0
+    ],
+    [
+     "peachtree hotel atlanta",
+     46,
+     0
+    ],
+    [
+     "content marketing events",
+     52,
+     0
+    ],
+    [
+     "the westin peachtree plaza",
+     45,
+     0
+    ],
+    [
+     "ecommerce events",
+     75,
+     0
+    ],
+    [
+     "brand marketing conferences",
+     77,
+     0
+    ],
+    [
+     "marketing conference",
+     89,
+     0
+    ],
+    [
+     "digital marketing summit",
+     92,
+     0
+    ],
+    [
+     "event digital marketing",
+     92,
+     0
+    ],
+    [
+     "internet marketing conferences",
+     90,
+     0
+    ],
+    [
+     "digimarcon",
+     12,
+     0
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [],
+   "brand_checked": true,
+   "error": "HTTP 503 <html><head><meta charset=\"UTF-8\"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>\n<body style=\"padding:30px 0;\">\n<div style=\"float:left;width:260px;text-align:center;\">\n<img xsrc=\"logo_ia.jpg\" src=\"data:image/jpeg;base64,iVBORw0KGg",
+   "fails": [],
+   "warns": [
+    "DR 21 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
+    "ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "pending"
+  },
+  {
+   "domain": "macroprudentialmatters.com",
+   "link": "https://www.godaddy.com/domain-auctions/macroprudentialmatters-com-729719364?isc=json_expiring",
+   "price": 1.0,
+   "bids": 0,
+   "end_time": "2026-10-13T17:45:00Z",
+   "age": 5,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "wayback_failed",
+   "dr": 20.0,
+   "refdomains": 1081,
+   "quality_count": 15,
+   "quality_top": [
+    [
+     "wikipedia.org",
+     97.0,
+     2872823296
+    ],
+    [
+     "substack.com",
+     94.0,
+     9496869
+    ],
+    [
+     "ucdavis.edu",
+     90.0,
+     1713840
+    ],
+    [
+     "nyu.edu",
+     91.0,
+     880946
+    ],
+    [
+     "kcl.ac.uk",
+     88.0,
+     504625
+    ],
+    [
+     "bankofengland.co.uk",
+     88.0,
+     488293
+    ],
+    [
+     "lse.ac.uk",
+     90.0,
+     385247
+    ],
+    [
+     "brookings.edu",
+     90.0,
+     378014
+    ],
+    [
+     "bancaditalia.it",
+     83.0,
+     318384
+    ],
+    [
+     "warwick.ac.uk",
+     86.0,
+     204474
+    ],
+    [
+     "unica.it",
+     76.0,
+     90883
+    ],
+    [
+     "grokipedia.com",
+     78.0,
+     86406
+    ],
+    [
+     "italia-informa.com",
+     51.0,
+     58088
+    ],
+    [
+     "bis.org",
+     88.0,
+     51069
+    ],
+    [
+     "ainvest.com",
+     78.0,
+     17349
+    ]
+   ],
+   "edu_wiki": [
+    "wikipedia.org",
+    "ucdavis.edu",
+    "nyu.edu",
+    "kcl.ac.uk",
+    "lse.ac.uk",
+    "brookings.edu",
+    "warwick.ac.uk"
+   ],
+   "peak_traffic": 13,
+   "peak_date": "2026-01-01",
+   "traffic_history": [
+    [
+     "2021-11",
+     0
+    ],
+    [
+     "2021-12",
+     0
+    ],
+    [
+     "2022-01",
+     0
+    ],
+    [
+     "2022-02",
+     0
+    ],
+    [
+     "2022-03",
+     0
+    ],
+    [
+     "2022-04",
+     0
+    ],
+    [
+     "2022-05",
+     0
+    ],
+    [
+     "2022-06",
+     1
+    ],
+    [
+     "2022-07",
+     4
+    ],
+    [
+     "2022-08",
+     5
+    ],
+    [
+     "2022-09",
+     6
+    ],
+    [
+     "2022-10",
+     6
+    ],
+    [
+     "2022-11",
+     5
+    ],
+    [
+     "2022-12",
+     4
+    ],
+    [
+     "2023-01",
+     4
+    ],
+    [
+     "2023-02",
+     7
+    ],
+    [
+     "2023-03",
+     5
+    ],
+    [
+     "2023-04",
+     4
+    ],
+    [
+     "2023-05",
+     3
+    ],
+    [
+     "2023-06",
+     4
+    ],
+    [
+     "2023-07",
+     6
+    ],
+    [
+     "2023-08",
+     6
+    ],
+    [
+     "2023-09",
+     5
+    ],
+    [
+     "2023-10",
+     6
+    ],
+    [
+     "2023-11",
+     5
+    ],
+    [
+     "2023-12",
+     4
+    ],
+    [
+     "2024-01",
+     4
+    ],
+    [
+     "2024-02",
+     5
+    ],
+    [
+     "2024-03",
+     4
+    ],
+    [
+     "2024-04",
+     3
+    ],
+    [
+     "2024-05",
+     2
+    ],
+    [
+     "2024-06",
+     1
+    ],
+    [
+     "2024-07",
+     1
+    ],
+    [
+     "2024-08",
+     1
+    ],
+    [
+     "2024-09",
+     2
+    ],
+    [
+     "2024-10",
+     6
+    ],
+    [
+     "2024-11",
+     6
+    ],
+    [
+     "2024-12",
+     5
+    ],
+    [
+     "2025-01",
+     4
+    ],
+    [
+     "2025-02",
+     4
+    ],
+    [
+     "2025-03",
+     5
+    ],
+    [
+     "2025-04",
+     9
+    ],
+    [
+     "2025-05",
+     11
+    ],
+    [
+     "2025-06",
+     9
+    ],
+    [
+     "2025-07",
+     7
+    ],
+    [
+     "2025-08",
+     10
+    ],
+    [
+     "2025-09",
+     7
+    ],
+    [
+     "2025-10",
+     7
+    ],
+    [
+     "2025-11",
+     4
+    ],
+    [
+     "2025-12",
+     3
+    ],
+    [
+     "2026-01",
+     13
+    ],
+    [
+     "2026-02",
+     8
+    ],
+    [
+     "2026-03",
+     1
+    ],
+    [
+     "2026-04",
+     5
+    ],
+    [
+     "2026-05",
+     5
+    ],
+    [
+     "2026-06",
+     9
+    ],
+    [
+     "2026-07",
+     10
+    ],
+    [
+     "2026-08",
+     8
+    ],
+    [
+     "2026-09",
+     3
+    ],
+    [
+     "2026-10",
+     4
+    ]
+   ],
+   "top_keywords": [
+    [
+     "macro and micro difference",
+     1,
+     8
+    ],
+    [
+     "david aikman",
+     9,
+     3
+    ],
+    [
+     "jeremy bulow",
+     15,
+     0
+    ],
+    [
+     "paul tucker",
+     73,
+     0
+    ],
+    [
+     "paul tucker",
+     77,
+     0
+    ],
+    [
+     "liquidity coverage ratio",
+     51,
+     0
+    ],
+    [
+     "silicon valley bank liquidity coverage ratio",
+     4,
+     0
+    ],
+    [
+     "svb lcr",
+     3,
+     0
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [],
+   "brand_checked": true,
+   "error": "URLError: <urlopen error [Errno 111] Connection refused>",
+   "fails": [],
+   "warns": [
+    "DR 20 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 15 (เกณฑ์ผ่อน)",
+    "ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "pending"
+  }
+ ]
 }
