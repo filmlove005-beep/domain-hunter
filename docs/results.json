@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-13T00:19:52+00:00",
+ "scanned_at": "2026-10-13T05:18:04+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 906858,
  "results": [
@@ -449,11 +449,15 @@
    "brand_keywords": [],
    "brand_checked": true,
    "first_seen": "20170521",
-   "last_active": "20260410",
+   "last_active": "20260510",
    "titles": [
     [
      "20261006",
      ""
+    ],
+    [
+     "20260510",
+     "Diversity Center Of Oklahoma Inc - Home"
     ],
     [
      "20260410",
@@ -876,12 +880,8 @@
    "brand_keywords": [],
    "brand_checked": true,
    "first_seen": "20210930",
-   "last_active": "20251027",
+   "last_active": "20250720",
    "titles": [
-    [
-     "20251027",
-     "Latest Articles - Macroprudential Matters"
-    ],
     [
      "20250720",
      "Latest Articles - Macroprudential Matters"
