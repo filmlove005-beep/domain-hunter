@@ -1,31 +1,22 @@
-2026-10-13 13:09:02 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-13 13:09:09 ได้รายการ expiring_auctions_non_adult: 906,858 โดเมน
-2026-10-13 13:09:09 รวมโดเมนจากทุกฟีด: 906,858 โดเมน (ไม่ซ้ำ)
-2026-10-13 13:09:11 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-13 13:09:11 ดึง DR จาก Ahrefs ...
-2026-10-13 13:09:12 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-10-13 13:09:12 เช็กเชิงลึก 13 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-13 13:10:09   yourbodyforgod.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
-<body style="padding:30px 0;">
-<div style="float:left;width:260px;text-align:center;">
-<img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
-2026-10-13 13:11:09   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
-2026-10-13 13:13:30   asklepiahealth.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-13 13:13:57   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-13 13:14:59   digimarcondenver.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
-<body style="padding:30px 0;">
-<div style="float:left;width:260px;text-align:center;">
-<img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
-2026-10-13 13:17:01   digimarconphoenix.com: Wayback ไม่ตอบ TimeoutError: timed out
-2026-10-13 13:18:01   digimarconatlanta.com: fail เคย Redirect ไป digimarconworld.com
-2026-10-13 13:20:31   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
-2026-10-13 13:22:48   mattstobbs.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-13 13:23:38   pickupwp.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-13 13:25:20   diversitycenterofoklahoma.org: relaxed DR 26 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-13 13:26:45   community-table.com: fail เคย Redirect ไป yaskworld.com; Backlink คุณภาพ 1 (< 3)
-2026-10-13 13:29:04   macroprudentialmatters.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-13 13:29:09 รอ Wayback 2 นาที แล้วลองใหม่ 3 โดเมน ...
-2026-10-13 13:31:32   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-13 13:32:12   digimarcondenver.com: fail เคย Redirect ไป digimarconworld.com; Backlink คุณภาพ 2 (< 3)
-2026-10-13 13:34:51   digimarconphoenix.com: fail เคย Redirect ไป digimarconworld.com
-2026-10-13 13:35:01 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 3 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-13 22:04:40 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-13 22:04:49 ได้รายการ expiring_auctions_non_adult: 941,801 โดเมน
+2026-10-13 22:04:49 รวมโดเมนจากทุกฟีด: 941,801 โดเมน (ไม่ซ้ำ)
+2026-10-13 22:04:51 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-13 22:04:51 ดึง DR จาก Ahrefs ...
+2026-10-13 22:04:52 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-10-13 22:04:52 เช็กเชิงลึก 12 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-13 22:05:19   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-13 22:05:54   medicaleducationleeds.com: relaxed DR 22 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน)
+2026-10-13 22:08:13   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
+2026-10-13 22:09:53   asklepiahealth.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-10-13 22:09:59   thesutler.com: pending Backlink คุณภาพ 18 (เกณฑ์ผ่อน)
+2026-10-13 22:10:04   nhassurance.com: pending DR 24 (เกณฑ์ผ่อน)
+2026-10-13 22:10:09   mattstobbs.com: pending DR 24 (เกณฑ์ผ่อน)
+2026-10-13 22:10:14   pickupwp.com: pending 
+2026-10-13 22:10:20   thepinballs.org: pending DR 21 (เกณฑ์ผ่อน)
+2026-10-13 22:10:25   diversitycenterofoklahoma.org: pending DR 26 (เกณฑ์ผ่อน)
+2026-10-13 22:10:30   community-table.com: pending 
+2026-10-13 22:10:35   macroprudentialmatters.com: pending DR 20 (เกณฑ์ผ่อน)
+2026-10-13 22:10:40 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
+2026-10-13 22:13:19   asklepiahealth.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-13 22:13:29 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 1 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน

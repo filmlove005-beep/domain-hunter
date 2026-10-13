@@ -1,7 +1,7 @@
 {
- "scanned_at": "2026-10-13T13:35:01+00:00",
+ "scanned_at": "2026-10-13T22:13:29+00:00",
  "feed": "expiring_auctions_non_adult",
- "feed_total": 906858,
+ "feed_total": 941801,
  "results": [
   {
    "domain": "diversitycenterofoklahoma.org",
@@ -492,314 +492,333 @@
    "verdict": "relaxed"
   },
   {
-   "domain": "macroprudentialmatters.com",
-   "link": "https://www.godaddy.com/domain-auctions/macroprudentialmatters-com-729719364?isc=json_expiring",
+   "domain": "medicaleducationleeds.com",
+   "link": "https://www.godaddy.com/domain-auctions/medicaleducationleeds-com-731934784?isc=json_expiring",
    "price": 1.0,
    "bids": 0,
-   "end_time": "2026-10-13T17:45:00Z",
-   "age": 5,
+   "end_time": "2026-10-22T16:10:00Z",
+   "age": 18,
    "majestic_tf": 0,
    "majestic_rd": 0,
    "stage": "done",
-   "dr": 20.0,
-   "refdomains": 1081,
-   "quality_count": 15,
+   "dr": 22.0,
+   "refdomains": 1457,
+   "quality_count": 19,
    "quality_top": [
     [
-     "wikipedia.org",
-     97.0,
-     2885243136
-    ],
-    [
-     "substack.com",
-     94.0,
-     9371982
-    ],
-    [
-     "ucdavis.edu",
-     90.0,
-     1710438
-    ],
-    [
-     "nyu.edu",
+     "free.fr",
      91.0,
-     878620
+     9198623
     ],
     [
-     "bankofengland.co.uk",
-     88.0,
-     520705
+     "us.com",
+     92.0,
+     2391990
     ],
     [
-     "kcl.ac.uk",
-     88.0,
-     495804
+     "bmj.com",
+     92.0,
+     1360614
     ],
     [
-     "brookings.edu",
+     "xsrv.jp",
      90.0,
-     378003
+     628866
     ],
     [
-     "lse.ac.uk",
-     90.0,
-     377556
+     "fiocruz.br",
+     82.0,
+     438006
     ],
     [
-     "bancaditalia.it",
-     83.0,
-     318350
+     "ipb.ac.id",
+     77.0,
+     303528
     ],
     [
-     "warwick.ac.uk",
+     "thestudentroom.co.uk",
+     71.0,
+     238014
+    ],
+    [
+     "bc.edu",
      86.0,
-     204344
+     165238
     ],
     [
-     "unica.it",
-     76.0,
-     91014
+     "jpn.org",
+     85.0,
+     135913
     ],
     [
-     "grokipedia.com",
+     "mppolice.gov.in",
+     61.0,
+     88501
+    ],
+    [
+     "nu.ac.th",
+     68.0,
+     85172
+    ],
+    [
+     "hud.ac.uk",
      78.0,
-     83532
+     60355
     ],
     [
-     "italia-informa.com",
-     51.0,
-     56847
+     "sitelike.org",
+     62.0,
+     50434
     ],
     [
-     "bis.org",
-     88.0,
-     50896
+     "cirebonkab.go.id",
+     58.0,
+     40792
     ],
     [
-     "ainvest.com",
-     78.0,
-     17435
+     "siteprice.org",
+     72.0,
+     33249
+    ],
+    [
+     "parquemet.cl",
+     55.0,
+     27391
+    ],
+    [
+     "marinij.com",
+     77.0,
+     26393
+    ],
+    [
+     "congresonayarit.gob.mx",
+     39.0,
+     16750
+    ],
+    [
+     "whiterose.ac.uk",
+     80.0,
+     15102
     ]
    ],
    "edu_wiki": [
-    "wikipedia.org",
-    "ucdavis.edu",
-    "nyu.edu",
-    "kcl.ac.uk",
-    "brookings.edu",
-    "lse.ac.uk",
-    "warwick.ac.uk"
+    "ipb.ac.id",
+    "bc.edu",
+    "mppolice.gov.in",
+    "nu.ac.th",
+    "hud.ac.uk",
+    "whiterose.ac.uk"
    ],
-   "peak_traffic": 13,
-   "peak_date": "2026-01-01",
+   "peak_traffic": 1761,
+   "peak_date": "2025-03-01",
    "traffic_history": [
     [
      "2021-11",
-     0
+     1253
     ],
     [
      "2021-12",
-     0
+     886
     ],
     [
      "2022-01",
-     0
+     1018
     ],
     [
      "2022-02",
-     0
+     1054
     ],
     [
      "2022-03",
-     0
+     910
     ],
     [
      "2022-04",
-     0
+     867
     ],
     [
      "2022-05",
-     0
+     843
     ],
     [
      "2022-06",
-     1
+     820
     ],
     [
      "2022-07",
-     4
+     883
     ],
     [
      "2022-08",
-     5
+     782
     ],
     [
      "2022-09",
-     6
+     719
     ],
     [
      "2022-10",
-     6
+     902
     ],
     [
      "2022-11",
-     5
+     1078
     ],
     [
      "2022-12",
-     4
+     801
     ],
     [
      "2023-01",
-     4
+     871
     ],
     [
      "2023-02",
-     7
+     897
     ],
     [
      "2023-03",
-     5
+     1057
     ],
     [
      "2023-04",
-     4
+     1214
     ],
     [
      "2023-05",
-     3
+     1070
     ],
     [
      "2023-06",
-     4
+     1065
     ],
     [
      "2023-07",
-     6
+     1090
     ],
     [
      "2023-08",
-     6
+     1123
     ],
     [
      "2023-09",
-     5
+     1013
     ],
     [
      "2023-10",
-     6
+     1098
     ],
     [
      "2023-11",
-     5
+     1103
     ],
     [
      "2023-12",
-     4
+     909
     ],
     [
      "2024-01",
-     4
+     1000
     ],
     [
      "2024-02",
-     5
+     1112
     ],
     [
      "2024-03",
-     4
+     1069
     ],
     [
      "2024-04",
-     3
+     1125
     ],
     [
      "2024-05",
-     2
+     1217
     ],
     [
      "2024-06",
-     1
+     1188
     ],
     [
      "2024-07",
-     1
+     1241
     ],
     [
      "2024-08",
-     1
+     947
     ],
     [
      "2024-09",
-     2
+     972
     ],
     [
      "2024-10",
-     6
+     1043
     ],
     [
      "2024-11",
-     6
+     1134
     ],
     [
      "2024-12",
-     5
+     970
     ],
     [
      "2025-01",
-     4
+     1098
     ],
     [
      "2025-02",
-     4
+     1599
     ],
     [
      "2025-03",
-     5
+     1761
     ],
     [
      "2025-04",
-     9
+     1425
     ],
     [
      "2025-05",
-     11
+     1557
     ],
     [
      "2025-06",
-     9
+     1527
     ],
     [
      "2025-07",
-     7
+     1381
     ],
     [
      "2025-08",
-     10
+     1493
     ],
     [
      "2025-09",
-     7
+     1591
     ],
     [
      "2025-10",
-     7
+     927
     ],
     [
      "2025-11",
-     4
+     255
     ],
     [
      "2025-12",
-     3
+     53
     ],
     [
      "2026-01",
-     13
+     4
     ],
     [
      "2026-02",
-     8
+     2
     ],
     [
      "2026-03",
@@ -807,100 +826,170 @@
     ],
     [
      "2026-04",
-     5
+     0
     ],
     [
      "2026-05",
-     5
+     0
     ],
     [
      "2026-06",
-     9
+     0
     ],
     [
      "2026-07",
-     10
+     0
     ],
     [
      "2026-08",
-     8
+     0
     ],
     [
      "2026-09",
-     3
+     2
     ],
     [
      "2026-10",
-     4
+     2
     ]
    ],
    "top_keywords": [
     [
-     "macro and micro difference",
+     "training interface",
+     2,
+     150
+    ],
+    [
+     "digital learning solutions",
+     5,
+     133
+    ],
+    [
+     "liver transplant scar",
      1,
-     8
+     84
     ],
     [
-     "david aikman",
-     9,
-     3
+     "leeds paces",
+     1,
+     45
     ],
     [
-     "jeremy bulow",
-     15,
-     0
-    ],
-    [
-     "paul tucker",
-     73,
-     0
-    ],
-    [
-     "paul tucker",
-     77,
-     0
-    ],
-    [
-     "liquidity coverage ratio",
-     51,
-     0
-    ],
-    [
-     "silicon valley bank liquidity coverage ratio",
+     "kidney transplant scar",
      4,
-     0
+     42
     ],
     [
-     "svb lcr",
+     "mild splenomegaly",
+     1,
+     41
+    ],
+    [
+     "history taking template",
+     1,
+     30
+    ],
+    [
+     "haemoptysis",
+     12,
+     30
+    ],
+    [
+     "vats scar",
+     2,
+     30
+    ],
+    [
+     "liver transplant scar",
      3,
-     0
+     29
+    ],
+    [
+     "vats scars",
+     2,
+     29
+    ],
+    [
+     "clamshell scar",
+     3,
+     24
+    ],
+    [
+     "kidney transplant scar",
+     2,
+     23
+    ],
+    [
+     "training interface login",
+     4,
+     22
+    ],
+    [
+     "lobectomy scar",
+     1,
+     20
+    ],
+    [
+     "medical education leeds",
+     1,
+     19
+    ],
+    [
+     "rheumatology history taking",
+     2,
+     18
+    ],
+    [
+     "cricosternal distance",
+     7,
+     17
+    ],
+    [
+     "history taking template",
+     1,
+     17
+    ],
+    [
+     "cricosternal distance",
+     6,
+     15
     ]
    ],
    "gambling_keywords": [],
-   "brand_keywords": [],
+   "brand_keywords": [
+    "medical education leeds"
+   ],
    "brand_checked": true,
-   "first_seen": "20210930",
-   "last_active": "20251027",
+   "first_seen": "20090807",
+   "last_active": "20260314",
    "titles": [
     [
-     "20251027",
-     "Latest Articles - Macroprudential Matters"
+     "20260314",
+     "International Sleep Charity"
     ],
     [
-     "20240705",
-     "Latest Articles - Macroprudential Matters"
+     "20260208",
+     "International Sleep Charity"
     ],
     [
-     "20230404",
-     "Latest Articles - Macroprudential Matters"
+     "20260103",
+     ""
     ],
     [
-     "20220405",
-     "Latest Articles - Macroprudential Matters"
+     "20230131",
+     "Medical Education Leeds &#8211; A department at Leeds Teaching Hospitals Trust, delivering"
     ],
     [
-     "20210930",
-     "Latest Articles - Macroprudential Matters"
+     "20190106",
+     "Medical Education Leeds &#8211; A department at Leeds Teaching Hospitals Trust, delivering"
+    ],
+    [
+     "20151107",
+     ""
+    ],
+    [
+     "20090807",
+     "Medical Education Leeds"
     ]
    ],
    "gambling_wayback": [],
@@ -908,9 +997,8 @@
    "wayback_checked": true,
    "fails": [],
    "warns": [
-    "DR 20 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 15 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
+    "DR 22 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 19 (เกณฑ์ผ่อน)"
    ],
    "verdict": "relaxed"
   }
