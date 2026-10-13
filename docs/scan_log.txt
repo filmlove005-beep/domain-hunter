@@ -1,37 +1,31 @@
-2026-10-12 13:51:26 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-12 13:51:32 ได้รายการ expiring_auctions_non_adult: 896,416 โดเมน
-2026-10-12 13:51:33 รวมโดเมนจากทุกฟีด: 896,416 โดเมน (ไม่ซ้ำ)
-2026-10-12 13:51:34 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-12 13:51:34 ดึง DR จาก Ahrefs ...
-2026-10-12 13:51:36 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-10-12 13:51:36 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-12 13:52:40   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-12 13:53:20   dddjapan.com: relaxed DR 16 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-12 13:55:14   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
-2026-10-12 13:56:36   asklepiahealth.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-10-12 13:57:44   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-12 13:58:44   digimarcondenver.com: fail เคย Redirect ไป digimarconworld.com; Backlink คุณภาพ 2 (< 3)
-2026-10-12 13:59:56   digimarconphoenix.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-10-12 14:01:18   digimarconatlanta.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-10-12 14:02:37   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
-2026-10-12 14:04:47   mattstobbs.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-12 14:07:19   pickupwp.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-12 14:09:01   homemadegin.com: relaxed DR 22 (เกณฑ์ผ่อน)
-2026-10-12 14:10:14   community-table.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
+2026-10-12 23:56:37 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-12 23:56:43 ได้รายการ expiring_auctions_non_adult: 906,858 โดเมน
+2026-10-12 23:56:43 รวมโดเมนจากทุกฟีด: 906,858 โดเมน (ไม่ซ้ำ)
+2026-10-12 23:56:44 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-12 23:56:44 ดึง DR จาก Ahrefs ...
+2026-10-12 23:56:45 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-10-12 23:56:45 เช็กเชิงลึก 13 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-12 23:57:31   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-12 23:58:10   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
+2026-10-12 23:59:12   asklepiahealth.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
 <body style="padding:30px 0;">
 <div style="float:left;width:260px;text-align:center;">
 <img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
-2026-10-12 14:12:07   stackplan.com: fail เคย Redirect ไป www.stackplanner.com
-2026-10-12 14:13:28   macroprudentialmatters.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-10-12 14:14:46   bowersconsulting.com: relaxed DR 16 (เกณฑ์ผ่อน); Backlink คุณภาพ 14 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-10-12 14:14:51 รอ Wayback 2 นาที แล้วลองใหม่ 5 โดเมน ...
-2026-10-12 14:17:44   asklepiahealth.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-12 14:18:42   digimarconphoenix.com: fail เคย Redirect ไป digimarconworld.com
-2026-10-12 14:19:57   digimarconatlanta.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
+2026-10-13 00:00:13   vedicthemes.com: Wayback ไม่ตอบ HTTP 503 <html><head><meta charset="UTF-8"><title>Internet Archive: Temporarily Offline</title><style>p{font-size:24px;}img{margin-bottom:2rem;}</style></head>
 <body style="padding:30px 0;">
 <div style="float:left;width:260px;text-align:center;">
 <img xsrc="logo_ia.jpg" src="data:image/jpeg;base64,iVBORw0KGg
-2026-10-12 14:21:05   community-table.com: fail เคย Redirect ไป yaskworld.com; Backlink คุณภาพ 1 (< 3)
-2026-10-12 14:22:41   macroprudentialmatters.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-10-12 14:22:51 ⚠ Wayback ยังไม่ตอบ 2 โดเมน — จะลองใหม่รอบสแกนถัดไป
-2026-10-12 14:22:51 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 4 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-13 00:01:47   digimarcondenver.com: fail เคย Redirect ไป digimarconworld.com; Backlink คุณภาพ 2 (< 3)
+2026-10-13 00:03:25   digimarconphoenix.com: fail เคย Redirect ไป digimarconworld.com
+2026-10-13 00:05:46   digimarconatlanta.com: fail เคย Redirect ไป digimarconworld.com
+2026-10-13 00:06:58   izumo-aeonmall.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-10-13 00:08:17   mattstobbs.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-13 00:09:48   pickupwp.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-13 00:12:24   diversitycenterofoklahoma.org: relaxed DR 26 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-13 00:13:23   community-table.com: fail เคย Redirect ไป yaskworld.com; Backlink คุณภาพ 1 (< 3)
+2026-10-13 00:14:32   macroprudentialmatters.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 15 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-13 00:14:37 รอ Wayback 2 นาที แล้วลองใหม่ 3 โดเมน ...
+2026-10-13 00:17:36   asklepiahealth.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-13 00:18:56   vedicthemes.com: relaxed Backlink คุณภาพ 13 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-10-13 00:19:42   izumo-aeonmall.com: fail เคย Redirect ไป www.aeon.jp
+2026-10-13 00:19:52 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 3 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
