@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-10-13T05:18:04+00:00",
+ "scanned_at": "2026-10-13T13:35:01+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 906858,
  "results": [
@@ -45,7 +45,7 @@
     [
      "datanyze.com",
      78.0,
-     90017
+     76053
     ],
     [
      "visitokc.com",
@@ -880,10 +880,10 @@
    "brand_keywords": [],
    "brand_checked": true,
    "first_seen": "20210930",
-   "last_active": "20250720",
+   "last_active": "20251027",
    "titles": [
     [
-     "20250720",
+     "20251027",
      "Latest Articles - Macroprudential Matters"
     ],
     [
