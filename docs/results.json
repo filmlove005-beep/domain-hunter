@@ -1,7 +1,7 @@
 {
- "scanned_at": "2026-10-14T11:19:52+00:00",
+ "scanned_at": "2026-10-14T16:29:50+00:00",
  "feed": "expiring_auctions_non_adult",
- "feed_total": 941801,
+ "feed_total": 942056,
  "results": [
   {
    "domain": "diversitycenterofoklahoma.org",
@@ -1003,24 +1003,5 @@
    "verdict": "relaxed"
   }
  ],
- "wayback_retry": [
-  {
-   "domain": "myyouthcareer.com",
-   "link": "https://www.godaddy.com/domain-auctions/myyouthcareer-com-731480754?isc=json_expiring",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-10-19T18:24:00Z",
-   "age": 14,
-   "majestic_tf": 0,
-   "majestic_rd": 0,
-   "stage": "wayback_failed",
-   "error": "URLError: <urlopen error [Errno 111] Connection refused>",
-   "fails": [],
-   "warns": [
-    "ดึงข้อมูล Wayback ไม่สำเร็จ (ลองสแกนใหม่)",
-    "ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)"
-   ],
-   "verdict": "pending"
-  }
- ]
+ "wayback_retry": []
 }
