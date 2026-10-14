@@ -1,22 +1,26 @@
-2026-10-13 22:04:40 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-13 22:04:49 ได้รายการ expiring_auctions_non_adult: 941,801 โดเมน
-2026-10-13 22:04:49 รวมโดเมนจากทุกฟีด: 941,801 โดเมน (ไม่ซ้ำ)
-2026-10-13 22:04:51 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-13 22:04:51 ดึง DR จาก Ahrefs ...
-2026-10-13 22:04:52 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-10-13 22:04:52 เช็กเชิงลึก 12 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-13 22:05:19   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-13 22:05:54   medicaleducationleeds.com: relaxed DR 22 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน)
-2026-10-13 22:08:13   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
-2026-10-13 22:09:53   asklepiahealth.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-10-13 22:09:59   thesutler.com: pending Backlink คุณภาพ 18 (เกณฑ์ผ่อน)
-2026-10-13 22:10:04   nhassurance.com: pending DR 24 (เกณฑ์ผ่อน)
-2026-10-13 22:10:09   mattstobbs.com: pending DR 24 (เกณฑ์ผ่อน)
-2026-10-13 22:10:14   pickupwp.com: pending 
-2026-10-13 22:10:20   thepinballs.org: pending DR 21 (เกณฑ์ผ่อน)
-2026-10-13 22:10:25   diversitycenterofoklahoma.org: pending DR 26 (เกณฑ์ผ่อน)
-2026-10-13 22:10:30   community-table.com: pending 
-2026-10-13 22:10:35   macroprudentialmatters.com: pending DR 20 (เกณฑ์ผ่อน)
-2026-10-13 22:10:40 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
-2026-10-13 22:13:19   asklepiahealth.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-13 22:13:29 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 1 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-14 02:39:04 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-14 02:39:12 ได้รายการ expiring_auctions_non_adult: 941,801 โดเมน
+2026-10-14 02:39:12 รวมโดเมนจากทุกฟีด: 941,801 โดเมน (ไม่ซ้ำ)
+2026-10-14 02:39:14 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-14 02:39:14 ดึง DR จาก Ahrefs ...
+2026-10-14 02:39:15 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
+  "error": "API units limit reached. Expected usage: 680, API units left: 10."
+} — สแกนต่อแบบไม่มี Ahrefs
+2026-10-14 02:39:15 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-14 02:39:50   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-14 02:40:49   medicaleducationleeds.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-14 02:44:08   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
+2026-10-14 02:46:39   asklepiahealth.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-14 02:47:52   puntomarisko.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-14 02:51:08   tulsacathedraldistrict.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-14 02:53:28   rjbbqtx.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-14 02:56:08   myyouthcareer.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-14 02:56:41   yukidschicago.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-14 02:57:11   shoprichmondcentre.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-14 02:57:49   shedean.com: fail เคย Redirect ไป www.shedeanjewelz.com
+2026-10-14 03:00:23   leonardautosalesva.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-14 03:03:54   greenracingnews.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-14 03:05:08   chardmke.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-14 03:05:31   thesutler.com: fail เคย Redirect ไป thesutlersaloon.com
+2026-10-14 03:07:18   nhassurance.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-14 03:07:23 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
