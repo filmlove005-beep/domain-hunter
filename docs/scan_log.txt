@@ -1,26 +1,26 @@
-2026-10-14 21:05:52 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-14 21:06:00 ได้รายการ expiring_auctions_non_adult: 942,056 โดเมน
-2026-10-14 21:06:01 รวมโดเมนจากทุกฟีด: 942,056 โดเมน (ไม่ซ้ำ)
-2026-10-14 21:06:02 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-14 21:06:02 ดึง DR จาก Ahrefs ...
-2026-10-14 21:06:03 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
+2026-10-15 02:18:58 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-15 02:19:04 ได้รายการ expiring_auctions_non_adult: 942,056 โดเมน
+2026-10-15 02:19:04 รวมโดเมนจากทุกฟีด: 942,056 โดเมน (ไม่ซ้ำ)
+2026-10-15 02:19:06 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-15 02:19:06 ดึง DR จาก Ahrefs ...
+2026-10-15 02:19:06 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
   "error": "API units limit reached. Expected usage: 680, API units left: 10."
 } — สแกนต่อแบบไม่มี Ahrefs
-2026-10-14 21:06:03 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-14 21:06:32   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-14 21:07:01   enzobrunigourmet.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-14 21:07:39   mercpublishing.com: fail เคย Redirect ไป mercmagazine.com
-2026-10-14 21:10:50   roadrunnerstirecraft.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-14 21:12:41   missmv.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-14 21:13:46   medicaleducationleeds.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-14 21:16:38   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
-2026-10-14 21:18:14   asklepiahealth.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-14 21:18:39   agilepeopleopsframework.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-14 21:19:44   puntomarisko.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-14 21:22:55   managedagile.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-14 21:25:44   tulsacathedraldistrict.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-14 21:28:30   rjbbqtx.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-14 21:30:55   myyouthcareer.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-14 21:31:15   yukidschicago.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-14 21:31:38   shoprichmondcentre.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-14 21:31:43 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-15 02:19:06 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-15 02:19:43   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-15 02:20:29   enzobrunigourmet.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-15 02:21:02   mercpublishing.com: fail เคย Redirect ไป mercmagazine.com
+2026-10-15 02:23:25   roadrunnerstirecraft.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-15 02:24:18   missmv.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-15 02:25:57   medicaleducationleeds.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-15 02:28:34   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
+2026-10-15 02:30:52   asklepiahealth.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-15 02:32:21   agilepeopleopsframework.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-15 02:33:41   puntomarisko.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-15 02:35:37   managedagile.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-15 02:36:25   tulsacathedraldistrict.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-15 02:37:54   rjbbqtx.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-15 02:38:59   myyouthcareer.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-15 02:39:25   yukidschicago.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-15 02:40:42   shoprichmondcentre.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-15 02:40:47 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
