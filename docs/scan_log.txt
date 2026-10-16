@@ -1,29 +1,26 @@
-2026-10-16 02:10:55 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-16 02:11:02 ได้รายการ expiring_auctions_non_adult: 976,243 โดเมน
-2026-10-16 02:11:02 รวมโดเมนจากทุกฟีด: 976,243 โดเมน (ไม่ซ้ำ)
-2026-10-16 02:11:03 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-16 02:11:03 ดึง DR จาก Ahrefs ...
-2026-10-16 02:11:03 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
+2026-10-16 10:19:54 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-16 10:20:02 ได้รายการ expiring_auctions_non_adult: 976,243 โดเมน
+2026-10-16 10:20:03 รวมโดเมนจากทุกฟีด: 976,243 โดเมน (ไม่ซ้ำ)
+2026-10-16 10:20:04 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-16 10:20:04 ดึง DR จาก Ahrefs ...
+2026-10-16 10:20:05 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
   "error": "API units limit reached. Expected usage: 680, API units left: 10."
 } — สแกนต่อแบบไม่มี Ahrefs
-2026-10-16 02:11:03 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-16 02:11:57   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-16 02:12:29   enzobrunigourmet.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-16 02:12:53   mercpublishing.com: fail เคย Redirect ไป mercmagazine.com
-2026-10-16 02:15:59   roadrunnerstirecraft.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-16 02:16:27   missmv.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-16 02:18:13   krazyadda.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-16 02:19:55   medicaleducationleeds.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-16 02:21:20   sdcoffeetea.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-10-16 02:22:27   asklepiahealth.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-16 02:23:10   agilepeopleopsframework.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-16 02:23:51   puntomarisko.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-16 02:25:39   managedagile.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-16 02:27:45   tulsacathedraldistrict.com: Wayback ไม่ตอบ TimeoutError: timed out
-2026-10-16 02:28:19   rjbbqtx.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-16 02:30:59   myyouthcareer.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-16 02:31:33   yukidschicago.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-16 02:31:38 รอ Wayback 2 นาที แล้วลองใหม่ 2 โดเมน ...
-2026-10-16 02:34:08   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
-2026-10-16 02:36:35   tulsacathedraldistrict.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-16 02:36:45 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-16 10:20:05 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-16 10:21:03   yourbodyforgod.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-16 10:22:11   enzobrunigourmet.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-16 10:23:12   mercpublishing.com: fail เคย Redirect ไป mercmagazine.com
+2026-10-16 10:23:43   roadrunnerstirecraft.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-16 10:24:51   missmv.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-16 10:27:14   krazyadda.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-16 10:28:25   medicaleducationleeds.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-16 10:29:11   sdcoffeetea.com: fail เคย Redirect ไป westrockcoffee.com, retail.westrockcoffee.com
+2026-10-16 10:29:56   asklepiahealth.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-16 10:30:33   agilepeopleopsframework.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-16 10:31:39   puntomarisko.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-16 10:34:47   managedagile.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-16 10:35:14   tulsacathedraldistrict.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-16 10:36:59   rjbbqtx.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-16 10:39:21   myyouthcareer.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-16 10:39:46   yukidschicago.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-16 10:39:51 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
