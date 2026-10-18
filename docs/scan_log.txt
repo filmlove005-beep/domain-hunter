@@ -1,26 +1,28 @@
-2026-10-18 15:04:38 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-18 15:04:44 ได้รายการ expiring_auctions_non_adult: 1,141,791 โดเมน
-2026-10-18 15:04:45 รวมโดเมนจากทุกฟีด: 1,141,791 โดเมน (ไม่ซ้ำ)
-2026-10-18 15:04:46 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-18 15:04:46 ดึง DR จาก Ahrefs ...
-2026-10-18 15:04:46 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
+2026-10-18 19:50:56 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-18 19:51:06 ได้รายการ expiring_auctions_non_adult: 1,141,791 โดเมน
+2026-10-18 19:51:06 รวมโดเมนจากทุกฟีด: 1,141,791 โดเมน (ไม่ซ้ำ)
+2026-10-18 19:51:08 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-18 19:51:08 ดึง DR จาก Ahrefs ...
+2026-10-18 19:51:08 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
   "error": "API units limit reached. Expected usage: 680, API units left: 10."
 } — สแกนต่อแบบไม่มี Ahrefs
-2026-10-18 15:04:46 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-18 15:05:09   moultriecountyil.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-18 15:05:32   atldreamcenter.com: fail เคย Redirect ไป www.frontlineresponse.org, shortener.secureserver.net
-2026-10-18 15:08:50   gingerlstache.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-18 15:10:57   pexmas.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-18 15:13:25   theallthingsshop.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-18 15:15:12   enzobrunigourmet.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-18 15:16:10   mercpublishing.com: fail เคย Redirect ไป mercmagazine.com
-2026-10-18 15:17:40   roadrunnerstirecraft.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-18 15:19:15   forkandspoonstreeteats.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-18 15:19:41   missmv.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-18 15:21:59   krazyadda.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-18 15:22:55   medicaleducationleeds.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-18 15:25:12   asklepiahealth.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-18 15:25:40   agilepeopleopsframework.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-18 15:26:06   martinwilsonschool.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-18 15:26:47   puntomarisko.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-18 15:26:52 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-18 19:51:08 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-18 19:51:30   moultriecountyil.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-18 19:51:57   atldreamcenter.com: fail เคย Redirect ไป www.frontlineresponse.org, shortener.secureserver.net
+2026-10-18 19:55:12   gingerlstache.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-18 19:55:51   pexmas.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-18 19:57:02   theallthingsshop.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-18 19:58:56   enzobrunigourmet.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-18 19:59:34   mercpublishing.com: fail เคย Redirect ไป mercmagazine.com
+2026-10-18 20:00:56   roadrunnerstirecraft.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-10-18 20:01:51   forkandspoonstreeteats.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-18 20:02:28   missmv.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-18 20:04:33   krazyadda.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-18 20:05:20   medicaleducationleeds.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-18 20:07:08   asklepiahealth.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-18 20:07:41   agilepeopleopsframework.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-18 20:08:47   martinwilsonschool.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-18 20:09:09   puntomarisko.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-18 20:09:14 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
+2026-10-18 20:11:42   roadrunnerstirecraft.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-18 20:11:52 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
