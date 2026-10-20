@@ -1,26 +1,26 @@
-2026-10-19 21:54:42 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-19 21:54:52 ได้รายการ expiring_auctions_non_adult: 1,146,022 โดเมน
-2026-10-19 21:54:52 รวมโดเมนจากทุกฟีด: 1,146,022 โดเมน (ไม่ซ้ำ)
-2026-10-19 21:54:54 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-19 21:54:54 ดึง DR จาก Ahrefs ...
-2026-10-19 21:54:54 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
+2026-10-20 02:34:29 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-20 02:34:42 ได้รายการ expiring_auctions_non_adult: 1,146,022 โดเมน
+2026-10-20 02:34:43 รวมโดเมนจากทุกฟีด: 1,146,022 โดเมน (ไม่ซ้ำ)
+2026-10-20 02:34:45 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-20 02:34:45 ดึง DR จาก Ahrefs ...
+2026-10-20 02:34:45 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
   "error": "API units limit reached. Expected usage: 680, API units left: 10."
 } — สแกนต่อแบบไม่มี Ahrefs
-2026-10-19 21:54:55 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-19 21:55:14   borderpolar.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป metagameguides.com
-2026-10-19 21:55:34   kalamkagaz.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-19 21:57:34   happynailsdayspafl.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-19 21:57:54   moultriecountyil.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-19 21:58:18   atldreamcenter.com: fail เคย Redirect ไป www.frontlineresponse.org, shortener.secureserver.net
-2026-10-19 22:01:06   gingerlstache.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-19 22:01:29   phoenixafrobeatorchestra.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-19 22:02:24   altea-paris.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-19 22:03:57   pexmas.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-19 22:05:56   cinespriceprime.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-19 22:07:38   theallthingsshop.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-19 22:07:53   enzobrunigourmet.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-19 22:10:02   mercpublishing.com: fail เคย Redirect ไป mercmagazine.com
-2026-10-19 22:12:02   donciccio-highgate.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-19 22:13:39   roadrunnerstirecraft.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-19 22:13:50   forkandspoonstreeteats.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-19 22:13:55 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-20 02:34:45 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-20 02:35:02   borderpolar.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป metagameguides.com
+2026-10-20 02:37:50   kalamkagaz.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-20 02:38:08   happynailsdayspafl.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-20 02:38:27   moultriecountyil.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-20 02:38:45   atldreamcenter.com: fail เคย Redirect ไป www.frontlineresponse.org, shortener.secureserver.net
+2026-10-20 02:41:07   gingerlstache.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-20 02:42:28   phoenixafrobeatorchestra.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-20 02:43:21   altea-paris.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-20 02:43:40   pexmas.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-20 02:44:17   cinespriceprime.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-20 02:45:40   theallthingsshop.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-20 02:46:00   enzobrunigourmet.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-20 02:46:20   mercpublishing.com: fail เคย Redirect ไป mercmagazine.com
+2026-10-20 02:47:22   donciccio-highgate.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-20 02:49:22   roadrunnerstirecraft.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-20 02:49:33   forkandspoonstreeteats.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-20 02:49:38 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
