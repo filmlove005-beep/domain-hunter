@@ -1,26 +1,29 @@
-2026-10-21 16:17:27 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-21 16:17:39 ได้รายการ expiring_auctions_non_adult: 1,229,395 โดเมน
-2026-10-21 16:17:40 รวมโดเมนจากทุกฟีด: 1,229,395 โดเมน (ไม่ซ้ำ)
-2026-10-21 16:17:41 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-21 16:17:42 ดึง DR จาก Ahrefs ...
-2026-10-21 16:17:42 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
+2026-10-21 21:01:00 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-21 21:01:10 ได้รายการ expiring_auctions_non_adult: 1,229,395 โดเมน
+2026-10-21 21:01:10 รวมโดเมนจากทุกฟีด: 1,229,395 โดเมน (ไม่ซ้ำ)
+2026-10-21 21:01:12 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-21 21:01:12 ดึง DR จาก Ahrefs ...
+2026-10-21 21:01:13 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
   "error": "API units limit reached. Expected usage: 680, API units left: 10."
 } — สแกนต่อแบบไม่มี Ahrefs
-2026-10-21 16:17:42 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-21 16:17:53   borderpolar.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป metagameguides.com
-2026-10-21 16:19:55   gatsbychocolate.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-21 16:21:55   dentalclinicdirectory.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-21 16:23:56   kalamkagaz.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-21 16:24:11   happynailsdayspafl.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-21 16:24:27   moultriecountyil.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-21 16:24:44   atldreamcenter.com: fail เคย Redirect ไป www.frontlineresponse.org, shortener.secureserver.net
-2026-10-21 16:26:23   gingerlstache.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-21 16:28:27   phoenixafrobeatorchestra.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-21 16:28:41   altea-paris.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-21 16:28:56   pexmas.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-21 16:29:30   cinespriceprime.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-21 16:30:46   yosakuanderson.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-21 16:31:28   theallthingsshop.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-21 16:32:20   cryptopur.com: fail เคย Redirect ไป salespage.flippa.com
-2026-10-21 16:33:14   enzobrunigourmet.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-21 16:33:19 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-21 21:01:13 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-21 21:01:28   borderpolar.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป metagameguides.com
+2026-10-21 21:04:18   gatsbychocolate.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-21 21:07:11   dentalclinicdirectory.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-21 21:09:59   kalamkagaz.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-21 21:10:15   happynailsdayspafl.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-21 21:10:35   moultriecountyil.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-21 21:10:55   atldreamcenter.com: fail เคย Redirect ไป www.frontlineresponse.org, shortener.secureserver.net
+2026-10-21 21:13:05   gingerlstache.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-21 21:15:52   phoenixafrobeatorchestra.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-21 21:16:09   altea-paris.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-21 21:16:29   pexmas.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-21 21:16:45   cinespriceprime.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-21 21:18:17   yosakuanderson.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-10-21 21:19:17   theallthingsshop.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-21 21:19:26   cryptopur.com: fail เคย Redirect ไป salespage.flippa.com
+2026-10-21 21:20:48   enzobrunigourmet.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-10-21 21:20:53 รอ Wayback 2 นาที แล้วลองใหม่ 2 โดเมน ...
+2026-10-21 21:23:05   yosakuanderson.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-21 21:23:28   enzobrunigourmet.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-21 21:23:38 เสร็จแล้ว: ผ่านสะสม 2 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
