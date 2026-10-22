@@ -1,26 +1,26 @@
-2026-10-22 16:16:13 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-22 16:16:22 ได้รายการ expiring_auctions_non_adult: 1,241,188 โดเมน
-2026-10-22 16:16:23 รวมโดเมนจากทุกฟีด: 1,241,188 โดเมน (ไม่ซ้ำ)
-2026-10-22 16:16:24 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-22 16:16:24 ดึง DR จาก Ahrefs ...
-2026-10-22 16:16:24 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
+2026-10-22 20:57:56 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-22 20:58:06 ได้รายการ expiring_auctions_non_adult: 1,241,188 โดเมน
+2026-10-22 20:58:07 รวมโดเมนจากทุกฟีด: 1,241,188 โดเมน (ไม่ซ้ำ)
+2026-10-22 20:58:08 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-22 20:58:08 ดึง DR จาก Ahrefs ...
+2026-10-22 20:58:09 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
   "error": "API units limit reached. Expected usage: 680, API units left: 10."
 } — สแกนต่อแบบไม่มี Ahrefs
-2026-10-22 16:16:24 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-22 16:16:49   borderpolar.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป metagameguides.com
-2026-10-22 16:19:51   gatsbychocolate.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-22 16:22:39   dentalclinicdirectory.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-22 16:25:19   kalamkagaz.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-22 16:25:45   happynailsdayspafl.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-22 16:26:36   moultriecountyil.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-22 16:27:05   atldreamcenter.com: fail เคย Redirect ไป www.frontlineresponse.org, shortener.secureserver.net
-2026-10-22 16:29:16   gingerlstache.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-22 16:30:50   phoenixafrobeatorchestra.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-22 16:32:21   altea-paris.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-22 16:32:44   pexmas.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-22 16:34:08   cinespriceprime.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-22 16:35:17   yosakuanderson.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-22 16:36:00   theallthingsshop.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-22 16:36:09   cryptopur.com: fail เคย Redirect ไป salespage.flippa.com
-2026-10-22 16:37:16   izumi-satsuki-blog.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-22 16:37:21 เสร็จแล้ว: ผ่านสะสม 1 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-22 20:58:09 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-22 20:58:32   borderpolar.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป metagameguides.com
+2026-10-22 21:02:11   gatsbychocolate.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-22 21:04:25   dentalclinicdirectory.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-22 21:04:44   kalamkagaz.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-22 21:05:01   happynailsdayspafl.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-22 21:05:30   moultriecountyil.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-22 21:05:50   atldreamcenter.com: fail เคย Redirect ไป www.frontlineresponse.org, shortener.secureserver.net
+2026-10-22 21:08:48   gingerlstache.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-22 21:10:28   phoenixafrobeatorchestra.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-22 21:11:02   altea-paris.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-22 21:11:28   pexmas.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-22 21:12:22   cinespriceprime.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-22 21:14:03   yosakuanderson.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-22 21:14:36   theallthingsshop.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-22 21:14:44   cryptopur.com: fail เคย Redirect ไป salespage.flippa.com
+2026-10-22 21:15:55   izumi-satsuki-blog.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-22 21:16:00 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
