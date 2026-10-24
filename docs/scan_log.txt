@@ -1,29 +1,28 @@
-2026-10-24 15:02:39 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-24 15:02:48 ได้รายการ expiring_auctions_non_adult: 1,296,212 โดเมน
-2026-10-24 15:02:49 รวมโดเมนจากทุกฟีด: 1,296,212 โดเมน (ไม่ซ้ำ)
-2026-10-24 15:02:50 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-24 15:02:50 ดึง DR จาก Ahrefs ...
-2026-10-24 15:02:51 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
+2026-10-24 19:57:59 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-24 19:58:11 ได้รายการ expiring_auctions_non_adult: 1,296,212 โดเมน
+2026-10-24 19:58:12 รวมโดเมนจากทุกฟีด: 1,296,212 โดเมน (ไม่ซ้ำ)
+2026-10-24 19:58:14 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-24 19:58:14 ดึง DR จาก Ahrefs ...
+2026-10-24 19:58:14 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
   "error": "API units limit reached. Expected usage: 680, API units left: 10."
 } — สแกนต่อแบบไม่มี Ahrefs
-2026-10-24 15:02:51 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-24 15:03:47   borderpolar.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป metagameguides.com
-2026-10-24 15:05:25   miamiwarehousespace.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-10-24 15:07:21   gatsbychocolate.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-24 15:09:36   infusionbarandgrill.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-24 15:12:38   dentalclinicdirectory.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-24 15:14:16   newpekingpalace.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-10-24 15:15:02   kalamkagaz.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-24 15:15:44   happynailsdayspafl.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-24 15:16:19   moultriecountyil.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-24 15:17:26   recicli.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-24 15:17:59   atldreamcenter.com: fail เคย Redirect ไป www.frontlineresponse.org, shortener.secureserver.net
-2026-10-24 15:20:56   gingerlstache.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-24 15:24:03   thesanctuaryyogaroom.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-24 15:25:55   phoenixafrobeatorchestra.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-24 15:27:17   terragam.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-24 15:28:49   altea-paris.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-24 15:28:54 รอ Wayback 2 นาที แล้วลองใหม่ 2 โดเมน ...
-2026-10-24 15:33:08   miamiwarehousespace.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-24 15:35:14   newpekingpalace.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-24 15:35:24 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-24 19:58:14 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-24 19:58:42   borderpolar.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป metagameguides.com
+2026-10-24 20:02:02   miamiwarehousespace.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-24 20:04:52   gatsbychocolate.com: Wayback ไม่ตอบ URLError: <urlopen error timed out>
+2026-10-24 20:05:28   infusionbarandgrill.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-24 20:08:20   dentalclinicdirectory.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-24 20:08:47   newpekingpalace.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-24 20:11:14   kalamkagaz.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-24 20:11:35   happynailsdayspafl.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-24 20:12:00   moultriecountyil.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-24 20:12:44   recicli.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-24 20:13:09   atldreamcenter.com: fail เคย Redirect ไป www.frontlineresponse.org, shortener.secureserver.net
+2026-10-24 20:14:28   gingerlstache.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-24 20:17:15   thesanctuaryyogaroom.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-24 20:17:39   phoenixafrobeatorchestra.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-24 20:17:58   terragam.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-24 20:18:18   altea-paris.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-24 20:18:23 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
+2026-10-24 20:20:59   gatsbychocolate.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-24 20:21:09 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
