@@ -1,26 +1,29 @@
-2026-10-28 02:59:02 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-28 02:59:13 ได้รายการ expiring_auctions_non_adult: 1,309,051 โดเมน
-2026-10-28 02:59:13 รวมโดเมนจากทุกฟีด: 1,309,051 โดเมน (ไม่ซ้ำ)
-2026-10-28 02:59:15 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-28 02:59:15 ดึง DR จาก Ahrefs ...
-2026-10-28 02:59:16 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
+2026-10-28 11:49:18 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-28 11:49:29 ได้รายการ expiring_auctions_non_adult: 1,309,051 โดเมน
+2026-10-28 11:49:29 รวมโดเมนจากทุกฟีด: 1,309,051 โดเมน (ไม่ซ้ำ)
+2026-10-28 11:49:31 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-28 11:49:31 ดึง DR จาก Ahrefs ...
+2026-10-28 11:49:32 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
   "error": "API units limit reached. Expected usage: 680, API units left: 10."
 } — สแกนต่อแบบไม่มี Ahrefs
-2026-10-28 02:59:16 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-28 02:59:32   borderpolar.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป metagameguides.com
-2026-10-28 03:01:53   miamiwarehousespace.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-28 03:02:54   atwoodny.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-28 03:04:27   moleclues.org: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-28 03:04:51   glitzygirlzboutique.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-28 03:05:49   gatsbychocolate.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-28 03:08:11   infusionbarandgrill.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-28 03:10:26   dentalclinicdirectory.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-28 03:11:24   simonwilliamsonclinic.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-28 03:12:01   newpekingpalace.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-28 03:14:43   kalamkagaz.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-28 03:15:00   happynailsdayspafl.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-28 03:15:13   scalingsupport.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-28 03:16:32   jelloow.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-28 03:17:28   tracam-tsu.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-28 03:18:24   ajisainy.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-28 03:18:29 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-28 11:49:32 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-28 11:49:47   borderpolar.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป metagameguides.com
+2026-10-28 11:50:12   miamiwarehousespace.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-28 11:52:40   atwoodny.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-28 11:55:30   moleclues.org: Wayback ไม่ตอบ URLError: <urlopen error timed out>
+2026-10-28 11:55:57   glitzygirlzboutique.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-28 11:56:38   gatsbychocolate.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-28 11:59:09   infusionbarandgrill.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-28 12:01:28   dentalclinicdirectory.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-28 12:01:51   simonwilliamsonclinic.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-28 12:02:12   newpekingpalace.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-28 12:02:32   kalamkagaz.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-28 12:03:06   happynailsdayspafl.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-28 12:05:56   scalingsupport.com: Wayback ไม่ตอบ TimeoutError: timed out
+2026-10-28 12:06:18   jelloow.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-28 12:06:37   tracam-tsu.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-28 12:07:14   ajisainy.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-28 12:07:19 รอ Wayback 2 นาที แล้วลองใหม่ 2 โดเมน ...
+2026-10-28 12:09:32   moleclues.org: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-28 12:11:57   scalingsupport.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-28 12:12:08 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
