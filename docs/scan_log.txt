@@ -1,26 +1,28 @@
-2026-10-29 17:55:32 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-10-29 17:55:44 ได้รายการ expiring_auctions_non_adult: 1,264,444 โดเมน
-2026-10-29 17:55:44 รวมโดเมนจากทุกฟีด: 1,264,444 โดเมน (ไม่ซ้ำ)
-2026-10-29 17:55:46 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-10-29 17:55:46 ดึง DR จาก Ahrefs ...
-2026-10-29 17:55:46 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
+2026-10-29 22:13:03 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-10-29 22:13:16 ได้รายการ expiring_auctions_non_adult: 1,264,444 โดเมน
+2026-10-29 22:13:17 รวมโดเมนจากทุกฟีด: 1,264,444 โดเมน (ไม่ซ้ำ)
+2026-10-29 22:13:18 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-10-29 22:13:18 ดึง DR จาก Ahrefs ...
+2026-10-29 22:13:19 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
   "error": "API units limit reached. Expected usage: 680, API units left: 10."
 } — สแกนต่อแบบไม่มี Ahrefs
-2026-10-29 17:55:46 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-10-29 17:56:06   teamfeidt.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.impactmaf.com
-2026-10-29 17:57:06   taoinspiredliving.com: fail เคย Redirect ไป www.taomexico.com, taomexico.com
-2026-10-29 17:58:53   miamiwarehousespace.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-29 18:01:20   atwoodny.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-29 18:02:03   glitzygirlzboutique.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-29 18:02:48   gatsbychocolate.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-29 18:05:04   infusionbarandgrill.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-29 18:07:20   dentalclinicdirectory.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-29 18:08:21   simonwilliamsonclinic.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-29 18:08:57   newpekingpalace.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-29 18:11:25   codeisscience.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-29 18:11:39   scalingsupport.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-29 18:13:41   jelloow.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-10-29 18:14:12   tracam-tsu.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-29 18:15:11   ajisainy.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-29 18:18:21   chinmayakumar.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-10-29 18:18:26 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-10-29 22:13:19 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-10-29 22:13:32   teamfeidt.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.impactmaf.com
+2026-10-29 22:15:32   taoinspiredliving.com: fail เคย Redirect ไป www.taomexico.com, taomexico.com
+2026-10-29 22:17:46   miamiwarehousespace.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-29 22:19:28   atwoodny.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-29 22:21:28   glitzygirlzboutique.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-29 22:23:25   gatsbychocolate.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-29 22:25:06   infusionbarandgrill.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-29 22:27:16   dentalclinicdirectory.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-29 22:29:15   simonwilliamsonclinic.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-29 22:29:33   newpekingpalace.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-29 22:31:04   codeisscience.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-29 22:31:48   scalingsupport.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-29 22:33:28   jelloow.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-10-29 22:33:50   tracam-tsu.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-29 22:35:16   ajisainy.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-29 22:36:37   chinmayakumar.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-10-29 22:36:42 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
+2026-10-29 22:39:00   chinmayakumar.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-10-29 22:39:10 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
