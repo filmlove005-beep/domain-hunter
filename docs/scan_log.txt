@@ -1,30 +1,13 @@
-2026-11-01 21:28:41 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-01 21:28:51 ได้รายการ expiring_auctions_non_adult: 1,300,924 โดเมน
-2026-11-01 21:28:52 รวมโดเมนจากทุกฟีด: 1,300,924 โดเมน (ไม่ซ้ำ)
-2026-11-01 21:28:53 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-01 21:28:53 ดึง DR จาก Ahrefs ...
-2026-11-01 21:28:54 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
-  "error": "API units limit reached. Expected usage: 680, API units left: 10."
-} — สแกนต่อแบบไม่มี Ahrefs
-2026-11-01 21:28:54 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-01 21:29:19   teamfeidt.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.impactmaf.com
-2026-11-01 21:30:18   taoinspiredliving.com: fail เคย Redirect ไป www.taomexico.com, taomexico.com
-2026-11-01 21:31:39   allnationstallahassee.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-11-01 21:33:32   miamiwarehousespace.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-01 21:35:28   yaisthai.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-01 21:36:35   atwoodny.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-01 21:37:56   thedraycott.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-11-01 21:38:26   golfbranchriver.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-01 21:41:22   advanced-nanomaterials-conference.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-01 21:41:48   vincentlucphoto.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-01 21:42:23   andironsteak.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป andironsteak.getbento.com, boccalone.com
-2026-11-01 21:43:25   gatocongafas.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-01 21:44:38   glitzygirlzboutique.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-01 21:46:07   infusionbarandgrill.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-11-01 21:47:12   findmooselodgelocations.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-01 21:47:44   simonwilliamsonclinic.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-01 21:47:49 รอ Wayback 2 นาที แล้วลองใหม่ 3 โดเมน ...
-2026-11-01 21:50:19   allnationstallahassee.com: fail เคย Redirect ไป www.anctally.com
-2026-11-01 21:50:45   thedraycott.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-01 21:51:14   infusionbarandgrill.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-01 21:51:24 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-02 03:19:57 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-02 03:20:08 ได้รายการ expiring_auctions_non_adult: 1,300,924 โดเมน
+2026-11-02 03:20:09 รวมโดเมนจากทุกฟีด: 1,300,924 โดเมน (ไม่ซ้ำ)
+2026-11-02 03:20:11 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-02 03:20:11 ดึง DR จาก Ahrefs ...
+2026-11-02 03:20:11 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-11-02 03:20:11 เช็กเชิงลึก 5 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-02 03:20:35   taoinspiredliving.com: fail เคย Redirect ไป www.taomexico.com, taomexico.com
+2026-11-02 03:21:04   yaisthai.com: pass 
+2026-11-02 03:21:47   thedraycott.com: relaxed DR 28 (เกณฑ์ผ่อน)
+2026-11-02 03:23:44   andironsteak.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป andironsteak.getbento.com, boccalone.com
+2026-11-02 03:26:34   jelloow.com: relaxed DR 15 (เกณฑ์ผ่อน)
+2026-11-02 03:26:39 เสร็จแล้ว: ผ่านสะสม 3 โดเมน (รอบนี้พบใหม่ 3 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน

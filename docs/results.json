@@ -1,7 +1,1439 @@
 {
- "scanned_at": "2026-11-01T21:51:24+00:00",
+ "scanned_at": "2026-11-02T03:26:39+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1300924,
- "results": [],
+ "results": [
+  {
+   "domain": "yaisthai.com",
+   "link": "https://www.godaddy.com/domain-auctions/yaisthai-com-734688962?isc=json_expiring",
+   "price": 1.0,
+   "bids": 1,
+   "end_time": "2026-11-05T17:54:00Z",
+   "age": 12,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "done",
+   "dr": 30.0,
+   "refdomains": 1328,
+   "quality_count": 78,
+   "quality_top": [
+    [
+     "forbes.com",
+     94.0,
+     12334174
+    ],
+    [
+     "linktr.ee",
+     94.0,
+     7700772
+    ],
+    [
+     "buzzfeed.com",
+     91.0,
+     4086610
+    ],
+    [
+     "myanimelist.net",
+     83.0,
+     3648191
+    ],
+    [
+     "17track.net",
+     91.0,
+     3258862
+    ],
+    [
+     "talkshoe.com",
+     72.0,
+     3163604
+    ],
+    [
+     "docker.com",
+     92.0,
+     2403700
+    ],
+    [
+     "crunchbase.com",
+     91.0,
+     2369072
+    ],
+    [
+     "habr.com",
+     88.0,
+     1779164
+    ],
+    [
+     "heylink.me",
+     92.0,
+     1715743
+    ],
+    [
+     "leetcode.com",
+     88.0,
+     1494988
+    ],
+    [
+     "gitlab.com",
+     92.0,
+     936407
+    ],
+    [
+     "gravatar.com",
+     97.0,
+     563006
+    ],
+    [
+     "stjude.org",
+     87.0,
+     546292
+    ],
+    [
+     "issuu.com",
+     93.0,
+     515880
+    ],
+    [
+     "revenuebase.ai",
+     51.0,
+     482678
+    ],
+    [
+     "mixcloud.com",
+     91.0,
+     470367
+    ],
+    [
+     "sas.com",
+     87.0,
+     389873
+    ],
+    [
+     "mashed.com",
+     79.0,
+     350028
+    ],
+    [
+     "inc.com",
+     91.0,
+     313446
+    ],
+    [
+     "about.me",
+     90.0,
+     276523
+    ],
+    [
+     "ipb.ac.id",
+     77.0,
+     248628
+    ],
+    [
+     "unand.ac.id",
+     74.0,
+     221899
+    ],
+    [
+     "stck.me",
+     73.0,
+     218280
+    ],
+    [
+     "spinninrecords.com",
+     71.0,
+     199066
+    ]
+   ],
+   "edu_wiki": [
+    "ipb.ac.id",
+    "unand.ac.id"
+   ],
+   "peak_traffic": 29547,
+   "peak_date": "2025-11-01",
+   "traffic_history": [
+    [
+     "2021-12",
+     873
+    ],
+    [
+     "2022-01",
+     972
+    ],
+    [
+     "2022-02",
+     968
+    ],
+    [
+     "2022-03",
+     933
+    ],
+    [
+     "2022-04",
+     1005
+    ],
+    [
+     "2022-05",
+     1012
+    ],
+    [
+     "2022-06",
+     1100
+    ],
+    [
+     "2022-07",
+     1000
+    ],
+    [
+     "2022-08",
+     958
+    ],
+    [
+     "2022-09",
+     1152
+    ],
+    [
+     "2022-10",
+     1352
+    ],
+    [
+     "2022-11",
+     1847
+    ],
+    [
+     "2022-12",
+     1553
+    ],
+    [
+     "2023-01",
+     2130
+    ],
+    [
+     "2023-02",
+     1972
+    ],
+    [
+     "2023-03",
+     1792
+    ],
+    [
+     "2023-04",
+     1559
+    ],
+    [
+     "2023-05",
+     1333
+    ],
+    [
+     "2023-06",
+     1438
+    ],
+    [
+     "2023-07",
+     1685
+    ],
+    [
+     "2023-08",
+     1656
+    ],
+    [
+     "2023-09",
+     1654
+    ],
+    [
+     "2023-10",
+     1691
+    ],
+    [
+     "2023-11",
+     1904
+    ],
+    [
+     "2023-12",
+     2005
+    ],
+    [
+     "2024-01",
+     2652
+    ],
+    [
+     "2024-02",
+     2569
+    ],
+    [
+     "2024-03",
+     2424
+    ],
+    [
+     "2024-04",
+     2343
+    ],
+    [
+     "2024-05",
+     1600
+    ],
+    [
+     "2024-06",
+     1183
+    ],
+    [
+     "2024-07",
+     1333
+    ],
+    [
+     "2024-08",
+     1235
+    ],
+    [
+     "2024-09",
+     1240
+    ],
+    [
+     "2024-10",
+     1367
+    ],
+    [
+     "2024-11",
+     902
+    ],
+    [
+     "2024-12",
+     847
+    ],
+    [
+     "2025-01",
+     972
+    ],
+    [
+     "2025-02",
+     1152
+    ],
+    [
+     "2025-03",
+     1414
+    ],
+    [
+     "2025-04",
+     822
+    ],
+    [
+     "2025-05",
+     912
+    ],
+    [
+     "2025-06",
+     860
+    ],
+    [
+     "2025-07",
+     599
+    ],
+    [
+     "2025-08",
+     534
+    ],
+    [
+     "2025-09",
+     318
+    ],
+    [
+     "2025-10",
+     119
+    ],
+    [
+     "2025-11",
+     29547
+    ],
+    [
+     "2025-12",
+     1989
+    ],
+    [
+     "2026-01",
+     126
+    ],
+    [
+     "2026-02",
+     86
+    ],
+    [
+     "2026-03",
+     0
+    ],
+    [
+     "2026-04",
+     0
+    ],
+    [
+     "2026-05",
+     0
+    ],
+    [
+     "2026-06",
+     0
+    ],
+    [
+     "2026-07",
+     0
+    ],
+    [
+     "2026-08",
+     0
+    ],
+    [
+     "2026-09",
+     5
+    ],
+    [
+     "2026-10",
+     10
+    ],
+    [
+     "2026-11",
+     8
+    ]
+   ],
+   "top_keywords": [
+    [
+     "yai's thai",
+     4,
+     8
+    ],
+    [
+     "yais thai",
+     3,
+     5
+    ],
+    [
+     "yai's thai chili garlic hot sauce",
+     2,
+     2
+    ],
+    [
+     "yais",
+     6,
+     0
+    ],
+    [
+     "yai's thai recipes",
+     1,
+     0
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [
+    "yai's thai",
+    "yais thai",
+    "yai's thai chili garlic hot sauce",
+    "yai's thai recipes"
+   ],
+   "brand_checked": true,
+   "first_seen": "20141218",
+   "last_active": "20231128",
+   "titles": [
+    [
+     "20260711",
+     ""
+    ],
+    [
+     "20260615",
+     ""
+    ],
+    [
+     "20231128",
+     "Yai&#39;s Thai"
+    ],
+    [
+     "20220506",
+     "Yai&#39;s Thai"
+    ],
+    [
+     "20190919",
+     "Yai&#39;s Thai"
+    ],
+    [
+     "20150214",
+     "Yai's Thai"
+    ]
+   ],
+   "gambling_wayback": [],
+   "ext_redirects": {},
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [],
+   "verdict": "pass"
+  },
+  {
+   "domain": "thedraycott.com",
+   "link": "https://www.godaddy.com/domain-auctions/thedraycott-com-735796173?isc=json_expiring",
+   "price": 1.0,
+   "bids": 0,
+   "end_time": "2026-11-08T19:33:00Z",
+   "age": 9,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "done",
+   "dr": 28.0,
+   "refdomains": 1123,
+   "quality_count": 33,
+   "quality_top": [
+    [
+     "globo.com",
+     91.0,
+     249799024
+    ],
+    [
+     "people.com",
+     91.0,
+     14086807
+    ],
+    [
+     "forbes.com",
+     94.0,
+     12334174
+    ],
+    [
+     "opentable.com",
+     92.0,
+     3237184
+    ],
+    [
+     "today.com",
+     90.0,
+     3186258
+    ],
+    [
+     "latimes.com",
+     92.0,
+     2810297
+    ],
+    [
+     "timeout.com",
+     90.0,
+     1367296
+    ],
+    [
+     "bravotv.com",
+     80.0,
+     857067
+    ],
+    [
+     "theinfatuation.com",
+     82.0,
+     594812
+    ],
+    [
+     "happycow.net",
+     79.0,
+     216347
+    ],
+    [
+     "discoverlosangeles.com",
+     77.0,
+     149311
+    ],
+    [
+     "woodencork.com",
+     70.0,
+     140415
+    ],
+    [
+     "robbreport.com",
+     85.0,
+     137866
+    ],
+    [
+     "leadiq.com",
+     72.0,
+     132890
+    ],
+    [
+     "foxla.com",
+     78.0,
+     130404
+    ],
+    [
+     "stylist.co.uk",
+     81.0,
+     119044
+    ],
+    [
+     "hoodline.com",
+     79.0,
+     117673
+    ],
+    [
+     "laweekly.com",
+     84.0,
+     84043
+    ],
+    [
+     "revistaad.es",
+     77.0,
+     76371
+    ],
+    [
+     "menuweb.menu",
+     49.0,
+     64299
+    ],
+    [
+     "lamag.com",
+     81.0,
+     61999
+    ],
+    [
+     "laist.com",
+     83.0,
+     56328
+    ],
+    [
+     "tinybeans.com",
+     74.0,
+     48108
+    ],
+    [
+     "modernluxury.com",
+     85.0,
+     44857
+    ],
+    [
+     "perelelhealth.com",
+     54.0,
+     39706
+    ]
+   ],
+   "edu_wiki": [],
+   "peak_traffic": 626,
+   "peak_date": "2023-05-01",
+   "traffic_history": [
+    [
+     "2021-12",
+     495
+    ],
+    [
+     "2022-01",
+     403
+    ],
+    [
+     "2022-02",
+     366
+    ],
+    [
+     "2022-03",
+     318
+    ],
+    [
+     "2022-04",
+     316
+    ],
+    [
+     "2022-05",
+     280
+    ],
+    [
+     "2022-06",
+     335
+    ],
+    [
+     "2022-07",
+     363
+    ],
+    [
+     "2022-08",
+     324
+    ],
+    [
+     "2022-09",
+     295
+    ],
+    [
+     "2022-10",
+     295
+    ],
+    [
+     "2022-11",
+     259
+    ],
+    [
+     "2022-12",
+     302
+    ],
+    [
+     "2023-01",
+     413
+    ],
+    [
+     "2023-02",
+     378
+    ],
+    [
+     "2023-03",
+     343
+    ],
+    [
+     "2023-04",
+     506
+    ],
+    [
+     "2023-05",
+     626
+    ],
+    [
+     "2023-06",
+     491
+    ],
+    [
+     "2023-07",
+     395
+    ],
+    [
+     "2023-08",
+     289
+    ],
+    [
+     "2023-09",
+     314
+    ],
+    [
+     "2023-10",
+     292
+    ],
+    [
+     "2023-11",
+     364
+    ],
+    [
+     "2023-12",
+     461
+    ],
+    [
+     "2024-01",
+     492
+    ],
+    [
+     "2024-02",
+     364
+    ],
+    [
+     "2024-03",
+     395
+    ],
+    [
+     "2024-04",
+     368
+    ],
+    [
+     "2024-05",
+     424
+    ],
+    [
+     "2024-06",
+     492
+    ],
+    [
+     "2024-07",
+     468
+    ],
+    [
+     "2024-08",
+     354
+    ],
+    [
+     "2024-09",
+     273
+    ],
+    [
+     "2024-10",
+     300
+    ],
+    [
+     "2024-11",
+     282
+    ],
+    [
+     "2024-12",
+     369
+    ],
+    [
+     "2025-01",
+     476
+    ],
+    [
+     "2025-02",
+     39
+    ],
+    [
+     "2025-03",
+     5
+    ],
+    [
+     "2025-04",
+     6
+    ],
+    [
+     "2025-05",
+     4
+    ],
+    [
+     "2025-06",
+     0
+    ]
+   ],
+   "top_keywords": [
+    [
+     "the draycott",
+     1,
+     173
+    ],
+    [
+     "draycott",
+     1,
+     165
+    ],
+    [
+     "the draycott photos",
+     1,
+     100
+    ],
+    [
+     "draycott palisades",
+     1,
+     44
+    ],
+    [
+     "the draycott pacific palisades",
+     1,
+     8
+    ],
+    [
+     "palisades village restaurants",
+     8,
+     5
+    ],
+    [
+     "olivetta reservations",
+     11,
+     3
+    ],
+    [
+     "pacifique palisade",
+     4,
+     2
+    ],
+    [
+     "the draycott",
+     11,
+     2
+    ],
+    [
+     "the draycott",
+     4,
+     1
+    ],
+    [
+     "mango tree draycott",
+     19,
+     1
+    ],
+    [
+     "restaurants pacific palisades",
+     15,
+     1
+    ],
+    [
+     "pacific palisades restaurants",
+     24,
+     0
+    ],
+    [
+     "palisades hours",
+     24,
+     0
+    ],
+    [
+     "marissa hermer restaurants",
+     5,
+     0
+    ],
+    [
+     "boujis group",
+     10,
+     0
+    ],
+    [
+     "draycott",
+     3,
+     0
+    ],
+    [
+     "pacific palisades jobs",
+     21,
+     0
+    ],
+    [
+     "restaurants in pacific palisades",
+     21,
+     0
+    ],
+    [
+     "soeur rose georges 2016",
+     21,
+     0
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [
+    "the draycott",
+    "the draycott photos",
+    "the draycott pacific palisades"
+   ],
+   "brand_checked": true,
+   "first_seen": "20180805",
+   "last_active": "20260316",
+   "titles": [
+    [
+     "20260316",
+     "Redirect | BentoBox"
+    ],
+    [
+     "20251208",
+     "Redirect | BentoBox"
+    ],
+    [
+     "20240806",
+     "The Draycott | California-inspired family-friendly Brasserie in Pacific Palisades, CA"
+    ],
+    [
+     "20221004",
+     "The Draycott | California-inspired family-friendly Brasserie in Pacific Palisades, CA"
+    ],
+    [
+     "20210421",
+     "The Draycott | Restaurant"
+    ],
+    [
+     "20190104",
+     "The Draycott | Restaurant"
+    ]
+   ],
+   "gambling_wayback": [],
+   "ext_redirects": {},
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 28 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "relaxed"
+  },
+  {
+   "domain": "jelloow.com",
+   "link": "https://www.godaddy.com/domain-auctions/jelloow-com-733794778?isc=json_expiring",
+   "price": 1.0,
+   "bids": 0,
+   "end_time": "2026-11-03T20:31:00Z",
+   "age": 6,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "done",
+   "dr": 15.0,
+   "refdomains": 991,
+   "quality_count": 22,
+   "quality_top": [
+    [
+     "linktr.ee",
+     94.0,
+     7700772
+    ],
+    [
+     "rocketreach.co",
+     76.0,
+     4939950
+    ],
+    [
+     "crunchbase.com",
+     91.0,
+     2369072
+    ],
+    [
+     "g2.com",
+     91.0,
+     1119168
+    ],
+    [
+     "f6s.com",
+     83.0,
+     403134
+    ],
+    [
+     "mystrikingly.com",
+     89.0,
+     230577
+    ],
+    [
+     "goodfirms.co",
+     87.0,
+     176528
+    ],
+    [
+     "theorg.com",
+     76.0,
+     131529
+    ],
+    [
+     "beehiiv.com",
+     91.0,
+     114909
+    ],
+    [
+     "devpost.com",
+     88.0,
+     95922
+    ],
+    [
+     "docdroid.net",
+     81.0,
+     89090
+    ],
+    [
+     "provenexpert.com",
+     91.0,
+     70446
+    ],
+    [
+     "trustradius.com",
+     85.0,
+     68010
+    ],
+    [
+     "getmonero.org",
+     81.0,
+     46827
+    ],
+    [
+     "akta.pro",
+     49.0,
+     35910
+    ],
+    [
+     "sitelike.org",
+     64.0,
+     33621
+    ],
+    [
+     "coub.com",
+     75.0,
+     28408
+    ],
+    [
+     "saashub.com",
+     81.0,
+     22980
+    ],
+    [
+     "getlatka.com",
+     72.0,
+     15687
+    ],
+    [
+     "startupranking.com",
+     62.0,
+     13613
+    ],
+    [
+     "startupgrind.com",
+     77.0,
+     13091
+    ],
+    [
+     "goodpods.com",
+     81.0,
+     12373
+    ]
+   ],
+   "edu_wiki": [],
+   "peak_traffic": 156,
+   "peak_date": "2023-01-01",
+   "traffic_history": [
+    [
+     "2021-12",
+     0
+    ],
+    [
+     "2022-01",
+     0
+    ],
+    [
+     "2022-02",
+     5
+    ],
+    [
+     "2022-03",
+     17
+    ],
+    [
+     "2022-04",
+     22
+    ],
+    [
+     "2022-05",
+     27
+    ],
+    [
+     "2022-06",
+     25
+    ],
+    [
+     "2022-07",
+     37
+    ],
+    [
+     "2022-08",
+     62
+    ],
+    [
+     "2022-09",
+     67
+    ],
+    [
+     "2022-10",
+     77
+    ],
+    [
+     "2022-11",
+     102
+    ],
+    [
+     "2022-12",
+     139
+    ],
+    [
+     "2023-01",
+     156
+    ],
+    [
+     "2023-02",
+     140
+    ],
+    [
+     "2023-03",
+     99
+    ],
+    [
+     "2023-04",
+     79
+    ],
+    [
+     "2023-05",
+     81
+    ],
+    [
+     "2023-06",
+     95
+    ],
+    [
+     "2023-07",
+     150
+    ],
+    [
+     "2023-08",
+     139
+    ],
+    [
+     "2023-09",
+     155
+    ],
+    [
+     "2023-10",
+     116
+    ],
+    [
+     "2023-11",
+     107
+    ],
+    [
+     "2023-12",
+     110
+    ],
+    [
+     "2024-01",
+     99
+    ],
+    [
+     "2024-02",
+     75
+    ],
+    [
+     "2024-03",
+     59
+    ],
+    [
+     "2024-04",
+     42
+    ],
+    [
+     "2024-05",
+     26
+    ],
+    [
+     "2024-06",
+     17
+    ],
+    [
+     "2024-07",
+     7
+    ],
+    [
+     "2024-08",
+     3
+    ],
+    [
+     "2024-09",
+     10
+    ],
+    [
+     "2024-10",
+     22
+    ],
+    [
+     "2024-11",
+     2
+    ],
+    [
+     "2024-12",
+     3
+    ],
+    [
+     "2025-01",
+     5
+    ],
+    [
+     "2025-02",
+     2
+    ],
+    [
+     "2025-03",
+     2
+    ],
+    [
+     "2025-04",
+     3
+    ],
+    [
+     "2025-05",
+     10
+    ],
+    [
+     "2025-06",
+     10
+    ],
+    [
+     "2025-07",
+     11
+    ],
+    [
+     "2025-08",
+     25
+    ],
+    [
+     "2025-09",
+     7
+    ],
+    [
+     "2025-10",
+     10
+    ],
+    [
+     "2025-11",
+     24
+    ],
+    [
+     "2025-12",
+     26
+    ],
+    [
+     "2026-01",
+     44
+    ],
+    [
+     "2026-02",
+     22
+    ],
+    [
+     "2026-03",
+     13
+    ],
+    [
+     "2026-04",
+     7
+    ],
+    [
+     "2026-05",
+     2
+    ],
+    [
+     "2026-06",
+     2
+    ],
+    [
+     "2026-07",
+     2
+    ],
+    [
+     "2026-08",
+     3
+    ],
+    [
+     "2026-09",
+     5
+    ],
+    [
+     "2026-10",
+     13
+    ],
+    [
+     "2026-11",
+     11
+    ]
+   ],
+   "top_keywords": [
+    [
+     "digital marketing for contractors",
+     1,
+     66
+    ],
+    [
+     "jelloow",
+     1,
+     30
+    ],
+    [
+     "online marketing for contractors",
+     2,
+     22
+    ],
+    [
+     "internet marketing for contractors",
+     2,
+     21
+    ],
+    [
+     "contractor digital marketing",
+     4,
+     1
+    ],
+    [
+     "contractor digital marketing",
+     7,
+     1
+    ],
+    [
+     "website design sales pitch",
+     5,
+     1
+    ],
+    [
+     "marketing to contractors",
+     15,
+     1
+    ],
+    [
+     "best marketing for contractors",
+     20,
+     0
+    ],
+    [
+     "advertising for contractors",
+     19,
+     0
+    ],
+    [
+     "web design sales pitch",
+     5,
+     0
+    ],
+    [
+     "marketing for contractors",
+     24,
+     0
+    ],
+    [
+     "marketing for contractor",
+     17,
+     0
+    ],
+    [
+     "digital marketing vs social media marketing",
+     23,
+     0
+    ],
+    [
+     "digital marketing vs social media marketing",
+     20,
+     0
+    ],
+    [
+     "social media marketing vs digital marketing",
+     19,
+     0
+    ],
+    [
+     "vox pop questions",
+     14,
+     0
+    ],
+    [
+     "how to use linkedin to promote your business",
+     21,
+     0
+    ],
+    [
+     "digital marketing vs social media marketing",
+     20,
+     0
+    ],
+    [
+     "social media marketing vs digital marketing",
+     25,
+     0
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [
+    "jelloow"
+   ],
+   "brand_checked": true,
+   "first_seen": "20210717",
+   "last_active": "20260609",
+   "titles": [
+    [
+     "20260609",
+     "Jelloow | AI Data-Driven Marketing Insights tool"
+    ],
+    [
+     "20260521",
+     "Jelloow | AI Data-Driven Marketing Insights tool"
+    ],
+    [
+     "20250502",
+     ""
+    ],
+    [
+     "20240405",
+     ""
+    ],
+    [
+     "20210717",
+     "Find the best marketing services at a click | Jelloow"
+    ]
+   ],
+   "gambling_wayback": [],
+   "ext_redirects": {},
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 15 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "relaxed"
+  }
+ ],
  "wayback_retry": []
 }
