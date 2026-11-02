@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-02T03:26:39+00:00",
+ "scanned_at": "2026-11-02T14:21:16+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1300924,
  "results": [
@@ -15,132 +15,132 @@
    "stage": "done",
    "dr": 30.0,
    "refdomains": 1328,
-   "quality_count": 78,
+   "quality_count": 77,
    "quality_top": [
     [
      "forbes.com",
      94.0,
-     12334174
+     12617039
     ],
     [
      "linktr.ee",
      94.0,
-     7700772
+     6748519
     ],
     [
      "buzzfeed.com",
      91.0,
-     4086610
+     4089057
     ],
     [
      "myanimelist.net",
      83.0,
-     3648191
+     3709555
     ],
     [
      "17track.net",
      91.0,
-     3258862
+     3200804
     ],
     [
      "talkshoe.com",
      72.0,
-     3163604
+     2685571
     ],
     [
      "docker.com",
      92.0,
-     2403700
+     2448200
     ],
     [
      "crunchbase.com",
      91.0,
-     2369072
+     2421242
     ],
     [
      "habr.com",
      88.0,
-     1779164
+     1935337
     ],
     [
      "heylink.me",
      92.0,
-     1715743
+     1706480
     ],
     [
      "leetcode.com",
      88.0,
-     1494988
+     1282230
     ],
     [
      "gitlab.com",
      92.0,
-     936407
-    ],
-    [
-     "gravatar.com",
-     97.0,
-     563006
+     939507
     ],
     [
      "stjude.org",
      87.0,
-     546292
+     549936
     ],
     [
      "issuu.com",
      93.0,
-     515880
+     512963
     ],
     [
      "revenuebase.ai",
      51.0,
-     482678
+     488064
+    ],
+    [
+     "gravatar.com",
+     97.0,
+     483907
     ],
     [
      "mixcloud.com",
      91.0,
-     470367
+     475416
     ],
     [
      "sas.com",
      87.0,
-     389873
+     397073
     ],
     [
      "mashed.com",
      79.0,
-     350028
+     347542
     ],
     [
      "inc.com",
      91.0,
-     313446
+     294387
     ],
     [
      "about.me",
      90.0,
-     276523
+     266582
     ],
     [
      "ipb.ac.id",
      77.0,
-     248628
+     248557
     ],
     [
      "unand.ac.id",
      74.0,
-     221899
+     220894
     ],
     [
      "stck.me",
      73.0,
-     218280
+     199758
     ],
     [
      "spinninrecords.com",
      71.0,
-     199066
+     198820
     ]
    ],
    "edu_wiki": [
@@ -426,6 +426,9 @@
     "yai's thai recipes"
    ],
    "brand_checked": true,
+   "fails": [],
+   "warns": [],
+   "verdict": "pass",
    "first_seen": "20141218",
    "last_active": "20231128",
    "titles": [
@@ -456,10 +459,7 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [],
-   "verdict": "pass"
+   "wayback_checked": true
   },
   {
    "domain": "thedraycott.com",
@@ -478,127 +478,127 @@
     [
      "globo.com",
      91.0,
-     249799024
+     251045840
     ],
     [
      "people.com",
      91.0,
-     14086807
+     14195524
     ],
     [
      "forbes.com",
      94.0,
-     12334174
+     12617039
     ],
     [
      "opentable.com",
      92.0,
-     3237184
+     3277158
     ],
     [
      "today.com",
      90.0,
-     3186258
+     3204934
     ],
     [
      "latimes.com",
      92.0,
-     2810297
+     2872575
     ],
     [
      "timeout.com",
      90.0,
-     1367296
+     1367827
     ],
     [
      "bravotv.com",
      80.0,
-     857067
+     852529
     ],
     [
      "theinfatuation.com",
      82.0,
-     594812
+     605387
     ],
     [
      "happycow.net",
      79.0,
-     216347
+     221382
     ],
     [
      "discoverlosangeles.com",
      77.0,
-     149311
+     149872
     ],
     [
      "woodencork.com",
      70.0,
-     140415
+     139253
     ],
     [
      "robbreport.com",
      85.0,
-     137866
+     135924
     ],
     [
      "leadiq.com",
-     72.0,
-     132890
-    ],
-    [
-     "foxla.com",
-     78.0,
-     130404
+     71.0,
+     130820
     ],
     [
      "stylist.co.uk",
      81.0,
-     119044
+     122069
     ],
     [
-     "hoodline.com",
-     79.0,
-     117673
+     "foxla.com",
+     78.0,
+     118571
     ],
     [
      "laweekly.com",
      84.0,
-     84043
+     80253
     ],
     [
      "revistaad.es",
      77.0,
-     76371
+     74987
+    ],
+    [
+     "hoodline.com",
+     80.0,
+     74273
     ],
     [
      "menuweb.menu",
      49.0,
-     64299
+     63235
     ],
     [
      "lamag.com",
      81.0,
-     61999
+     61631
     ],
     [
      "laist.com",
      83.0,
-     56328
+     56266
     ],
     [
      "tinybeans.com",
      74.0,
-     48108
+     48431
     ],
     [
      "modernluxury.com",
      85.0,
-     44857
+     43499
     ],
     [
-     "perelelhealth.com",
-     54.0,
-     39706
+     "maisonette.com",
+     70.0,
+     41393
     ]
    ],
    "edu_wiki": [],

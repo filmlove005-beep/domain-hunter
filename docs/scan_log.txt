@@ -1,13 +1,15 @@
-2026-11-02 03:19:57 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-02 03:20:08 ได้รายการ expiring_auctions_non_adult: 1,300,924 โดเมน
-2026-11-02 03:20:09 รวมโดเมนจากทุกฟีด: 1,300,924 โดเมน (ไม่ซ้ำ)
-2026-11-02 03:20:11 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-02 03:20:11 ดึง DR จาก Ahrefs ...
-2026-11-02 03:20:11 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-11-02 03:20:11 เช็กเชิงลึก 5 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-02 03:20:35   taoinspiredliving.com: fail เคย Redirect ไป www.taomexico.com, taomexico.com
-2026-11-02 03:21:04   yaisthai.com: pass 
-2026-11-02 03:21:47   thedraycott.com: relaxed DR 28 (เกณฑ์ผ่อน)
-2026-11-02 03:23:44   andironsteak.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป andironsteak.getbento.com, boccalone.com
-2026-11-02 03:26:34   jelloow.com: relaxed DR 15 (เกณฑ์ผ่อน)
-2026-11-02 03:26:39 เสร็จแล้ว: ผ่านสะสม 3 โดเมน (รอบนี้พบใหม่ 3 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-02 14:10:06 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-02 14:10:17 ได้รายการ expiring_auctions_non_adult: 1,300,924 โดเมน
+2026-11-02 14:10:17 รวมโดเมนจากทุกฟีด: 1,300,924 โดเมน (ไม่ซ้ำ)
+2026-11-02 14:10:19 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-02 14:10:19 ดึง DR จาก Ahrefs ...
+2026-11-02 14:10:19 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-11-02 14:10:19 เช็กเชิงลึก 5 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-02 14:10:54   taoinspiredliving.com: fail เคย Redirect ไป www.taomexico.com, taomexico.com
+2026-11-02 14:12:26   yaisthai.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-11-02 14:13:45   thedraycott.com: relaxed DR 28 (เกณฑ์ผ่อน)
+2026-11-02 14:15:46   andironsteak.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป andironsteak.getbento.com
+2026-11-02 14:16:53   jelloow.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-02 14:16:58 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
+2026-11-02 14:21:06   yaisthai.com: pass 
+2026-11-02 14:21:16 เสร็จแล้ว: ผ่านสะสม 3 โดเมน (รอบนี้พบใหม่ 2 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
