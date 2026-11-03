@@ -1,19 +1,16 @@
-2026-11-03 00:11:19 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-03 00:11:31 ได้รายการ expiring_auctions_non_adult: 1,290,666 โดเมน
-2026-11-03 00:11:32 รวมโดเมนจากทุกฟีด: 1,290,666 โดเมน (ไม่ซ้ำ)
-2026-11-03 00:11:33 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-03 00:11:33 ดึง DR จาก Ahrefs ...
-2026-11-03 00:11:34 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-11-03 00:11:34 เช็กเชิงลึก 8 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-03 00:12:28   taoinspiredliving.com: fail เคย Redirect ไป www.taomexico.com, taomexico.com
-2026-11-03 00:14:11   yaisthai.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-11-03 00:14:37   thedraycott.com: relaxed DR 28 (เกณฑ์ผ่อน)
-2026-11-03 00:15:21   andironsteak.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป andironsteak.getbento.com, boccalone.com
-2026-11-03 00:15:46   jelloow.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-03 00:16:20   socially-app.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-03 00:18:00   letthesunshinerun.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-11-03 00:18:36   mercadoveiculos.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.negociarveiculos.com
-2026-11-03 00:18:41 รอ Wayback 2 นาที แล้วลองใหม่ 2 โดเมน ...
-2026-11-03 00:21:18   yaisthai.com: pass 
-2026-11-03 00:24:01   letthesunshinerun.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-03 00:24:11 เสร็จแล้ว: ผ่านสะสม 4 โดเมน (รอบนี้พบใหม่ 3 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-03 13:14:33 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-03 13:14:47 ได้รายการ expiring_auctions_non_adult: 1,290,666 โดเมน
+2026-11-03 13:14:47 รวมโดเมนจากทุกฟีด: 1,290,666 โดเมน (ไม่ซ้ำ)
+2026-11-03 13:14:49 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-03 13:14:49 ดึง DR จาก Ahrefs ...
+2026-11-03 13:14:50 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-11-03 13:14:50 เช็กเชิงลึก 8 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-03 13:15:13   taoinspiredliving.com: fail เคย Redirect ไป www.taomexico.com, taomexico.com
+2026-11-03 13:17:47   yaisthai.com: pass 
+2026-11-03 13:20:14   thedraycott.com: relaxed DR 28 (เกณฑ์ผ่อน)
+2026-11-03 13:20:34   andironsteak.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป andironsteak.getbento.com, boccalone.com
+2026-11-03 13:21:15   jelloow.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-03 13:23:09   socially-app.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-03 13:25:36   letthesunshinerun.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-03 13:26:04   mercadoveiculos.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.negociarveiculos.com
+2026-11-03 13:26:09 เสร็จแล้ว: ผ่านสะสม 4 โดเมน (รอบนี้พบใหม่ 3 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน

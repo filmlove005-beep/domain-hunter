@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-03T00:24:11+00:00",
+ "scanned_at": "2026-11-03T13:26:09+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1290666,
  "results": [
@@ -426,18 +426,11 @@
     "yai's thai recipes"
    ],
    "brand_checked": true,
-   "fails": [],
-   "warns": [],
-   "verdict": "pass",
    "first_seen": "20141218",
    "last_active": "20231128",
    "titles": [
     [
      "20260711",
-     ""
-    ],
-    [
-     "20260615",
      ""
     ],
     [
@@ -459,7 +452,10 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [],
+   "verdict": "pass"
   },
   {
    "domain": "thedraycott.com",
@@ -903,10 +899,6 @@
      "The Draycott | California-inspired family-friendly Brasserie in Pacific Palisades, CA"
     ],
     [
-     "20221004",
-     "The Draycott | California-inspired family-friendly Brasserie in Pacific Palisades, CA"
-    ],
-    [
      "20210421",
      "The Draycott | Restaurant"
     ],
@@ -1209,13 +1201,6 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 20 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20130410",
    "last_active": "20260421",
    "titles": [
@@ -1236,17 +1221,20 @@
      "Let the Sun Shine Run"
     ],
     [
-     "20190707",
-     "Let the Sun Shine Run"
-    ],
-    [
      "20130410",
      "Home"
     ]
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 20 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "jelloow.com",
