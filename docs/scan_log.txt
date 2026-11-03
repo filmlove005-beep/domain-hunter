@@ -1,15 +1,19 @@
-2026-11-02 14:10:06 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-02 14:10:17 ได้รายการ expiring_auctions_non_adult: 1,300,924 โดเมน
-2026-11-02 14:10:17 รวมโดเมนจากทุกฟีด: 1,300,924 โดเมน (ไม่ซ้ำ)
-2026-11-02 14:10:19 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-02 14:10:19 ดึง DR จาก Ahrefs ...
-2026-11-02 14:10:19 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-11-02 14:10:19 เช็กเชิงลึก 5 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-02 14:10:54   taoinspiredliving.com: fail เคย Redirect ไป www.taomexico.com, taomexico.com
-2026-11-02 14:12:26   yaisthai.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-11-02 14:13:45   thedraycott.com: relaxed DR 28 (เกณฑ์ผ่อน)
-2026-11-02 14:15:46   andironsteak.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป andironsteak.getbento.com
-2026-11-02 14:16:53   jelloow.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-02 14:16:58 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
-2026-11-02 14:21:06   yaisthai.com: pass 
-2026-11-02 14:21:16 เสร็จแล้ว: ผ่านสะสม 3 โดเมน (รอบนี้พบใหม่ 2 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-03 00:11:19 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-03 00:11:31 ได้รายการ expiring_auctions_non_adult: 1,290,666 โดเมน
+2026-11-03 00:11:32 รวมโดเมนจากทุกฟีด: 1,290,666 โดเมน (ไม่ซ้ำ)
+2026-11-03 00:11:33 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-03 00:11:33 ดึง DR จาก Ahrefs ...
+2026-11-03 00:11:34 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-11-03 00:11:34 เช็กเชิงลึก 8 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-03 00:12:28   taoinspiredliving.com: fail เคย Redirect ไป www.taomexico.com, taomexico.com
+2026-11-03 00:14:11   yaisthai.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-11-03 00:14:37   thedraycott.com: relaxed DR 28 (เกณฑ์ผ่อน)
+2026-11-03 00:15:21   andironsteak.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป andironsteak.getbento.com, boccalone.com
+2026-11-03 00:15:46   jelloow.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-03 00:16:20   socially-app.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-03 00:18:00   letthesunshinerun.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-11-03 00:18:36   mercadoveiculos.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.negociarveiculos.com
+2026-11-03 00:18:41 รอ Wayback 2 นาที แล้วลองใหม่ 2 โดเมน ...
+2026-11-03 00:21:18   yaisthai.com: pass 
+2026-11-03 00:24:01   letthesunshinerun.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-03 00:24:11 เสร็จแล้ว: ผ่านสะสม 4 โดเมน (รอบนี้พบใหม่ 3 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
