@@ -1,17 +1,17 @@
-2026-11-04 03:52:29 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-04 03:52:45 ได้รายการ expiring_auctions_non_adult: 1,321,441 โดเมน
-2026-11-04 03:52:46 รวมโดเมนจากทุกฟีด: 1,321,441 โดเมน (ไม่ซ้ำ)
-2026-11-04 03:52:48 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-04 03:52:48 ดึง DR จาก Ahrefs ...
-2026-11-04 03:52:48 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-11-04 03:52:48 เช็กเชิงลึก 9 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-04 03:53:10   taoinspiredliving.com: fail เคย Redirect ไป www.taomexico.com, taomexico.com
-2026-11-04 03:55:16   yaisthai.com: pass 
-2026-11-04 03:57:19   thedraycott.com: relaxed DR 28 (เกณฑ์ผ่อน)
-2026-11-04 03:57:37   izakaya-rishiri.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-04 03:58:40   andironsteak.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป andironsteak.getbento.com, boccalone.com
-2026-11-04 03:59:23   jelloow.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-04 03:59:44   socially-app.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-04 04:01:16   letthesunshinerun.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-04 04:02:30   mercadoveiculos.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.negociarveiculos.com
-2026-11-04 04:02:35 เสร็จแล้ว: ผ่านสะสม 3 โดเมน (รอบนี้พบใหม่ 3 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-04 13:27:42 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-04 13:27:53 ได้รายการ expiring_auctions_non_adult: 1,321,441 โดเมน
+2026-11-04 13:27:53 รวมโดเมนจากทุกฟีด: 1,321,441 โดเมน (ไม่ซ้ำ)
+2026-11-04 13:27:54 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-04 13:27:54 ดึง DR จาก Ahrefs ...
+2026-11-04 13:27:55 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-11-04 13:27:55 เช็กเชิงลึก 9 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-04 13:28:24   taoinspiredliving.com: fail เคย Redirect ไป www.taomexico.com, taomexico.com
+2026-11-04 13:28:58   yaisthai.com: pass 
+2026-11-04 13:29:21   thedraycott.com: relaxed DR 28 (เกณฑ์ผ่อน)
+2026-11-04 13:29:44   izakaya-rishiri.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-04 13:30:11   andironsteak.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป andironsteak.getbento.com, boccalone.com
+2026-11-04 13:30:34   jelloow.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-04 13:31:06   socially-app.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-04 13:31:35   letthesunshinerun.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-04 13:32:06   mercadoveiculos.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.negociarveiculos.com
+2026-11-04 13:32:11 เสร็จแล้ว: ผ่านสะสม 3 โดเมน (รอบนี้พบใหม่ 3 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน

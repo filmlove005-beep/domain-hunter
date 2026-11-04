@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-04T04:02:35+00:00",
+ "scanned_at": "2026-11-04T13:32:11+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1321441,
  "results": [
@@ -15,132 +15,132 @@
    "stage": "done",
    "dr": 30.0,
    "refdomains": 1321,
-   "quality_count": 75,
+   "quality_count": 73,
    "quality_top": [
     [
      "forbes.com",
      94.0,
-     12617039
+     13341120
     ],
     [
      "linktr.ee",
      94.0,
-     6748519
+     6537068
     ],
     [
      "buzzfeed.com",
      91.0,
-     4089057
+     4022709
     ],
     [
      "myanimelist.net",
      83.0,
-     3709555
+     3695381
     ],
     [
      "17track.net",
      91.0,
-     3200804
+     3402691
     ],
     [
      "talkshoe.com",
      72.0,
-     2685571
+     2606516
     ],
     [
      "docker.com",
      92.0,
-     2448200
+     2465239
     ],
     [
      "crunchbase.com",
      91.0,
-     2421242
+     2261995
     ],
     [
      "habr.com",
      88.0,
-     1935337
+     1888180
     ],
     [
      "heylink.me",
      92.0,
-     1706480
+     1594926
     ],
     [
      "leetcode.com",
      88.0,
-     1282230
+     1283486
     ],
     [
      "gitlab.com",
      92.0,
-     939507
+     882299
     ],
     [
      "stjude.org",
      87.0,
-     549936
+     541549
     ],
     [
      "issuu.com",
      93.0,
-     512963
-    ],
-    [
-     "gravatar.com",
-     97.0,
-     483907
+     498913
     ],
     [
      "mixcloud.com",
      91.0,
-     475416
+     490505
+    ],
+    [
+     "gravatar.com",
+     97.0,
+     482509
     ],
     [
      "sas.com",
      87.0,
-     397073
+     413538
     ],
     [
      "mashed.com",
      79.0,
-     347542
+     339663
     ],
     [
      "inc.com",
      91.0,
-     294387
+     284547
     ],
     [
      "about.me",
      90.0,
-     266582
+     269025
     ],
     [
      "ipb.ac.id",
      77.0,
-     248557
+     240245
     ],
     [
      "unand.ac.id",
      74.0,
-     220894
-    ],
-    [
-     "stck.me",
-     73.0,
-     199758
+     228779
     ],
     [
      "spinninrecords.com",
      71.0,
-     198820
+     178066
     ],
     [
      "stickpng.com",
      57.0,
-     157111
+     157251
+    ],
+    [
+     "stck.me",
+     73.0,
+     147711
     ]
    ],
    "edu_wiki": [
@@ -442,6 +442,10 @@
      "Yai&#39;s Thai"
     ],
     [
+     "20220506",
+     "Yai&#39;s Thai"
+    ],
+    [
      "20190919",
      "Yai&#39;s Thai"
     ],
@@ -474,127 +478,127 @@
     [
      "globo.com",
      91.0,
-     251045840
+     248836592
     ],
     [
      "people.com",
      91.0,
-     14195524
+     14048655
     ],
     [
      "forbes.com",
      94.0,
-     12617039
+     13341120
     ],
     [
      "opentable.com",
      92.0,
-     3277158
-    ],
-    [
-     "today.com",
-     90.0,
-     3204934
+     3412190
     ],
     [
      "latimes.com",
      92.0,
-     2872575
+     2942552
+    ],
+    [
+     "today.com",
+     90.0,
+     2934112
     ],
     [
      "timeout.com",
      90.0,
-     1367827
+     1290744
     ],
     [
      "bravotv.com",
      80.0,
-     852529
+     855786
     ],
     [
      "theinfatuation.com",
      82.0,
-     605387
+     601193
     ],
     [
      "happycow.net",
      79.0,
-     221382
+     223704
     ],
     [
      "discoverlosangeles.com",
      77.0,
-     149872
+     148172
     ],
     [
      "woodencork.com",
      70.0,
-     139253
+     143090
     ],
     [
      "robbreport.com",
      85.0,
-     135924
-    ],
-    [
-     "leadiq.com",
-     71.0,
-     130820
-    ],
-    [
-     "stylist.co.uk",
-     81.0,
-     122069
+     134113
     ],
     [
      "foxla.com",
      78.0,
-     118571
+     122364
+    ],
+    [
+     "leadiq.com",
+     71.0,
+     121178
+    ],
+    [
+     "stylist.co.uk",
+     81.0,
+     109966
     ],
     [
      "laweekly.com",
      84.0,
-     80253
+     76534
     ],
     [
      "revistaad.es",
      77.0,
-     74987
-    ],
-    [
-     "hoodline.com",
-     80.0,
-     74273
-    ],
-    [
-     "menuweb.menu",
-     48.0,
-     63235
+     74384
     ],
     [
      "lamag.com",
      81.0,
-     61631
+     61041
+    ],
+    [
+     "menuweb.menu",
+     48.0,
+     60742
     ],
     [
      "laist.com",
      83.0,
-     56266
+     54577
     ],
     [
-     "tinybeans.com",
-     74.0,
-     48431
+     "perelelhealth.com",
+     54.0,
+     50969
+    ],
+    [
+     "hoodline.com",
+     80.0,
+     48185
     ],
     [
      "modernluxury.com",
      85.0,
-     43499
+     43055
     ],
     [
      "maisonette.com",
      70.0,
-     41393
+     41847
     ]
    ],
    "edu_wiki": [],
@@ -903,6 +907,10 @@
      "The Draycott | California-inspired family-friendly Brasserie in Pacific Palisades, CA"
     ],
     [
+     "20210421",
+     "The Draycott | Restaurant"
+    ],
+    [
      "20190104",
      "The Draycott | Restaurant"
     ]
@@ -933,17 +941,17 @@
     [
      "owler.com",
      73.0,
-     39563
+     37097
     ],
     [
      "bbrfoundation.org",
      75.0,
-     19417
+     20078
     ],
     [
      "wjon.com",
      63.0,
-     18881
+     17620
     ]
    ],
    "edu_wiki": [],
