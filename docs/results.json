@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-03T22:56:13+00:00",
+ "scanned_at": "2026-11-04T04:02:35+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1321441,
  "results": [
@@ -14,7 +14,7 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 30.0,
-   "refdomains": 1327,
+   "refdomains": 1321,
    "quality_count": 75,
    "quality_top": [
     [
@@ -430,15 +430,15 @@
    "last_active": "20231128",
    "titles": [
     [
+     "20260711",
+     ""
+    ],
+    [
      "20260615",
      ""
     ],
     [
      "20231128",
-     "Yai&#39;s Thai"
-    ],
-    [
-     "20220506",
      "Yai&#39;s Thai"
     ],
     [
@@ -1214,6 +1214,10 @@
     ],
     [
      "20250317",
+     "Let the Sun Shine Run"
+    ],
+    [
+     "20210419",
      "Let the Sun Shine Run"
     ],
     [
