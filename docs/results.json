@@ -1,7 +1,7 @@
 {
- "scanned_at": "2026-11-04T13:32:11+00:00",
+ "scanned_at": "2026-11-04T23:13:11+00:00",
  "feed": "expiring_auctions_non_adult",
- "feed_total": 1321441,
+ "feed_total": 1261511,
  "results": [
   {
    "domain": "yaisthai.com",
@@ -34,7 +34,7 @@
     ],
     [
      "myanimelist.net",
-     83.0,
+     84.0,
      3695381
     ],
     [
@@ -44,7 +44,7 @@
     ],
     [
      "talkshoe.com",
-     72.0,
+     73.0,
      2606516
     ],
     [
@@ -429,14 +429,6 @@
    "first_seen": "20141218",
    "last_active": "20231128",
    "titles": [
-    [
-     "20260711",
-     ""
-    ],
-    [
-     "20260615",
-     ""
-    ],
     [
      "20231128",
      "Yai&#39;s Thai"
@@ -907,10 +899,6 @@
      "The Draycott | California-inspired family-friendly Brasserie in Pacific Palisades, CA"
     ],
     [
-     "20210421",
-     "The Draycott | Restaurant"
-    ],
-    [
      "20190104",
      "The Draycott | Restaurant"
     ]
@@ -921,6 +909,468 @@
    "fails": [],
    "warns": [
     "DR 28 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "relaxed"
+  },
+  {
+   "domain": "proforcesp.com",
+   "link": "https://www.godaddy.com/domain-auctions/proforcesp-com-735872573?isc=json_expiring",
+   "price": 1.0,
+   "bids": 0,
+   "end_time": "2026-11-12T20:57:00Z",
+   "age": 12,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "done",
+   "dr": 23.0,
+   "refdomains": 1036,
+   "quality_count": 13,
+   "quality_top": [
+    [
+     "apple.com",
+     97.0,
+     419862848
+    ],
+    [
+     "appbrain.com",
+     76.0,
+     3862666
+    ],
+    [
+     "squarespace.com",
+     96.0,
+     3311049
+    ],
+    [
+     "fresha.com",
+     91.0,
+     2480111
+    ],
+    [
+     "wellhub.com",
+     76.0,
+     1020471
+    ],
+    [
+     "birdeye.com",
+     86.0,
+     940190
+    ],
+    [
+     "atly.com",
+     57.0,
+     162357
+    ],
+    [
+     "contactout.com",
+     74.0,
+     144178
+    ],
+    [
+     "acast.com",
+     90.0,
+     141385
+    ],
+    [
+     "leadiq.com",
+     71.0,
+     121178
+    ],
+    [
+     "siteprice.org",
+     71.0,
+     36736
+    ],
+    [
+     "sitelike.org",
+     64.0,
+     32357
+    ],
+    [
+     "cycloneshockey.com",
+     46.0,
+     14872
+    ]
+   ],
+   "edu_wiki": [],
+   "peak_traffic": 244,
+   "peak_date": "2022-01-01",
+   "traffic_history": [
+    [
+     "2021-12",
+     128
+    ],
+    [
+     "2022-01",
+     244
+    ],
+    [
+     "2022-02",
+     139
+    ],
+    [
+     "2022-03",
+     209
+    ],
+    [
+     "2022-04",
+     141
+    ],
+    [
+     "2022-05",
+     118
+    ],
+    [
+     "2022-06",
+     92
+    ],
+    [
+     "2022-07",
+     113
+    ],
+    [
+     "2022-08",
+     105
+    ],
+    [
+     "2022-09",
+     106
+    ],
+    [
+     "2022-10",
+     100
+    ],
+    [
+     "2022-11",
+     87
+    ],
+    [
+     "2022-12",
+     77
+    ],
+    [
+     "2023-01",
+     102
+    ],
+    [
+     "2023-02",
+     114
+    ],
+    [
+     "2023-03",
+     90
+    ],
+    [
+     "2023-04",
+     81
+    ],
+    [
+     "2023-05",
+     126
+    ],
+    [
+     "2023-06",
+     122
+    ],
+    [
+     "2023-07",
+     131
+    ],
+    [
+     "2023-08",
+     118
+    ],
+    [
+     "2023-09",
+     121
+    ],
+    [
+     "2023-10",
+     168
+    ],
+    [
+     "2023-11",
+     175
+    ],
+    [
+     "2023-12",
+     153
+    ],
+    [
+     "2024-01",
+     117
+    ],
+    [
+     "2024-02",
+     125
+    ],
+    [
+     "2024-03",
+     140
+    ],
+    [
+     "2024-04",
+     86
+    ],
+    [
+     "2024-05",
+     82
+    ],
+    [
+     "2024-06",
+     102
+    ],
+    [
+     "2024-07",
+     81
+    ],
+    [
+     "2024-08",
+     54
+    ],
+    [
+     "2024-09",
+     67
+    ],
+    [
+     "2024-10",
+     84
+    ],
+    [
+     "2024-11",
+     51
+    ],
+    [
+     "2024-12",
+     39
+    ],
+    [
+     "2025-01",
+     90
+    ],
+    [
+     "2025-02",
+     96
+    ],
+    [
+     "2025-03",
+     81
+    ],
+    [
+     "2025-04",
+     69
+    ],
+    [
+     "2025-05",
+     82
+    ],
+    [
+     "2025-06",
+     53
+    ],
+    [
+     "2025-07",
+     66
+    ],
+    [
+     "2025-08",
+     60
+    ],
+    [
+     "2025-09",
+     63
+    ],
+    [
+     "2025-10",
+     41
+    ],
+    [
+     "2025-11",
+     23
+    ],
+    [
+     "2025-12",
+     9
+    ],
+    [
+     "2026-01",
+     6
+    ],
+    [
+     "2026-02",
+     3
+    ],
+    [
+     "2026-03",
+     13
+    ],
+    [
+     "2026-04",
+     15
+    ],
+    [
+     "2026-05",
+     14
+    ],
+    [
+     "2026-06",
+     6
+    ],
+    [
+     "2026-07",
+     0
+    ],
+    [
+     "2026-08",
+     0
+    ],
+    [
+     "2026-09",
+     0
+    ]
+   ],
+   "top_keywords": [
+    [
+     "proforce",
+     3,
+     77
+    ],
+    [
+     "sports performance",
+     9,
+     15
+    ],
+    [
+     "sports performance near me",
+     5,
+     12
+    ],
+    [
+     "sports performance jobs",
+     6,
+     8
+    ],
+    [
+     "sports performance training near me",
+     11,
+     6
+    ],
+    [
+     "baseball biceps",
+     5,
+     5
+    ],
+    [
+     "sports performance internships",
+     2,
+     5
+    ],
+    [
+     "proforce sports performance",
+     1,
+     4
+    ],
+    [
+     "youth sports training near me",
+     13,
+     3
+    ],
+    [
+     "rgb basketball academy",
+     4,
+     3
+    ],
+    [
+     "sport performance training",
+     12,
+     2
+    ],
+    [
+     "sports performance jobs near me",
+     6,
+     2
+    ],
+    [
+     "pro sports performance",
+     7,
+     2
+    ],
+    [
+     "ronnie grandison",
+     9,
+     2
+    ],
+    [
+     "sports performance",
+     9,
+     1
+    ],
+    [
+     "sport performance training near me",
+     13,
+     1
+    ],
+    [
+     "rgb basketball",
+     12,
+     1
+    ],
+    [
+     "baseball bicep",
+     5,
+     1
+    ],
+    [
+     "proforce athletics",
+     2,
+     1
+    ],
+    [
+     "pro performance athletics",
+     11,
+     1
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [
+    "proforce sports performance"
+   ],
+   "brand_checked": true,
+   "first_seen": "20141030",
+   "last_active": "20251013",
+   "titles": [
+    [
+     "20251013",
+     "ProForce | We build dominate athletes"
+    ],
+    [
+     "20250428",
+     ""
+    ],
+    [
+     "20210717",
+     "ProForce Sports Performance"
+    ],
+    [
+     "20190613",
+     "ProForce Sports Performance"
+    ],
+    [
+     "20180303",
+     "ProForce Sports Performance"
+    ],
+    [
+     "20141030",
+     "ProForce Sports Performance"
+    ]
+   ],
+   "gambling_wayback": [],
+   "ext_redirects": {},
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 23 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 13 (เกณฑ์ผ่อน)"
    ],
    "verdict": "relaxed"
   },
@@ -950,7 +1400,7 @@
     ],
     [
      "wjon.com",
-     63.0,
+     62.0,
      17620
     ]
    ],
@@ -1209,6 +1659,13 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 20 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed",
    "first_seen": "20130410",
    "last_active": "20260421",
    "titles": [
@@ -1239,14 +1696,7 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 20 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed"
+   "wayback_checked": true
   }
  ],
  "wayback_retry": []
