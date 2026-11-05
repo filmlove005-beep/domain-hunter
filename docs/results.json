@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-04T23:13:11+00:00",
+ "scanned_at": "2026-11-05T04:30:16+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1261511,
  "results": [
@@ -426,9 +426,20 @@
     "yai's thai recipes"
    ],
    "brand_checked": true,
+   "fails": [],
+   "warns": [],
+   "verdict": "pass",
    "first_seen": "20141218",
    "last_active": "20231128",
    "titles": [
+    [
+     "20260711",
+     ""
+    ],
+    [
+     "20260615",
+     ""
+    ],
     [
      "20231128",
      "Yai&#39;s Thai"
@@ -448,10 +459,7 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [],
-   "verdict": "pass"
+   "wayback_checked": true
   },
   {
    "domain": "thedraycott.com",
@@ -879,6 +887,11 @@
     "the draycott pacific palisades"
    ],
    "brand_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 28 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "relaxed",
    "first_seen": "20180805",
    "last_active": "20260316",
    "titles": [
@@ -899,18 +912,17 @@
      "The Draycott | California-inspired family-friendly Brasserie in Pacific Palisades, CA"
     ],
     [
+     "20210421",
+     "The Draycott | Restaurant"
+    ],
+    [
      "20190104",
      "The Draycott | Restaurant"
     ]
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 28 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "relaxed"
+   "wayback_checked": true
   },
   {
    "domain": "proforcesp.com",
@@ -923,7 +935,7 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 23.0,
-   "refdomains": 1036,
+   "refdomains": 1037,
    "quality_count": 13,
    "quality_top": [
     [
@@ -1336,6 +1348,12 @@
     "proforce sports performance"
    ],
    "brand_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 23 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 13 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "relaxed",
    "first_seen": "20141030",
    "last_active": "20251013",
    "titles": [
@@ -1356,23 +1374,13 @@
      "ProForce Sports Performance"
     ],
     [
-     "20180303",
-     "ProForce Sports Performance"
-    ],
-    [
      "20141030",
      "ProForce Sports Performance"
     ]
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 23 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 13 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "relaxed"
+   "wayback_checked": true
   },
   {
    "domain": "letthesunshinerun.com",
@@ -1385,7 +1393,7 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 20.0,
-   "refdomains": 957,
+   "refdomains": 956,
    "quality_count": 3,
    "quality_top": [
     [
@@ -1659,13 +1667,6 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 20 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20130410",
    "last_active": "20260421",
    "titles": [
@@ -1676,10 +1677,6 @@
     [
      "20260303",
      ""
-    ],
-    [
-     "20250317",
-     "Let the Sun Shine Run"
     ],
     [
      "20210419",
@@ -1696,7 +1693,14 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 20 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
   }
  ],
  "wayback_retry": []
