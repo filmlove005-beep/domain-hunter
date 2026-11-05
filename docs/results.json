@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-05T04:30:16+00:00",
+ "scanned_at": "2026-11-05T13:56:06+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1261511,
  "results": [
@@ -20,127 +20,127 @@
     [
      "forbes.com",
      94.0,
-     13341120
+     13325217
     ],
     [
      "linktr.ee",
      94.0,
-     6537068
+     7006892
     ],
     [
      "buzzfeed.com",
      91.0,
-     4022709
+     3985543
     ],
     [
      "myanimelist.net",
      84.0,
-     3695381
+     3715505
     ],
     [
      "17track.net",
      91.0,
-     3402691
-    ],
-    [
-     "talkshoe.com",
-     73.0,
-     2606516
+     3393275
     ],
     [
      "docker.com",
      92.0,
-     2465239
+     2495255
     ],
     [
      "crunchbase.com",
      91.0,
-     2261995
+     2332206
     ],
     [
      "habr.com",
      88.0,
-     1888180
+     1797172
     ],
     [
      "heylink.me",
      92.0,
-     1594926
+     1652603
     ],
     [
      "leetcode.com",
      88.0,
-     1283486
+     1223661
     ],
     [
      "gitlab.com",
      92.0,
-     882299
+     882290
     ],
     [
      "stjude.org",
      87.0,
-     541549
+     527032
     ],
     [
      "issuu.com",
      93.0,
-     498913
-    ],
-    [
-     "mixcloud.com",
-     91.0,
-     490505
-    ],
-    [
-     "gravatar.com",
-     97.0,
-     482509
+     504209
     ],
     [
      "sas.com",
      87.0,
-     413538
+     483403
     ],
     [
-     "mashed.com",
-     79.0,
-     339663
+     "mixcloud.com",
+     91.0,
+     481378
     ],
     [
      "inc.com",
      91.0,
-     284547
+     432326
+    ],
+    [
+     "gravatar.com",
+     97.0,
+     415120
+    ],
+    [
+     "talkshoe.com",
+     73.0,
+     386108
+    ],
+    [
+     "mashed.com",
+     79.0,
+     331410
     ],
     [
      "about.me",
      90.0,
-     269025
+     252144
     ],
     [
      "ipb.ac.id",
      77.0,
-     240245
+     237564
     ],
     [
      "unand.ac.id",
      74.0,
-     228779
+     223972
+    ],
+    [
+     "butcherbox.com",
+     74.0,
+     180513
     ],
     [
      "spinninrecords.com",
      71.0,
-     178066
+     175514
     ],
     [
      "stickpng.com",
      57.0,
-     157251
-    ],
-    [
-     "stck.me",
-     73.0,
-     147711
+     158238
     ]
    ],
    "edu_wiki": [
@@ -388,7 +388,7 @@
     ],
     [
      "2026-11",
-     7
+     5
     ]
    ],
    "top_keywords": [
@@ -426,9 +426,6 @@
     "yai's thai recipes"
    ],
    "brand_checked": true,
-   "fails": [],
-   "warns": [],
-   "verdict": "pass",
    "first_seen": "20141218",
    "last_active": "20231128",
    "titles": [
@@ -449,17 +446,16 @@
      "Yai&#39;s Thai"
     ],
     [
-     "20190919",
-     "Yai&#39;s Thai"
-    ],
-    [
      "20150214",
      "Yai's Thai"
     ]
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [],
+   "verdict": "pass"
   },
   {
    "domain": "thedraycott.com",
@@ -473,132 +469,132 @@
    "stage": "done",
    "dr": 28.0,
    "refdomains": 1119,
-   "quality_count": 33,
+   "quality_count": 34,
    "quality_top": [
     [
      "globo.com",
      91.0,
-     248836592
+     253972544
     ],
     [
      "people.com",
      91.0,
-     14048655
+     14171557
     ],
     [
      "forbes.com",
      94.0,
-     13341120
+     13325217
     ],
     [
      "opentable.com",
      92.0,
-     3412190
+     3314000
     ],
     [
      "latimes.com",
      92.0,
-     2942552
+     3042306
     ],
     [
      "today.com",
      90.0,
-     2934112
+     3034743
     ],
     [
      "timeout.com",
      90.0,
-     1290744
+     1269890
     ],
     [
      "bravotv.com",
      80.0,
-     855786
+     848744
     ],
     [
      "theinfatuation.com",
      82.0,
-     601193
+     593882
     ],
     [
      "happycow.net",
      79.0,
-     223704
+     223801
     ],
     [
      "discoverlosangeles.com",
      77.0,
-     148172
+     144185
     ],
     [
      "woodencork.com",
      70.0,
-     143090
+     143837
     ],
     [
      "robbreport.com",
      85.0,
-     134113
-    ],
-    [
-     "foxla.com",
-     78.0,
-     122364
+     134794
     ],
     [
      "leadiq.com",
      71.0,
-     121178
+     119929
+    ],
+    [
+     "foxla.com",
+     78.0,
+     114360
     ],
     [
      "stylist.co.uk",
      81.0,
-     109966
-    ],
-    [
-     "laweekly.com",
-     84.0,
-     76534
+     111005
     ],
     [
      "revistaad.es",
      77.0,
-     74384
+     77602
+    ],
+    [
+     "laweekly.com",
+     84.0,
+     74033
     ],
     [
      "lamag.com",
      81.0,
-     61041
+     57358
     ],
     [
      "menuweb.menu",
      48.0,
-     60742
-    ],
-    [
-     "laist.com",
-     83.0,
-     54577
+     54775
     ],
     [
      "perelelhealth.com",
      54.0,
-     50969
+     51698
     ],
     [
-     "hoodline.com",
-     80.0,
-     48185
+     "laist.com",
+     83.0,
+     48096
     ],
     [
      "modernluxury.com",
      85.0,
-     43055
+     45615
+    ],
+    [
+     "hoodline.com",
+     80.0,
+     43887
     ],
     [
      "maisonette.com",
      70.0,
-     41847
+     41614
     ]
    ],
    "edu_wiki": [],
@@ -887,11 +883,6 @@
     "the draycott pacific palisades"
    ],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 28 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20180805",
    "last_active": "20260316",
    "titles": [
@@ -922,7 +913,12 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 28 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "proforcesp.com",
@@ -941,67 +937,67 @@
     [
      "apple.com",
      97.0,
-     419862848
+     414392096
     ],
     [
      "appbrain.com",
      76.0,
-     3862666
+     3652731
     ],
     [
      "squarespace.com",
      96.0,
-     3311049
+     3422377
     ],
     [
      "fresha.com",
      91.0,
-     2480111
+     2413632
     ],
     [
      "wellhub.com",
      76.0,
-     1020471
+     1026070
     ],
     [
      "birdeye.com",
      86.0,
-     940190
+     934185
     ],
     [
      "atly.com",
      57.0,
-     162357
+     142098
     ],
     [
      "contactout.com",
      74.0,
-     144178
+     140580
     ],
     [
      "acast.com",
      90.0,
-     141385
+     139773
     ],
     [
      "leadiq.com",
      71.0,
-     121178
+     119929
     ],
     [
      "siteprice.org",
      71.0,
-     36736
+     36192
     ],
     [
      "sitelike.org",
      64.0,
-     32357
+     30088
     ],
     [
      "cycloneshockey.com",
      46.0,
-     14872
+     15341
     ]
    ],
    "edu_wiki": [],
@@ -1348,19 +1344,9 @@
     "proforce sports performance"
    ],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 23 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 13 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20141030",
-   "last_active": "20251013",
+   "last_active": "20210717",
    "titles": [
-    [
-     "20251013",
-     "ProForce | We build dominate athletes"
-    ],
     [
      "20250428",
      ""
@@ -1374,13 +1360,23 @@
      "ProForce Sports Performance"
     ],
     [
+     "20180303",
+     "ProForce Sports Performance"
+    ],
+    [
      "20141030",
      "ProForce Sports Performance"
     ]
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 23 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 13 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "letthesunshinerun.com",
@@ -1399,17 +1395,17 @@
     [
      "owler.com",
      73.0,
-     37097
+     35155
     ],
     [
      "bbrfoundation.org",
      75.0,
-     20078
+     20567
     ],
     [
      "wjon.com",
      62.0,
-     17620
+     17731
     ]
    ],
    "edu_wiki": [],
@@ -1677,6 +1673,10 @@
     [
      "20260303",
      ""
+    ],
+    [
+     "20250317",
+     "Let the Sun Shine Run"
     ],
     [
      "20210419",
