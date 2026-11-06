@@ -1,20 +1,18 @@
-2026-11-06 13:26:03 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-06 13:26:12 ได้รายการ expiring_auctions_non_adult: 1,227,154 โดเมน
-2026-11-06 13:26:13 รวมโดเมนจากทุกฟีด: 1,227,154 โดเมน (ไม่ซ้ำ)
-2026-11-06 13:26:14 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-06 13:26:14 ดึง DR จาก Ahrefs ...
-2026-11-06 13:26:15 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-11-06 13:26:15 เช็กเชิงลึก 9 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-06 13:26:44   taoinspiredliving.com: fail เคย Redirect ไป www.taomexico.com, taomexico.com
-2026-11-06 13:28:07   yaisthai.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-11-06 13:30:18   thedraycott.com: Wayback ไม่ตอบ TimeoutError: timed out
-2026-11-06 13:30:47   izakaya-rishiri.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-06 13:33:41   andironsteak.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป andironsteak.getbento.com, boccalone.com
-2026-11-06 13:34:12   proforcesp.com: relaxed DR 23 (เกณฑ์ผ่อน); Backlink คุณภาพ 13 (เกณฑ์ผ่อน)
-2026-11-06 13:36:38   socially-app.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-06 13:39:02   letthesunshinerun.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-06 13:41:28   mercadoveiculos.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.negociarveiculos.com
-2026-11-06 13:41:33 รอ Wayback 2 นาที แล้วลองใหม่ 2 โดเมน ...
-2026-11-06 13:44:08   yaisthai.com: pass 
-2026-11-06 13:46:44   thedraycott.com: relaxed DR 28 (เกณฑ์ผ่อน)
-2026-11-06 13:46:54 เสร็จแล้ว: ผ่านสะสม 3 โดเมน (รอบนี้พบใหม่ 4 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-06 22:31:06 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-06 22:31:16 ได้รายการ expiring_auctions_non_adult: 1,190,138 โดเมน
+2026-11-06 22:31:17 รวมโดเมนจากทุกฟีด: 1,190,138 โดเมน (ไม่ซ้ำ)
+2026-11-06 22:31:19 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-06 22:31:19 ดึง DR จาก Ahrefs ...
+2026-11-06 22:31:19 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-11-06 22:31:19 เช็กเชิงลึก 10 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-06 22:31:48   thedraycott.com: relaxed DR 28 (เกณฑ์ผ่อน)
+2026-11-06 22:32:30   dashichs.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-06 22:35:07   izakaya-rishiri.com: relaxed DR 15 (เกณฑ์ผ่อน); Backlink คุณภาพ 4 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-06 22:38:01   okinawa-foodlab.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-06 22:40:53   proforcesp.com: relaxed DR 23 (เกณฑ์ผ่อน); Backlink คุณภาพ 13 (เกณฑ์ผ่อน)
+2026-11-06 22:44:08   socially-app.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-06 22:47:18   letthesunshinerun.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-06 22:49:53   mercadoveiculos.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.negociarveiculos.com
+2026-11-06 22:52:19   asakura-susukino.com: fail Backlink คุณภาพ 2 (< 3)
+2026-11-06 22:52:50   denvercatholicworkerhouse.org: relaxed DR 22 (เกณฑ์ผ่อน); Backlink คุณภาพ 10 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-06 22:52:55 เสร็จแล้ว: ผ่านสะสม 7 โดเมน (รอบนี้พบใหม่ 7 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
