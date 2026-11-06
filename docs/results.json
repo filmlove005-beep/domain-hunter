@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-06T04:28:16+00:00",
+ "scanned_at": "2026-11-06T13:46:54+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1227154,
  "results": [
@@ -20,127 +20,127 @@
     [
      "globo.com",
      91.0,
-     253972544
+     259229792
     ],
     [
      "people.com",
      91.0,
-     14171557
+     14424029
     ],
     [
      "forbes.com",
      94.0,
-     13325217
+     13394888
     ],
     [
      "opentable.com",
      92.0,
-     3314000
-    ],
-    [
-     "latimes.com",
-     92.0,
-     3042306
+     3309438
     ],
     [
      "today.com",
      90.0,
-     3034743
+     3063654
+    ],
+    [
+     "latimes.com",
+     92.0,
+     2869414
     ],
     [
      "timeout.com",
      90.0,
-     1269890
+     1293557
     ],
     [
      "bravotv.com",
      80.0,
-     848744
+     844982
     ],
     [
      "theinfatuation.com",
      82.0,
-     593882
+     589996
     ],
     [
      "happycow.net",
      79.0,
-     223801
+     196374
     ],
     [
      "discoverlosangeles.com",
      77.0,
-     144185
+     146170
     ],
     [
      "woodencork.com",
      70.0,
-     143837
+     143313
     ],
     [
      "robbreport.com",
      85.0,
-     134794
+     135285
     ],
     [
      "leadiq.com",
      71.0,
-     119929
+     116802
     ],
     [
      "foxla.com",
      78.0,
-     114360
+     110278
     ],
     [
      "stylist.co.uk",
      81.0,
-     111005
+     108011
     ],
     [
      "revistaad.es",
      77.0,
-     77602
+     78129
     ],
     [
      "laweekly.com",
      84.0,
-     74033
-    ],
-    [
-     "lamag.com",
-     81.0,
-     57358
+     73644
     ],
     [
      "menuweb.menu",
      48.0,
-     54775
+     54619
+    ],
+    [
+     "lamag.com",
+     81.0,
+     51824
     ],
     [
      "perelelhealth.com",
      54.0,
-     51698
-    ],
-    [
-     "laist.com",
-     83.0,
-     48096
+     51708
     ],
     [
      "modernluxury.com",
      85.0,
-     45615
+     47279
+    ],
+    [
+     "laist.com",
+     83.0,
+     45026
     ],
     [
      "hoodline.com",
      79.0,
-     43887
+     43940
     ],
     [
      "maisonette.com",
      70.0,
-     41614
+     41197
     ]
    ],
    "edu_wiki": [],
@@ -429,16 +429,21 @@
     "the draycott pacific palisades"
    ],
    "brand_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 28 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "relaxed",
    "first_seen": "20180805",
-   "last_active": "20260316",
+   "last_active": "20251208",
    "titles": [
-    [
-     "20260316",
-     "Redirect | BentoBox"
-    ],
     [
      "20251208",
      "Redirect | BentoBox"
+    ],
+    [
+     "20240806",
+     "The Draycott | California-inspired family-friendly Brasserie in Pacific Palisades, CA"
     ],
     [
      "20221004",
@@ -455,12 +460,7 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 28 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "relaxed"
+   "wayback_checked": true
   },
   {
    "domain": "proforcesp.com",
@@ -479,67 +479,67 @@
     [
      "apple.com",
      97.0,
-     414392096
+     420990240
     ],
     [
      "appbrain.com",
      76.0,
-     3652731
+     3664354
     ],
     [
      "squarespace.com",
      96.0,
-     3422377
+     3382820
     ],
     [
      "fresha.com",
      91.0,
-     2413632
+     2346712
     ],
     [
      "wellhub.com",
      76.0,
-     1026070
+     1024926
     ],
     [
      "birdeye.com",
      86.0,
-     934185
-    ],
-    [
-     "atly.com",
-     57.0,
-     142098
+     925369
     ],
     [
      "contactout.com",
      74.0,
-     140580
+     139616
+    ],
+    [
+     "atly.com",
+     57.0,
+     137965
     ],
     [
      "acast.com",
      90.0,
-     139773
+     137869
     ],
     [
      "leadiq.com",
      71.0,
-     119929
+     116802
     ],
     [
      "siteprice.org",
      71.0,
-     36192
+     33031
     ],
     [
      "sitelike.org",
      64.0,
-     30088
+     27539
     ],
     [
      "cycloneshockey.com",
      46.0,
-     15341
+     15344
     ]
    ],
    "edu_wiki": [],
@@ -941,17 +941,17 @@
     [
      "owler.com",
      73.0,
-     35155
+     33666
     ],
     [
      "bbrfoundation.org",
      75.0,
-     20567
+     20542
     ],
     [
      "wjon.com",
      62.0,
-     17731
+     17664
     ]
    ],
    "edu_wiki": [],
@@ -1210,15 +1210,11 @@
    "brand_keywords": [],
    "brand_checked": true,
    "first_seen": "20130410",
-   "last_active": "20260421",
+   "last_active": "20250317",
    "titles": [
     [
-     "20260421",
-     "Let the Sun Shine Run"
-    ],
-    [
      "20260303",
-     "Let the Sun Shine Run"
+     ""
     ],
     [
      "20250317",
