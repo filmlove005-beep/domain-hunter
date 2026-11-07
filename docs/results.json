@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-06T22:52:55+00:00",
+ "scanned_at": "2026-11-07T04:00:28+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1190138,
  "results": [
@@ -15,7 +15,7 @@
    "stage": "done",
    "dr": 28.0,
    "refdomains": 1119,
-   "quality_count": 35,
+   "quality_count": 34,
    "quality_top": [
     [
      "globo.com",
@@ -61,11 +61,6 @@
      "theinfatuation.com",
      82.0,
      589996
-    ],
-    [
-     "happycow.net",
-     79.0,
-     196374
     ],
     [
      "discoverlosangeles.com",
@@ -141,6 +136,11 @@
      "maisonette.com",
      70.0,
      41197
+    ],
+    [
+     "beerfordriving.com",
+     33.0,
+     38604
     ]
    ],
    "edu_wiki": [],
@@ -906,11 +906,11 @@
      "ProForce Sports Performance"
     ],
     [
-     "20190613",
+     "20180303",
      "ProForce Sports Performance"
     ],
     [
-     "20180303",
+     "20141030",
      "ProForce Sports Performance"
     ]
    ],
@@ -1617,12 +1617,23 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 20 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed",
    "first_seen": "20130410",
    "last_active": "20260421",
    "titles": [
     [
      "20260421",
      "Let the Sun Shine Run"
+    ],
+    [
+     "20260303",
+     ""
     ],
     [
      "20250317",
@@ -1643,14 +1654,7 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 20 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed"
+   "wayback_checked": true
   },
   {
    "domain": "dashichs.com",
@@ -2539,7 +2543,7 @@
      "沖縄の人気グルメやイベント・観光などの情報発信沖縄フードラボ！"
     ],
     [
-     "20260517",
+     "20240613",
      "沖縄の人気グルメやイベント・観光などの情報発信沖縄フードラボ！"
     ],
     [
