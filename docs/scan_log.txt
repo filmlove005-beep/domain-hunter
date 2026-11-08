@@ -1,21 +1,20 @@
-2026-11-08 12:25:54 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-08 12:26:04 ได้รายการ expiring_auctions_non_adult: 1,214,574 โดเมน
-2026-11-08 12:26:04 รวมโดเมนจากทุกฟีด: 1,214,574 โดเมน (ไม่ซ้ำ)
-2026-11-08 12:26:06 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-08 12:26:06 ดึง DR จาก Ahrefs ...
-2026-11-08 12:26:07 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-11-08 12:26:07 เช็กเชิงลึก 11 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-08 12:26:44   thedraycott.com: relaxed DR 28 (เกณฑ์ผ่อน)
-2026-11-08 12:27:45   dashichs.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-08 12:28:12   izakaya-rishiri.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-08 12:31:12   tsurugyu.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 6 (เกณฑ์ผ่อน)
-2026-11-08 12:31:42   okinawa-foodlab.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-08 12:33:25   proforcesp.com: relaxed DR 23 (เกณฑ์ผ่อน); Backlink คุณภาพ 13 (เกณฑ์ผ่อน)
-2026-11-08 12:34:47   socially-app.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-08 12:37:38   letthesunshinerun.com: Wayback ไม่ตอบ URLError: <urlopen error timed out>
-2026-11-08 12:38:02   mercadoveiculos.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.negociarveiculos.com
-2026-11-08 12:41:49   asakura-susukino.com: fail Backlink คุณภาพ 2 (< 3)
-2026-11-08 12:42:13   denvercatholicworkerhouse.org: relaxed DR 22 (เกณฑ์ผ่อน); Backlink คุณภาพ 9 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-08 12:42:18 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
-2026-11-08 12:44:57   letthesunshinerun.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-08 12:45:07 เสร็จแล้ว: ผ่านสะสม 8 โดเมน (รอบนี้พบใหม่ 7 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-08 21:27:51 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-08 21:28:07 ได้รายการ expiring_auctions_non_adult: 1,233,862 โดเมน
+2026-11-08 21:28:07 รวมโดเมนจากทุกฟีด: 1,233,862 โดเมน (ไม่ซ้ำ)
+2026-11-08 21:28:09 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-08 21:28:09 ดึง DR จาก Ahrefs ...
+2026-11-08 21:28:09 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-11-08 21:28:09 เช็กเชิงลึก 10 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-08 21:28:36   hartingtons.com: relaxed DR 22 (เกณฑ์ผ่อน); Backlink คุณภาพ 11 (เกณฑ์ผ่อน)
+2026-11-08 21:29:07   thedraycott.com: relaxed DR 28 (เกณฑ์ผ่อน)
+2026-11-08 21:29:35   dashichs.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-08 21:31:59   izakaya-rishiri.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-08 21:34:26   tsurugyu.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 6 (เกณฑ์ผ่อน)
+2026-11-08 21:34:50   okinawa-foodlab.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-08 21:38:14   proforcesp.com: relaxed DR 23 (เกณฑ์ผ่อน); Backlink คุณภาพ 13 (เกณฑ์ผ่อน)
+2026-11-08 21:40:23   socially-app.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-08 21:40:59   letthesunshinerun.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-08 21:42:22   mercadoveiculos.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-11-08 21:42:27 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
+2026-11-08 21:44:51   mercadoveiculos.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.negociarveiculos.com
+2026-11-08 21:45:01 เสร็จแล้ว: ผ่านสะสม 8 โดเมน (รอบนี้พบใหม่ 7 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน

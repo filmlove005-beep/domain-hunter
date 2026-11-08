@@ -1,471 +1,8 @@
 {
- "scanned_at": "2026-11-08T12:45:07+00:00",
+ "scanned_at": "2026-11-08T21:45:01+00:00",
  "feed": "expiring_auctions_non_adult",
- "feed_total": 1214574,
+ "feed_total": 1233862,
  "results": [
-  {
-   "domain": "thedraycott.com",
-   "link": "https://www.godaddy.com/domain-auctions/thedraycott-com-735796173?isc=json_expiring",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-11-08T19:33:00Z",
-   "age": 9,
-   "majestic_tf": 0,
-   "majestic_rd": 0,
-   "stage": "done",
-   "dr": 28.0,
-   "refdomains": 1119,
-   "quality_count": 34,
-   "quality_top": [
-    [
-     "globo.com",
-     91.0,
-     265357184
-    ],
-    [
-     "people.com",
-     91.0,
-     14495374
-    ],
-    [
-     "forbes.com",
-     94.0,
-     13511500
-    ],
-    [
-     "opentable.com",
-     92.0,
-     3360204
-    ],
-    [
-     "today.com",
-     90.0,
-     3213303
-    ],
-    [
-     "latimes.com",
-     92.0,
-     2828097
-    ],
-    [
-     "timeout.com",
-     90.0,
-     1294626
-    ],
-    [
-     "bravotv.com",
-     80.0,
-     826013
-    ],
-    [
-     "theinfatuation.com",
-     82.0,
-     598972
-    ],
-    [
-     "discoverlosangeles.com",
-     77.0,
-     141664
-    ],
-    [
-     "woodencork.com",
-     70.0,
-     141278
-    ],
-    [
-     "robbreport.com",
-     85.0,
-     135383
-    ],
-    [
-     "leadiq.com",
-     71.0,
-     113242
-    ],
-    [
-     "foxla.com",
-     78.0,
-     112038
-    ],
-    [
-     "stylist.co.uk",
-     81.0,
-     102038
-    ],
-    [
-     "laweekly.com",
-     84.0,
-     80686
-    ],
-    [
-     "revistaad.es",
-     77.0,
-     78645
-    ],
-    [
-     "menuweb.menu",
-     48.0,
-     53704
-    ],
-    [
-     "perelelhealth.com",
-     54.0,
-     52440
-    ],
-    [
-     "modernluxury.com",
-     85.0,
-     48036
-    ],
-    [
-     "hoodline.com",
-     80.0,
-     47163
-    ],
-    [
-     "laist.com",
-     83.0,
-     45260
-    ],
-    [
-     "maisonette.com",
-     70.0,
-     41950
-    ],
-    [
-     "lamag.com",
-     81.0,
-     41025
-    ],
-    [
-     "beerfordriving.com",
-     33.0,
-     39558
-    ]
-   ],
-   "edu_wiki": [],
-   "peak_traffic": 628,
-   "peak_date": "2023-05-01",
-   "traffic_history": [
-    [
-     "2021-12",
-     495
-    ],
-    [
-     "2022-01",
-     403
-    ],
-    [
-     "2022-02",
-     366
-    ],
-    [
-     "2022-03",
-     318
-    ],
-    [
-     "2022-04",
-     316
-    ],
-    [
-     "2022-05",
-     281
-    ],
-    [
-     "2022-06",
-     336
-    ],
-    [
-     "2022-07",
-     364
-    ],
-    [
-     "2022-08",
-     325
-    ],
-    [
-     "2022-09",
-     295
-    ],
-    [
-     "2022-10",
-     296
-    ],
-    [
-     "2022-11",
-     260
-    ],
-    [
-     "2022-12",
-     303
-    ],
-    [
-     "2023-01",
-     414
-    ],
-    [
-     "2023-02",
-     379
-    ],
-    [
-     "2023-03",
-     344
-    ],
-    [
-     "2023-04",
-     507
-    ],
-    [
-     "2023-05",
-     628
-    ],
-    [
-     "2023-06",
-     493
-    ],
-    [
-     "2023-07",
-     396
-    ],
-    [
-     "2023-08",
-     290
-    ],
-    [
-     "2023-09",
-     315
-    ],
-    [
-     "2023-10",
-     293
-    ],
-    [
-     "2023-11",
-     365
-    ],
-    [
-     "2023-12",
-     462
-    ],
-    [
-     "2024-01",
-     494
-    ],
-    [
-     "2024-02",
-     365
-    ],
-    [
-     "2024-03",
-     396
-    ],
-    [
-     "2024-04",
-     369
-    ],
-    [
-     "2024-05",
-     426
-    ],
-    [
-     "2024-06",
-     493
-    ],
-    [
-     "2024-07",
-     470
-    ],
-    [
-     "2024-08",
-     355
-    ],
-    [
-     "2024-09",
-     274
-    ],
-    [
-     "2024-10",
-     301
-    ],
-    [
-     "2024-11",
-     283
-    ],
-    [
-     "2024-12",
-     370
-    ],
-    [
-     "2025-01",
-     477
-    ],
-    [
-     "2025-02",
-     39
-    ],
-    [
-     "2025-03",
-     5
-    ],
-    [
-     "2025-04",
-     6
-    ],
-    [
-     "2025-05",
-     4
-    ],
-    [
-     "2025-06",
-     0
-    ]
-   ],
-   "top_keywords": [
-    [
-     "the draycott",
-     1,
-     174
-    ],
-    [
-     "draycott",
-     1,
-     165
-    ],
-    [
-     "the draycott photos",
-     1,
-     100
-    ],
-    [
-     "draycott palisades",
-     1,
-     44
-    ],
-    [
-     "the draycott pacific palisades",
-     1,
-     8
-    ],
-    [
-     "palisades village restaurants",
-     8,
-     5
-    ],
-    [
-     "olivetta reservations",
-     11,
-     3
-    ],
-    [
-     "pacifique palisade",
-     4,
-     2
-    ],
-    [
-     "the draycott",
-     11,
-     2
-    ],
-    [
-     "the draycott",
-     4,
-     1
-    ],
-    [
-     "mango tree draycott",
-     19,
-     1
-    ],
-    [
-     "restaurants pacific palisades",
-     15,
-     1
-    ],
-    [
-     "pacific palisades restaurants",
-     24,
-     0
-    ],
-    [
-     "palisades hours",
-     24,
-     0
-    ],
-    [
-     "marissa hermer restaurants",
-     5,
-     0
-    ],
-    [
-     "boujis group",
-     10,
-     0
-    ],
-    [
-     "draycott",
-     3,
-     0
-    ],
-    [
-     "pacific palisades jobs",
-     21,
-     0
-    ],
-    [
-     "restaurants in pacific palisades",
-     21,
-     0
-    ],
-    [
-     "soeur rose georges 2016",
-     21,
-     0
-    ]
-   ],
-   "gambling_keywords": [],
-   "brand_keywords": [
-    "the draycott",
-    "the draycott photos",
-    "the draycott pacific palisades"
-   ],
-   "brand_checked": true,
-   "first_seen": "20180805",
-   "last_active": "20260316",
-   "titles": [
-    [
-     "20260316",
-     "Redirect | BentoBox"
-    ],
-    [
-     "20251208",
-     "Redirect | BentoBox"
-    ],
-    [
-     "20240806",
-     "The Draycott | California-inspired family-friendly Brasserie in Pacific Palisades, CA"
-    ],
-    [
-     "20221004",
-     "The Draycott | California-inspired family-friendly Brasserie in Pacific Palisades, CA"
-    ],
-    [
-     "20210421",
-     "The Draycott | Restaurant"
-    ],
-    [
-     "20190104",
-     "The Draycott | Restaurant"
-    ]
-   ],
-   "gambling_wayback": [],
-   "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 28 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "relaxed"
-  },
   {
    "domain": "proforcesp.com",
    "link": "https://www.godaddy.com/domain-auctions/proforcesp-com-735872573?isc=json_expiring",
@@ -522,7 +59,7 @@
     ],
     [
      "atly.com",
-     57.0,
+     55.0,
      131883
     ],
     [
@@ -900,14 +437,6 @@
     [
      "20250428",
      ""
-    ],
-    [
-     "20210717",
-     "ProForce Sports Performance"
-    ],
-    [
-     "20190613",
-     "ProForce Sports Performance"
     ],
     [
      "20180303",
@@ -1332,6 +861,450 @@
    "verdict": "relaxed"
   },
   {
+   "domain": "hartingtons.com",
+   "link": "https://www.godaddy.com/domain-auctions/hartingtons-com-737308306?isc=json_expiring",
+   "price": 1.0,
+   "bids": 0,
+   "end_time": "2026-11-17T17:37:00Z",
+   "age": 15,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "done",
+   "dr": 22.0,
+   "refdomains": 901,
+   "quality_count": 11,
+   "quality_top": [
+    [
+     "telegraph.co.uk",
+     92.0,
+     4432120
+    ],
+    [
+     "thestar.co.uk",
+     74.0,
+     141030
+    ],
+    [
+     "finedininglovers.com",
+     73.0,
+     77335
+    ],
+    [
+     "cryptocompare.com",
+     78.0,
+     71360
+    ],
+    [
+     "bascofinefoods.com",
+     34.0,
+     52115
+    ],
+    [
+     "cheesemaking.com",
+     64.0,
+     45258
+    ],
+    [
+     "siteprice.org",
+     71.0,
+     29353
+    ],
+    [
+     "sitelike.org",
+     64.0,
+     27822
+    ],
+    [
+     "prima.co.uk",
+     63.0,
+     19802
+    ],
+    [
+     "sourdough.co.uk",
+     57.0,
+     17178
+    ],
+    [
+     "thecourtyarddairy.co.uk",
+     51.0,
+     14162
+    ]
+   ],
+   "edu_wiki": [],
+   "peak_traffic": 45,
+   "peak_date": "2021-12-01",
+   "traffic_history": [
+    [
+     "2021-12",
+     45
+    ],
+    [
+     "2022-01",
+     32
+    ],
+    [
+     "2022-02",
+     28
+    ],
+    [
+     "2022-03",
+     17
+    ],
+    [
+     "2022-04",
+     15
+    ],
+    [
+     "2022-05",
+     14
+    ],
+    [
+     "2022-06",
+     13
+    ],
+    [
+     "2022-07",
+     15
+    ],
+    [
+     "2022-08",
+     20
+    ],
+    [
+     "2022-09",
+     19
+    ],
+    [
+     "2022-10",
+     18
+    ],
+    [
+     "2022-11",
+     24
+    ],
+    [
+     "2022-12",
+     34
+    ],
+    [
+     "2023-01",
+     30
+    ],
+    [
+     "2023-02",
+     23
+    ],
+    [
+     "2023-03",
+     18
+    ],
+    [
+     "2023-04",
+     18
+    ],
+    [
+     "2023-05",
+     15
+    ],
+    [
+     "2023-06",
+     13
+    ],
+    [
+     "2023-07",
+     12
+    ],
+    [
+     "2023-08",
+     13
+    ],
+    [
+     "2023-09",
+     11
+    ],
+    [
+     "2023-10",
+     7
+    ],
+    [
+     "2023-11",
+     13
+    ],
+    [
+     "2023-12",
+     13
+    ],
+    [
+     "2024-01",
+     10
+    ],
+    [
+     "2024-02",
+     12
+    ],
+    [
+     "2024-03",
+     10
+    ],
+    [
+     "2024-04",
+     9
+    ],
+    [
+     "2024-05",
+     7
+    ],
+    [
+     "2024-06",
+     7
+    ],
+    [
+     "2024-07",
+     6
+    ],
+    [
+     "2024-08",
+     8
+    ],
+    [
+     "2024-09",
+     10
+    ],
+    [
+     "2024-10",
+     11
+    ],
+    [
+     "2024-11",
+     10
+    ],
+    [
+     "2024-12",
+     4
+    ],
+    [
+     "2025-01",
+     3
+    ],
+    [
+     "2025-02",
+     3
+    ],
+    [
+     "2025-03",
+     7
+    ],
+    [
+     "2025-04",
+     7
+    ],
+    [
+     "2025-05",
+     4
+    ],
+    [
+     "2025-06",
+     7
+    ],
+    [
+     "2025-07",
+     4
+    ],
+    [
+     "2025-08",
+     4
+    ],
+    [
+     "2025-09",
+     3
+    ],
+    [
+     "2025-10",
+     4
+    ],
+    [
+     "2025-11",
+     7
+    ],
+    [
+     "2025-12",
+     2
+    ],
+    [
+     "2026-01",
+     2
+    ],
+    [
+     "2026-02",
+     13
+    ],
+    [
+     "2026-03",
+     2
+    ],
+    [
+     "2026-04",
+     7
+    ],
+    [
+     "2026-05",
+     11
+    ],
+    [
+     "2026-06",
+     4
+    ],
+    [
+     "2026-07",
+     1
+    ]
+   ],
+   "top_keywords": [
+    [
+     "hartingtons",
+     1,
+     12
+    ],
+    [
+     "brewing courses",
+     7,
+     8
+    ],
+    [
+     "brewing courses uk",
+     6,
+     6
+    ],
+    [
+     "hartingtons",
+     2,
+     4
+    ],
+    [
+     "cheese making",
+     15,
+     4
+    ],
+    [
+     "brewing courses near me",
+     4,
+     3
+    ],
+    [
+     "cheese making course",
+     16,
+     2
+    ],
+    [
+     "brewing course",
+     5,
+     1
+    ],
+    [
+     "cookery courses sheffield",
+     8,
+     1
+    ],
+    [
+     "cookery classes sheffield",
+     12,
+     1
+    ],
+    [
+     "danny bryden",
+     8,
+     1
+    ],
+    [
+     "cookery courses derbyshire",
+     4,
+     1
+    ],
+    [
+     "beer making course",
+     7,
+     1
+    ],
+    [
+     "charcuterie course",
+     15,
+     1
+    ],
+    [
+     "beer brewing course",
+     5,
+     1
+    ],
+    [
+     "brewery courses",
+     9,
+     1
+    ],
+    [
+     "craft beer brewing course",
+     6,
+     0
+    ],
+    [
+     "foraging courses yorkshire",
+     21,
+     0
+    ],
+    [
+     "cheese making courses",
+     9,
+     0
+    ],
+    [
+     "cheese making class",
+     13,
+     0
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [
+    "hartingtons"
+   ],
+   "brand_checked": true,
+   "first_seen": "20111028",
+   "last_active": "20260928",
+   "titles": [
+    [
+     "20260928",
+     "Nimbus Hosting"
+    ],
+    [
+     "20250806",
+     "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
+    ],
+    [
+     "20210508",
+     "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
+    ],
+    [
+     "20180727",
+     "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
+    ],
+    [
+     "20140205",
+     "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
+    ],
+    [
+     "20111028",
+     "Cookery Courses &amp; Food Events in Bakewell - Hartingtons"
+    ]
+   ],
+   "gambling_wayback": [],
+   "ext_redirects": {},
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 22 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 11 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "relaxed"
+  },
+  {
    "domain": "letthesunshinerun.com",
    "link": "https://www.godaddy.com/domain-auctions/letthesunshinerun-com-734869700?isc=json_expiring",
    "price": 1.0,
@@ -1616,13 +1589,6 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 20 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20130410",
    "last_active": "20260421",
    "titles": [
@@ -1653,7 +1619,14 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 20 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "dashichs.com",
@@ -1711,12 +1684,12 @@
     ],
     [
      "atly.com",
-     57.0,
+     55.0,
      131883
     ],
     [
      "menuweb.menu",
-     48.0,
+     50.0,
      53704
     ],
     [
@@ -1731,7 +1704,7 @@
     ],
     [
      "6amcity.com",
-     75.0,
+     76.0,
      34693
     ],
     [
@@ -2528,10 +2501,6 @@
      "難波の焼肉、蔓牛（つるぎゅう）接待に人気の個室も｜大阪の日本橋"
     ],
     [
-     "20251008",
-     "難波の焼肉、蔓牛（つるぎゅう）接待に人気の個室も｜大阪の日本橋"
-    ],
-    [
      "20250814",
      "難波の焼肉、蔓牛（つるぎゅう）接待に人気の個室も｜大阪の日本橋"
     ],
@@ -2588,7 +2557,7 @@
     ],
     [
      "golfscale.jp",
-     0.8,
+     1.0,
      21387
     ]
    ],
