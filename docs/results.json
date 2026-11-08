@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-07T21:33:54+00:00",
+ "scanned_at": "2026-11-08T03:32:34+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1214574,
  "results": [
@@ -20,127 +20,127 @@
     [
      "globo.com",
      91.0,
-     259229792
+     265357184
     ],
     [
      "people.com",
      91.0,
-     14424029
+     14495374
     ],
     [
      "forbes.com",
      94.0,
-     13394888
+     13511500
     ],
     [
      "opentable.com",
      92.0,
-     3309438
+     3360204
     ],
     [
      "today.com",
      90.0,
-     3063654
+     3213303
     ],
     [
      "latimes.com",
      92.0,
-     2869414
+     2828097
     ],
     [
      "timeout.com",
      90.0,
-     1293557
+     1294626
     ],
     [
      "bravotv.com",
      80.0,
-     844982
+     826013
     ],
     [
      "theinfatuation.com",
      82.0,
-     589996
+     598972
     ],
     [
      "discoverlosangeles.com",
      77.0,
-     146170
+     141664
     ],
     [
      "woodencork.com",
      70.0,
-     143313
+     141278
     ],
     [
      "robbreport.com",
      85.0,
-     135285
+     135383
     ],
     [
      "leadiq.com",
      71.0,
-     116802
+     113242
     ],
     [
      "foxla.com",
      78.0,
-     110278
+     112038
     ],
     [
      "stylist.co.uk",
      81.0,
-     108011
-    ],
-    [
-     "revistaad.es",
-     77.0,
-     78129
+     102038
     ],
     [
      "laweekly.com",
      84.0,
-     73644
+     80686
+    ],
+    [
+     "revistaad.es",
+     77.0,
+     78645
     ],
     [
      "menuweb.menu",
      48.0,
-     54619
-    ],
-    [
-     "lamag.com",
-     81.0,
-     51824
+     53704
     ],
     [
      "perelelhealth.com",
      54.0,
-     51708
+     52440
     ],
     [
      "modernluxury.com",
      85.0,
-     47279
-    ],
-    [
-     "laist.com",
-     83.0,
-     45026
+     48036
     ],
     [
      "hoodline.com",
      80.0,
-     43940
+     47163
+    ],
+    [
+     "laist.com",
+     83.0,
+     45260
     ],
     [
      "maisonette.com",
      70.0,
-     41197
+     41950
+    ],
+    [
+     "lamag.com",
+     81.0,
+     41025
     ],
     [
      "beerfordriving.com",
      33.0,
-     38604
+     39558
     ]
    ],
    "edu_wiki": [],
@@ -477,73 +477,73 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 23.0,
-   "refdomains": 1037,
+   "refdomains": 1036,
    "quality_count": 13,
    "quality_top": [
     [
      "apple.com",
      97.0,
-     420990240
+     426944320
     ],
     [
      "appbrain.com",
      76.0,
-     3664354
+     3702148
     ],
     [
      "squarespace.com",
      96.0,
-     3382820
+     3304936
     ],
     [
      "fresha.com",
      91.0,
-     2346712
+     2324986
     ],
     [
      "wellhub.com",
      76.0,
-     1024926
+     1029677
     ],
     [
      "birdeye.com",
      86.0,
-     925369
+     920256
     ],
     [
      "contactout.com",
      74.0,
-     139616
-    ],
-    [
-     "atly.com",
-     57.0,
-     137965
+     138709
     ],
     [
      "acast.com",
      90.0,
-     137869
+     135473
+    ],
+    [
+     "atly.com",
+     57.0,
+     131883
     ],
     [
      "leadiq.com",
      71.0,
-     116802
+     113242
     ],
     [
      "siteprice.org",
      71.0,
-     33031
+     29353
     ],
     [
      "sitelike.org",
      64.0,
-     27539
+     27822
     ],
     [
      "cycloneshockey.com",
      47.0,
-     15344
+     15649
     ]
    ],
    "edu_wiki": [],
@@ -902,11 +902,15 @@
      ""
     ],
     [
-     "20210717",
+     "20190613",
      "ProForce Sports Performance"
     ],
     [
-     "20190613",
+     "20180303",
+     "ProForce Sports Performance"
+    ],
+    [
+     "20141030",
      "ProForce Sports Performance"
     ]
    ],
@@ -937,47 +941,47 @@
     [
      "bbb.org",
      93.0,
-     3515632
+     3554979
     ],
     [
      "gofundme.com",
      92.0,
-     1491124
+     1490267
     ],
     [
      "ravelry.com",
      87.0,
-     412366
+     411041
     ],
     [
      "marquette.edu",
      81.0,
-     143403
-    ],
-    [
-     "siteprice.org",
-     71.0,
-     33031
+     139094
     ],
     [
      "ncronline.org",
      78.0,
-     24683
+     29924
+    ],
+    [
+     "siteprice.org",
+     71.0,
+     29353
     ],
     [
      "scam-detector.com",
      68.0,
-     24550
+     23544
     ],
     [
      "jcmh.org",
      60.0,
-     13543
+     13864
     ],
     [
      "sirdar.com",
      52.0,
-     11737
+     11375
     ]
    ],
    "edu_wiki": [
@@ -1340,17 +1344,17 @@
     [
      "owler.com",
      73.0,
-     33666
+     32456
     ],
     [
      "bbrfoundation.org",
      75.0,
-     20542
+     19844
     ],
     [
      "wjon.com",
      62.0,
-     17664
+     17774
     ]
    ],
    "edu_wiki": [],
@@ -1608,13 +1612,6 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 20 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20130410",
    "last_active": "20260421",
    "titles": [
@@ -1645,7 +1642,14 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 20 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "dashichs.com",
@@ -1664,97 +1668,97 @@
     [
      "substack.com",
      94.0,
-     6917274
-    ],
-    [
-     "squarespace.com",
-     96.0,
-     3382820
+     6856160
     ],
     [
      "opentable.com",
      92.0,
-     3309438
+     3360204
+    ],
+    [
+     "squarespace.com",
+     96.0,
+     3304936
     ],
     [
      "yellowpages.com",
      90.0,
-     2443466
+     2337071
     ],
     [
      "wanderlog.com",
      78.0,
-     1472976
+     1465164
     ],
     [
      "bringfido.com",
      77.0,
-     457614
+     459033
     ],
     [
      "mindtrip.ai",
      71.0,
-     343914
+     335790
     ],
     [
      "happycow.net",
      79.0,
-     196374
+     232811
     ],
     [
      "atly.com",
      57.0,
-     137965
+     131883
     ],
     [
      "menuweb.menu",
      48.0,
-     54619
-    ],
-    [
-     "vota.org",
-     25.0,
-     41303
+     53704
     ],
     [
      "beerfordriving.com",
      33.0,
-     38604
+     39558
+    ],
+    [
+     "vota.org",
+     25.0,
+     39485
     ],
     [
      "6amcity.com",
      75.0,
-     35838
+     34693
     ],
     [
      "postcard.inc",
      41.0,
-     19787
+     19092
     ],
     [
      "menupix.com",
      64.0,
-     18413
+     17184
     ],
     [
      "thecitysidewalks.com",
      18.0,
-     16983
-    ],
-    [
-     "nears.me",
-     28.0,
-     15179
+     15773
     ],
     [
      "bringfido.ca",
      30.0,
-     14857
+     15577
+    ],
+    [
+     "nears.me",
+     28.0,
+     14982
     ],
     [
      "trivianearme.net",
      28.0,
-     12873
+     13172
     ]
    ],
    "edu_wiki": [],
@@ -2163,32 +2167,32 @@
     [
      "tabelog.com",
      91.0,
-     26666316
+     26882206
     ],
     [
      "wanderlog.com",
      78.0,
-     1472976
+     1465164
     ],
     [
      "dime.jp",
      77.0,
-     620303
+     626712
     ],
     [
      "aumo.jp",
      72.0,
-     180668
+     173652
     ],
     [
      "siteprice.org",
      71.0,
-     33031
+     29353
     ],
     [
      "postcard.inc",
      41.0,
-     19787
+     19092
     ]
    ],
    "edu_wiki": [],
@@ -2528,6 +2532,10 @@
      "難波の焼肉、蔓牛（つるぎゅう）接待に人気の個室も｜大阪の日本橋"
     ],
     [
+     "20191220",
+     "大阪･難波の焼肉【蔓牛～つるぎゅう～】【忘年会におすすめ！】"
+    ],
+    [
      "20171230",
      "大阪･難波の焼肉【蔓牛～つるぎゅう～】接待に"
     ],
@@ -2561,23 +2569,23 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 17.0,
-   "refdomains": 922,
+   "refdomains": 920,
    "quality_count": 3,
    "quality_top": [
     [
      "siteprice.org",
      71.0,
-     33031
+     29353
     ],
     [
      "sitelike.org",
      64.0,
-     27539
+     27822
     ],
     [
      "golfscale.jp",
      0.8,
-     21147
+     21387
     ]
    ],
    "edu_wiki": [],
