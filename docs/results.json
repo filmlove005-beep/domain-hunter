@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-08T03:32:34+00:00",
+ "scanned_at": "2026-11-08T12:45:07+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1214574,
  "results": [
@@ -902,6 +902,10 @@
      ""
     ],
     [
+     "20210717",
+     "ProForce Sports Performance"
+    ],
+    [
      "20190613",
      "ProForce Sports Performance"
     ],
@@ -1612,6 +1616,13 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 20 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed",
    "first_seen": "20130410",
    "last_active": "20260421",
    "titles": [
@@ -1642,14 +1653,7 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 20 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed"
+   "wayback_checked": true
   },
   {
    "domain": "dashichs.com",
