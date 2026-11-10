@@ -1,21 +1,19 @@
-2026-11-10 00:57:59 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-10 00:58:15 ได้รายการ expiring_auctions_non_adult: 1,235,969 โดเมน
-2026-11-10 00:58:16 รวมโดเมนจากทุกฟีด: 1,235,969 โดเมน (ไม่ซ้ำ)
-2026-11-10 00:58:17 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-10 00:58:17 ดึง DR จาก Ahrefs ...
-2026-11-10 00:58:18 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-11-10 00:58:18 เช็กเชิงลึก 11 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-10 00:58:44   geneticistinc.com: relaxed DR 19 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-10 00:59:06   hartingtons.com: relaxed DR 22 (เกณฑ์ผ่อน); Backlink คุณภาพ 11 (เกณฑ์ผ่อน)
-2026-11-10 00:59:29   dashichs.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-10 01:01:30   owaspseasides.com: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 9 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-10 01:03:32   izakaya-rishiri.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-10 01:04:55   tsurugyu.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 6 (เกณฑ์ผ่อน)
-2026-11-10 01:05:33   okinawa-foodlab.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-10 01:06:15   proforcesp.com: relaxed DR 23 (เกณฑ์ผ่อน); Backlink คุณภาพ 13 (เกณฑ์ผ่อน)
-2026-11-10 01:09:06   socially-app.com: Wayback ไม่ตอบ TimeoutError: timed out
-2026-11-10 01:09:28   letthesunshinerun.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-10 01:10:29   mercadoveiculos.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.negociarveiculos.com
-2026-11-10 01:10:34 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
-2026-11-10 01:12:52   socially-app.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-10 01:13:02 เสร็จแล้ว: ผ่านสะสม 9 โดเมน (รอบนี้พบใหม่ 8 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-10 13:56:26 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-10 13:56:35 ได้รายการ expiring_auctions_non_adult: 1,235,969 โดเมน
+2026-11-10 13:56:36 รวมโดเมนจากทุกฟีด: 1,235,969 โดเมน (ไม่ซ้ำ)
+2026-11-10 13:56:38 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-10 13:56:38 ดึง DR จาก Ahrefs ...
+2026-11-10 13:56:38 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-11-10 13:56:38 เช็กเชิงลึก 11 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-10 13:56:59   geneticistinc.com: relaxed DR 19 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-10 13:57:22   hartingtons.com: relaxed DR 22 (เกณฑ์ผ่อน); Backlink คุณภาพ 11 (เกณฑ์ผ่อน)
+2026-11-10 13:57:54   dashichs.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-10 14:00:15   owaspseasides.com: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 9 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-10 14:00:41   izakaya-rishiri.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-10 14:03:36   tsurugyu.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 6 (เกณฑ์ผ่อน)
+2026-11-10 14:04:02   okinawa-foodlab.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-10 14:07:45   proforcesp.com: relaxed DR 23 (เกณฑ์ผ่อน); Backlink คุณภาพ 14 (เกณฑ์ผ่อน)
+2026-11-10 14:10:42   socially-app.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-10 14:13:39   letthesunshinerun.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-10 14:15:04   mercadoveiculos.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-10 14:15:09 เสร็จแล้ว: ผ่านสะสม 9 โดเมน (รอบนี้พบใหม่ 8 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน

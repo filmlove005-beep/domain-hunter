@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-10T01:13:02+00:00",
+ "scanned_at": "2026-11-10T14:15:09+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1235969,
  "results": [
@@ -14,7 +14,7 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 25.0,
-   "refdomains": 974,
+   "refdomains": 972,
    "quality_count": 9,
    "quality_top": [
     [
@@ -433,8 +433,8 @@
      "OWASP Seasides 2020 | Home"
     ],
     [
-     "20190425",
-     "About OWASP Seasides - OWASP SEASIDES"
+     "20210307",
+     "OWASP Seasides 2020 | Home"
     ]
    ],
    "gambling_wayback": [],
@@ -459,8 +459,8 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 23.0,
-   "refdomains": 1036,
-   "quality_count": 13,
+   "refdomains": 1033,
+   "quality_count": 14,
    "quality_top": [
     [
      "apple.com",
@@ -521,6 +521,11 @@
      "sitelike.org",
      64.0,
      24269
+    ],
+    [
+     "givesmart.com",
+     86.0,
+     20322
     ],
     [
      "cycloneshockey.com",
@@ -888,14 +893,6 @@
      "ProForce Sports Performance"
     ],
     [
-     "20190613",
-     "ProForce Sports Performance"
-    ],
-    [
-     "20180303",
-     "ProForce Sports Performance"
-    ],
-    [
      "20141030",
      "ProForce Sports Performance"
     ]
@@ -906,7 +903,7 @@
    "fails": [],
    "warns": [
     "DR 23 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 13 (เกณฑ์ผ่อน)"
+    "Backlink คุณภาพ 14 (เกณฑ์ผ่อน)"
    ],
    "verdict": "relaxed"
   },
@@ -1768,7 +1765,7 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 19.0,
-   "refdomains": 1067,
+   "refdomains": 1065,
    "quality_count": 16,
    "quality_top": [
     [
@@ -2117,7 +2114,7 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 18.0,
-   "refdomains": 994,
+   "refdomains": 987,
    "quality_count": 19,
    "quality_top": [
     [
@@ -2182,7 +2179,7 @@
     ],
     [
      "6amcity.com",
-     76.0,
+     77.0,
      35675
     ],
     [
@@ -2192,7 +2189,7 @@
     ],
     [
      "bringfido.ca",
-     30.0,
+     29.0,
      15505
     ],
     [
@@ -2616,7 +2613,7 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 18.0,
-   "refdomains": 920,
+   "refdomains": 913,
    "quality_count": 6,
    "quality_top": [
     [
@@ -2981,14 +2978,6 @@
     [
      "20251008",
      "難波の焼肉、蔓牛（つるぎゅう）接待に人気の個室も｜大阪の日本橋"
-    ],
-    [
-     "20250814",
-     "難波の焼肉、蔓牛（つるぎゅう）接待に人気の個室も｜大阪の日本橋"
-    ],
-    [
-     "20191220",
-     "大阪･難波の焼肉【蔓牛～つるぎゅう～】【忘年会におすすめ！】"
     ],
     [
      "20171230",
