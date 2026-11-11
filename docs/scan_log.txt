@@ -1,22 +1,20 @@
-2026-11-10 22:38:50 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-10 22:39:00 ได้รายการ expiring_auctions_non_adult: 1,243,989 โดเมน
-2026-11-10 22:39:01 รวมโดเมนจากทุกฟีด: 1,243,989 โดเมน (ไม่ซ้ำ)
-2026-11-10 22:39:03 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-10 22:39:03 ดึง DR จาก Ahrefs ...
-2026-11-10 22:39:03 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-11-10 22:39:03 เช็กเชิงลึก 12 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-10 22:39:19   geneticistinc.com: relaxed DR 19 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-10 22:39:45   hartingtons.com: relaxed DR 22 (เกณฑ์ผ่อน); Backlink คุณภาพ 12 (เกณฑ์ผ่อน)
-2026-11-10 22:40:11   dashichs.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-10 22:42:19   owaspseasides.com: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 9 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-10 22:43:27   ikinoato.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 17 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-10 22:43:48   izakaya-rishiri.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-10 22:44:11   nexterainnovations.com: relaxed DR 21 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-10 22:47:02   tsurugyu.com: Wayback ไม่ตอบ URLError: <urlopen error timed out>
-2026-11-10 22:47:32   theskitbit.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป skitbit.webflow.io
-2026-11-10 22:49:59   okinawa-foodlab.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-10 22:52:25   proforcesp.com: relaxed DR 23 (เกณฑ์ผ่อน); Backlink คุณภาพ 14 (เกณฑ์ผ่อน)
-2026-11-10 22:54:49   socially-app.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-10 22:54:54 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
-2026-11-10 22:57:21   tsurugyu.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 6 (เกณฑ์ผ่อน)
-2026-11-10 22:57:31 เสร็จแล้ว: ผ่านสะสม 11 โดเมน (รอบนี้พบใหม่ 9 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-11 03:42:36 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-11 03:42:53 ได้รายการ expiring_auctions_non_adult: 1,243,989 โดเมน
+2026-11-11 03:42:54 รวมโดเมนจากทุกฟีด: 1,243,989 โดเมน (ไม่ซ้ำ)
+2026-11-11 03:42:56 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-11 03:42:56 ดึง DR จาก Ahrefs ...
+2026-11-11 03:42:56 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-11-11 03:42:56 เช็กเชิงลึก 12 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-11 03:43:11   geneticistinc.com: relaxed DR 19 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-11 03:43:33   hartingtons.com: relaxed DR 22 (เกณฑ์ผ่อน); Backlink คุณภาพ 12 (เกณฑ์ผ่อน)
+2026-11-11 03:43:53   dashichs.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-11 03:45:56   owaspseasides.com: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 9 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-11 03:47:56   ikinoato.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 17 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-11 03:48:15   izakaya-rishiri.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-11 03:50:26   nexterainnovations.com: relaxed DR 21 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-11 03:52:29   tsurugyu.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 6 (เกณฑ์ผ่อน)
+2026-11-11 03:52:51   theskitbit.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป skitbit.webflow.io
+2026-11-11 03:53:13   okinawa-foodlab.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-11 03:53:55   proforcesp.com: relaxed DR 23 (เกณฑ์ผ่อน); Backlink คุณภาพ 14 (เกณฑ์ผ่อน)
+2026-11-11 03:55:54   socially-app.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-11 03:55:59 เสร็จแล้ว: ผ่านสะสม 11 โดเมน (รอบนี้พบใหม่ 9 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน

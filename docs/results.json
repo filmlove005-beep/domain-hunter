@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-10T22:57:31+00:00",
+ "scanned_at": "2026-11-11T03:55:59+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1243989,
  "results": [
@@ -430,10 +430,6 @@
     ],
     [
      "20230204",
-     "OWASP Seasides 2020 | Home"
-    ],
-    [
-     "20210307",
      "OWASP Seasides 2020 | Home"
     ],
     [
@@ -902,6 +898,10 @@
     ],
     [
      "20180303",
+     "ProForce Sports Performance"
+    ],
+    [
+     "20141030",
      "ProForce Sports Performance"
     ]
    ],
@@ -2258,7 +2258,7 @@
    "brand_keywords": [],
    "brand_checked": true,
    "first_seen": "20180717",
-   "last_active": "20210619",
+   "last_active": "20191214",
    "titles": [
     [
      "20260210",
@@ -2267,10 +2267,6 @@
     [
      "20241115",
      ""
-    ],
-    [
-     "20210619",
-     "Next Era Innovations"
     ],
     [
      "20191214",
@@ -2742,10 +2738,6 @@
     ],
     [
      "20191123",
-     "映画『息の跡』公式サイト"
-    ],
-    [
-     "20181101",
      "映画『息の跡』公式サイト"
     ],
     [
@@ -3978,12 +3970,6 @@
     "tsurugyu osaka"
    ],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 18 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 6 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20110702",
    "last_active": "20251209",
    "titles": [
@@ -4010,15 +3996,17 @@
     [
      "20150907",
      "大阪･難波の焼肉【蔓牛～つるぎゅう～】接待やデート、宴会に。"
-    ],
-    [
-     "20110702",
-     "大阪･日本橋の焼肉【蔓牛～つるぎゅう～】接待やデート、歓送迎会に。"
     ]
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 18 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 6 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "okinawa-foodlab.com",
@@ -4421,6 +4409,10 @@
     ],
     [
      "20210122",
+     "沖縄の人気グルメやイベント・観光などの情報発信沖縄フードラボ！"
+    ],
+    [
+     "20190721",
      "沖縄の人気グルメやイベント・観光などの情報発信沖縄フードラボ！"
     ]
    ],
