@@ -1,25 +1,25 @@
-2026-11-12 04:51:39 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-12 04:51:58 ได้รายการ expiring_auctions_non_adult: 1,253,564 โดเมน
-2026-11-12 04:51:58 รวมโดเมนจากทุกฟีด: 1,253,564 โดเมน (ไม่ซ้ำ)
-2026-11-12 04:52:00 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-12 04:52:00 ดึง DR จาก Ahrefs ...
-2026-11-12 04:52:01 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-11-12 04:52:01 เช็กเชิงลึก 14 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-12 04:52:17   geneticistinc.com: relaxed DR 19 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-12 04:52:37   godsquadchurch.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-12 04:54:44   hartingtons.com: relaxed DR 22 (เกณฑ์ผ่อน); Backlink คุณภาพ 12 (เกณฑ์ผ่อน)
-2026-11-12 04:55:05   dashichs.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-12 04:57:52   owaspseasides.com: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 10 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-12 04:59:15   ikinoato.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-11-12 04:59:42   izakaya-rishiri.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-12 05:02:00   woodlandhealthcaretraining.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-12 05:05:13   nexterainnovations.com: relaxed DR 21 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-12 05:07:29   tsurugyu.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 6 (เกณฑ์ผ่อน)
-2026-11-12 05:07:53   theskitbit.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป skitbit.webflow.io
-2026-11-12 05:09:51   okinawa-foodlab.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-12 05:11:16   ilfm-formation.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-11-12 05:12:08   proforcesp.com: relaxed DR 23 (เกณฑ์ผ่อน); Backlink คุณภาพ 14 (เกณฑ์ผ่อน)
-2026-11-12 05:12:13 รอ Wayback 2 นาที แล้วลองใหม่ 2 โดเมน ...
-2026-11-12 05:14:24   ikinoato.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 17 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-12 05:14:54   ilfm-formation.com: fail เคย Redirect ไป www.fondationpourlecole.org
-2026-11-12 05:15:04 เสร็จแล้ว: ผ่านสะสม 10 โดเมน (รอบนี้พบใหม่ 9 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-12 14:14:02 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-12 14:14:12 ได้รายการ expiring_auctions_non_adult: 1,253,564 โดเมน
+2026-11-12 14:14:13 รวมโดเมนจากทุกฟีด: 1,253,564 โดเมน (ไม่ซ้ำ)
+2026-11-12 14:14:14 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-12 14:14:14 ดึง DR จาก Ahrefs ...
+2026-11-12 14:14:14 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-11-12 14:14:14 เช็กเชิงลึก 15 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-12 14:14:34   mikadobeverly.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป fraksipan.com, smkn1-wnb.sch.id
+2026-11-12 14:14:59   geneticistinc.com: relaxed DR 19 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-12 14:15:32   godsquadchurch.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-12 14:18:19   hartingtons.com: relaxed DR 23 (เกณฑ์ผ่อน); Backlink คุณภาพ 12 (เกณฑ์ผ่อน)
+2026-11-12 14:18:44   dashichs.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-12 14:21:53   owaspseasides.com: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 10 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-12 14:23:49   ikinoato.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-11-12 14:24:23   izakaya-rishiri.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-12 14:27:08   woodlandhealthcaretraining.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-12 14:30:23   nexterainnovations.com: relaxed DR 21 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-12 14:32:37   tsurugyu.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 6 (เกณฑ์ผ่อน)
+2026-11-12 14:33:27   theskitbit.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป skitbit.webflow.io
+2026-11-12 14:36:14   okinawa-foodlab.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-12 14:38:33   ilfm-formation.com: fail เคย Redirect ไป www.fondationpourlecole.org
+2026-11-12 14:41:07   proforcesp.com: relaxed DR 24 (เกณฑ์ผ่อน); Backlink คุณภาพ 13 (เกณฑ์ผ่อน)
+2026-11-12 14:41:12 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
+2026-11-12 14:43:26   ikinoato.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 17 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-12 14:43:36 เสร็จแล้ว: ผ่านสะสม 10 โดเมน (รอบนี้พบใหม่ 9 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
