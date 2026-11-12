@@ -1,7 +1,7 @@
 {
- "scanned_at": "2026-11-11T13:35:38+00:00",
+ "scanned_at": "2026-11-12T00:10:55+00:00",
  "feed": "expiring_auctions_non_adult",
- "feed_total": 1243989,
+ "feed_total": 1253564,
  "results": [
   {
    "domain": "owaspseasides.com",
@@ -15,52 +15,57 @@
    "stage": "done",
    "dr": 25.0,
    "refdomains": 972,
-   "quality_count": 9,
+   "quality_count": 10,
    "quality_top": [
     [
      "github.com",
      97.0,
-     36290564
+     34745200
     ],
     [
      "netlify.app",
      93.0,
-     690892
+     722705
     ],
     [
      "brandfetch.com",
      73.0,
-     635769
+     598304
     ],
     [
      "about.me",
      90.0,
-     280125
-    ],
-    [
-     "hackmd.io",
-     83.0,
-     122198
+     262072
     ],
     [
      "fastly.net",
      81.0,
-     74659
+     123814
+    ],
+    [
+     "hackmd.io",
+     83.0,
+     121946
     ],
     [
      "siteprice.org",
      71.0,
-     35857
+     33409
     ],
     [
      "bugcrowd.com",
      83.0,
-     30974
+     31165
     ],
     [
      "sitelike.org",
      64.0,
-     24269
+     23261
+    ],
+    [
+     "synack.com",
+     73.0,
+     10493
     ]
    ],
    "edu_wiki": [],
@@ -429,7 +434,7 @@
      "OWASP Seasides 2020 | Home"
     ],
     [
-     "20210307",
+     "20230204",
      "OWASP Seasides 2020 | Home"
     ],
     [
@@ -443,7 +448,7 @@
    "fails": [],
    "warns": [
     "DR 25 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 9 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 10 (เกณฑ์ผ่อน)",
     "ไม่พบ Brand Search ในอดีต"
    ],
    "verdict": "relaxed"
@@ -458,79 +463,79 @@
    "majestic_tf": 0,
    "majestic_rd": 0,
    "stage": "done",
-   "dr": 23.0,
+   "dr": 25.0,
    "refdomains": 1033,
    "quality_count": 14,
    "quality_top": [
     [
      "apple.com",
      97.0,
-     431063104
-    ],
-    [
-     "appbrain.com",
-     76.0,
-     3350226
+     431650144
     ],
     [
      "squarespace.com",
      96.0,
-     3296844
+     3252742
+    ],
+    [
+     "appbrain.com",
+     76.0,
+     3185711
     ],
     [
      "fresha.com",
      91.0,
-     2323170
+     2282195
     ],
     [
      "wellhub.com",
      76.0,
-     1023515
+     954658
     ],
     [
      "birdeye.com",
      86.0,
-     915431
+     829394
     ],
     [
      "contactout.com",
      74.0,
-     138450
+     130171
     ],
     [
      "acast.com",
      90.0,
-     123840
+     117941
     ],
     [
      "atly.com",
      55.0,
-     120700
+     107721
     ],
     [
      "leadiq.com",
      71.0,
-     106804
+     100422
     ],
     [
      "siteprice.org",
      71.0,
-     35857
+     33409
     ],
     [
      "sitelike.org",
      64.0,
-     24269
+     23261
     ],
     [
      "givesmart.com",
      86.0,
-     20322
+     19290
     ],
     [
      "cycloneshockey.com",
      47.0,
-     16417
+     18019
     ]
    ],
    "edu_wiki": [],
@@ -893,14 +898,6 @@
      "ProForce Sports Performance"
     ],
     [
-     "20190613",
-     "ProForce Sports Performance"
-    ],
-    [
-     "20180303",
-     "ProForce Sports Performance"
-    ],
-    [
      "20141030",
      "ProForce Sports Performance"
     ]
@@ -910,8 +907,453 @@
    "wayback_checked": true,
    "fails": [],
    "warns": [
-    "DR 23 (เกณฑ์ผ่อน)",
+    "DR 25 (เกณฑ์ผ่อน)",
     "Backlink คุณภาพ 14 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "relaxed"
+  },
+  {
+   "domain": "hartingtons.com",
+   "link": "https://www.godaddy.com/domain-auctions/hartingtons-com-737308306?isc=json_expiring",
+   "price": 1.0,
+   "bids": 0,
+   "end_time": "2026-11-17T17:37:00Z",
+   "age": 15,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "done",
+   "dr": 23.0,
+   "refdomains": 901,
+   "quality_count": 12,
+   "quality_top": [
+    [
+     "ameblo.jp",
+     93.0,
+     12495364
+    ],
+    [
+     "telegraph.co.uk",
+     92.0,
+     4249528
+    ],
+    [
+     "thestar.co.uk",
+     74.0,
+     145945
+    ],
+    [
+     "finedininglovers.com",
+     73.0,
+     82137
+    ],
+    [
+     "cryptocompare.com",
+     78.0,
+     60950
+    ],
+    [
+     "bascofinefoods.com",
+     34.0,
+     46114
+    ],
+    [
+     "cheesemaking.com",
+     64.0,
+     41786
+    ],
+    [
+     "siteprice.org",
+     71.0,
+     33409
+    ],
+    [
+     "sitelike.org",
+     64.0,
+     23261
+    ],
+    [
+     "prima.co.uk",
+     63.0,
+     20627
+    ],
+    [
+     "sourdough.co.uk",
+     57.0,
+     14988
+    ],
+    [
+     "thecourtyarddairy.co.uk",
+     51.0,
+     10856
+    ]
+   ],
+   "edu_wiki": [],
+   "peak_traffic": 45,
+   "peak_date": "2021-12-01",
+   "traffic_history": [
+    [
+     "2021-12",
+     45
+    ],
+    [
+     "2022-01",
+     32
+    ],
+    [
+     "2022-02",
+     28
+    ],
+    [
+     "2022-03",
+     17
+    ],
+    [
+     "2022-04",
+     15
+    ],
+    [
+     "2022-05",
+     14
+    ],
+    [
+     "2022-06",
+     13
+    ],
+    [
+     "2022-07",
+     15
+    ],
+    [
+     "2022-08",
+     20
+    ],
+    [
+     "2022-09",
+     19
+    ],
+    [
+     "2022-10",
+     18
+    ],
+    [
+     "2022-11",
+     24
+    ],
+    [
+     "2022-12",
+     34
+    ],
+    [
+     "2023-01",
+     30
+    ],
+    [
+     "2023-02",
+     23
+    ],
+    [
+     "2023-03",
+     18
+    ],
+    [
+     "2023-04",
+     18
+    ],
+    [
+     "2023-05",
+     15
+    ],
+    [
+     "2023-06",
+     13
+    ],
+    [
+     "2023-07",
+     12
+    ],
+    [
+     "2023-08",
+     13
+    ],
+    [
+     "2023-09",
+     11
+    ],
+    [
+     "2023-10",
+     7
+    ],
+    [
+     "2023-11",
+     13
+    ],
+    [
+     "2023-12",
+     13
+    ],
+    [
+     "2024-01",
+     10
+    ],
+    [
+     "2024-02",
+     12
+    ],
+    [
+     "2024-03",
+     10
+    ],
+    [
+     "2024-04",
+     9
+    ],
+    [
+     "2024-05",
+     7
+    ],
+    [
+     "2024-06",
+     7
+    ],
+    [
+     "2024-07",
+     6
+    ],
+    [
+     "2024-08",
+     8
+    ],
+    [
+     "2024-09",
+     10
+    ],
+    [
+     "2024-10",
+     11
+    ],
+    [
+     "2024-11",
+     10
+    ],
+    [
+     "2024-12",
+     4
+    ],
+    [
+     "2025-01",
+     3
+    ],
+    [
+     "2025-02",
+     3
+    ],
+    [
+     "2025-03",
+     7
+    ],
+    [
+     "2025-04",
+     7
+    ],
+    [
+     "2025-05",
+     4
+    ],
+    [
+     "2025-06",
+     7
+    ],
+    [
+     "2025-07",
+     4
+    ],
+    [
+     "2025-08",
+     4
+    ],
+    [
+     "2025-09",
+     3
+    ],
+    [
+     "2025-10",
+     4
+    ],
+    [
+     "2025-11",
+     7
+    ],
+    [
+     "2025-12",
+     2
+    ],
+    [
+     "2026-01",
+     2
+    ],
+    [
+     "2026-02",
+     13
+    ],
+    [
+     "2026-03",
+     2
+    ],
+    [
+     "2026-04",
+     7
+    ],
+    [
+     "2026-05",
+     11
+    ],
+    [
+     "2026-06",
+     4
+    ],
+    [
+     "2026-07",
+     1
+    ]
+   ],
+   "top_keywords": [
+    [
+     "hartingtons",
+     1,
+     12
+    ],
+    [
+     "brewing courses",
+     7,
+     8
+    ],
+    [
+     "brewing courses uk",
+     6,
+     6
+    ],
+    [
+     "hartingtons",
+     2,
+     4
+    ],
+    [
+     "cheese making",
+     15,
+     4
+    ],
+    [
+     "brewing courses near me",
+     4,
+     3
+    ],
+    [
+     "cheese making course",
+     16,
+     2
+    ],
+    [
+     "brewing course",
+     5,
+     1
+    ],
+    [
+     "cookery courses sheffield",
+     8,
+     1
+    ],
+    [
+     "cookery classes sheffield",
+     12,
+     1
+    ],
+    [
+     "danny bryden",
+     8,
+     1
+    ],
+    [
+     "cookery courses derbyshire",
+     4,
+     1
+    ],
+    [
+     "beer making course",
+     7,
+     1
+    ],
+    [
+     "charcuterie course",
+     15,
+     1
+    ],
+    [
+     "beer brewing course",
+     5,
+     1
+    ],
+    [
+     "brewery courses",
+     9,
+     1
+    ],
+    [
+     "craft beer brewing course",
+     6,
+     0
+    ],
+    [
+     "foraging courses yorkshire",
+     21,
+     0
+    ],
+    [
+     "cheese making courses",
+     9,
+     0
+    ],
+    [
+     "cheese making class",
+     13,
+     0
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [
+    "hartingtons"
+   ],
+   "brand_checked": true,
+   "first_seen": "20111028",
+   "last_active": "20260928",
+   "titles": [
+    [
+     "20260928",
+     "Nimbus Hosting"
+    ],
+    [
+     "20250806",
+     "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
+    ],
+    [
+     "20210508",
+     "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
+    ],
+    [
+     "20140205",
+     "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
+    ],
+    [
+     "20111028",
+     "Cookery Courses &amp; Food Events in Bakewell - Hartingtons"
+    ]
+   ],
+   "gambling_wayback": [],
+   "ext_redirects": {},
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 23 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 12 (เกณฑ์ผ่อน)"
    ],
    "verdict": "relaxed"
   },
@@ -1319,455 +1761,6 @@
    "verdict": "relaxed"
   },
   {
-   "domain": "hartingtons.com",
-   "link": "https://www.godaddy.com/domain-auctions/hartingtons-com-737308306?isc=json_expiring",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-11-17T17:37:00Z",
-   "age": 15,
-   "majestic_tf": 0,
-   "majestic_rd": 0,
-   "stage": "done",
-   "dr": 22.0,
-   "refdomains": 901,
-   "quality_count": 12,
-   "quality_top": [
-    [
-     "ameblo.jp",
-     93.0,
-     13144448
-    ],
-    [
-     "telegraph.co.uk",
-     92.0,
-     4289039
-    ],
-    [
-     "thestar.co.uk",
-     74.0,
-     149986
-    ],
-    [
-     "finedininglovers.com",
-     73.0,
-     82692
-    ],
-    [
-     "cryptocompare.com",
-     78.0,
-     72237
-    ],
-    [
-     "bascofinefoods.com",
-     34.0,
-     51666
-    ],
-    [
-     "cheesemaking.com",
-     64.0,
-     46142
-    ],
-    [
-     "siteprice.org",
-     71.0,
-     35857
-    ],
-    [
-     "sitelike.org",
-     64.0,
-     24269
-    ],
-    [
-     "prima.co.uk",
-     63.0,
-     19778
-    ],
-    [
-     "sourdough.co.uk",
-     57.0,
-     15804
-    ],
-    [
-     "thecourtyarddairy.co.uk",
-     51.0,
-     14089
-    ]
-   ],
-   "edu_wiki": [],
-   "peak_traffic": 45,
-   "peak_date": "2021-12-01",
-   "traffic_history": [
-    [
-     "2021-12",
-     45
-    ],
-    [
-     "2022-01",
-     32
-    ],
-    [
-     "2022-02",
-     28
-    ],
-    [
-     "2022-03",
-     17
-    ],
-    [
-     "2022-04",
-     15
-    ],
-    [
-     "2022-05",
-     14
-    ],
-    [
-     "2022-06",
-     13
-    ],
-    [
-     "2022-07",
-     15
-    ],
-    [
-     "2022-08",
-     20
-    ],
-    [
-     "2022-09",
-     19
-    ],
-    [
-     "2022-10",
-     18
-    ],
-    [
-     "2022-11",
-     24
-    ],
-    [
-     "2022-12",
-     34
-    ],
-    [
-     "2023-01",
-     30
-    ],
-    [
-     "2023-02",
-     23
-    ],
-    [
-     "2023-03",
-     18
-    ],
-    [
-     "2023-04",
-     18
-    ],
-    [
-     "2023-05",
-     15
-    ],
-    [
-     "2023-06",
-     13
-    ],
-    [
-     "2023-07",
-     12
-    ],
-    [
-     "2023-08",
-     13
-    ],
-    [
-     "2023-09",
-     11
-    ],
-    [
-     "2023-10",
-     7
-    ],
-    [
-     "2023-11",
-     13
-    ],
-    [
-     "2023-12",
-     13
-    ],
-    [
-     "2024-01",
-     10
-    ],
-    [
-     "2024-02",
-     12
-    ],
-    [
-     "2024-03",
-     10
-    ],
-    [
-     "2024-04",
-     9
-    ],
-    [
-     "2024-05",
-     7
-    ],
-    [
-     "2024-06",
-     7
-    ],
-    [
-     "2024-07",
-     6
-    ],
-    [
-     "2024-08",
-     8
-    ],
-    [
-     "2024-09",
-     10
-    ],
-    [
-     "2024-10",
-     11
-    ],
-    [
-     "2024-11",
-     10
-    ],
-    [
-     "2024-12",
-     4
-    ],
-    [
-     "2025-01",
-     3
-    ],
-    [
-     "2025-02",
-     3
-    ],
-    [
-     "2025-03",
-     7
-    ],
-    [
-     "2025-04",
-     7
-    ],
-    [
-     "2025-05",
-     4
-    ],
-    [
-     "2025-06",
-     7
-    ],
-    [
-     "2025-07",
-     4
-    ],
-    [
-     "2025-08",
-     4
-    ],
-    [
-     "2025-09",
-     3
-    ],
-    [
-     "2025-10",
-     4
-    ],
-    [
-     "2025-11",
-     7
-    ],
-    [
-     "2025-12",
-     2
-    ],
-    [
-     "2026-01",
-     2
-    ],
-    [
-     "2026-02",
-     13
-    ],
-    [
-     "2026-03",
-     2
-    ],
-    [
-     "2026-04",
-     7
-    ],
-    [
-     "2026-05",
-     11
-    ],
-    [
-     "2026-06",
-     4
-    ],
-    [
-     "2026-07",
-     1
-    ]
-   ],
-   "top_keywords": [
-    [
-     "hartingtons",
-     1,
-     12
-    ],
-    [
-     "brewing courses",
-     7,
-     8
-    ],
-    [
-     "brewing courses uk",
-     6,
-     6
-    ],
-    [
-     "hartingtons",
-     2,
-     4
-    ],
-    [
-     "cheese making",
-     15,
-     4
-    ],
-    [
-     "brewing courses near me",
-     4,
-     3
-    ],
-    [
-     "cheese making course",
-     16,
-     2
-    ],
-    [
-     "brewing course",
-     5,
-     1
-    ],
-    [
-     "cookery courses sheffield",
-     8,
-     1
-    ],
-    [
-     "cookery classes sheffield",
-     12,
-     1
-    ],
-    [
-     "danny bryden",
-     8,
-     1
-    ],
-    [
-     "cookery courses derbyshire",
-     4,
-     1
-    ],
-    [
-     "beer making course",
-     7,
-     1
-    ],
-    [
-     "charcuterie course",
-     15,
-     1
-    ],
-    [
-     "beer brewing course",
-     5,
-     1
-    ],
-    [
-     "brewery courses",
-     9,
-     1
-    ],
-    [
-     "craft beer brewing course",
-     6,
-     0
-    ],
-    [
-     "foraging courses yorkshire",
-     21,
-     0
-    ],
-    [
-     "cheese making courses",
-     9,
-     0
-    ],
-    [
-     "cheese making class",
-     13,
-     0
-    ]
-   ],
-   "gambling_keywords": [],
-   "brand_keywords": [
-    "hartingtons"
-   ],
-   "brand_checked": true,
-   "first_seen": "20111028",
-   "last_active": "20260928",
-   "titles": [
-    [
-     "20260928",
-     "Nimbus Hosting"
-    ],
-    [
-     "20250806",
-     "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
-    ],
-    [
-     "20210508",
-     "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
-    ],
-    [
-     "20180727",
-     "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
-    ],
-    [
-     "20140205",
-     "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
-    ],
-    [
-     "20111028",
-     "Cookery Courses &amp; Food Events in Bakewell - Hartingtons"
-    ]
-   ],
-   "gambling_wayback": [],
-   "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 22 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 12 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "relaxed"
-  },
-  {
    "domain": "nexterainnovations.com",
    "link": "https://www.godaddy.com/domain-auctions/nexterainnovations-com-735904591?isc=json_expiring",
    "price": 1.0,
@@ -1779,132 +1772,132 @@
    "stage": "done",
    "dr": 21.0,
    "refdomains": 932,
-   "quality_count": 71,
+   "quality_count": 72,
    "quality_top": [
     [
      "cnn.com",
      93.0,
-     29854740
-    ],
-    [
-     "medium.com",
-     94.0,
-     15286524
+     29555668
     ],
     [
      "people.com",
      91.0,
-     15224679
+     14921311
+    ],
+    [
+     "medium.com",
+     94.0,
+     14315115
     ],
     [
      "cbsnews.com",
      92.0,
-     8606561
+     7565978
     ],
     [
      "abcnews.com",
      91.0,
-     5532171
+     6543474
     ],
     [
      "today.com",
      90.0,
-     3199862
-    ],
-    [
-     "telemundo.com",
-     77.0,
-     1679426
-    ],
-    [
-     "iheart.com",
-     91.0,
-     1496996
-    ],
-    [
-     "univision.com",
-     83.0,
-     1490398
+     3048470
     ],
     [
      "tvanouvelles.ca",
      77.0,
-     1474432
+     1607160
+    ],
+    [
+     "iheart.com",
+     91.0,
+     1428790
+    ],
+    [
+     "univision.com",
+     83.0,
+     1414349
+    ],
+    [
+     "telemundo.com",
+     77.0,
+     1255411
+    ],
+    [
+     "breitbart.com",
+     82.0,
+     719127
     ],
     [
      "nbcwashington.com",
      81.0,
-     461159
-    ],
-    [
-     "nbcchicago.com",
-     82.0,
-     457288
-    ],
-    [
-     "nbcboston.com",
-     80.0,
-     453726
+     497476
     ],
     [
      "nbcmiami.com",
      80.0,
-     442814
+     435894
     ],
     [
      "fox4news.com",
      78.0,
-     411301
+     406207
     ],
     [
      "fox2detroit.com",
      79.0,
-     409239
+     373228
+    ],
+    [
+     "nbcchicago.com",
+     82.0,
+     372575
     ],
     [
      "fox5atlanta.com",
      80.0,
-     334552
+     297472
     ],
     [
      "fox13news.com",
      80.0,
-     307138
-    ],
-    [
-     "nbclosangeles.com",
-     82.0,
-     300651
+     296112
     ],
     [
      "fox9.com",
      78.0,
-     283419
-    ],
-    [
-     "nbcdfw.com",
-     82.0,
-     280501
+     273648
     ],
     [
      "epochtimes.com",
      79.0,
-     280397
+     273551
     ],
     [
-     "fox5ny.com",
-     79.0,
-     246671
+     "nbcdfw.com",
+     82.0,
+     261171
+    ],
+    [
+     "nbclosangeles.com",
+     82.0,
+     260682
     ],
     [
      "nbcnewyork.com",
      84.0,
-     241553
+     257101
     ],
     [
-     "nbcsandiego.com",
-     80.0,
-     240378
+     "wfaa.com",
+     81.0,
+     235053
+    ],
+    [
+     "fox5ny.com",
+     79.0,
+     226315
     ]
    ],
    "edu_wiki": [],
@@ -2261,6 +2254,10 @@
    "last_active": "20210619",
    "titles": [
     [
+     "20260210",
+     ""
+    ],
+    [
      "20241115",
      ""
     ],
@@ -2270,14 +2267,6 @@
     ],
     [
      "20191214",
-     "Next Era Innovations"
-    ],
-    [
-     "20190406",
-     "Next Era Innovations"
-    ],
-    [
-     "20180717",
      "Next Era Innovations"
     ]
    ],
@@ -2308,87 +2297,87 @@
     [
      "ameblo.jp",
      93.0,
-     13144448
+     12495364
     ],
     [
      "jorudan.co.jp",
      80.0,
-     3107656
+     3105927
     ],
     [
      "natalie.mu",
      80.0,
-     1764012
+     1977430
     ],
     [
      "pia.jp",
      89.0,
-     1610723
+     1599282
     ],
     [
      "cinematoday.jp",
      74.0,
-     582131
+     555244
     ],
     [
      "ur-net.go.jp",
      76.0,
-     414373
-    ],
-    [
-     "go2senkyo.com",
-     75.0,
-     222933
+     408802
     ],
     [
      "jfdb.jp",
      49.0,
-     208665
+     201780
     ],
     [
      "coocan.jp",
      86.0,
-     206221
+     199460
+    ],
+    [
+     "go2senkyo.com",
+     75.0,
+     198746
     ],
     [
      "artscape.jp",
      71.0,
-     190030
+     195824
     ],
     [
      "cinemacafe.net",
      70.0,
-     130954
+     109095
     ],
     [
      "bijutsutecho.com",
-     75.0,
-     66595
+     74.0,
+     64833
     ],
     [
      "cinra.net",
      73.0,
-     37484
+     34048
     ],
     [
      "siteprice.org",
      71.0,
-     35857
+     33409
     ],
     [
      "ofdb.de",
      62.0,
-     31673
+     31065
     ],
     [
      "sitelike.org",
      64.0,
-     24269
+     23261
     ],
     [
      "icotaku.com",
      37.0,
-     19466
+     17597
     ]
    ],
    "edu_wiki": [],
@@ -2721,22 +2710,11 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 20 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 17 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20161129",
    "last_active": "20260716",
    "titles": [
     [
      "20260716",
-     "映画『息の跡』公式サイト"
-    ],
-    [
-     "20260210",
      "映画『息の跡』公式サイト"
     ],
     [
@@ -2758,7 +2736,14 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 20 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 17 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "geneticistinc.com",
@@ -2777,82 +2762,82 @@
     [
      "wikipedia.org",
      97.0,
-     3468693248
+     3331756032
     ],
     [
      "mawdoo3.com",
      77.0,
-     2925455
+     2813382
     ],
     [
      "crunchbase.com",
      91.0,
-     2503294
+     2194499
     ],
     [
      "rochester.edu",
      89.0,
-     896790
+     867838
     ],
     [
      "webflow.com",
      92.0,
-     826602
+     824365
     ],
     [
      "wikiwand.com",
      85.0,
-     319475
-    ],
-    [
-     "contactout.com",
-     74.0,
-     138450
+     280046
     ],
     [
      "slideserve.com",
      77.0,
-     117910
+     135974
+    ],
+    [
+     "contactout.com",
+     74.0,
+     130171
     ],
     [
      "theorg.com",
      76.0,
-     112027
+     101020
     ],
     [
      "leadiq.com",
      71.0,
-     106804
-    ],
-    [
-     "ligue-cancer.net",
-     80.0,
-     68193
+     100422
     ],
     [
      "nou.edu.ng",
      69.0,
-     61756
+     65202
+    ],
+    [
+     "ligue-cancer.net",
+     80.0,
+     64137
     ],
     [
      "waikato.ac.nz",
      80.0,
-     31096
+     30281
     ],
     [
      "10xgenomics.com",
      76.0,
-     27903
+     27360
     ],
     [
      "nusantics.com",
-     27.0,
-     16358
+     28.0,
+     15815
     ],
     [
      "stm.com.tr",
      57.0,
-     10012
+     10359
     ]
    ],
    "edu_wiki": [
@@ -3074,11 +3059,11 @@
    "last_active": "20220107",
    "titles": [
     [
-     "20251214",
+     "20261104",
      ""
     ],
     [
-     "20241123",
+     "20251214",
      ""
     ],
     [
@@ -3126,97 +3111,97 @@
     [
      "substack.com",
      94.0,
-     7366151
+     6876458
     ],
     [
      "opentable.com",
      92.0,
-     3354839
+     3609733
     ],
     [
      "squarespace.com",
      96.0,
-     3296844
+     3252742
     ],
     [
      "yellowpages.com",
      90.0,
-     2246668
+     1916749
     ],
     [
      "wanderlog.com",
      78.0,
-     1365981
+     1213074
     ],
     [
      "bringfido.com",
      77.0,
-     464783
+     421576
     ],
     [
      "mindtrip.ai",
      71.0,
-     319090
+     290088
     ],
     [
      "happycow.net",
      79.0,
-     233562
+     224547
     ],
     [
      "atly.com",
      55.0,
-     120700
+     107721
     ],
     [
      "menuweb.menu",
      50.0,
-     51958
+     48585
     ],
     [
      "beerfordriving.com",
      33.0,
-     39020
+     36817
+    ],
+    [
+     "6amcity.com",
+     76.0,
+     36102
     ],
     [
      "vota.org",
      25.0,
-     37382
-    ],
-    [
-     "6amcity.com",
-     77.0,
-     35675
-    ],
-    [
-     "postcard.inc",
-     41.0,
-     17633
-    ],
-    [
-     "bringfido.ca",
-     29.0,
-     15505
-    ],
-    [
-     "menupix.com",
-     64.0,
-     15248
-    ],
-    [
-     "thecitysidewalks.com",
-     18.0,
-     15245
+     34703
     ],
     [
      "nears.me",
      28.0,
-     15147
+     20774
+    ],
+    [
+     "postcard.inc",
+     41.0,
+     15275
     ],
     [
      "trivianearme.net",
      28.0,
-     13361
+     14191
+    ],
+    [
+     "menupix.com",
+     64.0,
+     13556
+    ],
+    [
+     "thecitysidewalks.com",
+     18.0,
+     13438
+    ],
+    [
+     "bringfido.ca",
+     29.0,
+     13140
     ]
    ],
    "edu_wiki": [],
@@ -3625,32 +3610,32 @@
     [
      "tabelog.com",
      91.0,
-     27006138
+     26736752
     ],
     [
      "wanderlog.com",
      78.0,
-     1365981
+     1213074
     ],
     [
      "dime.jp",
      77.0,
-     641538
+     653614
     ],
     [
      "aumo.jp",
      72.0,
-     174571
+     160419
     ],
     [
      "siteprice.org",
      71.0,
-     35857
+     33409
     ],
     [
      "postcard.inc",
      41.0,
-     17633
+     15275
     ]
    ],
    "edu_wiki": [],
@@ -3974,12 +3959,6 @@
     "tsurugyu osaka"
    ],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 18 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 6 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20110702",
    "last_active": "20251209",
    "titles": [
@@ -4000,10 +3979,6 @@
      "大阪･難波の焼肉【蔓牛～つるぎゅう～】【忘年会におすすめ！】"
     ],
     [
-     "20171230",
-     "大阪･難波の焼肉【蔓牛～つるぎゅう～】接待に"
-    ],
-    [
      "20150907",
      "大阪･難波の焼肉【蔓牛～つるぎゅう～】接待やデート、宴会に。"
     ],
@@ -4014,7 +3989,13 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 18 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 6 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "okinawa-foodlab.com",
@@ -4033,17 +4014,17 @@
     [
      "siteprice.org",
      71.0,
-     35857
+     33409
     ],
     [
      "sitelike.org",
      64.0,
-     24269
+     23261
     ],
     [
      "golfscale.jp",
      0.9,
-     21148
+     20161
     ]
    ],
    "edu_wiki": [],
@@ -4408,7 +4389,7 @@
      "沖縄の人気グルメやイベント・観光などの情報発信沖縄フードラボ！"
     ],
     [
-     "20240613",
+     "20220301",
      "沖縄の人気グルメやイベント・観光などの情報発信沖縄フードラボ！"
     ],
     [
@@ -4427,351 +4408,6 @@
    "warns": [
     "DR 17 (เกณฑ์ผ่อน)",
     "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed"
-  },
-  {
-   "domain": "izakaya-rishiri.com",
-   "link": "https://www.godaddy.com/domain-auctions/izakaya-rishiri-com-735779147?isc=json_expiring",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-11-11T17:50:00Z",
-   "age": 6,
-   "majestic_tf": 0,
-   "majestic_rd": 0,
-   "stage": "done",
-   "dr": 15.0,
-   "refdomains": 978,
-   "quality_count": 4,
-   "quality_top": [
-    [
-     "tabelog.com",
-     91.0,
-     26666316
-    ],
-    [
-     "wanderlog.com",
-     78.0,
-     1472976
-    ],
-    [
-     "brutus.jp",
-     71.0,
-     35193
-    ],
-    [
-     "sakenomy.jp",
-     48.0,
-     11860
-    ]
-   ],
-   "edu_wiki": [],
-   "peak_traffic": 28,
-   "peak_date": "2024-10-01",
-   "traffic_history": [
-    [
-     "2021-12",
-     6
-    ],
-    [
-     "2022-01",
-     5
-    ],
-    [
-     "2022-02",
-     5
-    ],
-    [
-     "2022-03",
-     6
-    ],
-    [
-     "2022-04",
-     7
-    ],
-    [
-     "2022-05",
-     6
-    ],
-    [
-     "2022-06",
-     11
-    ],
-    [
-     "2022-07",
-     6
-    ],
-    [
-     "2022-08",
-     12
-    ],
-    [
-     "2022-09",
-     18
-    ],
-    [
-     "2022-10",
-     9
-    ],
-    [
-     "2022-11",
-     6
-    ],
-    [
-     "2022-12",
-     10
-    ],
-    [
-     "2023-01",
-     6
-    ],
-    [
-     "2023-02",
-     6
-    ],
-    [
-     "2023-03",
-     10
-    ],
-    [
-     "2023-04",
-     10
-    ],
-    [
-     "2023-05",
-     20
-    ],
-    [
-     "2023-06",
-     7
-    ],
-    [
-     "2023-07",
-     6
-    ],
-    [
-     "2023-08",
-     9
-    ],
-    [
-     "2023-09",
-     5
-    ],
-    [
-     "2023-10",
-     18
-    ],
-    [
-     "2023-11",
-     13
-    ],
-    [
-     "2023-12",
-     13
-    ],
-    [
-     "2024-01",
-     15
-    ],
-    [
-     "2024-02",
-     12
-    ],
-    [
-     "2024-03",
-     7
-    ],
-    [
-     "2024-04",
-     4
-    ],
-    [
-     "2024-05",
-     4
-    ],
-    [
-     "2024-06",
-     1
-    ],
-    [
-     "2024-07",
-     0
-    ],
-    [
-     "2024-08",
-     0
-    ],
-    [
-     "2024-09",
-     7
-    ],
-    [
-     "2024-10",
-     28
-    ],
-    [
-     "2024-11",
-     12
-    ],
-    [
-     "2024-12",
-     0
-    ],
-    [
-     "2025-01",
-     0
-    ],
-    [
-     "2025-02",
-     0
-    ],
-    [
-     "2025-03",
-     0
-    ],
-    [
-     "2025-04",
-     0
-    ],
-    [
-     "2025-05",
-     0
-    ],
-    [
-     "2025-06",
-     0
-    ],
-    [
-     "2025-07",
-     0
-    ],
-    [
-     "2025-08",
-     0
-    ],
-    [
-     "2025-09",
-     0
-    ],
-    [
-     "2025-10",
-     0
-    ],
-    [
-     "2025-11",
-     0
-    ],
-    [
-     "2025-12",
-     0
-    ],
-    [
-     "2026-01",
-     0
-    ],
-    [
-     "2026-02",
-     0
-    ],
-    [
-     "2026-03",
-     0
-    ],
-    [
-     "2026-04",
-     0
-    ],
-    [
-     "2026-05",
-     0
-    ],
-    [
-     "2026-06",
-     0
-    ],
-    [
-     "2026-07",
-     0
-    ],
-    [
-     "2026-08",
-     0
-    ],
-    [
-     "2026-09",
-     0
-    ],
-    [
-     "2026-10",
-     0
-    ],
-    [
-     "2026-11",
-     0
-    ]
-   ],
-   "top_keywords": [
-    [
-     "りしり",
-     1,
-     30
-    ],
-    [
-     "東川町 グルメ",
-     26,
-     0
-    ],
-    [
-     "黒豆 甘さ控えめ",
-     50,
-     0
-    ],
-    [
-     "利しり",
-     39,
-     0
-    ],
-    [
-     "忘年会 北海道",
-     92,
-     0
-    ]
-   ],
-   "gambling_keywords": [],
-   "brand_keywords": [],
-   "brand_checked": true,
-   "first_seen": "20210419",
-   "last_active": "20260716",
-   "titles": [
-    [
-     "20260716",
-     "居酒屋りしり 東川町"
-    ],
-    [
-     "20260615",
-     "居酒屋りしり 東川町"
-    ],
-    [
-     "20250814",
-     "居酒屋りしり 東川町"
-    ],
-    [
-     "20221207",
-     "居酒屋りしり 東川町"
-    ],
-    [
-     "20210419",
-     "居酒屋りしり 東川町"
-    ]
-   ],
-   "gambling_wayback": [],
-   "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 15 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 4 (เกณฑ์ผ่อน)",
     "ไม่พบ Brand Search ในอดีต"
    ],
    "verdict": "relaxed"
