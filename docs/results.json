@@ -1,8 +1,908 @@
 {
- "scanned_at": "2026-11-12T14:43:36+00:00",
+ "scanned_at": "2026-11-12T23:18:57+00:00",
  "feed": "expiring_auctions_non_adult",
- "feed_total": 1253564,
+ "feed_total": 1314211,
  "results": [
+  {
+   "domain": "houstonconsortium.com",
+   "link": "https://www.godaddy.com/domain-auctions/houstonconsortium-com-738171175?isc=json_expiring",
+   "price": 1.0,
+   "bids": 0,
+   "end_time": "2026-11-21T16:25:00Z",
+   "age": 9,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "done",
+   "dr": 31.0,
+   "refdomains": 1391,
+   "quality_count": 31,
+   "quality_top": [
+    [
+     "texas.gov",
+     92.0,
+     4111061
+    ],
+    [
+     "theconversation.com",
+     91.0,
+     1981301
+    ],
+    [
+     "arcgis.com",
+     92.0,
+     1245969
+    ],
+    [
+     "tamu.edu",
+     90.0,
+     1096772
+    ],
+    [
+     "colorado.edu",
+     90.0,
+     863948
+    ],
+    [
+     "mdpi.com",
+     93.0,
+     751664
+    ],
+    [
+     "lamar.edu",
+     75.0,
+     529058
+    ],
+    [
+     "cmu.edu",
+     91.0,
+     289442
+    ],
+    [
+     "courthousenews.com",
+     83.0,
+     282524
+    ],
+    [
+     "copernicus.org",
+     88.0,
+     234393
+    ],
+    [
+     "tufts.edu",
+     89.0,
+     229407
+    ],
+    [
+     "rice.edu",
+     86.0,
+     216319
+    ],
+    [
+     "khou.com",
+     79.0,
+     190237
+    ],
+    [
+     "houstonchronicle.com",
+     85.0,
+     137941
+    ],
+    [
+     "abc10.com",
+     77.0,
+     122448
+    ],
+    [
+     "chron.com",
+     90.0,
+     116960
+    ],
+    [
+     "uri.edu",
+     83.0,
+     76734
+    ],
+    [
+     "grokipedia.com",
+     79.0,
+     57406
+    ],
+    [
+     "inkl.com",
+     74.0,
+     54880
+    ],
+    [
+     "fox61.com",
+     75.0,
+     48844
+    ],
+    [
+     "preventionweb.net",
+     80.0,
+     41513
+    ],
+    [
+     "talkingpointsmemo.com",
+     78.0,
+     37634
+    ],
+    [
+     "urban.org",
+     87.0,
+     34691
+    ],
+    [
+     "firststreet.org",
+     76.0,
+     33735
+    ],
+    [
+     "siteprice.org",
+     71.0,
+     33409
+    ]
+   ],
+   "edu_wiki": [
+    "texas.gov",
+    "tamu.edu",
+    "colorado.edu",
+    "lamar.edu",
+    "cmu.edu",
+    "tufts.edu",
+    "rice.edu",
+    "uri.edu",
+    "uhcl.edu"
+   ],
+   "peak_traffic": 246,
+   "peak_date": "2024-10-01",
+   "traffic_history": [
+    [
+     "2021-12",
+     18
+    ],
+    [
+     "2022-01",
+     37
+    ],
+    [
+     "2022-02",
+     41
+    ],
+    [
+     "2022-03",
+     57
+    ],
+    [
+     "2022-04",
+     51
+    ],
+    [
+     "2022-05",
+     48
+    ],
+    [
+     "2022-06",
+     48
+    ],
+    [
+     "2022-07",
+     37
+    ],
+    [
+     "2022-08",
+     40
+    ],
+    [
+     "2022-09",
+     46
+    ],
+    [
+     "2022-10",
+     42
+    ],
+    [
+     "2022-11",
+     45
+    ],
+    [
+     "2022-12",
+     26
+    ],
+    [
+     "2023-01",
+     46
+    ],
+    [
+     "2023-02",
+     50
+    ],
+    [
+     "2023-03",
+     50
+    ],
+    [
+     "2023-04",
+     66
+    ],
+    [
+     "2023-05",
+     59
+    ],
+    [
+     "2023-06",
+     43
+    ],
+    [
+     "2023-07",
+     38
+    ],
+    [
+     "2023-08",
+     29
+    ],
+    [
+     "2023-09",
+     27
+    ],
+    [
+     "2023-10",
+     32
+    ],
+    [
+     "2023-11",
+     30
+    ],
+    [
+     "2023-12",
+     24
+    ],
+    [
+     "2024-01",
+     38
+    ],
+    [
+     "2024-02",
+     61
+    ],
+    [
+     "2024-03",
+     73
+    ],
+    [
+     "2024-04",
+     159
+    ],
+    [
+     "2024-05",
+     69
+    ],
+    [
+     "2024-06",
+     72
+    ],
+    [
+     "2024-07",
+     111
+    ],
+    [
+     "2024-08",
+     120
+    ],
+    [
+     "2024-09",
+     184
+    ],
+    [
+     "2024-10",
+     246
+    ],
+    [
+     "2024-11",
+     81
+    ],
+    [
+     "2024-12",
+     54
+    ],
+    [
+     "2025-01",
+     60
+    ],
+    [
+     "2025-02",
+     72
+    ],
+    [
+     "2025-03",
+     59
+    ],
+    [
+     "2025-04",
+     68
+    ],
+    [
+     "2025-05",
+     156
+    ],
+    [
+     "2025-06",
+     81
+    ],
+    [
+     "2025-07",
+     12
+    ],
+    [
+     "2025-08",
+     43
+    ],
+    [
+     "2025-09",
+     72
+    ],
+    [
+     "2025-10",
+     48
+    ],
+    [
+     "2025-11",
+     27
+    ],
+    [
+     "2025-12",
+     17
+    ],
+    [
+     "2026-01",
+     9
+    ],
+    [
+     "2026-02",
+     13
+    ],
+    [
+     "2026-03",
+     9
+    ],
+    [
+     "2026-04",
+     17
+    ],
+    [
+     "2026-05",
+     12
+    ],
+    [
+     "2026-06",
+     12
+    ],
+    [
+     "2026-07",
+     13
+    ],
+    [
+     "2026-08",
+     12
+    ],
+    [
+     "2026-09",
+     5
+    ]
+   ],
+   "top_keywords": [
+    [
+     "what does storm surge mean",
+     13,
+     14
+    ],
+    [
+     "whats a storm surge",
+     12,
+     11
+    ],
+    [
+     "what is a storm surge warning",
+     5,
+     8
+    ],
+    [
+     "what is a flood warning",
+     8,
+     7
+    ],
+    [
+     "what causes storm surge",
+     13,
+     7
+    ],
+    [
+     "what is a storm surge",
+     26,
+     5
+    ],
+    [
+     "what is a storm.surge",
+     14,
+     5
+    ],
+    [
+     "how does storm surge work",
+     14,
+     4
+    ],
+    [
+     "flood warning systems",
+     1,
+     3
+    ],
+    [
+     "flood warning system",
+     6,
+     3
+    ],
+    [
+     "what does a storm surge mean",
+     13,
+     3
+    ],
+    [
+     "what is the storm surge",
+     13,
+     2
+    ],
+    [
+     "define storm surge",
+     14,
+     2
+    ],
+    [
+     "causes of storm surge",
+     14,
+     2
+    ],
+    [
+     "alert flood warning system",
+     6,
+     1
+    ],
+    [
+     "flood warning system",
+     9,
+     1
+    ],
+    [
+     "whats storm surge",
+     13,
+     1
+    ],
+    [
+     "flood monitoring and alerting system",
+     13,
+     1
+    ],
+    [
+     "stormwater detention basin",
+     11,
+     1
+    ],
+    [
+     "flood alert system",
+     10,
+     1
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [],
+   "brand_checked": true,
+   "first_seen": "20171102",
+   "last_active": "20261007",
+   "titles": [
+    [
+     "20261007",
+     "Resiliency through Collaboration - Greater Houston Flood Mitigation Consortium"
+    ],
+    [
+     "20260809",
+     "Resiliency through Collaboration - Greater Houston Flood Mitigation Consortium"
+    ],
+    [
+     "20240812",
+     "Resiliency through Collaboration - Greater Houston Flood Mitigation Consortium"
+    ],
+    [
+     "20220227",
+     "Resiliency through Collaboration - Greater Houston Flood Mitigation Consortium"
+    ],
+    [
+     "20190822",
+     "Resiliency through Collaboration - Greater Houston Flood Mitigation Consortium"
+    ],
+    [
+     "20171102",
+     "Resiliency through Collaboration - Greater Houston Flood Mitigation Consortium"
+    ]
+   ],
+   "gambling_wayback": [],
+   "ext_redirects": {},
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
+  },
+  {
+   "domain": "smartmoneycapital.com",
+   "link": "https://www.godaddy.com/domain-auctions/smartmoneycapital-com-738160514?isc=json_expiring",
+   "price": 1.0,
+   "bids": 0,
+   "end_time": "2026-11-21T20:12:00Z",
+   "age": 14,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "done",
+   "dr": 26.0,
+   "refdomains": 967,
+   "quality_count": 6,
+   "quality_top": [
+    [
+     "bbb.org",
+     93.0,
+     3518962
+    ],
+    [
+     "advfn.com",
+     75.0,
+     1213494
+    ],
+    [
+     "globenewswire.com",
+     92.0,
+     234758
+    ],
+    [
+     "chrome-stats.com",
+     69.0,
+     57429
+    ],
+    [
+     "scam-detector.com",
+     68.0,
+     23848
+    ],
+    [
+     "thecompanycheck.com",
+     56.0,
+     20535
+    ]
+   ],
+   "edu_wiki": [],
+   "peak_traffic": 812,
+   "peak_date": "2024-07-01",
+   "traffic_history": [
+    [
+     "2023-05",
+     0
+    ],
+    [
+     "2023-06",
+     0
+    ],
+    [
+     "2023-07",
+     0
+    ],
+    [
+     "2023-08",
+     6
+    ],
+    [
+     "2023-09",
+     13
+    ],
+    [
+     "2023-10",
+     8
+    ],
+    [
+     "2023-11",
+     8
+    ],
+    [
+     "2023-12",
+     6
+    ],
+    [
+     "2024-01",
+     9
+    ],
+    [
+     "2024-02",
+     19
+    ],
+    [
+     "2024-03",
+     240
+    ],
+    [
+     "2024-04",
+     297
+    ],
+    [
+     "2024-05",
+     259
+    ],
+    [
+     "2024-06",
+     519
+    ],
+    [
+     "2024-07",
+     812
+    ],
+    [
+     "2024-08",
+     629
+    ],
+    [
+     "2024-09",
+     497
+    ],
+    [
+     "2024-10",
+     631
+    ],
+    [
+     "2024-11",
+     490
+    ],
+    [
+     "2024-12",
+     413
+    ],
+    [
+     "2025-01",
+     416
+    ],
+    [
+     "2025-02",
+     474
+    ],
+    [
+     "2025-03",
+     419
+    ],
+    [
+     "2025-04",
+     345
+    ],
+    [
+     "2025-05",
+     429
+    ],
+    [
+     "2025-06",
+     243
+    ],
+    [
+     "2025-07",
+     211
+    ],
+    [
+     "2025-08",
+     192
+    ],
+    [
+     "2025-09",
+     261
+    ],
+    [
+     "2025-10",
+     354
+    ],
+    [
+     "2025-11",
+     234
+    ],
+    [
+     "2025-12",
+     276
+    ],
+    [
+     "2026-01",
+     306
+    ],
+    [
+     "2026-02",
+     71
+    ],
+    [
+     "2026-03",
+     35
+    ],
+    [
+     "2026-04",
+     27
+    ],
+    [
+     "2026-05",
+     25
+    ],
+    [
+     "2026-06",
+     27
+    ],
+    [
+     "2026-07",
+     27
+    ],
+    [
+     "2026-08",
+     22
+    ],
+    [
+     "2026-09",
+     18
+    ],
+    [
+     "2026-10",
+     4
+    ],
+    [
+     "2026-11",
+     12
+    ]
+   ],
+   "top_keywords": [
+    [
+     "smart money capital reviews",
+     1,
+     370
+    ],
+    [
+     "smart money capital",
+     1,
+     96
+    ],
+    [
+     "is smart money capital legit",
+     3,
+     11
+    ],
+    [
+     "smart money loan",
+     1,
+     8
+    ],
+    [
+     "mysmartmoneycapital.com",
+     2,
+     5
+    ],
+    [
+     "smart money loan",
+     4,
+     2
+    ],
+    [
+     "smart money capital reviews complaints",
+     4,
+     1
+    ],
+    [
+     "smart money loans",
+     9,
+     0
+    ],
+    [
+     "smart money website",
+     8,
+     0
+    ],
+    [
+     "capital personal loan",
+     25,
+     0
+    ],
+    [
+     "smart money reviews",
+     26,
+     0
+    ],
+    [
+     "capital credit loan",
+     25,
+     0
+    ],
+    [
+     "smart cash loan",
+     31,
+     0
+    ],
+    [
+     "capital personal loans",
+     33,
+     0
+    ],
+    [
+     "is smart money legit",
+     21,
+     0
+    ],
+    [
+     "smart money online",
+     30,
+     0
+    ],
+    [
+     "capital loans online",
+     30,
+     0
+    ],
+    [
+     "money smart loan",
+     35,
+     0
+    ],
+    [
+     "smart money reviews",
+     33,
+     0
+    ],
+    [
+     "smart money app",
+     47,
+     0
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [
+    "smart money capital reviews",
+    "smart money capital",
+    "is smart money capital legit",
+    "mysmartmoneycapital.com",
+    "smart money capital reviews complaints"
+   ],
+   "brand_checked": true,
+   "first_seen": "20010719",
+   "last_active": "20260714",
+   "titles": [
+    [
+     "20260714",
+     "Smart Money Capital"
+    ],
+    [
+     "20260607",
+     "Smart Money Capital"
+    ],
+    [
+     "20250912",
+     "Smart Money Capital"
+    ],
+    [
+     "20240919",
+     "Smart Money Capital"
+    ],
+    [
+     "20161007",
+     ""
+    ],
+    [
+     "20010719",
+     "Web Page Under Construction"
+    ]
+   ],
+   "gambling_wayback": [],
+   "ext_redirects": {},
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 26 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 6 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "relaxed"
+  },
   {
    "domain": "owaspseasides.com",
    "link": "https://www.godaddy.com/domain-auctions/owaspseasides-com-737586976?isc=json_expiring",
@@ -418,6 +1318,13 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 25 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 10 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed",
    "first_seen": "20190425",
    "last_active": "20260904",
    "titles": [
@@ -448,476 +1355,7 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 25 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 10 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed"
-  },
-  {
-   "domain": "proforcesp.com",
-   "link": "https://www.godaddy.com/domain-auctions/proforcesp-com-735872573?isc=json_expiring",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-11-12T20:57:00Z",
-   "age": 12,
-   "majestic_tf": 0,
-   "majestic_rd": 0,
-   "stage": "done",
-   "dr": 24.0,
-   "refdomains": 1033,
-   "quality_count": 13,
-   "quality_top": [
-    [
-     "apple.com",
-     97.0,
-     431650144
-    ],
-    [
-     "squarespace.com",
-     96.0,
-     3252742
-    ],
-    [
-     "fresha.com",
-     91.0,
-     2282195
-    ],
-    [
-     "wellhub.com",
-     76.0,
-     954658
-    ],
-    [
-     "birdeye.com",
-     86.0,
-     829394
-    ],
-    [
-     "contactout.com",
-     74.0,
-     130171
-    ],
-    [
-     "acast.com",
-     90.0,
-     117941
-    ],
-    [
-     "atly.com",
-     56.0,
-     107721
-    ],
-    [
-     "leadiq.com",
-     71.0,
-     100422
-    ],
-    [
-     "siteprice.org",
-     71.0,
-     33409
-    ],
-    [
-     "sitelike.org",
-     64.0,
-     23261
-    ],
-    [
-     "givesmart.com",
-     86.0,
-     19290
-    ],
-    [
-     "cycloneshockey.com",
-     47.0,
-     18019
-    ]
-   ],
-   "edu_wiki": [],
-   "peak_traffic": 245,
-   "peak_date": "2022-01-01",
-   "traffic_history": [
-    [
-     "2021-12",
-     129
-    ],
-    [
-     "2022-01",
-     245
-    ],
-    [
-     "2022-02",
-     140
-    ],
-    [
-     "2022-03",
-     210
-    ],
-    [
-     "2022-04",
-     141
-    ],
-    [
-     "2022-05",
-     118
-    ],
-    [
-     "2022-06",
-     92
-    ],
-    [
-     "2022-07",
-     113
-    ],
-    [
-     "2022-08",
-     105
-    ],
-    [
-     "2022-09",
-     106
-    ],
-    [
-     "2022-10",
-     100
-    ],
-    [
-     "2022-11",
-     87
-    ],
-    [
-     "2022-12",
-     77
-    ],
-    [
-     "2023-01",
-     102
-    ],
-    [
-     "2023-02",
-     114
-    ],
-    [
-     "2023-03",
-     90
-    ],
-    [
-     "2023-04",
-     81
-    ],
-    [
-     "2023-05",
-     126
-    ],
-    [
-     "2023-06",
-     122
-    ],
-    [
-     "2023-07",
-     131
-    ],
-    [
-     "2023-08",
-     118
-    ],
-    [
-     "2023-09",
-     121
-    ],
-    [
-     "2023-10",
-     168
-    ],
-    [
-     "2023-11",
-     175
-    ],
-    [
-     "2023-12",
-     153
-    ],
-    [
-     "2024-01",
-     118
-    ],
-    [
-     "2024-02",
-     126
-    ],
-    [
-     "2024-03",
-     140
-    ],
-    [
-     "2024-04",
-     86
-    ],
-    [
-     "2024-05",
-     82
-    ],
-    [
-     "2024-06",
-     102
-    ],
-    [
-     "2024-07",
-     82
-    ],
-    [
-     "2024-08",
-     54
-    ],
-    [
-     "2024-09",
-     67
-    ],
-    [
-     "2024-10",
-     84
-    ],
-    [
-     "2024-11",
-     51
-    ],
-    [
-     "2024-12",
-     39
-    ],
-    [
-     "2025-01",
-     91
-    ],
-    [
-     "2025-02",
-     96
-    ],
-    [
-     "2025-03",
-     81
-    ],
-    [
-     "2025-04",
-     69
-    ],
-    [
-     "2025-05",
-     82
-    ],
-    [
-     "2025-06",
-     53
-    ],
-    [
-     "2025-07",
-     66
-    ],
-    [
-     "2025-08",
-     60
-    ],
-    [
-     "2025-09",
-     63
-    ],
-    [
-     "2025-10",
-     41
-    ],
-    [
-     "2025-11",
-     23
-    ],
-    [
-     "2025-12",
-     9
-    ],
-    [
-     "2026-01",
-     6
-    ],
-    [
-     "2026-02",
-     3
-    ],
-    [
-     "2026-03",
-     13
-    ],
-    [
-     "2026-04",
-     15
-    ],
-    [
-     "2026-05",
-     14
-    ],
-    [
-     "2026-06",
-     6
-    ],
-    [
-     "2026-07",
-     0
-    ],
-    [
-     "2026-08",
-     0
-    ],
-    [
-     "2026-09",
-     0
-    ]
-   ],
-   "top_keywords": [
-    [
-     "proforce",
-     3,
-     78
-    ],
-    [
-     "sports performance",
-     9,
-     15
-    ],
-    [
-     "sports performance near me",
-     5,
-     12
-    ],
-    [
-     "sports performance jobs",
-     6,
-     8
-    ],
-    [
-     "sports performance training near me",
-     11,
-     6
-    ],
-    [
-     "baseball biceps",
-     5,
-     5
-    ],
-    [
-     "sports performance internships",
-     2,
-     5
-    ],
-    [
-     "proforce sports performance",
-     1,
-     4
-    ],
-    [
-     "youth sports training near me",
-     13,
-     3
-    ],
-    [
-     "rgb basketball academy",
-     4,
-     3
-    ],
-    [
-     "sport performance training",
-     12,
-     2
-    ],
-    [
-     "sports performance jobs near me",
-     6,
-     2
-    ],
-    [
-     "pro sports performance",
-     7,
-     2
-    ],
-    [
-     "ronnie grandison",
-     9,
-     2
-    ],
-    [
-     "sports performance",
-     9,
-     1
-    ],
-    [
-     "sport performance training near me",
-     13,
-     1
-    ],
-    [
-     "rgb basketball",
-     12,
-     1
-    ],
-    [
-     "baseball bicep",
-     5,
-     1
-    ],
-    [
-     "proforce athletics",
-     2,
-     1
-    ],
-    [
-     "pro performance athletics",
-     11,
-     1
-    ]
-   ],
-   "gambling_keywords": [],
-   "brand_keywords": [
-    "proforce sports performance"
-   ],
-   "brand_checked": true,
-   "first_seen": "20141030",
-   "last_active": "20251013",
-   "titles": [
-    [
-     "20251013",
-     "ProForce | We build dominate athletes"
-    ],
-    [
-     "20250428",
-     ""
-    ],
-    [
-     "20210717",
-     "ProForce Sports Performance"
-    ],
-    [
-     "20190613",
-     "ProForce Sports Performance"
-    ],
-    [
-     "20180303",
-     "ProForce Sports Performance"
-    ],
-    [
-     "20141030",
-     "ProForce Sports Performance"
-    ]
-   ],
-   "gambling_wayback": [],
-   "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 24 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 13 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "relaxed"
+   "wayback_checked": true
   },
   {
    "domain": "hartingtons.com",
@@ -1343,6 +1781,10 @@
     ],
     [
      "20210508",
+     "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
+    ],
+    [
+     "20180727",
      "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
     ],
     [
@@ -2273,7 +2715,7 @@
      "Next Era Innovations"
     ],
     [
-     "20190406",
+     "20191214",
      "Next Era Innovations"
     ],
     [
@@ -2721,13 +3163,6 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 20 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 17 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20161129",
    "last_active": "20260716",
    "titles": [
@@ -2758,7 +3193,14 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 20 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 17 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "geneticistinc.com",
@@ -3112,8 +3554,8 @@
   {
    "domain": "dashichs.com",
    "link": "https://www.godaddy.com/domain-auctions/dashichs-com-736143068?isc=json_expiring",
-   "price": 1.0,
-   "bids": 1,
+   "price": 11.0,
+   "bids": 3,
    "end_time": "2026-11-14T18:36:00Z",
    "age": 12,
    "majestic_tf": 0,
@@ -4416,10 +4858,6 @@
      "沖縄の人気グルメやイベント・観光などの情報発信沖縄フードラボ！"
     ],
     [
-     "20210122",
-     "沖縄の人気グルメやイベント・観光などの情報発信沖縄フードラボ！"
-    ],
-    [
      "20190721",
      "沖縄の人気グルメやイベント・観光などの情報発信沖縄フードラボ！"
     ]
@@ -4432,6 +4870,949 @@
     "DR 17 (เกณฑ์ผ่อน)",
     "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
     "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
+  },
+  {
+   "domain": "worldoftanksguide.com",
+   "link": "https://www.godaddy.com/domain-auctions/worldoftanksguide-com-738147723?isc=json_expiring",
+   "price": 1.0,
+   "bids": 0,
+   "end_time": "2026-11-21T16:00:00Z",
+   "age": 16,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "done",
+   "dr": 16.0,
+   "refdomains": 903,
+   "quality_count": 20,
+   "quality_top": [
+    [
+     "bluestacks.com",
+     85.0,
+     4987258
+    ],
+    [
+     "tweakers.net",
+     80.0,
+     2467049
+    ],
+    [
+     "macrumors.com",
+     87.0,
+     1240037
+    ],
+    [
+     "wykop.pl",
+     77.0,
+     1218446
+    ],
+    [
+     "suomi24.fi",
+     66.0,
+     873973
+    ],
+    [
+     "gry-online.pl",
+     71.0,
+     616972
+    ],
+    [
+     "pcgameshardware.de",
+     73.0,
+     230528
+    ],
+    [
+     "web.app",
+     91.0,
+     209046
+    ],
+    [
+     "tpu.ro",
+     26.0,
+     142554
+    ],
+    [
+     "sweclockers.com",
+     64.0,
+     98392
+    ],
+    [
+     "wargaming.net",
+     77.0,
+     72756
+    ],
+    [
+     "tanki.su",
+     67.0,
+     37825
+    ],
+    [
+     "estranky.cz",
+     83.0,
+     37655
+    ],
+    [
+     "siteprice.org",
+     71.0,
+     33409
+    ],
+    [
+     "helpforenglish.cz",
+     56.0,
+     33186
+    ],
+    [
+     "wot-life.com",
+     33.0,
+     29982
+    ],
+    [
+     "jeuxonline.info",
+     58.0,
+     28612
+    ],
+    [
+     "hardware.fr",
+     66.0,
+     20860
+    ],
+    [
+     "diskusjon.no",
+     45.0,
+     16538
+    ],
+    [
+     "overclockzone.com",
+     35.0,
+     14822
+    ]
+   ],
+   "edu_wiki": [],
+   "peak_traffic": 314,
+   "peak_date": "2021-12-01",
+   "traffic_history": [
+    [
+     "2021-12",
+     314
+    ],
+    [
+     "2022-01",
+     306
+    ],
+    [
+     "2022-02",
+     248
+    ],
+    [
+     "2022-03",
+     165
+    ],
+    [
+     "2022-04",
+     127
+    ],
+    [
+     "2022-05",
+     112
+    ],
+    [
+     "2022-06",
+     94
+    ],
+    [
+     "2022-07",
+     101
+    ],
+    [
+     "2022-08",
+     79
+    ],
+    [
+     "2022-09",
+     74
+    ],
+    [
+     "2022-10",
+     90
+    ],
+    [
+     "2022-11",
+     93
+    ],
+    [
+     "2022-12",
+     104
+    ],
+    [
+     "2023-01",
+     96
+    ],
+    [
+     "2023-02",
+     70
+    ],
+    [
+     "2023-03",
+     82
+    ],
+    [
+     "2023-04",
+     58
+    ],
+    [
+     "2023-05",
+     58
+    ],
+    [
+     "2023-06",
+     62
+    ],
+    [
+     "2023-07",
+     65
+    ],
+    [
+     "2023-08",
+     63
+    ],
+    [
+     "2023-09",
+     64
+    ],
+    [
+     "2023-10",
+     56
+    ],
+    [
+     "2023-11",
+     54
+    ],
+    [
+     "2023-12",
+     67
+    ],
+    [
+     "2024-01",
+     51
+    ],
+    [
+     "2024-02",
+     44
+    ],
+    [
+     "2024-03",
+     38
+    ],
+    [
+     "2024-04",
+     34
+    ],
+    [
+     "2024-05",
+     23
+    ],
+    [
+     "2024-06",
+     10
+    ],
+    [
+     "2024-07",
+     3
+    ],
+    [
+     "2024-08",
+     3
+    ],
+    [
+     "2024-09",
+     3
+    ],
+    [
+     "2024-10",
+     2
+    ],
+    [
+     "2024-11",
+     2
+    ],
+    [
+     "2024-12",
+     5
+    ],
+    [
+     "2025-01",
+     15
+    ],
+    [
+     "2025-02",
+     6
+    ],
+    [
+     "2025-03",
+     6
+    ],
+    [
+     "2025-04",
+     4
+    ],
+    [
+     "2025-05",
+     3
+    ],
+    [
+     "2025-06",
+     5
+    ],
+    [
+     "2025-07",
+     13
+    ],
+    [
+     "2025-08",
+     12
+    ],
+    [
+     "2025-09",
+     8
+    ],
+    [
+     "2025-10",
+     5
+    ],
+    [
+     "2025-11",
+     0
+    ],
+    [
+     "2025-12",
+     0
+    ],
+    [
+     "2026-01",
+     0
+    ],
+    [
+     "2026-02",
+     0
+    ],
+    [
+     "2026-03",
+     0
+    ],
+    [
+     "2026-04",
+     0
+    ],
+    [
+     "2026-05",
+     0
+    ],
+    [
+     "2026-06",
+     1
+    ],
+    [
+     "2026-07",
+     2
+    ],
+    [
+     "2026-08",
+     3
+    ],
+    [
+     "2026-09",
+     2
+    ],
+    [
+     "2026-10",
+     0
+    ]
+   ],
+   "top_keywords": [
+    [
+     "wot garage",
+     7,
+     35
+    ],
+    [
+     "wot garage",
+     4,
+     30
+    ],
+    [
+     "wot maps",
+     5,
+     16
+    ],
+    [
+     "wot map",
+     3,
+     15
+    ],
+    [
+     "tanks strategy",
+     2,
+     13
+    ],
+    [
+     "tanks guide",
+     5,
+     7
+    ],
+    [
+     "world of tanks tank guides",
+     6,
+     6
+    ],
+    [
+     "wot garage",
+     3,
+     4
+    ],
+    [
+     "world of tanks spg",
+     5,
+     3
+    ],
+    [
+     "world of tanks system requirements",
+     12,
+     3
+    ],
+    [
+     "world of tanks spg guide",
+     2,
+     3
+    ],
+    [
+     "spg world of tanks",
+     4,
+     2
+    ],
+    [
+     "world of tanks crew skill",
+     11,
+     2
+    ],
+    [
+     "spg wot",
+     4,
+     2
+    ],
+    [
+     "world of tanks garage",
+     1,
+     2
+    ],
+    [
+     "world of tanks system requirements",
+     12,
+     2
+    ],
+    [
+     "world of tanks type59",
+     15,
+     1
+    ],
+    [
+     "tank commander rank",
+     5,
+     1
+    ],
+    [
+     "wot map",
+     8,
+     1
+    ],
+    [
+     "wot maps",
+     2,
+     1
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [],
+   "brand_checked": true,
+   "first_seen": "20101106",
+   "last_active": "20251017",
+   "titles": [
+    [
+     "20251102",
+     ""
+    ],
+    [
+     "20251017",
+     "World of Tanks Strategy Guide"
+    ],
+    [
+     "20250815",
+     "World of Tanks Strategy Guide"
+    ],
+    [
+     "20200311",
+     "World of Tanks Strategy Guide"
+    ],
+    [
+     "20171203",
+     "World of Tanks Strategy Guide"
+    ],
+    [
+     "20150307",
+     "World of Tanks Strategy Guide"
+    ],
+    [
+     "20101106",
+     "World of Tanks Strategy Guide"
+    ]
+   ],
+   "gambling_wayback": [],
+   "ext_redirects": {},
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 16 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
+  },
+  {
+   "domain": "shadygrovefoods.com",
+   "link": "https://www.godaddy.com/domain-auctions/shadygrovefoods-com-738173711?isc=json_expiring",
+   "price": 1.0,
+   "bids": 0,
+   "end_time": "2026-11-21T19:13:00Z",
+   "age": 12,
+   "majestic_tf": 0,
+   "majestic_rd": 0,
+   "stage": "done",
+   "dr": 15.0,
+   "refdomains": 973,
+   "quality_count": 7,
+   "quality_top": [
+    [
+     "latimes.com",
+     92.0,
+     2780304
+    ],
+    [
+     "theinfatuation.com",
+     82.0,
+     573988
+    ],
+    [
+     "whatnow.com",
+     75.0,
+     28450
+    ],
+    [
+     "restaurantji.com",
+     80.0,
+     22012
+    ],
+    [
+     "postcard.inc",
+     41.0,
+     15275
+    ],
+    [
+     "menupix.com",
+     64.0,
+     13556
+    ],
+    [
+     "lbpost.com",
+     73.0,
+     11363
+    ]
+   ],
+   "edu_wiki": [],
+   "peak_traffic": 298,
+   "peak_date": "2022-07-01",
+   "traffic_history": [
+    [
+     "2021-12",
+     111
+    ],
+    [
+     "2022-01",
+     73
+    ],
+    [
+     "2022-02",
+     81
+    ],
+    [
+     "2022-03",
+     74
+    ],
+    [
+     "2022-04",
+     61
+    ],
+    [
+     "2022-05",
+     97
+    ],
+    [
+     "2022-06",
+     232
+    ],
+    [
+     "2022-07",
+     298
+    ],
+    [
+     "2022-08",
+     247
+    ],
+    [
+     "2022-09",
+     219
+    ],
+    [
+     "2022-10",
+     153
+    ],
+    [
+     "2022-11",
+     144
+    ],
+    [
+     "2022-12",
+     138
+    ],
+    [
+     "2023-01",
+     168
+    ],
+    [
+     "2023-02",
+     158
+    ],
+    [
+     "2023-03",
+     150
+    ],
+    [
+     "2023-04",
+     147
+    ],
+    [
+     "2023-05",
+     150
+    ],
+    [
+     "2023-06",
+     145
+    ],
+    [
+     "2023-07",
+     116
+    ],
+    [
+     "2023-08",
+     77
+    ],
+    [
+     "2023-09",
+     86
+    ],
+    [
+     "2023-10",
+     70
+    ],
+    [
+     "2023-11",
+     65
+    ],
+    [
+     "2023-12",
+     253
+    ],
+    [
+     "2024-01",
+     161
+    ],
+    [
+     "2024-02",
+     60
+    ],
+    [
+     "2024-03",
+     42
+    ],
+    [
+     "2024-04",
+     138
+    ],
+    [
+     "2024-05",
+     235
+    ],
+    [
+     "2024-06",
+     186
+    ],
+    [
+     "2024-07",
+     116
+    ],
+    [
+     "2024-08",
+     66
+    ],
+    [
+     "2024-09",
+     28
+    ],
+    [
+     "2024-10",
+     53
+    ],
+    [
+     "2024-11",
+     131
+    ],
+    [
+     "2024-12",
+     168
+    ],
+    [
+     "2025-01",
+     8
+    ],
+    [
+     "2025-02",
+     3
+    ],
+    [
+     "2025-03",
+     4
+    ],
+    [
+     "2025-04",
+     2
+    ],
+    [
+     "2025-05",
+     14
+    ],
+    [
+     "2025-06",
+     4
+    ],
+    [
+     "2025-07",
+     2
+    ],
+    [
+     "2025-08",
+     3
+    ],
+    [
+     "2025-09",
+     3
+    ],
+    [
+     "2025-10",
+     3
+    ],
+    [
+     "2025-11",
+     3
+    ],
+    [
+     "2025-12",
+     2
+    ],
+    [
+     "2026-01",
+     2
+    ],
+    [
+     "2026-02",
+     2
+    ],
+    [
+     "2026-03",
+     2
+    ],
+    [
+     "2026-04",
+     2
+    ],
+    [
+     "2026-05",
+     4
+    ],
+    [
+     "2026-06",
+     30
+    ],
+    [
+     "2026-07",
+     32
+    ],
+    [
+     "2026-08",
+     181
+    ],
+    [
+     "2026-09",
+     6
+    ],
+    [
+     "2026-10",
+     2
+    ],
+    [
+     "2026-11",
+     2
+    ]
+   ],
+   "top_keywords": [
+    [
+     "shady grove foods",
+     1,
+     236
+    ],
+    [
+     "shady grove bbq",
+     1,
+     32
+    ],
+    [
+     "shady grove",
+     18,
+     14
+    ],
+    [
+     "shadygrove.com",
+     6,
+     2
+    ],
+    [
+     "bbq catering los angeles",
+     10,
+     1
+    ],
+    [
+     "the shady grove",
+     13,
+     1
+    ],
+    [
+     "shady groce",
+     19,
+     1
+    ],
+    [
+     "shady grove menu",
+     10,
+     1
+    ],
+    [
+     "grove bbq",
+     13,
+     1
+    ],
+    [
+     "whole pigs for sale los angeles",
+     8,
+     1
+    ],
+    [
+     "shady groves",
+     12,
+     1
+    ],
+    [
+     "shady grive",
+     17,
+     0
+    ],
+    [
+     "grove foods",
+     6,
+     0
+    ],
+    [
+     "shady grov",
+     15,
+     0
+    ],
+    [
+     "shady gro",
+     14,
+     0
+    ],
+    [
+     "grove food",
+     17,
+     0
+    ],
+    [
+     "shaddy grove",
+     13,
+     0
+    ],
+    [
+     "shady grove hours",
+     19,
+     0
+    ],
+    [
+     "shady grovr",
+     15,
+     0
+    ],
+    [
+     "shady grove locations",
+     24,
+     0
+    ]
+   ],
+   "gambling_keywords": [],
+   "brand_keywords": [
+    "shady grove foods"
+   ],
+   "brand_checked": true,
+   "first_seen": "20150107",
+   "last_active": "20260607",
+   "titles": [
+    [
+     "20260607",
+     "Southern Bayou | BBQ Catering Services | Rib Catering | Lechon"
+    ],
+    [
+     "20260514",
+     "Southern Bayou | BBQ Catering Services | Rib Catering | Lechon"
+    ],
+    [
+     "20240812",
+     "Southern Bayou | BBQ Catering Services | Rib Catering | Lechon"
+    ],
+    [
+     "20220331",
+     ""
+    ],
+    [
+     "20190920",
+     "Shady Grove Foods | Just another WordPress site"
+    ],
+    [
+     "20150107",
+     "Shady Grove Foods | We cater. Cook for events. We will even be throwing events. Cajun food"
+    ]
+   ],
+   "gambling_wayback": [],
+   "ext_redirects": {},
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 15 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 7 (เกณฑ์ผ่อน)"
    ],
    "verdict": "relaxed"
   }
