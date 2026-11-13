@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-13T04:32:32+00:00",
+ "scanned_at": "2026-11-13T14:01:04+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1314211,
  "results": [
@@ -747,11 +747,11 @@
     ],
     [
      "2026-10",
-     4
+     15
     ],
     [
      "2026-11",
-     12
+     16
     ]
    ],
    "top_keywords": [
@@ -929,7 +929,7 @@
     ],
     [
      "brandfetch.com",
-     73.0,
+     74.0,
      621112
     ],
     [
@@ -1318,13 +1318,6 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 25 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 10 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20190425",
    "last_active": "20260904",
    "titles": [
@@ -1333,7 +1326,7 @@
      "OWASP Seasides 2020 | Home"
     ],
     [
-     "20260607",
+     "20260720",
      "OWASP Seasides 2020 | Home"
     ],
     [
@@ -1345,17 +1338,20 @@
      "OWASP Seasides 2020 | Home"
     ],
     [
-     "20210307",
-     "OWASP Seasides 2020 | Home"
-    ],
-    [
      "20190425",
      "About OWASP Seasides - OWASP SEASIDES"
     ]
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 25 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 10 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "hartingtons.com",
@@ -1784,7 +1780,7 @@
      "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
     ],
     [
-     "20140205",
+     "20180727",
      "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
     ],
     [
@@ -2246,7 +2242,7 @@
     ],
     [
      "today.com",
-     90.0,
+     91.0,
      3079937
     ],
     [
@@ -2286,7 +2282,7 @@
     ],
     [
      "fox2detroit.com",
-     79.0,
+     78.0,
      359103
     ],
     [
@@ -2326,7 +2322,7 @@
     ],
     [
      "nbclosangeles.com",
-     82.0,
+     83.0,
      258658
     ],
     [
@@ -2713,6 +2709,10 @@
     [
      "20191214",
      "Next Era Innovations"
+    ],
+    [
+     "20180717",
+     "Next Era Innovations"
     ]
    ],
    "gambling_wayback": [],
@@ -2781,7 +2781,7 @@
     ],
     [
      "go2senkyo.com",
-     76.0,
+     75.0,
      198951
     ],
     [
@@ -3164,10 +3164,6 @@
     ],
     [
      "20260210",
-     "映画『息の跡』公式サイト"
-    ],
-    [
-     "20240620",
      "映画『息の跡』公式サイト"
     ],
     [
@@ -3634,7 +3630,7 @@
     ],
     [
      "trivianearme.net",
-     29.0,
+     30.0,
      13298
     ],
     [
@@ -3649,7 +3645,7 @@
     ],
     [
      "bringfido.ca",
-     29.0,
+     30.0,
      12951
     ]
    ],
@@ -4023,10 +4019,6 @@
      "Dashi"
     ],
     [
-     "20191214",
-     "Dashi"
-    ],
-    [
      "20160209",
      "Dashi"
     ]
@@ -4068,7 +4060,7 @@
     ],
     [
      "dime.jp",
-     77.0,
+     78.0,
      659495
     ],
     [
@@ -4428,6 +4420,10 @@
      "大阪･難波の焼肉【蔓牛～つるぎゅう～】【忘年会におすすめ！】"
     ],
     [
+     "20171230",
+     "大阪･難波の焼肉【蔓牛～つるぎゅう～】接待に"
+    ],
+    [
      "20110702",
      "大阪･日本橋の焼肉【蔓牛～つるぎゅう～】接待やデート、歓送迎会に。"
     ]
@@ -4710,7 +4706,7 @@
     ],
     [
      "2026-10",
-     4
+     5
     ],
     [
      "2026-11",
@@ -4822,13 +4818,6 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 17 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20190721",
    "last_active": "20260617",
    "titles": [
@@ -4838,6 +4827,10 @@
     ],
     [
      "20260517",
+     "沖縄の人気グルメやイベント・観光などの情報発信沖縄フードラボ！"
+    ],
+    [
+     "20240613",
      "沖縄の人気グルメやイベント・観光などの情報発信沖縄フードラボ！"
     ],
     [
@@ -4855,7 +4848,14 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 17 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 3 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "worldoftanksguide.com",
@@ -5335,10 +5335,6 @@
     ],
     [
      "20200311",
-     "World of Tanks Strategy Guide"
-    ],
-    [
-     "20171203",
      "World of Tanks Strategy Guide"
     ],
     [
