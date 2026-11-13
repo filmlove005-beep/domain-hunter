@@ -1,24 +1,26 @@
-2026-11-13 13:37:31 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-13 13:37:50 ได้รายการ expiring_auctions_non_adult: 1,314,211 โดเมน
-2026-11-13 13:37:51 รวมโดเมนจากทุกฟีด: 1,314,211 โดเมน (ไม่ซ้ำ)
-2026-11-13 13:37:53 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-13 13:37:53 ดึง DR จาก Ahrefs ...
-2026-11-13 13:37:53 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
-2026-11-13 13:37:53 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-13 13:38:12   mikadobeverly.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป fraksipan.com, smkn1-wnb.sch.id
-2026-11-13 13:38:31   geneticistinc.com: relaxed DR 19 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-13 13:38:53   smartmoneycapital.com: relaxed DR 26 (เกณฑ์ผ่อน); Backlink คุณภาพ 6 (เกณฑ์ผ่อน)
-2026-11-13 13:41:04   godsquadchurch.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-13 13:43:09   hartingtons.com: relaxed DR 23 (เกณฑ์ผ่อน); Backlink คุณภาพ 12 (เกณฑ์ผ่อน)
-2026-11-13 13:43:31   shadygrovefoods.com: relaxed DR 15 (เกณฑ์ผ่อน); Backlink คุณภาพ 7 (เกณฑ์ผ่อน)
-2026-11-13 13:45:41   dashichs.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-13 13:47:47   owaspseasides.com: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 10 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-13 13:49:56   ikinoato.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 17 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-13 13:50:22   woodlandhealthcaretraining.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-13 13:53:15   nexterainnovations.com: relaxed DR 21 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-13 13:55:17   tsurugyu.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 6 (เกณฑ์ผ่อน)
-2026-11-13 13:55:38   houstonconsortium.com: relaxed ไม่พบ Brand Search ในอดีต
-2026-11-13 13:58:36   theskitbit.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป skitbit.webflow.io
-2026-11-13 13:58:57   okinawa-foodlab.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-13 14:00:59   worldoftanksguide.com: relaxed DR 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
-2026-11-13 14:01:04 เสร็จแล้ว: ผ่านสะสม 13 โดเมน (รอบนี้พบใหม่ 12 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-13 22:59:50 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-13 23:00:00 ได้รายการ expiring_auctions_non_adult: 1,294,405 โดเมน
+2026-11-13 23:00:00 รวมโดเมนจากทุกฟีด: 1,294,405 โดเมน (ไม่ซ้ำ)
+2026-11-13 23:00:01 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-13 23:00:01 ดึง DR จาก Ahrefs ...
+2026-11-13 23:00:02 Ahrefs ใช้งานได้ ได้ DR 40 โดเมน
+2026-11-13 23:00:02 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-13 23:00:22   goodcheapfooddelhi.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.yoyogigaia.com
+2026-11-13 23:03:50   mikadobeverly.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป fraksipan.com, smkn1-wnb.sch.id
+2026-11-13 23:04:12   geneticistinc.com: relaxed DR 19 (เกณฑ์ผ่อน); Backlink คุณภาพ 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-13 23:04:35   smartmoneycapital.com: relaxed DR 26 (เกณฑ์ผ่อน); Backlink คุณภาพ 6 (เกณฑ์ผ่อน)
+2026-11-13 23:07:01   godsquadchurch.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-13 23:09:14   hartingtons.com: relaxed DR 23 (เกณฑ์ผ่อน); Backlink คุณภาพ 12 (เกณฑ์ผ่อน)
+2026-11-13 23:09:34   shadygrovefoods.com: relaxed DR 15 (เกณฑ์ผ่อน); Backlink คุณภาพ 7 (เกณฑ์ผ่อน)
+2026-11-13 23:12:06   dashichs.com: relaxed DR 18 (เกณฑ์ผ่อน); Backlink คุณภาพ 19 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-13 23:12:26   owaspseasides.com: relaxed DR 25 (เกณฑ์ผ่อน); Backlink คุณภาพ 10 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-13 23:14:05   ikinoato.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-11-13 23:15:47   woodlandhealthcaretraining.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-13 23:18:02   nexterainnovations.com: relaxed DR 21 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-13 23:21:30   houstonconsortium.com: relaxed ไม่พบ Brand Search ในอดีต
+2026-11-13 23:23:44   theskitbit.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป skitbit.webflow.io
+2026-11-13 23:26:19   okinawa-foodlab.com: relaxed DR 17 (เกณฑ์ผ่อน); Backlink คุณภาพ 3 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-13 23:29:52   worldoftanksguide.com: relaxed DR 16 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-13 23:29:57 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
+2026-11-13 23:32:10   ikinoato.com: relaxed DR 20 (เกณฑ์ผ่อน); Backlink คุณภาพ 17 (เกณฑ์ผ่อน); ไม่พบ Brand Search ในอดีต
+2026-11-13 23:32:20 เสร็จแล้ว: ผ่านสะสม 12 โดเมน (รอบนี้พบใหม่ 11 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน

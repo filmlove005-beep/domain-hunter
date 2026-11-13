@@ -1,7 +1,7 @@
 {
- "scanned_at": "2026-11-13T14:01:04+00:00",
+ "scanned_at": "2026-11-13T23:32:20+00:00",
  "feed": "expiring_auctions_non_adult",
- "feed_total": 1314211,
+ "feed_total": 1294405,
  "results": [
   {
    "domain": "houstonconsortium.com",
@@ -496,12 +496,8 @@
    "brand_keywords": [],
    "brand_checked": true,
    "first_seen": "20171102",
-   "last_active": "20261007",
+   "last_active": "20260809",
    "titles": [
-    [
-     "20261007",
-     "Resiliency through Collaboration - Greater Houston Flood Mitigation Consortium"
-    ],
     [
      "20260809",
      "Resiliency through Collaboration - Greater Houston Flood Mitigation Consortium"
@@ -563,7 +559,7 @@
     ],
     [
      "chrome-stats.com",
-     69.0,
+     70.0,
      56339
     ],
     [
@@ -1338,6 +1334,10 @@
      "OWASP Seasides 2020 | Home"
     ],
     [
+     "20210307",
+     "OWASP Seasides 2020 | Home"
+    ],
+    [
      "20190425",
      "About OWASP Seasides - OWASP SEASIDES"
     ]
@@ -1784,8 +1784,8 @@
      "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
     ],
     [
-     "20111028",
-     "Cookery Courses &amp; Food Events in Bakewell - Hartingtons"
+     "20140205",
+     "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
     ]
    ],
    "gambling_wayback": [],
@@ -1795,409 +1795,6 @@
    "warns": [
     "DR 23 (เกณฑ์ผ่อน)",
     "Backlink คุณภาพ 12 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "relaxed"
-  },
-  {
-   "domain": "denvercatholicworkerhouse.org",
-   "link": "https://www.godaddy.com/domain-auctions/denvercatholicworkerhouse-org-736415107?isc=json_expiring",
-   "price": 1.0,
-   "bids": 0,
-   "end_time": "2026-11-13T16:45:00Z",
-   "age": 11,
-   "majestic_tf": 0,
-   "majestic_rd": 0,
-   "stage": "done",
-   "dr": 22.0,
-   "refdomains": 1195,
-   "quality_count": 9,
-   "quality_top": [
-    [
-     "bbb.org",
-     93.0,
-     3554979
-    ],
-    [
-     "gofundme.com",
-     92.0,
-     1490267
-    ],
-    [
-     "ravelry.com",
-     87.0,
-     411041
-    ],
-    [
-     "marquette.edu",
-     81.0,
-     139094
-    ],
-    [
-     "ncronline.org",
-     78.0,
-     29924
-    ],
-    [
-     "siteprice.org",
-     71.0,
-     29353
-    ],
-    [
-     "scam-detector.com",
-     68.0,
-     23544
-    ],
-    [
-     "jcmh.org",
-     60.0,
-     13864
-    ],
-    [
-     "sirdar.com",
-     52.0,
-     11375
-    ]
-   ],
-   "edu_wiki": [
-    "marquette.edu"
-   ],
-   "peak_traffic": 3,
-   "peak_date": "2021-12-01",
-   "traffic_history": [
-    [
-     "2021-12",
-     3
-    ],
-    [
-     "2022-01",
-     0
-    ],
-    [
-     "2022-02",
-     1
-    ],
-    [
-     "2022-03",
-     0
-    ],
-    [
-     "2022-04",
-     0
-    ],
-    [
-     "2022-05",
-     0
-    ],
-    [
-     "2022-06",
-     0
-    ],
-    [
-     "2022-07",
-     0
-    ],
-    [
-     "2022-08",
-     0
-    ],
-    [
-     "2022-09",
-     0
-    ],
-    [
-     "2022-10",
-     1
-    ],
-    [
-     "2022-11",
-     1
-    ],
-    [
-     "2022-12",
-     1
-    ],
-    [
-     "2023-01",
-     1
-    ],
-    [
-     "2023-02",
-     1
-    ],
-    [
-     "2023-03",
-     1
-    ],
-    [
-     "2023-04",
-     1
-    ],
-    [
-     "2023-05",
-     0
-    ],
-    [
-     "2023-06",
-     0
-    ],
-    [
-     "2023-07",
-     1
-    ],
-    [
-     "2023-08",
-     1
-    ],
-    [
-     "2023-09",
-     1
-    ],
-    [
-     "2023-10",
-     1
-    ],
-    [
-     "2023-11",
-     1
-    ],
-    [
-     "2023-12",
-     1
-    ],
-    [
-     "2024-01",
-     1
-    ],
-    [
-     "2024-02",
-     1
-    ],
-    [
-     "2024-03",
-     1
-    ],
-    [
-     "2024-04",
-     1
-    ],
-    [
-     "2024-05",
-     0
-    ],
-    [
-     "2024-06",
-     0
-    ],
-    [
-     "2024-07",
-     1
-    ],
-    [
-     "2024-08",
-     0
-    ],
-    [
-     "2024-09",
-     0
-    ],
-    [
-     "2024-10",
-     0
-    ],
-    [
-     "2024-11",
-     0
-    ],
-    [
-     "2024-12",
-     0
-    ],
-    [
-     "2025-01",
-     0
-    ],
-    [
-     "2025-02",
-     0
-    ],
-    [
-     "2025-03",
-     0
-    ],
-    [
-     "2025-04",
-     0
-    ],
-    [
-     "2025-05",
-     0
-    ],
-    [
-     "2025-06",
-     0
-    ],
-    [
-     "2025-07",
-     0
-    ],
-    [
-     "2025-08",
-     0
-    ],
-    [
-     "2025-09",
-     0
-    ],
-    [
-     "2025-10",
-     0
-    ],
-    [
-     "2025-11",
-     0
-    ]
-   ],
-   "top_keywords": [
-    [
-     "the catholic worker",
-     4,
-     5
-    ],
-    [
-     "catholic worker house",
-     7,
-     1
-    ],
-    [
-     "catholic workers house",
-     7,
-     0
-    ],
-    [
-     "catholic worker house near me",
-     7,
-     0
-    ],
-    [
-     "worker house",
-     6,
-     0
-    ],
-    [
-     "denver catholic register newspaper",
-     42,
-     0
-    ],
-    [
-     "catholic workers",
-     41,
-     0
-    ],
-    [
-     "catholic workers movement",
-     45,
-     0
-    ],
-    [
-     "christ of the breadlines",
-     59,
-     0
-    ],
-    [
-     "catholic denver",
-     54,
-     0
-    ],
-    [
-     "catholic house",
-     57,
-     0
-    ],
-    [
-     "dorothy day catholic worker farm",
-     63,
-     0
-    ],
-    [
-     "catholic worker farms",
-     51,
-     0
-    ],
-    [
-     "denver house",
-     81,
-     0
-    ],
-    [
-     "house in denver",
-     78,
-     0
-    ],
-    [
-     "soup kitchens in denver",
-     71,
-     0
-    ],
-    [
-     "denver soup kitchen",
-     79,
-     0
-    ],
-    [
-     "workerhouse",
-     7,
-     0
-    ],
-    [
-     "catholic worker new york",
-     80,
-     0
-    ],
-    [
-     "the denver house",
-     94,
-     0
-    ]
-   ],
-   "gambling_keywords": [],
-   "brand_keywords": [],
-   "brand_checked": true,
-   "first_seen": "20151025",
-   "last_active": "20221004",
-   "titles": [
-    [
-     "20251205",
-     ""
-    ],
-    [
-     "20251114",
-     ""
-    ],
-    [
-     "20221004",
-     "Denver Catholic Worker House &#8211; The only solution is love."
-    ],
-    [
-     "20210123",
-     "Denver Catholic Worker House"
-    ],
-    [
-     "20181115",
-     "The Denver Catholic Worker House"
-    ],
-    [
-     "20151025",
-     "The Denver Catholic Worker House"
-    ]
-   ],
-   "gambling_wayback": [],
-   "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 22 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 9 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
    ],
    "verdict": "relaxed"
   },
@@ -2213,7 +1810,7 @@
    "stage": "done",
    "dr": 21.0,
    "refdomains": 932,
-   "quality_count": 73,
+   "quality_count": 72,
    "quality_top": [
     [
      "cnn.com",
@@ -2711,6 +2308,10 @@
      "Next Era Innovations"
     ],
     [
+     "20190406",
+     "Next Era Innovations"
+    ],
+    [
      "20180717",
      "Next Era Innovations"
     ]
@@ -3155,6 +2756,13 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 20 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 17 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed",
    "first_seen": "20161129",
    "last_active": "20260716",
    "titles": [
@@ -3164,6 +2772,10 @@
     ],
     [
      "20260210",
+     "映画『息の跡』公式サイト"
+    ],
+    [
+     "20240620",
      "映画『息の跡』公式サイト"
     ],
     [
@@ -3181,14 +2793,7 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 20 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 17 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed"
+   "wayback_checked": true
   },
   {
    "domain": "geneticistinc.com",
@@ -3251,7 +2856,7 @@
     ],
     [
      "leadiq.com",
-     71.0,
+     72.0,
      97475
     ],
     [
@@ -3542,8 +3147,8 @@
   {
    "domain": "dashichs.com",
    "link": "https://www.godaddy.com/domain-auctions/dashichs-com-736143068?isc=json_expiring",
-   "price": 11.0,
-   "bids": 3,
+   "price": 25.0,
+   "bids": 5,
    "end_time": "2026-11-14T18:36:00Z",
    "age": 12,
    "majestic_tf": 0,
@@ -5327,10 +4932,6 @@
     ],
     [
      "20251017",
-     "World of Tanks Strategy Guide"
-    ],
-    [
-     "20250815",
      "World of Tanks Strategy Guide"
     ],
     [
