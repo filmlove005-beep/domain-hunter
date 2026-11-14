@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-13T23:32:20+00:00",
+ "scanned_at": "2026-11-14T04:26:13+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1294405,
  "results": [
@@ -496,8 +496,12 @@
    "brand_keywords": [],
    "brand_checked": true,
    "first_seen": "20171102",
-   "last_active": "20260809",
+   "last_active": "20261007",
    "titles": [
+    [
+     "20261007",
+     "Resiliency through Collaboration - Greater Houston Flood Mitigation Consortium"
+    ],
     [
      "20260809",
      "Resiliency through Collaboration - Greater Houston Flood Mitigation Consortium"
@@ -1336,10 +1340,6 @@
     [
      "20210307",
      "OWASP Seasides 2020 | Home"
-    ],
-    [
-     "20190425",
-     "About OWASP Seasides - OWASP SEASIDES"
     ]
    ],
    "gambling_wayback": [],
@@ -1776,16 +1776,16 @@
      "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
     ],
     [
-     "20210508",
-     "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
-    ],
-    [
      "20180727",
      "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
     ],
     [
      "20140205",
      "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
+    ],
+    [
+     "20111028",
+     "Cookery Courses &amp; Food Events in Bakewell - Hartingtons"
     ]
    ],
    "gambling_wayback": [],
@@ -2308,10 +2308,6 @@
      "Next Era Innovations"
     ],
     [
-     "20190406",
-     "Next Era Innovations"
-    ],
-    [
      "20180717",
      "Next Era Innovations"
     ]
@@ -2756,13 +2752,6 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 20 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 17 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20161129",
    "last_active": "20260716",
    "titles": [
@@ -2785,15 +2774,18 @@
     [
      "20181101",
      "映画『息の跡』公式サイト"
-    ],
-    [
-     "20161129",
-     "映画『息の跡』公式サイト"
     ]
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 20 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 17 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "geneticistinc.com",
@@ -3620,7 +3612,7 @@
      "Dashi"
     ],
     [
-     "20220625",
+     "20191214",
      "Dashi"
     ],
     [
@@ -4435,10 +4427,6 @@
      "沖縄の人気グルメやイベント・観光などの情報発信沖縄フードラボ！"
     ],
     [
-     "20240613",
-     "沖縄の人気グルメやイベント・観光などの情報発信沖縄フードラボ！"
-    ],
-    [
      "20220301",
      "沖縄の人気グルメやイベント・観光などの情報発信沖縄フードラボ！"
     ],
@@ -4932,6 +4920,10 @@
     ],
     [
      "20251017",
+     "World of Tanks Strategy Guide"
+    ],
+    [
+     "20250815",
      "World of Tanks Strategy Guide"
     ],
     [
