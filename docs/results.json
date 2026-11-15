@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-15T04:14:47+00:00",
+ "scanned_at": "2026-11-15T13:21:29+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1289154,
  "results": [
@@ -2262,6 +2262,10 @@
     ],
     [
      "20180727",
+     "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
+    ],
+    [
+     "20140205",
      "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
     ],
     [
@@ -4930,6 +4934,12 @@
     "shady grove foods"
    ],
    "brand_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 15 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 7 (เกณฑ์ผ่อน)"
+   ],
+   "verdict": "relaxed",
    "first_seen": "20150107",
    "last_active": "20260607",
    "titles": [
@@ -4960,13 +4970,7 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 15 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 7 (เกณฑ์ผ่อน)"
-   ],
-   "verdict": "relaxed"
+   "wayback_checked": true
   }
  ],
  "wayback_retry": []
