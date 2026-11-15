@@ -1,5 +1,5 @@
 {
- "scanned_at": "2026-11-14T22:17:44+00:00",
+ "scanned_at": "2026-11-15T04:14:47+00:00",
  "feed": "expiring_auctions_non_adult",
  "feed_total": 1289154,
  "results": [
@@ -20,127 +20,127 @@
     [
      "texas.gov",
      92.0,
-     4202122
+     4155359
     ],
     [
      "theconversation.com",
      91.0,
-     2144314
+     2137700
     ],
     [
      "arcgis.com",
      92.0,
-     1322033
+     1335525
     ],
     [
      "tamu.edu",
      90.0,
-     1146610
+     1153283
     ],
     [
      "colorado.edu",
      90.0,
-     914537
+     913586
     ],
     [
      "mdpi.com",
      93.0,
-     755443
+     738248
     ],
     [
      "lamar.edu",
      75.0,
-     559008
+     559780
     ],
     [
      "cmu.edu",
      91.0,
-     311132
+     303225
     ],
     [
      "courthousenews.com",
      83.0,
-     256872
+     261342
     ],
     [
      "tufts.edu",
      89.0,
-     243232
+     242048
     ],
     [
      "copernicus.org",
      88.0,
-     234003
+     234029
     ],
     [
      "rice.edu",
      86.0,
-     225721
+     226667
     ],
     [
      "khou.com",
      79.0,
-     182578
+     182595
     ],
     [
      "houstonchronicle.com",
      85.0,
-     133053
+     147059
     ],
     [
      "chron.com",
      90.0,
-     123968
+     129597
     ],
     [
      "abc10.com",
      77.0,
-     117370
+     112603
     ],
     [
      "uri.edu",
      83.0,
-     79484
+     79764
     ],
     [
      "talkingpointsmemo.com",
      78.0,
-     70720
+     71541
     ],
     [
      "grokipedia.com",
      79.0,
-     62505
+     61652
     ],
     [
      "inkl.com",
      74.0,
-     56982
+     56298
     ],
     [
      "preventionweb.net",
      80.0,
-     45605
+     46050
     ],
     [
      "fox61.com",
      75.0,
-     43425
+     43687
     ],
     [
      "siteprice.org",
      71.0,
-     41334
+     38452
     ],
     [
      "firststreet.org",
      76.0,
-     37104
+     37428
     ],
     [
      "urban.org",
      87.0,
-     36652
+     36376
     ]
    ],
    "edu_wiki": [
@@ -549,32 +549,32 @@
     [
      "bbb.org",
      93.0,
-     3628439
+     3638802
     ],
     [
      "advfn.com",
      75.0,
-     1252780
+     1349829
     ],
     [
      "globenewswire.com",
      92.0,
-     231970
+     248169
     ],
     [
      "chrome-stats.com",
      70.0,
-     65976
+     68912
     ],
     [
      "scam-detector.com",
      68.0,
-     27395
+     27821
     ],
     [
      "thecompanycheck.com",
      56.0,
-     21906
+     26058
     ]
    ],
    "edu_wiki": [],
@@ -920,52 +920,52 @@
     [
      "github.com",
      97.0,
-     37041828
+     37098588
     ],
     [
      "netlify.app",
      93.0,
-     762925
+     783562
     ],
     [
      "brandfetch.com",
      74.0,
-     656333
+     657858
     ],
     [
      "about.me",
      90.0,
-     267710
+     279348
     ],
     [
      "hackmd.io",
      83.0,
-     121942
+     122864
     ],
     [
      "fastly.net",
      81.0,
-     118429
+     118118
     ],
     [
      "bugcrowd.com",
      83.0,
-     47628
+     49242
     ],
     [
      "siteprice.org",
      71.0,
-     41334
+     38452
     ],
     [
      "sitelike.org",
      63.0,
-     23938
+     24763
     ],
     [
      "synack.com",
      73.0,
-     10612
+     10469
     ]
    ],
    "edu_wiki": [],
@@ -1370,77 +1370,77 @@
     [
      "trueid.net",
      76.0,
-     10888114
+     10949409
     ],
     [
      "ais.th",
      75.0,
-     2450766
+     2521308
     ],
     [
      "thaipbs.or.th",
      76.0,
-     1278718
+     1289916
     ],
     [
      "bangkokbiznews.com",
      77.0,
-     797697
+     786462
     ],
     [
      "thethaiger.com",
      76.0,
-     577980
+     587682
     ],
     [
      "blockdit.com",
      72.0,
-     84098
+     87786
     ],
     [
      "sec.or.th",
      77.0,
-     66235
+     69082
     ],
     [
      "setinvestnow.com",
      56.0,
-     55897
+     57183
     ],
     [
      "podtail.com",
      80.0,
-     43731
+     42484
     ],
     [
      "siteprice.org",
      71.0,
-     41334
+     38452
     ],
     [
      "utcc.ac.th",
      60.0,
-     33512
+     35880
     ],
     [
      "dataforseo.com",
      77.0,
-     31034
+     30730
     ],
     [
      "longtunman.com",
      54.0,
-     27988
+     28307
     ],
     [
      "moneybuffalo.in.th",
      45.0,
-     19589
+     26095
     ],
     [
      "adobecqms.net",
      77.0,
-     14813
+     14038
     ]
    ],
    "edu_wiki": [
@@ -1845,68 +1845,68 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 23.0,
-   "refdomains": 901,
+   "refdomains": 902,
    "quality_count": 12,
    "quality_top": [
     [
      "ameblo.jp",
      93.0,
-     12793741
+     12787383
     ],
     [
      "telegraph.co.uk",
      92.0,
-     4260210
+     4277232
     ],
     [
      "thestar.co.uk",
      74.0,
-     137475
+     135215
     ],
     [
      "finedininglovers.com",
      73.0,
-     92637
+     96233
     ],
     [
      "cryptocompare.com",
      78.0,
-     69573
+     72924
     ],
     [
      "bascofinefoods.com",
      34.0,
-     49132
+     48190
     ],
     [
      "cheesemaking.com",
      64.0,
-     43318
+     43915
     ],
     [
      "siteprice.org",
      71.0,
-     41334
+     38452
     ],
     [
      "sitelike.org",
      63.0,
-     23938
+     24763
     ],
     [
      "prima.co.uk",
      63.0,
-     21545
+     22080
     ],
     [
      "sourdough.co.uk",
      57.0,
-     15376
+     15863
     ],
     [
      "thecourtyarddairy.co.uk",
      51.0,
-     11158
+     11323
     ]
    ],
    "edu_wiki": [],
@@ -2257,11 +2257,11 @@
      "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
     ],
     [
-     "20180727",
+     "20210508",
      "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
     ],
     [
-     "20140205",
+     "20180727",
      "Artisan food & drink courses, cookery courses, Peak District, Bakewell - Hartingtons"
     ],
     [
@@ -2290,133 +2290,133 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 21.0,
-   "refdomains": 932,
+   "refdomains": 929,
    "quality_count": 72,
    "quality_top": [
     [
      "cnn.com",
      93.0,
-     28601140
-    ],
-    [
-     "people.com",
-     91.0,
-     15792167
+     28119044
     ],
     [
      "medium.com",
      94.0,
-     15305024
+     15497518
+    ],
+    [
+     "people.com",
+     91.0,
+     15222153
     ],
     [
      "cbsnews.com",
      92.0,
-     7560410
+     7323526
     ],
     [
      "abcnews.com",
      91.0,
-     7204744
+     7108632
     ],
     [
      "today.com",
      91.0,
-     3194232
+     3202220
     ],
     [
      "tvanouvelles.ca",
      77.0,
-     1591222
+     1573070
     ],
     [
      "univision.com",
      83.0,
-     1568812
+     1572824
     ],
     [
      "iheart.com",
      91.0,
-     1469433
+     1440059
     ],
     [
      "telemundo.com",
      78.0,
-     1282687
+     1282295
     ],
     [
      "breitbart.com",
      82.0,
-     742568
+     743177
     ],
     [
      "nbcmiami.com",
      80.0,
-     456715
+     455610
     ],
     [
      "nbcchicago.com",
      82.0,
-     369138
+     366895
     ],
     [
      "fox2detroit.com",
      78.0,
-     359022
+     352443
     ],
     [
      "fox4news.com",
      78.0,
-     351068
+     348451
     ],
     [
      "fox5atlanta.com",
      80.0,
-     330990
+     333577
     ],
     [
      "epochtimes.com",
      79.0,
-     319789
+     323848
     ],
     [
      "fox13news.com",
      80.0,
-     316438
+     307632
     ],
     [
      "sopitas.com",
      67.0,
-     301703
-    ],
-    [
-     "nbcnewyork.com",
-     84.0,
-     281596
-    ],
-    [
-     "fox9.com",
-     78.0,
-     280061
+     301975
     ],
     [
      "nbclosangeles.com",
      83.0,
-     276972
+     279698
+    ],
+    [
+     "nbcnewyork.com",
+     84.0,
+     276015
+    ],
+    [
+     "fox9.com",
+     78.0,
+     268953
     ],
     [
      "nbcdfw.com",
      82.0,
-     258022
+     250986
     ],
     [
      "nbcphiladelphia.com",
      81.0,
-     236105
+     242847
     ],
     [
      "wfaa.com",
      81.0,
-     229881
+     229227
     ]
    ],
    "edu_wiki": [],
@@ -2769,12 +2769,6 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 21 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed",
    "first_seen": "20180717",
    "last_active": "20210619",
    "titles": [
@@ -2805,7 +2799,13 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true
+   "wayback_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 21 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed"
   },
   {
    "domain": "ikinoato.com",
@@ -2824,87 +2824,87 @@
     [
      "ameblo.jp",
      93.0,
-     12793741
+     12787383
     ],
     [
      "jorudan.co.jp",
      80.0,
-     4786690
+     4792262
     ],
     [
      "natalie.mu",
      80.0,
-     1948114
+     1936767
     ],
     [
      "pia.jp",
      89.0,
-     1610234
+     1593151
     ],
     [
      "cinematoday.jp",
      74.0,
-     578297
+     573149
     ],
     [
      "ur-net.go.jp",
      76.0,
-     436547
+     439460
     ],
     [
      "coocan.jp",
      86.0,
-     210457
+     211354
     ],
     [
      "go2senkyo.com",
      75.0,
-     207648
+     202012
     ],
     [
      "artscape.jp",
      71.0,
-     182498
+     147840
     ],
     [
      "cinemacafe.net",
      70.0,
-     114602
+     121880
     ],
     [
      "jfdb.jp",
      49.0,
-     100653
+     99662
     ],
     [
      "bijutsutecho.com",
      75.0,
-     57770
+     56565
     ],
     [
      "siteprice.org",
      71.0,
-     41334
+     38452
     ],
     [
      "cinra.net",
      73.0,
-     35514
+     35820
     ],
     [
      "ofdb.de",
      62.0,
-     31672
+     31997
     ],
     [
      "sitelike.org",
      63.0,
-     23938
+     24763
     ],
     [
      "icotaku.com",
      37.0,
-     18686
+     18518
     ]
    ],
    "edu_wiki": [],
@@ -3237,6 +3237,13 @@
    "gambling_keywords": [],
    "brand_keywords": [],
    "brand_checked": true,
+   "fails": [],
+   "warns": [
+    "DR 20 (เกณฑ์ผ่อน)",
+    "Backlink คุณภาพ 17 (เกณฑ์ผ่อน)",
+    "ไม่พบ Brand Search ในอดีต"
+   ],
+   "verdict": "relaxed",
    "first_seen": "20161129",
    "last_active": "20260716",
    "titles": [
@@ -3267,14 +3274,7 @@
    ],
    "gambling_wayback": [],
    "ext_redirects": {},
-   "wayback_checked": true,
-   "fails": [],
-   "warns": [
-    "DR 20 (เกณฑ์ผ่อน)",
-    "Backlink คุณภาพ 17 (เกณฑ์ผ่อน)",
-    "ไม่พบ Brand Search ในอดีต"
-   ],
-   "verdict": "relaxed"
+   "wayback_checked": true
   },
   {
    "domain": "geneticistinc.com",
@@ -3293,82 +3293,82 @@
     [
      "wikipedia.org",
      97.0,
-     3469168896
+     3464358656
     ],
     [
      "mawdoo3.com",
      76.0,
-     3058049
+     3073678
     ],
     [
      "crunchbase.com",
      91.0,
-     2330239
+     2564478
     ],
     [
      "rochester.edu",
      89.0,
-     936944
+     946909
     ],
     [
      "webflow.com",
      92.0,
-     789870
+     790220
     ],
     [
      "wikiwand.com",
      85.0,
-     295986
+     302661
     ],
     [
      "contactout.com",
      74.0,
-     131750
+     130675
     ],
     [
      "slideserve.com",
      77.0,
-     111872
+     113075
     ],
     [
      "theorg.com",
      76.0,
-     109246
+     112499
     ],
     [
      "leadiq.com",
      72.0,
-     103906
+     103575
     ],
     [
      "nou.edu.ng",
      69.0,
-     72543
+     73835
     ],
     [
      "ligue-cancer.net",
      80.0,
-     68633
+     69318
     ],
     [
      "waikato.ac.nz",
      80.0,
-     31860
+     31693
     ],
     [
      "10xgenomics.com",
      76.0,
-     28778
+     28678
     ],
     [
      "nusantics.com",
      28.0,
-     16114
+     17079
     ],
     [
      "stm.com.tr",
      57.0,
-     11046
+     10624
     ]
    ],
    "edu_wiki": [
@@ -4040,108 +4040,108 @@
    "majestic_rd": 0,
    "stage": "done",
    "dr": 16.0,
-   "refdomains": 903,
+   "refdomains": 904,
    "quality_count": 20,
    "quality_top": [
     [
      "bluestacks.com",
      85.0,
-     4950378
+     5006914
     ],
     [
      "tweakers.net",
      80.0,
-     2714652
+     2835232
     ],
     [
      "macrumors.com",
      87.0,
-     1336864
+     1276341
     ],
     [
      "wykop.pl",
      77.0,
-     1262148
+     1260061
     ],
     [
      "suomi24.fi",
      66.0,
-     937922
+     938456
     ],
     [
      "gry-online.pl",
      71.0,
-     658604
+     646816
     ],
     [
      "pcgameshardware.de",
      73.0,
-     301256
+     295085
     ],
     [
      "web.app",
      91.0,
-     223501
+     222559
     ],
     [
      "tpu.ro",
      26.0,
-     151653
+     151859
     ],
     [
      "sweclockers.com",
      64.0,
-     108918
+     110407
     ],
     [
      "wargaming.net",
      77.0,
-     75269
+     75354
     ],
     [
      "estranky.cz",
      83.0,
-     42585
-    ],
-    [
-     "siteprice.org",
-     71.0,
-     41334
+     43301
     ],
     [
      "tanki.su",
      67.0,
-     40074
+     40001
+    ],
+    [
+     "siteprice.org",
+     71.0,
+     38452
     ],
     [
      "helpforenglish.cz",
      56.0,
-     37551
+     37297
     ],
     [
      "wot-life.com",
      33.0,
-     34632
+     34948
     ],
     [
      "jeuxonline.info",
      58.0,
-     32795
+     32686
     ],
     [
      "hardware.fr",
      65.0,
-     22584
+     22867
     ],
     [
      "diskusjon.no",
      45.0,
-     16833
+     17044
     ],
     [
      "overclockzone.com",
      35.0,
-     13246
+     13110
     ]
    ],
    "edu_wiki": [],
@@ -4510,6 +4510,10 @@
      "World of Tanks Strategy Guide"
     ],
     [
+     "20171203",
+     "World of Tanks Strategy Guide"
+    ],
+    [
      "20101106",
      "World of Tanks Strategy Guide"
     ]
@@ -4541,37 +4545,37 @@
     [
      "latimes.com",
      92.0,
-     3012526
+     3056753
     ],
     [
      "theinfatuation.com",
      82.0,
-     592664
+     590230
     ],
     [
      "whatnow.com",
      75.0,
-     29710
+     24741
     ],
     [
      "restaurantji.com",
      80.0,
-     22313
+     22411
     ],
     [
      "postcard.inc",
      41.0,
-     15973
+     17229
     ],
     [
      "menupix.com",
      64.0,
-     14778
+     14968
     ],
     [
      "lbpost.com",
      73.0,
-     12022
+     11989
     ]
    ],
    "edu_wiki": [],
