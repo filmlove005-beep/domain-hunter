@@ -1,28 +1,28 @@
-2026-11-20 00:00:07 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-20 00:00:20 ได้รายการ expiring_auctions_non_adult: 1,385,509 โดเมน
-2026-11-20 00:00:20 รวมโดเมนจากทุกฟีด: 1,385,509 โดเมน (ไม่ซ้ำ)
-2026-11-20 00:00:22 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-20 00:00:22 ดึง DR จาก Ahrefs ...
-2026-11-20 00:00:23 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
+2026-11-20 14:34:46 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-20 14:35:00 ได้รายการ expiring_auctions_non_adult: 1,385,509 โดเมน
+2026-11-20 14:35:01 รวมโดเมนจากทุกฟีด: 1,385,509 โดเมน (ไม่ซ้ำ)
+2026-11-20 14:35:02 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-20 14:35:02 ดึง DR จาก Ahrefs ...
+2026-11-20 14:35:03 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
   "error": "API units limit reached. Expected usage: 680, API units left: 0."
 } — สแกนต่อแบบไม่มี Ahrefs
-2026-11-20 00:00:23 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-20 00:00:37   goodcheapfooddelhi.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.yoyogigaia.com
-2026-11-20 00:03:23   casinobutler.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-20 00:03:54   kaysoulfoodkitchen.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.betterpropertiesnw.com, www.theatreindianapolis.com
-2026-11-20 00:06:32   backofthecage.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-20 00:10:15   plazahotelweddingchapel.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-20 00:10:40   thevenustransit.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.google.com
-2026-11-20 00:13:18   drkevinrobertson.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-20 00:13:37   kjsneedfulthings.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-20 00:15:51   crystalforbk.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-20 00:17:42   hugsandbites.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-20 00:18:01   kochisushi.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-20 00:18:25   lazygatorruskin.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-20 00:20:24   odiniapp.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-20 00:20:43   smartmoneycapital.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-20 00:21:22   franklintempletonshootout.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-20 00:23:00   emmabolland.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
-2026-11-20 00:23:05 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
-2026-11-20 00:25:19   emmabolland.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-20 00:25:29 เสร็จแล้ว: ผ่านสะสม 5 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-20 14:35:03 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-20 14:35:28   goodcheapfooddelhi.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.yoyogigaia.com
+2026-11-20 14:35:50   casinobutler.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-20 14:36:15   kaysoulfoodkitchen.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.betterpropertiesnw.com, www.theatreindianapolis.com
+2026-11-20 14:36:34   backofthecage.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-20 14:39:13   plazahotelweddingchapel.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-20 14:39:33   thevenustransit.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.google.com
+2026-11-20 14:42:35   drkevinrobertson.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-20 14:42:52   kjsneedfulthings.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-20 14:43:10   crystalforbk.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-20 14:45:43   hugsandbites.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-20 14:45:59   kochisushi.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-20 14:46:19   lazygatorruskin.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-20 14:49:09   odiniapp.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-20 14:49:27   smartmoneycapital.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-20 14:49:44   franklintempletonshootout.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-20 14:51:07   emmabolland.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-11-20 14:51:12 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
+2026-11-20 14:53:25   emmabolland.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-20 14:53:35 เสร็จแล้ว: ผ่านสะสม 5 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
