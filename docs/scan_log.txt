@@ -1,26 +1,26 @@
-2026-11-23 04:41:42 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-23 04:41:55 ได้รายการ expiring_auctions_non_adult: 1,374,387 โดเมน
-2026-11-23 04:41:55 รวมโดเมนจากทุกฟีด: 1,374,387 โดเมน (ไม่ซ้ำ)
-2026-11-23 04:41:56 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-23 04:41:56 ดึง DR จาก Ahrefs ...
-2026-11-23 04:41:56 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
+2026-11-23 16:48:42 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-23 16:49:01 ได้รายการ expiring_auctions_non_adult: 1,313,609 โดเมน
+2026-11-23 16:49:01 รวมโดเมนจากทุกฟีด: 1,313,609 โดเมน (ไม่ซ้ำ)
+2026-11-23 16:49:03 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-23 16:49:03 ดึง DR จาก Ahrefs ...
+2026-11-23 16:49:04 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
   "error": "API units limit reached. Expected usage: 680, API units left: 0."
 } — สแกนต่อแบบไม่มี Ahrefs
-2026-11-23 04:41:56 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-23 04:42:10   goodcheapfooddelhi.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.yoyogigaia.com
-2026-11-23 04:42:33   casinobutler.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-23 04:43:02   jamesascher.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-23 04:43:27   kaysoulfoodkitchen.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.betterpropertiesnw.com, www.theatreindianapolis.com
-2026-11-23 04:43:46   backofthecage.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-23 04:44:15   plazahotelweddingchapel.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-23 04:44:36   newenglandracquetsports.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-23 04:44:58   thevenustransit.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.google.com
-2026-11-23 04:45:16   smallmammalgroup.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-23 04:45:51   trdnschicago.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-23 04:46:09   kjsneedfulthings.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-23 04:46:28   normsfarms.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-23 04:47:00   hugsandbites.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-23 04:47:15   kochisushi.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-23 04:47:41   lazygatorruskin.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-23 04:48:05   emmabolland.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-23 04:48:10 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-23 16:49:04 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-23 16:49:19   casinobutler.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-23 16:50:08   laetro.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-23 16:50:27   jamesascher.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-23 16:52:31   kaysoulfoodkitchen.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.betterpropertiesnw.com, www.theatreindianapolis.com
+2026-11-23 16:54:36   backofthecage.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-23 16:57:12   talentreadyutah.com: fail เคย Redirect ไป papersowl.com
+2026-11-23 16:59:07   plazahotelweddingchapel.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-23 16:59:40   newenglandracquetsports.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-23 17:00:01   thevenustransit.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.google.com
+2026-11-23 17:02:56   diputi.com: fail เคย Redirect ไป minuteful.com
+2026-11-23 17:05:00   smallmammalgroup.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-23 17:07:32   trdnschicago.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-23 17:07:47   kjsneedfulthings.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-23 17:09:35   normsfarms.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-23 17:11:26   hugsandbites.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-23 17:11:42   fiveguysflippinpies.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-23 17:11:47 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
