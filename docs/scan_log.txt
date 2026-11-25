@@ -1,26 +1,26 @@
-2026-11-25 01:44:10 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-25 01:44:24 ได้รายการ expiring_auctions_non_adult: 1,329,842 โดเมน
-2026-11-25 01:44:24 รวมโดเมนจากทุกฟีด: 1,329,842 โดเมน (ไม่ซ้ำ)
-2026-11-25 01:44:26 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-25 01:44:26 ดึง DR จาก Ahrefs ...
-2026-11-25 01:44:27 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
+2026-11-25 16:26:08 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-25 16:26:21 ได้รายการ expiring_auctions_non_adult: 1,337,221 โดเมน
+2026-11-25 16:26:22 รวมโดเมนจากทุกฟีด: 1,337,221 โดเมน (ไม่ซ้ำ)
+2026-11-25 16:26:24 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-25 16:26:24 ดึง DR จาก Ahrefs ...
+2026-11-25 16:26:24 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
   "error": "API units limit reached. Expected usage: 680, API units left: 0."
 } — สแกนต่อแบบไม่มี Ahrefs
-2026-11-25 01:44:27 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-25 01:44:44   casinobutler.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-25 01:45:23   laetro.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-25 01:47:34   jamesascher.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-25 01:49:52   kaysoulfoodkitchen.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.betterpropertiesnw.com, www.theatreindianapolis.com
-2026-11-25 01:52:04   talentreadyutah.com: fail เคย Redirect ไป papersowl.com
-2026-11-25 01:54:35   plazahotelweddingchapel.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-25 01:54:54   newenglandracquetsports.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-25 01:55:14   thevenustransit.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.google.com
-2026-11-25 01:57:55   diputi.com: fail เคย Redirect ไป minuteful.com
-2026-11-25 02:01:33   smallmammalgroup.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-25 02:04:14   trdnschicago.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-25 02:07:43   kjsneedfulthings.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-25 02:09:45   normsfarms.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-25 02:10:28   hugsandbites.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-25 02:12:24   fiveguysflippinpies.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-25 02:12:45   ecoseedbank.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-25 02:12:50 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-25 16:26:24 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-25 16:26:51   laetro.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-25 16:27:13   jamesascher.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-25 16:29:26   thequailgolf.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-25 16:29:43   architecturenorthants.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-25 16:31:03   talentreadyutah.com: fail เคย Redirect ไป papersowl.com
+2026-11-25 16:33:49   plazahotelweddingchapel.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-25 16:34:08   newenglandracquetsports.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-25 16:34:29   thevenustransit.com: fail เคยเป็นเว็บพนัน (Wayback); เคย Redirect ไป www.google.com
+2026-11-25 16:37:03   diputi.com: fail เคย Redirect ไป minuteful.com
+2026-11-25 16:40:11   smallmammalgroup.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-25 16:42:43   trdnschicago.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-25 16:44:31   babaguesthouseajmer.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-25 16:47:53   normsfarms.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-25 16:48:40   funidep.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-25 16:48:55   pythonlobby.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-25 16:49:11   hugsandbites.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-25 16:49:16 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
