@@ -1,26 +1,28 @@
-2026-11-26 15:59:44 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-26 15:59:55 ได้รายการ expiring_auctions_non_adult: 1,320,876 โดเมน
-2026-11-26 15:59:56 รวมโดเมนจากทุกฟีด: 1,320,876 โดเมน (ไม่ซ้ำ)
-2026-11-26 15:59:57 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-26 15:59:57 ดึง DR จาก Ahrefs ...
-2026-11-26 15:59:58 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
+2026-11-27 01:16:26 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-27 01:16:35 ได้รายการ expiring_auctions_non_adult: 1,320,876 โดเมน
+2026-11-27 01:16:36 รวมโดเมนจากทุกฟีด: 1,320,876 โดเมน (ไม่ซ้ำ)
+2026-11-27 01:16:37 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-27 01:16:37 ดึง DR จาก Ahrefs ...
+2026-11-27 01:16:38 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
   "error": "API units limit reached. Expected usage: 680, API units left: 0."
 } — สแกนต่อแบบไม่มี Ahrefs
-2026-11-26 15:59:58 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-26 16:00:13   electsharon.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-26 16:02:57   laetro.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-26 16:03:21   jamesascher.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-26 16:06:02   thequailgolf.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-26 16:06:23   architecturenorthants.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-26 16:09:02   talentreadyutah.com: fail เคย Redirect ไป papersowl.com
-2026-11-26 16:12:00   plazahotelweddingchapel.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-26 16:12:17   newenglandracquetsports.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-26 16:12:41   diputi.com: fail เคย Redirect ไป minuteful.com
-2026-11-26 16:15:48   smallmammalgroup.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-26 16:17:47   trdnschicago.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-26 16:19:43   brandishpsp.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-26 16:21:05   babaguesthouseajmer.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-26 16:23:47   normsfarms.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-26 16:26:25   funidep.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-26 16:26:44   pythonlobby.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-26 16:26:49 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-27 01:16:38 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-27 01:16:55   electsharon.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-27 01:19:41   laetro.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-27 01:20:03   jamesascher.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-27 01:22:32   thequailgolf.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-27 01:22:48   architecturenorthants.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-27 01:25:18   talentreadyutah.com: fail เคย Redirect ไป papersowl.com
+2026-11-27 01:27:53   plazahotelweddingchapel.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-27 01:28:10   newenglandracquetsports.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-27 01:28:30   diputi.com: fail เคย Redirect ไป minuteful.com
+2026-11-27 01:31:28   smallmammalgroup.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-27 01:33:42   trdnschicago.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-27 01:34:16   brandishpsp.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-27 01:35:54   babaguesthouseajmer.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-11-27 01:36:13   normsfarms.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-27 01:37:08   funidep.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-27 01:38:32   pythonlobby.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-27 01:38:37 รอ Wayback 2 นาที แล้วลองใหม่ 1 โดเมน ...
+2026-11-27 01:40:49   babaguesthouseajmer.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-27 01:40:59 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
