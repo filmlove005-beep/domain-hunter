@@ -1,26 +1,30 @@
-2026-11-27 15:48:37 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
-2026-11-27 15:48:55 ได้รายการ expiring_auctions_non_adult: 1,250,436 โดเมน
-2026-11-27 15:48:56 รวมโดเมนจากทุกฟีด: 1,250,436 โดเมน (ไม่ซ้ำ)
-2026-11-27 15:48:57 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
-2026-11-27 15:48:57 ดึง DR จาก Ahrefs ...
-2026-11-27 15:48:58 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
+2026-11-28 00:49:58 ดาวน์โหลด expiring_auctions_non_adult.json.zip จาก GoDaddy ...
+2026-11-28 00:50:14 ได้รายการ expiring_auctions_non_adult: 1,250,436 โดเมน
+2026-11-28 00:50:14 รวมโดเมนจากทุกฟีด: 1,250,436 โดเมน (ไม่ซ้ำ)
+2026-11-28 00:50:16 กรองรอบแรก (อายุ/Majestic/ราคา) เหลือ 40 โดเมน
+2026-11-28 00:50:16 ดึง DR จาก Ahrefs ...
+2026-11-28 00:50:16 ❌ เรียก Ahrefs ไม่สำเร็จ: HTTP 403 {
   "error": "API units limit reached. Expected usage: 680, API units left: 0."
 } — สแกนต่อแบบไม่มี Ahrefs
-2026-11-27 15:48:58 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
-2026-11-27 15:49:13   electsharon.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-27 15:49:49   laetro.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-27 15:50:11   jamesascher.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-27 15:50:31   thequailgolf.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-27 15:50:48   architecturenorthants.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-27 15:51:15   talentreadyutah.com: fail เคย Redirect ไป papersowl.com
-2026-11-27 15:51:34   isshoniramen.com: fail เคย Redirect ไป www.menufy.com
-2026-11-27 15:52:04   plazahotelweddingchapel.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-27 15:52:36   newenglandracquetsports.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-27 15:52:57   diputi.com: fail เคย Redirect ไป minuteful.com
-2026-11-27 15:53:33   trdnschicago.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-27 15:54:04   brandishpsp.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-27 15:54:23   babaguesthouseajmer.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-27 15:54:46   normsfarms.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-27 15:55:03   funidep.com: fail เคยเป็นเว็บพนัน (Wayback)
-2026-11-27 15:55:35   pythonlobby.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
-2026-11-27 15:55:40 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
+2026-11-28 00:50:16 เช็กเชิงลึก 16 โดเมน (Backlink, Keyword ย้อนหลัง, Wayback) ...
+2026-11-28 00:50:30   electsharon.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-28 00:52:50   laetro.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-28 00:55:06   jamesascher.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-28 00:56:36   thequailgolf.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-11-28 00:57:31   architecturenorthants.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-28 00:58:09   talentreadyutah.com: fail เคย Redirect ไป papersowl.com
+2026-11-28 00:59:30   isshoniramen.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-11-28 01:00:22   plazahotelweddingchapel.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-28 01:00:39   newenglandracquetsports.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-28 01:00:56   diputi.com: fail เคย Redirect ไป minuteful.com
+2026-11-28 01:03:37   trdnschicago.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-28 01:05:17   brandishpsp.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-28 01:05:48   babaguesthouseajmer.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-28 01:08:03   normsfarms.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-28 01:09:10   funidep.com: fail เคยเป็นเว็บพนัน (Wayback)
+2026-11-28 01:10:32   pythonlobby.com: Wayback ไม่ตอบ URLError: <urlopen error [Errno 111] Connection refused>
+2026-11-28 01:10:37 รอ Wayback 2 นาที แล้วลองใหม่ 3 โดเมน ...
+2026-11-28 01:12:51   thequailgolf.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-28 01:13:18   isshoniramen.com: fail เคย Redirect ไป www.menufy.com
+2026-11-28 01:15:02   pythonlobby.com: pending ยังไม่ได้เช็ก DR/Backlink (ไม่มี Ahrefs key)
+2026-11-28 01:15:12 เสร็จแล้ว: ผ่านสะสม 0 โดเมน (รอบนี้พบใหม่ 0 โดเมน) · ไม่บันทึกรายการที่ไม่ผ่าน
